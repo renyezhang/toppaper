@@ -287,7 +287,14 @@
             font-weight: 600;
         }
 
+        .paper-links {
+            display: flex;
+            gap: 10px;
+            margin-top: auto;
+        }
+
         .paper-link {
+            flex: 1;
             display: inline-block;
             background: #f0f0f0;
             color: #2563eb;
@@ -298,13 +305,21 @@
             font-weight: 600;
             transition: all 0.3s;
             text-align: center;
-            margin-top: auto;
         }
 
         .paper-link:hover {
             background: #2563eb;
             color: white;
             transform: scale(1.05);
+        }
+
+        .paper-link.code-link {
+            background: #10b981;
+            color: white;
+        }
+
+        .paper-link.code-link:hover {
+            background: #059669;
         }
 
         .pagination {
@@ -651,7 +666,22 @@
             const endIndex = startIndex + papersPerPage;
             const papersToShow = filteredPapers.slice(startIndex, endIndex);
 
-            grid.innerHTML = papersToShow.map(paper => `
+            grid.innerHTML = papersToShow.map(paper => {
+                const hasCode = paper.code && paper.code.trim() !== '';
+                const linksHtml = hasCode 
+                    ? `<div class="paper-links">
+                        <a href="${paper.pdf_link}" target="_blank" class="paper-link">
+                            PDF
+                        </a>
+                        <a href="${paper.code}" target="_blank" class="paper-link code-link">
+                            Code
+                        </a>
+                    </div>`
+                    : `<a href="${paper.pdf_link}" target="_blank" class="paper-link">
+                        PDF
+                    </a>`;
+                
+                return `
                 <div class="paper-card">
                     <div class="paper-tags">
                         ${paper.year ? `<div class="paper-year">${escapeHtml(paper.year.toString())}</div>` : ''}
@@ -661,11 +691,10 @@
                     <div class="paper-authors">
                         <strong>Authors:</strong> ${paper.authors.map(a => escapeHtml(a)).join(', ')}
                     </div>
-                    <a href="${paper.pdf_link}" target="_blank" class="paper-link">
-                        PDF
-                    </a>
+                    ${linksHtml}
                 </div>
-            `).join('');
+            `;
+            }).join('');
         }
 
         // 设置分页
@@ -736,7 +765,8 @@
                     '作者': Array.isArray(paper.authors) ? paper.authors.join('; ') : (paper.authors || ''),
                     '年份': paper.year || '',
                     '来源': paper.source || '',
-                    'PDF链接': paper.pdf_link || ''
+                    'PDF链接': paper.pdf_link || '',
+                    'Code链接': paper.code || ''
                 }));
 
                 // 创建工作簿
@@ -752,7 +782,8 @@
                     { wch: 40 },  // 作者
                     { wch: 8 },   // 年份
                     { wch: 12 },  // 来源
-                    { wch: 80 }   // PDF链接
+                    { wch: 80 },  // PDF链接
+                    { wch: 80 }   // Code链接
                 ];
                 ws['!cols'] = colWidths;
 
