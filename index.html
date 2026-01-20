@@ -314,12 +314,13 @@
         }
 
         .paper-link.code-link {
-            background: #10b981;
-            color: white;
+            background: #f0f0f0;
+            color: #3b82f6;
         }
 
         .paper-link.code-link:hover {
-            background: #059669;
+            background: #3b82f6;
+            color: white;
         }
 
         .pagination {
@@ -677,9 +678,11 @@
                             Code
                         </a>
                     </div>`
-                    : `<a href="${paper.pdf_link}" target="_blank" class="paper-link">
-                        PDF
-                    </a>`;
+                    : `<div class="paper-links">
+                        <a href="${paper.pdf_link}" target="_blank" class="paper-link">
+                            PDF
+                        </a>
+                    </div>`;
                 
                 return `
                 <div class="paper-card">
