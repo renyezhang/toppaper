@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import json
 import re
 import time
+import os
 from typing import List, Dict
 
 def extract_year_from_url(url: str) -> int:
@@ -120,6 +121,13 @@ def save_to_json(papers: List[Dict], filename: str = "eccv2024_papers.json"):
         papers: 论文信息列表
         filename: 输出文件名
     """
+    # 确保保存到papers文件夹
+    if not filename.startswith('papers/'):
+        filename = os.path.join('papers', filename)
+    
+    # 确保papers文件夹存在
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
+    
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(papers, f, ensure_ascii=False, indent=2)
     

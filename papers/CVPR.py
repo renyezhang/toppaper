@@ -4,6 +4,7 @@ import json
 import time
 from typing import List, Dict
 import re
+import os
 
 class CVPRScraper:
     """CVPR 论文爬虫"""
@@ -143,6 +144,14 @@ class CVPRScraper:
         """保存为JSON文件"""
         if filename is None:
             filename = f"cvpr{self.year}_papers.json"
+        
+        # 确保保存到papers文件夹
+        if not filename.startswith('papers/'):
+            filename = os.path.join('papers', filename)
+        
+        # 确保papers文件夹存在
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
+        
         try:
             with open(filename, 'w', encoding='utf-8') as f:
                 json.dump(self.papers, f, ensure_ascii=False, indent=2)
@@ -173,7 +182,7 @@ class CVPRScraper:
 def main():
     """主函数"""
     # 可以在这里修改年份
-    year = 2024
+    year = 2020
     
     # 创建爬虫实例
     scraper = CVPRScraper(year=year)
@@ -185,7 +194,7 @@ def main():
     scraper.print_summary()
     
     # 保存为JSON文件
-    scraper.save_to_json("CVPR2024papers.json")
+    scraper.save_to_json(f"CVPR{year}papers.json")
     
     print("\n爬取完成！")
 

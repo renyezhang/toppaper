@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import time
+import os
 from typing import List, Dict
 import re
 from urllib.parse import urljoin
@@ -190,6 +191,14 @@ class AAAIScraper:
         """保存为JSON文件"""
         if filename is None:
             filename = f"AAAI{self.year}papers.json"
+        
+        # 确保保存到papers文件夹
+        if not filename.startswith('papers/'):
+            filename = os.path.join('papers', filename)
+        
+        # 确保papers文件夹存在
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
+        
         try:
             with open(filename, 'w', encoding='utf-8') as f:
                 json.dump(self.papers, f, ensure_ascii=False, indent=2)

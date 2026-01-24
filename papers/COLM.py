@@ -1,5 +1,6 @@
 import json
 import time
+import os
 from typing import List, Dict
 
 try:
@@ -135,6 +136,14 @@ class COLMScraper:
         """
         if filename is None:
             filename = f"COLM{self.year}papers.json"
+        
+        # 确保保存到papers文件夹
+        if not filename.startswith('papers/'):
+            filename = os.path.join('papers', filename)
+        
+        # 确保papers文件夹存在
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
+        
         try:
             with open(filename, 'w', encoding='utf-8') as f:
                 json.dump(self.papers, f, ensure_ascii=False, indent=2)
@@ -169,7 +178,7 @@ class COLMScraper:
 def main():
     """主函数"""
     # 可以在这里修改年份
-    year = 2026
+    year = 2025
     
     # 创建爬虫实例
     scraper = COLMScraper(year=year)
