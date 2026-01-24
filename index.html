@@ -507,6 +507,14 @@
                         >
                         <label for="sourceAAAI">AAAI</label>
                     </div>
+                    <div class="checkbox-item">
+                        <input 
+                            type="checkbox" 
+                            id="sourceIJCAI" 
+                            checked
+                        >
+                        <label for="sourceIJCAI">IJCAI</label>
+                    </div>
                 </div>
             </div>
             <div class="stats">
@@ -580,7 +588,15 @@
                     'papers/NIPS2024papers.json',
                     'papers/NIPS2025papers.json',
                     'papers/COLM2024papers.json',
-                    'papers/COLM2025papers.json'
+                    'papers/COLM2025papers.json',
+                    'papers/IJCAI2018papers.json',
+                    'papers/IJCAI2019papers.json',
+                    'papers/IJCAI2020papers.json',
+                    'papers/IJCAI2021papers.json',
+                    'papers/IJCAI2022papers.json',
+                    'papers/IJCAI2023papers.json',
+                    'papers/IJCAI2024papers.json',
+                    'papers/IJCAI2025papers.json'
                 ];
                 
                 // 并行加载所有JSON文件
@@ -632,6 +648,7 @@
                 document.getElementById('sourceICML').addEventListener('change', handleSourceFilter);
                 document.getElementById('sourceCOLM').addEventListener('change', handleSourceFilter);
                 document.getElementById('sourceAAAI').addEventListener('change', handleSourceFilter);
+                document.getElementById('sourceIJCAI').addEventListener('change', handleSourceFilter);
             } catch (error) {
                 document.getElementById('loading').textContent = '加载失败: ' + error.message;
                 console.error('Error loading papers:', error);
@@ -653,6 +670,7 @@
             const sourceICML = document.getElementById('sourceICML').checked;
             const sourceCOLM = document.getElementById('sourceCOLM').checked;
             const sourceAAAI = document.getElementById('sourceAAAI').checked;
+            const sourceIJCAI = document.getElementById('sourceIJCAI').checked;
             
             // 获取选中的source列表
             const selectedSources = [];
@@ -664,6 +682,7 @@
             if (sourceICML) selectedSources.push('ICML');
             if (sourceCOLM) selectedSources.push('COLM');
             if (sourceAAAI) selectedSources.push('AAAI');
+            if (sourceIJCAI) selectedSources.push('IJCAI');
             
             filteredPapers = allPapers.filter(paper => {
                 // 文本搜索过滤
