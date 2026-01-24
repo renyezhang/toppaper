@@ -120,7 +120,7 @@ class UnifiedICLRScraper:
 
     def save_to_json(self, filename: str = None):
         if filename is None:
-            filename = f"ICLR{self.year}_papers.json"
+            filename = f"ICLR{self.year}papers.json"
         
         # 确保保存到papers文件夹
         if not filename.startswith('papers/'):
@@ -136,7 +136,7 @@ class UnifiedICLRScraper:
 def main():
     # 测试 2023 (API v1)
     # 也可以改为 2025 (API v2) 来测试兼容性
-    target_year = 2020
+    target_year = 2017
     
     scraper = UnifiedICLRScraper(year=target_year)
     scraper.get_all_papers()

@@ -1,0 +1,5985 @@
+[
+  {
+    "title": "Can a Crow Hatch a Falcon? Lineage Matters in Predicting Large Language Model Performance",
+    "authors": [
+      "Takuya Tamura",
+      "Taro Yano",
+      "Masafumi Enomoto",
+      "Masafumi Oyamada"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=ULYqB2JORB",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "E$^2$-RAG: Towards Editable Efficient RAG by Editing Compressed KV Caches",
+    "authors": [
+      "Tongxu Luo",
+      "Wenyu Du",
+      "HanWen Hao",
+      "Min Zhang",
+      "Hao Yang",
+      "Benyou Wang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=ZZ4tcxJvux",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Fleurs-SLU: A Massively Multilingual Benchmark for Spoken Language Understanding",
+    "authors": [
+      "Fabian David Schmidt",
+      "Ivan Vulić",
+      "Goran Glavaš",
+      "David Ifeoluwa Adelani"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=Tqj3fYqhwS",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "NoWag: A Unified Framework for Shape Preserving Com- pression of Large Language Models",
+    "authors": [
+      "Lawrence Ray Liu",
+      "Inesh Chakrabarti",
+      "Yixiao Li",
+      "Mengdi Wang",
+      "Tuo Zhao",
+      "Lin Yang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=EfTuzTijDo",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Evaluating Large Language Models as Expert Annotators",
+    "authors": [
+      "Yu-Min Tseng",
+      "Wei-Lin Chen",
+      "Chung-Chi Chen",
+      "Hsin-Hsi Chen"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=DktAODDdbt",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Yourbench: Dynamic Evaluation Set Generation with LLMs",
+    "authors": [
+      "Sumuk Shashidhar",
+      "Clémentine Fourrier",
+      "Alina Lozovskaya",
+      "Thomas Wolf",
+      "Gokhan Tur",
+      "Dilek Hakkani-Tür"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=bkWERVKzuP",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "LawFlow: Collecting and Simulating Lawyers’ Thought Processes on Business Formation Case Studies",
+    "authors": [
+      "Debarati Das",
+      "Khanh Chi Le",
+      "Ritik Sachin Parkar",
+      "Karin De Langis",
+      "Brendan Madson",
+      "Chad M. Berryman",
+      "Robin M Willis",
+      "Daniel H Moses",
+      "Brett McDonnell",
+      "Daniel Schwarcz",
+      "Dongyeop Kang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=MsgdEkcLRz",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Traceable and Explainable Multimodal Large Language Models: An Information-Theoretic View",
+    "authors": [
+      "Zihan Huang",
+      "Junda Wu",
+      "Rohan Surana",
+      "Raghav Jain",
+      "Tong Yu",
+      "Raghavendra Addanki",
+      "David Arbour",
+      "Sungchul Kim",
+      "Julian McAuley"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=pQm66IPmeE",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Understanding and Improving Noisy Embedding Techniques in Instruction Finetuning",
+    "authors": [
+      "Abhay Yadav"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=AHhDpMMXtf",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "REFA: Reference Free Alignment with Fine-Grained Length Control",
+    "authors": [
+      "Taneesh Gupta",
+      "Rahul Madhavan",
+      "Xuchao Zhang",
+      "Chetan Bansal",
+      "Saravan Rajmohan"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=zP6DJaBBcR",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Hyperparameter Loss Surfaces Are Simple Near their Optima",
+    "authors": [
+      "Nicholas Lourie",
+      "He He",
+      "Kyunghyun Cho"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=IAoSG4Q2xC",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "From Next-Token to Mathematics: The Learning Dynamics of Mathematical Reasoning in Language Models",
+    "authors": [
+      "Shubhra Mishra",
+      "Gabriel Poesia",
+      "Noah Goodman"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=bJ9aARjtBu",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "The Surprising Effectiveness of Membership Inference with Simple N-Gram Coverage",
+    "authors": [
+      "Skyler Hallinan",
+      "Jaehun Jung",
+      "Melanie Sclar",
+      "Ximing Lu",
+      "Abhilasha Ravichander",
+      "Sahana Ramnath",
+      "Yejin Choi",
+      "Sai Praneeth Karimireddy",
+      "Niloofar Mireshghallah",
+      "Xiang Ren"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=CNWlNF8VOm",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Synthetic Data Generation and Multi-Step Reinforcement Learning for Reasoning and Tool Use",
+    "authors": [
+      "Anna Goldie",
+      "Azalia Mirhoseini",
+      "Hao Zhou",
+      "Irene Cai",
+      "Christopher D Manning"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=oN9STRYQVa",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Readability ≠ Learnability: Rethinking the Role of Simplicity in Training Small Language Models",
+    "authors": [
+      "Ivan Lee",
+      "Taylor Berg-Kirkpatrick"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=AFMGbq39bQ",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "MSRS: Evaluating Multi-Source Retrieval-Augmented Generation",
+    "authors": [
+      "Rohan Phanse",
+      "Ej Zhou",
+      "Kejian Shi",
+      "WENCAI ZHANG",
+      "Yixin Liu",
+      "Yilun Zhao",
+      "Arman Cohan"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=KtGsJm8bOC",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Epistemic Alignment: A Mediating Framework for User-LLM Knowledge Delivery",
+    "authors": [
+      "Nicholas Clark",
+      "Hua Shen",
+      "Bill Howe",
+      "Tanu Mitra"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=Orvjm9UqH2",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "PrefPalette: Personalized Preference Modeling with Latent Attributes",
+    "authors": [
+      "Shuyue Stella Li",
+      "Melanie Sclar",
+      "Hunter Lang",
+      "Ansong Ni",
+      "Jacqueline He",
+      "Puxin Xu",
+      "Andrew Cohen",
+      "Chan Young Park",
+      "Yulia Tsvetkov",
+      "Asli Celikyilmaz"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=p4ujQsKmPV",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "X-Teaming: Multi-Turn Jailbreaks and Defenses with Adaptive Multi-Agents",
+    "authors": [
+      "Salman Rahman",
+      "Liwei Jiang",
+      "James Shiffer",
+      "Genglin Liu",
+      "Sheriff Issaka",
+      "Md Rizwan Parvez",
+      "Hamid Palangi",
+      "Kai-Wei Chang",
+      "Yejin Choi",
+      "Saadia Gabriel"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=gKfj7Jb1kj",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Know Me, Respond to Me: Benchmarking LLMs for Dynamic User Profiling and Personalized Responses at Scale",
+    "authors": [
+      "Bowen Jiang",
+      "Zhuoqun Hao",
+      "Young Min Cho",
+      "Bryan Li",
+      "Yuan Yuan",
+      "Sihao Chen",
+      "Lyle Ungar",
+      "Camillo Jose Taylor",
+      "Dan Roth"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=6ox8XZGOqP",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Language models align with brain regions that represent concepts across modalities",
+    "authors": [
+      "Maria Ryskina",
+      "Greta Tuckute",
+      "Alexander Fung",
+      "Ashley Malkin",
+      "Evelina Fedorenko"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=2JohTFaGbW",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "SUV: Scalable Large Language Model Copyright Compliance with Regularized Selective Unlearning",
+    "authors": [
+      "Tianyang Xu",
+      "Xiaoze Liu",
+      "Feijie Wu",
+      "Xiaoqian Wang",
+      "Jing Gao"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=2YdSsi0bxK",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Can LLMs Handle WebShell Detection? Overcoming Detection Challenges with Behavioral Function-Aware Framework",
+    "authors": [
+      "Feijiang Han",
+      "Jiaming Zhang",
+      "Chuyi Deng",
+      "Jianheng Tang",
+      "Yunhuai Liu"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=QzJRtz8HNx",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "LLM Unlearning Without an Expert Curated Dataset",
+    "authors": [
+      "Xiaoyuan Zhu",
+      "Muru Zhang",
+      "Ollie Liu",
+      "Robin Jia",
+      "Willie Neiswanger"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=m4F3kQCfGX",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Steering Large Language Model Activations in Sparse Spaces",
+    "authors": [
+      "Reza Bayat",
+      "Ali Rahimi-Kalahroudi",
+      "Mohammad Pezeshki",
+      "Sarath Chandar",
+      "Pascal Vincent"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=VGw1viYliK",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Adaptive Computation Pruning for the Forgetting Transformer",
+    "authors": [
+      "Zhixuan Lin",
+      "Johan Obando-Ceron",
+      "Xu Owen He",
+      "Aaron Courville"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=xNj14CY5S1",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Pairwise or Pointwise? Evaluating Feedback Protocols for Bias in LLM-Based Evaluation",
+    "authors": [
+      "Tuhina Tripathi",
+      "Manya Wadhwa",
+      "Greg Durrett",
+      "Scott Niekum"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=uyX5Vnow3U",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Pretraining on the Test Set Is No Longer All You Need: A Debate-Driven Approach to QA Benchmarks",
+    "authors": [
+      "Linbo Cao",
+      "Jinman Zhao"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=Pdyh3USc2A",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Estimating Optimal Context Length for Hybrid Retrieval-augmented Multi-document Summarization",
+    "authors": [
+      "Adithya Pratapa",
+      "Teruko Mitamura"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=uh0Sf8yN7n",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Navigating the Rabbit Hole: Emergent Biases in LLM-Generated Attack Narratives Targeting Mental Health Groups",
+    "authors": [
+      "Rijul Magu",
+      "Arka Dutta",
+      "Sean Kim",
+      "Ashiqur R. KhudaBukhsh",
+      "Munmun De Choudhury"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=am6p8VFm9l",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "M²IV: Towards Efficient and Fine-grained Multimodal In-Context Learning via Representation Engineering",
+    "authors": [
+      "Yanshu Li",
+      "Yi Cao",
+      "Hongyang He",
+      "Qisen Cheng",
+      "Xiang Fu",
+      "Xi Xiao",
+      "Tianyang Wang",
+      "Ruixiang Tang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=9ffYcEiNw9",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "BiXSE: Improving Dense Retrieval via Probabilistic Graded Relevance Distillation",
+    "authors": [
+      "Christos Tsirigotis",
+      "Vaibhav Adlakha",
+      "Joao Monteiro",
+      "Aaron Courville",
+      "Perouz Taslakian"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=9nQsDdquOY",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Stop-Think-AutoRegress: Language Modeling with Latent Diffusion Planning",
+    "authors": [
+      "Justin Lovelace",
+      "Christian K Belardi",
+      "Sofian Zalouk",
+      "Adhitya Polavaram",
+      "Srivatsa R Kundurthy",
+      "Kilian Q Weinberger"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=c05qIG1Z2B",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Corrupted by Reasoning: Reasoning Language Models Become Free-Riders in Public Goods Games",
+    "authors": [
+      "David Guzman Piedrahita",
+      "Yongjin Yang",
+      "Mrinmaya Sachan",
+      "Giorgia Ramponi",
+      "Bernhard Schölkopf",
+      "Zhijing Jin"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=kH6LOHGjEl",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "In-Context Occam’s Razor: How Transformers Prefer Simpler Hypotheses on the Fly",
+    "authors": [
+      "Puneesh Deora",
+      "Bhavya Vasudeva",
+      "Tina Behnia",
+      "Christos Thrampoulidis"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=ZSMnX3LBva",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Reasoning Models Know When They’re Right: Probing Hidden States for Self-Verification",
+    "authors": [
+      "Anqi Zhang",
+      "Yulin Chen",
+      "Jane Pan",
+      "Chen Zhao",
+      "Aurojit Panda",
+      "Jinyang Li",
+      "He He"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=O6I0Av7683",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "The Negation Bias in Large Language Models: Investigating bias reflected in linguistic markers",
+    "authors": [
+      "Yishan Wang",
+      "Pia Sommerauer",
+      "Jelke Bloem"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=BuXZtHTefA",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Language Agents Mirror Human Causal Reasoning Biases. How Can We Help Them Think Like Scientists?",
+    "authors": [
+      "Anthony GX-Chen",
+      "Dongyan Lin",
+      "Mandana Samiei",
+      "Doina Precup",
+      "Blake Aaron Richards",
+      "Rob Fergus",
+      "Kenneth Marino"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=LKINTp7Gdo",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Finding Flawed Fictions: Evaluating Complex Reasoning in Language Models via Plot Hole Detection",
+    "authors": [
+      "Kabir Ahuja",
+      "Melanie Sclar",
+      "Yulia Tsvetkov"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=ptmgWRCWmu",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Hell or High Water: Evaluating Agentic Recovery from External Failures",
+    "authors": [
+      "Andrew Wang",
+      "Sophia Hager",
+      "Adi Asija",
+      "Daniel Khashabi",
+      "Nicholas Andrews"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=Zk224WPT42",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "A Taxonomy of Transcendence",
+    "authors": [
+      "Natalie Abreu",
+      "Edwin Zhang",
+      "Eran Malach",
+      "Naomi Saphra"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=tfTn8616Gf",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers",
+    "authors": [
+      "Shalev Lifshitz",
+      "Sheila A. McIlraith",
+      "Yilun Du"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=LriQ3NY9uL",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Retrieval-Augmented Generation with Conflicting Evidence",
+    "authors": [
+      "Han Wang",
+      "Archiki Prasad",
+      "Elias Stengel-Eskin",
+      "Mohit Bansal"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=z1MHB2m3V9",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Recycling the Web: A Method to Enhance Pre-training Data Quality and Quantity for Language Models",
+    "authors": [
+      "Thao Nguyen",
+      "Yang Li",
+      "Olga Golovneva",
+      "Luke Zettlemoyer",
+      "Sewoong Oh",
+      "Ludwig Schmidt",
+      "Xian Li"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=lkjhBdz3rn",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Impact of LLM Alignment on Impression Formation in Social Interactions",
+    "authors": [
+      "Ala N. Tak",
+      "Anahita Bolourani",
+      "Daniel B. Shank",
+      "Jonathan Gratch"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=R135tO3SJJ",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "MixAssist: An Audio-Language Dataset for Co-Creative AI Assistance in Music Mixing",
+    "authors": [
+      "Michael Paul Clemens",
+      "Ana Marasovic"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=5mICyyD4OF",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Breakpoint: Stress-testing systems-level reasoning in LLM agents",
+    "authors": [
+      "Kaivalya Hariharan",
+      "Uzay Girit",
+      "Zifan Wang",
+      "Jacob Andreas"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=GQNojroNCH",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Rhapsody: A Dataset for Highlight Detection in Podcasts",
+    "authors": [
+      "Younghan Park",
+      "Anuj Diwan",
+      "David Harwath",
+      "Eunsol Choi"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=oKdVFxngy1",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "M-Prometheus: A Suite of Open Multilingual LLM Judges",
+    "authors": [
+      "José Pombal",
+      "Dongkeun Yoon",
+      "Patrick Fernandes",
+      "Ian Wu",
+      "Seungone Kim",
+      "Ricardo Rei",
+      "Graham Neubig",
+      "Andre Martins"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=Atyk8lnIQQ",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Task Vectors in In-Context Learning: Emergence, Formation, and Benefits",
+    "authors": [
+      "Liu Yang",
+      "Ziqian Lin",
+      "Kangwook Lee",
+      "Dimitris Papailiopoulos",
+      "Robert D Nowak"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=lODGn1Rp5t",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "QAPyramid: Fine-grained Evaluation of Content Selection for Text Summarization",
+    "authors": [
+      "Shiyue Zhang",
+      "David Wan",
+      "Arie Cattan",
+      "Ayal Klein",
+      "Ido Dagan",
+      "Mohit Bansal"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=dZRzInscvA",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Can Performant LLMs Be Ethical? Quantifying the Impact of Web Crawling Opt-Outs",
+    "authors": [
+      "Dongyang Fan",
+      "Vinko Sabolčec",
+      "Matin Ansaripour",
+      "Ayush Kumar Tarun",
+      "Martin Jaggi",
+      "Antoine Bosselut",
+      "Imanol Schlag"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=a6QsOjr3wo",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Rethinking Associative Memory Mechanism in Induction Head",
+    "authors": [
+      "Shuo Wang",
+      "Issei Sato"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=8N5H8DgfPw",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Sherkala-Chat: Building a State-of-the-Art LLM for Kazakh in a Moderately Resourced Setting",
+    "authors": [
+      "Fajri Koto",
+      "Rituraj Joshi",
+      "Nurdaulet Mukhituly",
+      "Yuxia Wang",
+      "Zhuohan Xie",
+      "Rahul Pal",
+      "Daniil Orel",
+      "Parvez Mullah",
+      "Diana Turmakhan",
+      "Maiya Goloburda",
+      "Mohammed Kamran",
+      "Samujjwal Ghosh",
+      "Bokang Jia",
+      "Jonibek Mansurov",
+      "Mukhammed Togmanov",
+      "Debopriyo Banerjee",
+      "Nurkhan Laiyk",
+      "Akhmed Sakip",
+      "Xudong Han",
+      "Ekaterina Kochmar",
+      "Alham Fikri Aji",
+      "Aaryamonvikram Singh",
+      "Alok Anil Jadhav",
+      "Satheesh Katipomu",
+      "Samta Kamboj",
+      "Monojit Choudhury",
+      "Gurpreet Gosal",
+      "Gokulakrishnan Ramakrishnan",
+      "Biswajit Mishra",
+      "Sarath Chandran",
+      "Avraham Sheinin",
+      "Natalia Vassilieva",
+      "Neha Sengupta",
+      "Preslav Nakov"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=wRcTCcb0H5",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Stuffed Mamba: Oversized States Lead to the Inability to Forget",
+    "authors": [
+      "Yingfa Chen",
+      "Xinrong Zhang",
+      "Shengding Hu",
+      "Xu Han",
+      "Zhiyuan Liu",
+      "Maosong Sun"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=CdRauNXD1w",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Fluid Language Model Benchmarking",
+    "authors": [
+      "Valentin Hofmann",
+      "David Heineman",
+      "Ian Magnusson",
+      "Kyle Lo",
+      "Jesse Dodge",
+      "Maarten Sap",
+      "Pang Wei Koh",
+      "Chun Wang",
+      "Hannaneh Hajishirzi",
+      "Noah A. Smith"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=mxcCg9YRqj",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Data-Centric Human Preference with Rationales for Direct Preference Alignment",
+    "authors": [
+      "Hoang Anh Just",
+      "Ming Jin",
+      "Anit Kumar Sahu",
+      "Huy Phan",
+      "Ruoxi Jia"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=LH2ZKviJoI",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "DynaSaur: Large Language Agents Beyond Predefined Actions",
+    "authors": [
+      "Dang Nguyen",
+      "Viet Dac Lai",
+      "Seunghyun Yoon",
+      "Ryan A. Rossi",
+      "Handong Zhao",
+      "Ruiyi Zhang",
+      "Puneet Mathur",
+      "Nedim Lipka",
+      "Yu Wang",
+      "Trung Bui",
+      "Franck Dernoncourt",
+      "Tianyi Zhou"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=lv0cJ2pWVd",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Layerwise Importance Analysis of Feed-Forward Networks in Transformer-based Language Models",
+    "authors": [
+      "Wataru Ikeda",
+      "Kazuki Yano",
+      "Ryosuke Takahashi",
+      "Jaesung Lee",
+      "KeigoShibata",
+      "Jun Suzuki"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=oP3b5YBFoP",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "PolyGuard: A Multilingual Safety Moderation Tool for 17 Languages",
+    "authors": [
+      "Priyanshu Kumar",
+      "Devansh Jain",
+      "Akhila Yerukola",
+      "Liwei Jiang",
+      "Himanshu Beniwal",
+      "Thomas Hartvigsen",
+      "Maarten Sap"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=wbAWKXNeQ4",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Teaching Models to Understand (but not Generate) High-risk Data",
+    "authors": [
+      "Ryan Yixiang Wang",
+      "Matthew Finlayson",
+      "Luca Soldaini",
+      "Swabha Swayamdipta",
+      "Robin Jia"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=n6mTO5JS4j",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Advancing Language Multi-Agent Learning with Credit Re-Assignment for Interactive Environment Generalization",
+    "authors": [
+      "Zhitao He",
+      "Zijun Liu",
+      "Peng Li",
+      "Yi R. Fung",
+      "Ming Yan",
+      "Ji Zhang",
+      "Fei Huang",
+      "Yang Liu"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=SoEmgM1ioC",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling",
+    "authors": [
+      "Zefan Cai",
+      "Yichi Zhang",
+      "Bofei Gao",
+      "Yuliang Liu",
+      "Yucheng Li",
+      "Tianyu Liu",
+      "Keming Lu",
+      "Wayne Xiong",
+      "Yue Dong",
+      "Junjie Hu",
+      "Wen Xiao"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=ayi7qezU87",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Partial Perspectives: How LLMs Handle Logically Inconsistent Knowledge in Reasoning Tasks",
+    "authors": [
+      "Zichao Li",
+      "Ines Arous",
+      "Jackie CK Cheung"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=9pzNFfgtyk",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Echo Chamber: RL Post-training Amplifies Behaviors Learned in Pretraining",
+    "authors": [
+      "Rosie Zhao",
+      "Alexandru Meterez",
+      "Sham M. Kakade",
+      "Cengiz Pehlevan",
+      "Samy Jelassi",
+      "Eran Malach"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=dp4KWuSDzj",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "EvalAgents: Discovering Implicit Evaluation Criteria from the Web",
+    "authors": [
+      "Manya Wadhwa",
+      "Zayne Rea Sprague",
+      "Chaitanya Malaviya",
+      "Philippe Laban",
+      "Junyi Jessy Li",
+      "Greg Durrett"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=erGpkHCybv",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Cats Confuse Reasoning LLM: Query Agnostic Adversarial Triggers for Reasoning Models",
+    "authors": [
+      "Meghana Arakkal Rajeev",
+      "Rajkumar Ramamurthy",
+      "Prapti Trivedi",
+      "Vikas Yadav",
+      "Oluwanifemi Bamgbose",
+      "Sathwik Tejaswi Madhusudhan",
+      "James Zou",
+      "Nazneen Rajani"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=VrEPiN5WhM",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "ALFA: Aligning LLMs to Ask Good Questions A Case Study in Clinical Reasoning",
+    "authors": [
+      "Shuyue Stella Li",
+      "Jimin Mun",
+      "Faeze Brahman",
+      "Pedram Hosseini",
+      "Bryceton G. Thomas",
+      "Jessica M. Sin",
+      "Bing Ren",
+      "Jonathan S. Ilgen",
+      "Yulia Tsvetkov",
+      "Maarten Sap"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=12u7diwku0",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Quantization Hurts Reasoning? An Empirical Study on Quantized Reasoning Models",
+    "authors": [
+      "Ruikang Liu",
+      "Yuxuan Sun",
+      "Manyi Zhang",
+      "Haoli Bai",
+      "Xianzhi Yu",
+      "Tiezheng YU",
+      "Chun Yuan",
+      "Lu Hou"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=BM192Ps5Nv",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "CRUST-Bench: A Comprehensive Benchmark for C-to-safe-Rust Transpilation",
+    "authors": [
+      "Anirudh Khatry",
+      "Robert Zhang",
+      "Jia Pan",
+      "Ziteng Wang",
+      "Qiaochu Chen",
+      "Greg Durrett",
+      "Isil Dillig"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=8xofWL61S9",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "On Mechanistic Circuits for Extractive Question-Answering",
+    "authors": [
+      "Samyadeep Basu",
+      "Vlad I Morariu",
+      "Ryan A. Rossi",
+      "Nanxuan Zhao",
+      "Zichao Wang",
+      "Soheil Feizi",
+      "Varun Manjunatha"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=VvSWiNIuPL",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Sample Efficient Preference Alignment in LLMs via Active Exploration",
+    "authors": [
+      "Viraj Mehta",
+      "Syrine Belakaria",
+      "Vikramjeet Das",
+      "Ojash Neopane",
+      "Yijia Dai",
+      "Ilija Bogunovic",
+      "Barbara E Engelhardt",
+      "Stefano Ermon",
+      "Jeff Schneider",
+      "Willie Neiswanger"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=Vi5cIfIslX",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Boosting LLM Reasoning via Spontaneous Self-Correction",
+    "authors": [
+      "Xutong Zhao",
+      "Tengyu Xu",
+      "Xuewei Wang",
+      "Zhengxing Chen",
+      "Di Jin",
+      "Liang Tan",
+      "Yen-Ting Lin",
+      "Zishun Yu",
+      "Zhuokai Zhao",
+      "Yun He",
+      "Sinong Wang",
+      "Han Fang",
+      "Sarath Chandar",
+      "Chen Zhu"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=9DCQAGBoII",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Probing Syntax in Large Language Models: Successes and Remaining Challenges",
+    "authors": [
+      "Pablo J. Diego Simon",
+      "Emmanuel Chemla",
+      "Jean-Remi King",
+      "Yair Lakretz"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=nrZysNmJ0n",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "REM: Evaluating LLM Embodied Spatial Reasoning through Multi-Frame Trajectories",
+    "authors": [
+      "Jacob Thompson",
+      "Emiliano Garcia-Lopez",
+      "Yonatan Bisk"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=qbWpEufkqk",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "HAICOSYSTEM: An Ecosystem for Sandboxing Safety Risks in Interactive AI Agents",
+    "authors": [
+      "Xuhui Zhou",
+      "Hyunwoo Kim",
+      "Faeze Brahman",
+      "Liwei Jiang",
+      "Hao Zhu",
+      "Ximing Lu",
+      "Frank F. Xu",
+      "Bill Yuchen Lin",
+      "Yejin Choi",
+      "Niloofar Mireshghallah",
+      "Ronan Le Bras",
+      "Maarten Sap"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=KI1WQ6rLiy",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "GenerationPrograms:  Fine-grained Attribution with Executable Programs",
+    "authors": [
+      "David Wan",
+      "Eran Hirsch",
+      "Elias Stengel-Eskin",
+      "Ido Dagan",
+      "Mohit Bansal"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=zTKYKiWzIm",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Multi-Agent Retrieval-Augmented Framework for Evidence-Based Counterspeech Against Health Misinformation",
+    "authors": [
+      "Anirban Saha Anik",
+      "Xiaoying Song",
+      "Elliott Wang",
+      "Bryan Wang",
+      "Bengisu Yarimbas",
+      "Lingzi Hong"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=P61AgRyU7E",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Task-Circuit Quantization: Leveraging Knowledge Localization and Interpretability for Compression",
+    "authors": [
+      "Hanqi Xiao",
+      "Yi-Lin Sung",
+      "Elias Stengel-Eskin",
+      "Mohit Bansal"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=a201nfn3xX",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Not All Data Are Unlearned Equally",
+    "authors": [
+      "Aravind Krishnan",
+      "Siva Reddy",
+      "Marius Mosbach"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=Kd97lfFfTu",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Crosslingual Capabilities and Knowledge Barriers in Multilingual Large Language Models",
+    "authors": [
+      "Lynn Chua",
+      "Badih Ghazi",
+      "Yangsibo Huang",
+      "Pritish Kamath",
+      "Ravi Kumar",
+      "Pasin Manurangsi",
+      "Amer Sinha",
+      "Chulin Xie",
+      "Chiyuan Zhang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=AwRFhS5grK",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "FineWeb2: One Pipeline to Scale Them All — Adapting Pre-Training Data Processing to Every Language",
+    "authors": [
+      "Guilherme Penedo",
+      "Hynek Kydlíček",
+      "Vinko Sabolčec",
+      "Bettina Messmer",
+      "Negar Foroutan",
+      "Amir Hossein Kargaran",
+      "Colin Raffel",
+      "Martin Jaggi",
+      "Leandro Von Werra",
+      "Thomas Wolf"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=jnRBe6zatP",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "LIMO: Less is More for Reasoning",
+    "authors": [
+      "Yixin Ye",
+      "Zhen Huang",
+      "Yang Xiao",
+      "Ethan Chern",
+      "Shijie Xia",
+      "Pengfei Liu"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=T2TZ0RY4Zk",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Overcoming Vocabulary Constraints with Pixel-level Fallback",
+    "authors": [
+      "Jonas F. Lotz",
+      "Hendra Setiawan",
+      "Stephan Peitz",
+      "Yova Kementchedjhieva"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=lEaHNs2qEv",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Breaking the Data Barrier -- Building GUI Agents Through Task Generalization",
+    "authors": [
+      "Junlei Zhang",
+      "Zichen Ding",
+      "Chang Ma",
+      "Zijie Chen",
+      "Qiushi Sun",
+      "Zhenzhong Lan",
+      "Junxian He"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=QDtORaZt8K",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Spike No More: Stabilizing the Pre-training of Large Language Models",
+    "authors": [
+      "Sho Takase",
+      "Shun Kiyono",
+      "Sosuke Kobayashi",
+      "Jun Suzuki"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=52YBEzcI0l",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions",
+    "authors": [
+      "Yuchen Huang",
+      "Zhiyuan Fan",
+      "Zhitao He",
+      "Sandeep Polisetty",
+      "Wenyan Li",
+      "Yi R. Fung"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=cWVpXWARbt",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation",
+    "authors": [
+      "Ziang Ye",
+      "Yang Zhang",
+      "Wentao Shi",
+      "Xiaoyu You",
+      "Fuli Feng",
+      "Tat-Seng Chua"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=7HPuAkgdVm",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Learning Effective Language Representations for Sequential Recommendation via Joint Embedding Predictive Architecture",
+    "authors": [
+      "Nguyen Anh Minh",
+      "Dung D. Le"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=0Qbwjd0fxB",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Reinforcement Learning Enhanced Full-Duplex Spoken Dialogue Language Models for Conversational Interactions",
+    "authors": [
+      "Chen Chen",
+      "Ke Hu",
+      "Chao-Han Huck Yang",
+      "Ankita Pasad",
+      "Edresson Casanova",
+      "Weiqing Wang",
+      "Szu-Wei Fu",
+      "Jason Li",
+      "Zhehuai Chen",
+      "Jagadeesh Balam",
+      "Boris Ginsburg"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=QbLbXz8Idp",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "When Does Metadata Conditioning (NOT) Work for Language Model Pre-Training? A Study with Context-Free Grammars",
+    "authors": [
+      "Rei Higuchi",
+      "Ryotaro Kawata",
+      "Naoki Nishikawa",
+      "Kazusato Oko",
+      "Shoichiro Yamaguchi",
+      "Sosuke Kobayashi",
+      "Seiya Tokui",
+      "Kohei Hayashi",
+      "Daisuke Okanohara",
+      "Taiji Suzuki"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=5UkUsRsWYx",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Backdoor Attacks on Dense Retrieval via Public and Unintentional Triggers",
+    "authors": [
+      "Quanyu Long",
+      "Yue Deng",
+      "Leilei Gan",
+      "Wenya Wang",
+      "Sinno Jialin Pan"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=RsnxggqW4l",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Layers at Similar Depths Generate Similar Activations Across LLM Architectures",
+    "authors": [
+      "Christopher Wolfram",
+      "Aaron Schein"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=8wKec6faAT",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Jigsaw Puzzles: Splitting Harmful Questions to Jailbreak Large Language Models in Multi-turn Interactions",
+    "authors": [
+      "Hao Yang",
+      "Lizhen Qu",
+      "Ehsan Shareghi",
+      "Gholamreza Haffari"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=zuNM3eoPVi",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Probing then Editing Response Personality of Large Language Models",
+    "authors": [
+      "Tianjie Ju",
+      "Zhenyu Shao",
+      "Bowen Wang",
+      "Yujia Chen",
+      "Zhuosheng Zhang",
+      "Hao Fei",
+      "Mong-Li Lee",
+      "Wynne Hsu",
+      "Sufeng Duan",
+      "Gongshen Liu"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=z9SbcYYP0M",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Rerouting LLM Routers",
+    "authors": [
+      "Avital Shafran",
+      "Roei Schuster",
+      "Tom Ristenpart",
+      "Vitaly Shmatikov"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=U6C7odo5SX",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "A Survey on Personalized and Pluralistic Preference Alignment in Large Language Models",
+    "authors": [
+      "Zhouhang Xie",
+      "Junda Wu",
+      "Yiran Shen",
+      "Raghav Jain",
+      "Yu Xia",
+      "Xintong Li",
+      "Aaron Chang",
+      "Ryan A. Rossi",
+      "Tong Yu",
+      "Sachin Kumar",
+      "Bodhisattwa Prasad Majumder",
+      "Jingbo Shang",
+      "Prithviraj Ammanabrolu",
+      "Julian McAuley"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=lSWOMjonL7",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Collab-RAG: Boosting Retrieval-Augmented Generation for Complex Question Answering via White-Box and Black-Box LLM Collaboration",
+    "authors": [
+      "Ran Xu",
+      "Wenqi Shi",
+      "Yuchen Zhuang",
+      "Yue Yu",
+      "Joyce C. Ho",
+      "Haoyu Wang",
+      "Carl Yang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=CODs4jSGhN",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "CoLa: Learning to Interactively Collaborate with Large Language Models",
+    "authors": [
+      "Abhishek Sharma",
+      "Dan Goldwasser"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=pm9ykfhknK",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+    "authors": [
+      "Zichen Liu",
+      "Changyu Chen",
+      "Wenjun Li",
+      "Penghui Qi",
+      "Tianyu Pang",
+      "Chao Du",
+      "Wee Sun Lee",
+      "Min Lin"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=5PAF7PAY2Y",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "SlimMoE: Structured Compression of Large MoE Models via Expert Slimming and Distillation",
+    "authors": [
+      "Zichong Li",
+      "Chen Liang",
+      "Zixuan Zhang",
+      "Ilgee Hong",
+      "Young Jin Kim",
+      "Weizhu Chen",
+      "Tuo Zhao"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=oaCUsn391F",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "SEAM: Semantically Equivalent Across Modalities Benchmark for Vision-Language Models",
+    "authors": [
+      "Zhenwei Tang",
+      "Difan Jiao",
+      "Blair Yang",
+      "Ashton Anderson"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=lI4LgGv4sX",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "VideoSAVi: Self-Aligned Video Language Models without Human Supervision",
+    "authors": [
+      "Yogesh Kulkarni",
+      "Pooyan Fazli"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=ybcZEWaM7U",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Always Tell Me The Odds: Fine-grained Conditional Probability Estimation",
+    "authors": [
+      "Liaoyaqi Wang",
+      "Zhengping Jiang",
+      "Anqi Liu",
+      "Benjamin Van Durme"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=xhDcG8qtw9",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Agent S2: A Compositional Generalist-Specialist Framework for Computer Use Agents",
+    "authors": [
+      "Saaket Agashe",
+      "Kyle Wong",
+      "Vincent Tu",
+      "Jiachen Yang",
+      "Ang Li",
+      "Xin Eric Wang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=zg5is4GJ3R",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "How Post-Training Reshapes LLMs: A Mechanistic View on Knowledge, Truthfulness, Refusal, and Confidence",
+    "authors": [
+      "Hongzhe Du",
+      "Weikai Li",
+      "Min Cai",
+      "Karim Saraipour",
+      "Zimin Zhang",
+      "Himabindu Lakkaraju",
+      "Yizhou Sun",
+      "Shichang Zhang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=w5DSwn9wTC",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Implicit In-Context Learning: Evidence from Artificial Language Experiments",
+    "authors": [
+      "Xiaomeng Ma",
+      "Qihui Xu"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=jST2VzWUFb",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "To Backtrack or Not to Backtrack: When Sequential Search Limits Model Reasoning",
+    "authors": [
+      "Tian Qin",
+      "David Alvarez-Melis",
+      "Samy Jelassi",
+      "Eran Malach"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=XNQHMYsUHf",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "One-shot Optimized Steering Vectors Mediate Safety-relevant Behaviors in LLMs",
+    "authors": [
+      "Jacob Dunefsky",
+      "Arman Cohan"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=teW4nIZ1gy",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Sharpe Ratio-Guided Active Learning for Preference Optimization in RLHF",
+    "authors": [
+      "Syrine Belakaria",
+      "Joshua Kazdan",
+      "Charles Marx",
+      "Chris Cundy",
+      "Willie Neiswanger",
+      "Sanmi Koyejo",
+      "Barbara E Engelhardt",
+      "Stefano Ermon"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=a6xzTqMUFQ",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching",
+    "authors": [
+      "Yuxuan Zhu",
+      "Ali Falahati",
+      "David H. Yang",
+      "Mohammad Mohammadi Amiri"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=HyPeYU9JR6",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Defending LLM Watermarking Against Spoofing Attacks with Contrastive Representation Learning",
+    "authors": [
+      "Li An",
+      "Yujian Liu",
+      "Yepeng Liu",
+      "Yang Zhang",
+      "Yuheng Bu",
+      "Shiyu Chang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=n5hmtkdl7k",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Do Language Models Agree with Human Perceptions of Suspense in Stories?",
+    "authors": [
+      "Glenn Matlin",
+      "Devin Zhang",
+      "Rodrigo Barroso Loza",
+      "Diana M. Popescu",
+      "Joni Isbell",
+      "Chandreyi Chakraborty",
+      "Mark Riedl"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=Qu0znWWckM",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Learning by Teaching: Engaging Students as Instructors of Large Language Models in Computer Science Education",
+    "authors": [
+      "Xinming Yang",
+      "Haasil Pujara",
+      "Jun Li"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=RUAoV3j6tM",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "CALLME: Call Graph Augmentation with Large Language Models for Javascript",
+    "authors": [
+      "Michael Wang",
+      "Kexin Pei",
+      "Armando Solar-Lezama"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=xZi2rMUcAO",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "CITER: Collaborative Inference for Efficient Large Language Model Decoding with Token-Level Routing",
+    "authors": [
+      "Wenhao Zheng",
+      "Yixiao Chen",
+      "Weitong Zhang",
+      "Souvik Kundu",
+      "Yun Li",
+      "Zhengzhong Liu",
+      "Eric P. Xing",
+      "Hongyi Wang",
+      "Huaxiu Yao"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=nqX9UYW9Af",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "LM Agents May Fail to Act on Their Own Risk Knowledge",
+    "authors": [
+      "Yuzhi Tang",
+      "Tianxiao Li",
+      "Elizabeth Li",
+      "Chris J. Maddison",
+      "Honghua Dong",
+      "Yangjun Ruan"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=OeYdS51k8F",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Approximating Language Model Training Data from Weights",
+    "authors": [
+      "John Xavier Morris",
+      "Junjie Oscar Yin",
+      "Woojeong Kim",
+      "Vitaly Shmatikov",
+      "Alexander M Rush"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=cQechnXCQt",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Steering the CensorShip: Uncovering Representation Vectors for LLM \"Thought'' Control",
+    "authors": [
+      "Hannah Cyberey",
+      "David Evans"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=dVqZBagXF3",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Brains vs. Bytes: Evaluating LLM Proficiency in Olympiad Mathematics",
+    "authors": [
+      "Hamed Mahdavi",
+      "Alireza Hashemi",
+      "Majid Daliri",
+      "Pegah Mohammadipour",
+      "Alireza Farhadi",
+      "Samira Malek",
+      "Yekta Yazdanifard",
+      "Amir Khasahmadi",
+      "Vasant G Honavar"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=uXR2KsA4L9",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Hardware-Efficient Attention for Fast Decoding",
+    "authors": [
+      "Ted Zadouri",
+      "Hubert Strauss",
+      "Tri Dao"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=HAjgxcHpzc",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Evaluating and Designing Sparse Autoencoders by Approximating Quasi-Orthogonality",
+    "authors": [
+      "Sewoong Lee",
+      "Adam Davies",
+      "Marc E. Canby",
+      "Julia Hockenmaier"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=XhdNFeMclS",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Exploring Large Language Model Agents for Piloting Social Experiments",
+    "authors": [
+      "Jinghua Piao",
+      "Yuwei Yan",
+      "Nian Li",
+      "Jun Zhang",
+      "Yong Li"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=I95XCwHdSE",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "In-context Ranking Preference Optimization",
+    "authors": [
+      "Junda Wu",
+      "Rohan Surana",
+      "Zhouhang Xie",
+      "Yiran Shen",
+      "Yu Xia",
+      "Tong Yu",
+      "Ryan A. Rossi",
+      "Prithviraj Ammanabrolu",
+      "Julian McAuley"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=L2NPhLAKEd",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Weight ensembling improves reasoning in language models",
+    "authors": [
+      "Xingyu Dang",
+      "Christina Baek",
+      "Kaiyue Wen",
+      "J Zico Kolter",
+      "Aditi Raghunathan"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=S2IKxulLT1",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Arctic-Embed 2.0: Multilingual Retrieval Without Compromise",
+    "authors": [
+      "Puxuan Yu",
+      "Luke Merrick",
+      "Gaurav Nuti",
+      "Daniel F Campos"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=H6so82c2Sw",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Multilingual Contextualization of Large Language Models for Document-Level Machine Translation",
+    "authors": [
+      "Miguel Moura Ramos",
+      "Patrick Fernandes",
+      "Sweta Agrawal",
+      "Andre Martins"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=Ah0U1r5Ldq",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "SlowFast-LLaVA-1.5: A Family of Token-Efficient Video Large Language Models for Long-Form Video Understanding",
+    "authors": [
+      "Mingze Xu",
+      "Mingfei Gao",
+      "Shiyu Li",
+      "Jiasen Lu",
+      "Zhe Gan",
+      "Zhengfeng Lai",
+      "Meng Cao",
+      "Kai Kang",
+      "Yinfei Yang",
+      "Afshin Dehghan"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=L7jS3peM3w",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Do Large Language Models Have a Planning Theory of Mind? Evidence from MindGames: a Multi-Step Persuasion Task",
+    "authors": [
+      "Jared Moore",
+      "Ned Cooper",
+      "Rasmus Overmark",
+      "Beba Cibralic",
+      "Cameron Robert Jones",
+      "Nick Haber"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=vNJbDhgrM4",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "DEL: Context-Aware Dynamic Exit Layer for Efficient Self-Speculative Decoding",
+    "authors": [
+      "Hossein Entezari Zarch",
+      "Lei Gao",
+      "Chaoyi Jiang",
+      "Murali Annavaram"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=cAFxSuXQvT",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Open-Qwen2VL: Compute-Efficient Pre-Training of Fully-Open Multimodal LLMs on Academic Resources",
+    "authors": [
+      "Weizhi Wang",
+      "Yu Tian",
+      "Linjie Yang",
+      "Heng Wang",
+      "Xifeng Yan"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=nVQmW1af6j",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "LoRe: Personalizing LLMs via Low-Rank Reward Modeling",
+    "authors": [
+      "Avinandan Bose",
+      "Zhihan Xiong",
+      "Yuejie Chi",
+      "Simon Shaolei Du",
+      "Lin Xiao",
+      "Maryam Fazel"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=bYu4DOqRY8",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "CRABS: A syntactic-semantic pincer strategy for bounding LLM interpretation of Python notebooks",
+    "authors": [
+      "Meng Li",
+      "Timothy M. McPhillips",
+      "Dingmin Wang",
+      "Shin-Rong Tsai",
+      "Bertram Ludäscher"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=CB3CeOWo0J",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "2 OLMo 2 Furious (COLM’s Version)",
+    "authors": [
+      "Evan Pete Walsh",
+      "Luca Soldaini",
+      "Dirk Groeneveld",
+      "Kyle Lo",
+      "Shane Arora",
+      "Akshita Bhagia",
+      "Yuling Gu",
+      "Shengyi Huang",
+      "Matt Jordan",
+      "Nathan Lambert",
+      "Dustin Schwenk",
+      "Oyvind Tafjord",
+      "Taira Anderson",
+      "David Atkinson",
+      "Faeze Brahman",
+      "Christopher Clark",
+      "Pradeep Dasigi",
+      "Nouha Dziri",
+      "Allyson Ettinger",
+      "Michal Guerquin",
+      "David Heineman",
+      "Hamish Ivison",
+      "Pang Wei Koh",
+      "Jiacheng Liu",
+      "Saumya Malik",
+      "William Merrill",
+      "Lester James Validad Miranda",
+      "Jacob Morrison",
+      "Tyler Murray",
+      "Crystal Nam",
+      "Jake Poznanski",
+      "Valentina Pyatkin",
+      "Aman Rangapur",
+      "Michael Schmitz",
+      "Sam Skjonsberg",
+      "David Wadden",
+      "Christopher Wilhelm",
+      "Michael Wilson",
+      "Luke Zettlemoyer",
+      "Ali Farhadi",
+      "Noah A. Smith",
+      "Hannaneh Hajishirzi"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=2ezugTT9kU",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Beyond Blanket Masking: Examining Granularity for Privacy Protection in Images Captured by Blind and Low Vision Users",
+    "authors": [
+      "Jeffri Murrugarra-Llerena",
+      "Haoran Niu",
+      "K. Suzanne Barber",
+      "Hal Daumé III",
+      "Yang Trista Cao",
+      "Paola Cascante-Bonilla"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=hLjoekkPiJ",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Algorithm Discovery With LLMs: Evolutionary Search Meets Reinforcement Learning",
+    "authors": [
+      "Anja Šurina",
+      "Amin Mansouri",
+      "Lars C.P.M. Quaedvlieg",
+      "Amal Seddas",
+      "Maryna Viazovska",
+      "Emmanuel Abbe",
+      "Caglar Gulcehre"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=dNW3RGW0gi",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "MS-SSM: A Multi-Scale State Space Model for Efficient Sequence Modeling",
+    "authors": [
+      "Mahdi Karami",
+      "Ali Behrouz",
+      "Peilin Zhong",
+      "Razvan Pascanu",
+      "Vahab Mirrokni"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=cCYWeCzAv0",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "IterKey: Iterative Keyword Generation with LLMs for Enhanced Retrieval Augmented Generation",
+    "authors": [
+      "Kazuki Hayashi",
+      "Hidetaka Kamigaito",
+      "Shinya Kouda",
+      "Taro Watanabe"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=y56BuSo8Uj",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Evaluating the Diversity and Quality of LLM Generated Content",
+    "authors": [
+      "Alexander Shypula",
+      "Shuo Li",
+      "Botong Zhang",
+      "Vishakh Padmakumar",
+      "Kayo Yin",
+      "Osbert Bastani"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=O7bF6nlSOD",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "QUDsim: Quantifying Discourse Similarities in LLM-Generated Text",
+    "authors": [
+      "Ramya Namuduri",
+      "Yating Wu",
+      "Anshun Asher Zheng",
+      "Manya Wadhwa",
+      "Greg Durrett",
+      "Junyi Jessy Li"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=zFz1BJu211",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "A Critical Look At Tokenwise Reward-Guided Text Generation",
+    "authors": [
+      "Ahmad Rashid",
+      "Ruotian Wu",
+      "Julia Grosse",
+      "Agustinus Kristiadi",
+      "Pascal Poupart"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=Vnw9c1YLhV",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "When Splitting Makes Stronger: A Theoretical and Empirical Analysis of Divide-and-Conquer Prompting in LLMs",
+    "authors": [
+      "Yizhou Zhang",
+      "Defu Cao",
+      "Lun Du",
+      "Qiang Fu",
+      "Yan Liu"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=rAR7iPI8Kh",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Humans overrely on overconfident language models, across languages",
+    "authors": [
+      "Neil Rathi",
+      "Dan Jurafsky",
+      "Kaitlyn Zhou"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=QsQatTzATT",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Vision-Language Models Are Not Pragmatically Competent in Referring Expression Generation",
+    "authors": [
+      "Ziqiao Ma",
+      "Jing Ding",
+      "Xuejun Zhang",
+      "Dezhi Luo",
+      "Jiahe Ding",
+      "Sihan Xu",
+      "Yuchen Huang",
+      "Run Peng",
+      "Joyce Chai"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=oj3ETSitjb",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Values in the Wild: Discovering and Mapping Values in Real-World Language Model Interactions",
+    "authors": [
+      "Saffron Huang",
+      "Esin DURMUS",
+      "Kunal Handa",
+      "Miles McCain",
+      "Alex Tamkin",
+      "Michael Stern",
+      "Jerry Hong",
+      "Deep Ganguli"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=zJHZJClG1Z",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "URANIA: Differentially Private Insights into AI Use",
+    "authors": [
+      "Daogao Liu",
+      "Edith Cohen",
+      "Badih Ghazi",
+      "Peter Kairouz",
+      "Pritish Kamath",
+      "Alexander Knop",
+      "Ravi Kumar",
+      "Pasin Manurangsi",
+      "Adam Sealfon",
+      "Da Yu",
+      "Chiyuan Zhang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=dujG4nGClA",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "The Zero Body Problem: Probing LLM Use of Sensory Language",
+    "authors": [
+      "Rebecca M. M. Hicke",
+      "Sil Hamilton",
+      "David Mimno"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=vv1ZyQF8LD",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "RepoST: Scalable Repository-Level Coding Environment Construction with Sandbox Testing",
+    "authors": [
+      "Yiqing Xie",
+      "Alex Xie",
+      "Divyanshu Sheth",
+      "Pengfei Liu",
+      "Daniel Fried",
+      "Carolyn Rose"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=2txrMBpw3q",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Weak-for-Strong:  Training Weak Meta-Agent to Harness Strong Executors",
+    "authors": [
+      "Fan Nie",
+      "Lan Feng",
+      "Haotian Ye",
+      "Weixin Liang",
+      "Pan Lu",
+      "Huaxiu Yao",
+      "Alexandre Alahi",
+      "James Zou"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=DmhcCRIfvq",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Guided Reasoning in LLM-Driven Penetration Testing Using Structured Attack Trees",
+    "authors": [
+      "Katsuaki Nakano",
+      "Reza Fayyazi",
+      "Shanchieh Yang",
+      "Michael Zuzak"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=x4sdXZ7Jdu",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "AdaptMI: Adaptive Skill-based In-context Math Instructions for Small Language Models",
+    "authors": [
+      "Yinghui He",
+      "Abhishek Panigrahi",
+      "Yong Lin",
+      "Sanjeev Arora"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=k72RxnoS5g",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Missing Premise exacerbates Overthinking: Are Reasoning Models losing Critical Thinking Skill?",
+    "authors": [
+      "Chenrui Fan",
+      "Ming Li",
+      "Lichao Sun",
+      "Tianyi Zhou"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=ufozo2Wc9e",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "OpinioRAG: Towards Generating User-Centric Opinion Highlights from Large-scale Online Reviews",
+    "authors": [
+      "Mir Tafseer Nayeem",
+      "Davood Rafiei"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=R94bCTckhV",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Learning to Generate Unit Tests for Automated Debugging",
+    "authors": [
+      "Archiki Prasad",
+      "Elias Stengel-Eskin",
+      "Justin Chen",
+      "Zaid Khan",
+      "Mohit Bansal"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=yeVBHPLXxi",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "LLM Unlearning Reveals a Stronger-Than-Expected Coreset Effect in Current Benchmarks",
+    "authors": [
+      "Soumyadeep Pal",
+      "Changsheng Wang",
+      "James Diffenderfer",
+      "Bhavya Kailkhura",
+      "Sijia Liu"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=NMIqKUdDkw",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Investigating Intersectional Bias in Large Language Models using Confidence Disparities in Coreference Resolution",
+    "authors": [
+      "Falaah Arif Khan",
+      "Nivedha Sivakumar",
+      "Yinong Oliver Wang",
+      "Katherine Metcalf",
+      "Cezanne Camacho",
+      "Barry-John Theobald",
+      "Luca Zappella",
+      "Nicholas Apostoloff"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=zOw2it5Ni6",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Prompt-Reverse Inconsistency: LLM Self-Inconsistency Beyond Generative Randomness and Prompt Paraphrasing",
+    "authors": [
+      "Jihyun Janice Ahn",
+      "Wenpeng Yin"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=yfRkNRFLzl",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Positional Biases Shift as Inputs Approach Context Window Limits",
+    "authors": [
+      "Blerta Veseli",
+      "Julian Chibane",
+      "Mariya Toneva",
+      "Alexander Koller"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=vlUk8z8LaM",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "ADAPT: Actively Discovering and Adapting to Preferences for any Task",
+    "authors": [
+      "Maithili Patel",
+      "Xavier Puig",
+      "Ruta Desai",
+      "Roozbeh Mottaghi",
+      "Sonia Chernova",
+      "Joanne Truong",
+      "Akshara Rai"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=Z8vtD1egtI",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "SciReplicate-Bench: Benchmarking LLMs in Agent-driven Algorithmic Reproduction from Research Papers",
+    "authors": [
+      "Yanzheng Xiang",
+      "Hanqi Yan",
+      "Shuyin Ouyang",
+      "Lin Gui",
+      "Yulan He"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=8LoPjpvWde",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "True Multimodal In-Context Learning Needs Attention to the Visual Context",
+    "authors": [
+      "Shuo Chen",
+      "Jianzhe Liu",
+      "Zhen Han",
+      "Yan Xia",
+      "Daniel Cremers",
+      "Philip Torr",
+      "Volker Tresp",
+      "Jindong Gu"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=n4JdyBGu6T",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Post-training for Efficient Communication via Convention Formation",
+    "authors": [
+      "Yilun Hua",
+      "Evan Wang",
+      "Yoav Artzi"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=jRGGmbhX2s",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Streaming DiLoCo with overlapping communication",
+    "authors": [
+      "Arthur Douillard",
+      "Yani Donchev",
+      "J Keith Rush",
+      "Satyen Kale",
+      "Zachary Charles",
+      "Gabriel Teston",
+      "Zachary Garrett",
+      "Jiajun Shen",
+      "Ross McIlroy",
+      "David Lacey",
+      "Alexandre Rame",
+      "Arthur Szlam",
+      "MarcAurelio Ranzato",
+      "Paul R Barham"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=yYk3zK0X6Q",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "MuSeD: A Multimodal Spanish Dataset for Sexism Detection in Social Media Videos",
+    "authors": [
+      "Laura De Grazia",
+      "Pol Pastells",
+      "Mauro Vázquez Chas",
+      "Desmond Elliott",
+      "Danae Sanchez Villegas",
+      "Mireia Farrús",
+      "Mariona Taulé Delor"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=eSAv7GKVFt",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "EvidenceBench: A Benchmark for Extracting Evidence from Biomedical Papers",
+    "authors": [
+      "Jianyou Wang",
+      "Weili Cao",
+      "Kaicheng Wang",
+      "Xiaoyue Wang",
+      "Ashish Dalvi",
+      "Gino Prasad",
+      "Qishan Liang",
+      "Hsuan-lin Her",
+      "Mingwang",
+      "Qin Yang",
+      "Gene W. Yeo",
+      "David E Neal",
+      "Maxim Khan",
+      "Christopher D. Rosin",
+      "Ramamohan Paturi",
+      "Leon Bergen"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=lEQnUI5lEA",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Local Mixtures of Experts: Essentially Free Test-Time Training via Model Merging",
+    "authors": [
+      "Ryo Bertolissi",
+      "Jonas Hübotter",
+      "Ido Hakimi",
+      "Andreas Krause"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=X2RXpFA6Vh",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "An Illusion of Progress? Assessing the Current State of Web Agents",
+    "authors": [
+      "Tianci Xue",
+      "Weijian Qi",
+      "Tianneng Shi",
+      "Chan Hee Song",
+      "Boyu Gou",
+      "Dawn Song",
+      "Huan Sun",
+      "Yu Su"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=6jZi4HSs6o",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Boundless Byte Pair Encoding: Breaking the Pre-tokenization Barrier",
+    "authors": [
+      "Craig W Schmidt",
+      "Varshini Reddy",
+      "Chris Tanner",
+      "Yuval Pinter"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=oPAjXGV8qQ",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Multi-Agent Systems Execute Arbitrary Malicious Code",
+    "authors": [
+      "Harold Triedman",
+      "Rishi Dev Jha",
+      "Vitaly Shmatikov"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=DAozI4etUp",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Privately Learning from Graphs with Applications in Fine-tuning Large Language Models",
+    "authors": [
+      "Haoteng Yin",
+      "Rongzhe Wei",
+      "Eli Chien",
+      "Pan Li"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=3xErKrVAdG",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Evaluating LLMs on Chinese Idiom Translation",
+    "authors": [
+      "Cai Yang",
+      "Yao Dou",
+      "David Heineman",
+      "Xiaofeng Wu",
+      "Wei Xu"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=dkE5rveDuh",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Rethinking Safety in LLM Fine-tuning: An Optimization Perspective",
+    "authors": [
+      "Minseon Kim",
+      "Jin Myung Kwak",
+      "Lama Alssum",
+      "Bernard Ghanem",
+      "Philip Torr",
+      "David Krueger",
+      "Fazl Barez",
+      "Adel Bibi"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=ZnOoEA2nDn",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "CodeXEmbed: A Generalist Embedding Model Family for Multilingual and Multi-task Code Retrieval",
+    "authors": [
+      "Ye Liu",
+      "Rui Meng",
+      "Shafiq Joty",
+      "silvio savarese",
+      "Caiming Xiong",
+      "Yingbo Zhou",
+      "Semih Yavuz"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=z3lG70Azbg",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Do LLMs Understand Your Translations? Evaluating Paragraph-level MT with Question Answering",
+    "authors": [
+      "Patrick Fernandes",
+      "Sweta Agrawal",
+      "Emmanouil Zaranis",
+      "Andre Martins",
+      "Graham Neubig"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=Zfa9jCYGCz",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Law of Vision Representation in MLLMs",
+    "authors": [
+      "Shijia Yang",
+      "Bohan Zhai",
+      "Quanzeng You",
+      "Jianbo Yuan",
+      "Hongxia Yang",
+      "Chenfeng Xu"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=4d69EwfKAr",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Exploring Sparse Adapters for Scalable Merging of Parameter Efficient Experts",
+    "authors": [
+      "Samin Yeasar Arnob",
+      "Zhan Su",
+      "Minseon Kim",
+      "Oleksiy Ostapenko",
+      "Riyasat Ohib",
+      "Esra'a Saleh",
+      "Doina Precup",
+      "Lucas Caccia",
+      "Alessandro Sordoni"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=te7UC87Zbw",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Towards Compute-Optimal Many-Shot In-Context Learning",
+    "authors": [
+      "Shahriar Golchin",
+      "Yanfei Chen",
+      "Rujun Han",
+      "Manan Gandhi",
+      "Tianli Yu",
+      "Swaroop Mishra",
+      "Mihai Surdeanu",
+      "Rishabh Agarwal",
+      "Chen-Yu Lee",
+      "Tomas Pfister"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=K7kwRv5mj1",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "The World According to LLMs: How Geographic Origin Influences LLMs' Entity Deduction Capabilities",
+    "authors": [
+      "Harsh Nishant Lalai",
+      "Raj Sanjay Shah",
+      "Jiaxin Pei",
+      "Sashank Varma",
+      "Yi-Chia Wang",
+      "Ali Emami"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=hJtvCfDfs1",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "LeakAgent: RL-based Red-teaming Agent for LLM Privacy Leakage",
+    "authors": [
+      "Yuzhou Nie",
+      "Zhun Wang",
+      "Ye Yu",
+      "Xian Wu",
+      "Xuandong Zhao",
+      "Nathaniel D. Bastian",
+      "Wenbo Guo",
+      "Dawn Song"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=WIfns41MAb",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+    "authors": [
+      "Rulin Shao",
+      "Rui Qiao",
+      "Varsha Kishore",
+      "Niklas Muennighoff",
+      "Xi Victoria Lin",
+      "Daniela Rus",
+      "Bryan Kian Hsiang Low",
+      "Sewon Min",
+      "Wen-tau Yih",
+      "Pang Wei Koh",
+      "Luke Zettlemoyer"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=kkBCNLMbGj",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Déjà Vu: Multilingual LLM Evaluation through the Lens of Machine Translation Evaluation",
+    "authors": [
+      "Julia Kreutzer",
+      "Eleftheria Briakou",
+      "Sweta Agrawal",
+      "Marzieh Fadaee",
+      "Tom Kocmi"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=yxzVanFoij",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Self-Rewarding PPO: Aligning Large Language Models with Demonstrations Only",
+    "authors": [
+      "Qingru Zhang",
+      "Liang Qiu",
+      "Ilgee Hong",
+      "Zhenghao Xu",
+      "Tianyi Liu",
+      "Shiyang Li",
+      "Rongzhi Zhang",
+      "Zheng Li",
+      "Lihong Li",
+      "Bing Yin",
+      "Chao Zhang",
+      "Jianshu Chen",
+      "Haoming Jiang",
+      "Tuo Zhao"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=cOlHP5E3qF",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "BigCharts-R1: Enhanced Chart Reasoning with Visual Reinforcement Finetuning",
+    "authors": [
+      "Ahmed Masry",
+      "Abhay Puri",
+      "Masoud Hashemi",
+      "Juan A. Rodriguez",
+      "Megh Thakkar",
+      "Khyati Mahajan",
+      "Vikas Yadav",
+      "Sathwik Tejaswi Madhusudhan",
+      "Alexandre Piché",
+      "Dzmitry Bahdanau",
+      "Christopher Pal",
+      "David Vazquez",
+      "Enamul Hoque",
+      "Perouz Taslakian",
+      "Sai Rajeswar",
+      "Spandana Gella"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=19fydz1QnW",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Self-Steering Language Models",
+    "authors": [
+      "Gabriel Grand",
+      "Joshua B. Tenenbaum",
+      "Vikash Mansinghka",
+      "Alexander K. Lew",
+      "Jacob Andreas"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=XvCBtm5PgF",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Training Large Language Models to Reason in a Continuous Latent Space",
+    "authors": [
+      "Shibo Hao",
+      "Sainbayar Sukhbaatar",
+      "DiJia Su",
+      "Xian Li",
+      "Zhiting Hu",
+      "Jason E Weston",
+      "Yuandong Tian"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=Itxz7S4Ip3",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "The Delta Learning Hypothesis: Preference Tuning on Weak Data can Yield Strong Gains",
+    "authors": [
+      "Scott Geng",
+      "Hamish Ivison",
+      "Chun-Liang Li",
+      "Maarten Sap",
+      "Jerry Li",
+      "Ranjay Krishna",
+      "Pang Wei Koh"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=9rwtezthwo",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "ParaPO: Aligning Language Models to Reduce Verbatim Reproduction of Pre-training Data",
+    "authors": [
+      "Tong Chen",
+      "Faeze Brahman",
+      "Jiacheng Liu",
+      "Niloofar Mireshghallah",
+      "Weijia Shi",
+      "Pang Wei Koh",
+      "Luke Zettlemoyer",
+      "Hannaneh Hajishirzi"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=Uic3ojVhXh",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Critique Fine-Tuning: Learning to Critique is More Effective than Learning to Imitate",
+    "authors": [
+      "Yubo Wang",
+      "Xiang Yue",
+      "Wenhu Chen"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=vTAz44GgOA",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Goedel-Prover: A Frontier Model for Open-Source Automated Theorem Proving",
+    "authors": [
+      "Yong Lin",
+      "Shange Tang",
+      "Bohan Lyu",
+      "Jiayun Wu",
+      "Hongzhou Lin",
+      "Kaiyu Yang",
+      "Jia LI",
+      "Mengzhou Xia",
+      "Danqi Chen",
+      "Sanjeev Arora",
+      "Chi Jin"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=x2y9i2HDjD",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Fast Controlled Generation from Language Models with Adaptive Weighted Rejection Sampling",
+    "authors": [
+      "Ben Lipkin",
+      "Benjamin LeBrun",
+      "Jacob Hoover Vigly",
+      "João Loula",
+      "David R. MacIver",
+      "Li Du",
+      "Jason Eisner",
+      "Ryan Cotterell",
+      "Vikash Mansinghka",
+      "Timothy J. O'Donnell",
+      "Alexander K. Lew",
+      "Tim Vieira"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=3BmPSFAdq3",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "On the Effectiveness and Generalization of Race Representations for Debiasing High-Stakes Decisions",
+    "authors": [
+      "Dang Nguyen",
+      "Chenhao Tan"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=DDtwtoAMjA",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Quantifying Fairness in LLMs Beyond Tokens: A Semantic and Statistical Perspective",
+    "authors": [
+      "Weijie Xu",
+      "Yiwen Wang",
+      "Chi Xue",
+      "Xiangkun Hu",
+      "Xi Fang",
+      "Guimin Dong",
+      "Chandan K. Reddy"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=wKVtjs0w4a",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Improving Fisher Information Estimation and Efficiency for LoRA-based LLM Unlearning",
+    "authors": [
+      "Yejin Kim",
+      "Eunwon Kim",
+      "Buru Chang",
+      "Junsuk Choe"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=mTJW8Y1nd8",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Multi-Token Attention",
+    "authors": [
+      "Olga Golovneva",
+      "Tianlu Wang",
+      "Jason E Weston",
+      "Sainbayar Sukhbaatar"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=Z3L35tQTEg",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "From Queries to Criteria: Understanding How Astronomers Evaluate LLMs",
+    "authors": [
+      "Alina Hyk",
+      "Kiera McCormick",
+      "Mian Zhong",
+      "Ioana Ciucă",
+      "Sanjib Sharma",
+      "John F Wu",
+      "J. E. G. Peek",
+      "Kartheik G. Iyer",
+      "Ziang Xiao",
+      "Anjalie Field"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=ROtDZDUgvw",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Analyzing Multilingualism in Large Language Models with Sparse Autoencoders",
+    "authors": [
+      "Ikhyun Cho",
+      "Julia Hockenmaier"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=NmGSvZoU3K",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "CrossWordBench: Evaluating the Reasoning Capabilities of LLMs and LVLMs with Controllable Puzzle Generation",
+    "authors": [
+      "Jixuan Leng",
+      "Chengsong Huang",
+      "Langlin Huang",
+      "Bill Yuchen Lin",
+      "William W. Cohen",
+      "Haohan Wang",
+      "Jiaxin Huang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=bJCQMKwPVq",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Unifying Autoregressive and Diffusion-Based Sequence Generation",
+    "authors": [
+      "Nima Fathi",
+      "Torsten Scholak",
+      "Pierre-Andre Noel"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=rgq9BFXSFl",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Control the Temperature: Selective Sampling for Diverse and High-Quality LLM Outputs",
+    "authors": [
+      "Sergey Troshin",
+      "Wafaa Mohammed",
+      "Yan Meng",
+      "Christof Monz",
+      "Antske Fokkens",
+      "Vlad Niculae"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=IyOC5GCzv4",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "UTF-8 Plumbing: Byte-level Tokenizers Unavoidably Enable LLMs to Generate Ill-formed UTF-8",
+    "authors": [
+      "Preston Firestone",
+      "Shubham Ugare",
+      "Gagandeep Singh",
+      "Sasa Misailovic"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=8ExXncFpf6",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "RADLADS: Rapid Attention Distillation to Linear Attention Decoders at Scale",
+    "authors": [
+      "Daniel Goldstein",
+      "Eric Alcaide",
+      "Janna Lu",
+      "Eugene Cheah"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=38GehGepDd",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Learning Adaptive Parallel Reasoning with Language Models",
+    "authors": [
+      "Jiayi Pan",
+      "Xiuyu Li",
+      "Long Lian",
+      "Charlie Victor Snell",
+      "Yifei Zhou",
+      "Adam Yala",
+      "Trevor Darrell",
+      "Kurt Keutzer",
+      "Alane Suhr"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=YgwQ7sXPXU",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "EllieSQL: Cost-Efficient Text-to-SQL with Complexity-Aware Routing",
+    "authors": [
+      "Yizhang Zhu",
+      "Runzhi JIANG",
+      "Boyan Li",
+      "Nan Tang",
+      "Yuyu Luo"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=8OqGNXKwo8",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Why do LLMs attend to the first token?",
+    "authors": [
+      "Federico Barbero",
+      "Alvaro Arroyo",
+      "Xiangming Gu",
+      "Christos Perivolaropoulos",
+      "Petar Veličković",
+      "Razvan Pascanu",
+      "Michael M. Bronstein"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=tu4dFUsW5z",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Overfill: Two-Stage Models for Efficient Language Model Decoding",
+    "authors": [
+      "Woojeong Kim",
+      "Junxiong Wang",
+      "Jing Nathan Yan",
+      "Mohamed S. Abdelfattah",
+      "Alexander M Rush"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=e112iu5ssg",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "CLIPPER: Compression enables long-context synthetic data generation",
+    "authors": [
+      "Chau Minh Pham",
+      "Yapei Chang",
+      "Mohit Iyyer"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=akHq1QcqeZ",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Society of Mind Meets Real-Time Strategy: A Hierarchical Multi-Agent Framework for Strategic Reasoning",
+    "authors": [
+      "Daechul Ahn",
+      "San Kim",
+      "Jonghyun Choi"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=VYdbeSoXWD",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "A Sober Look at Progress in Language Model Reasoning: Pitfalls and Paths to Reproducibility",
+    "authors": [
+      "Andreas Hochlehnert",
+      "Hardik Bhatnagar",
+      "Vishaal Udandarao",
+      "Samuel Albanie",
+      "Ameya Prabhu",
+      "Matthias Bethge"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=90UrTTxp5O",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "SPIN-Bench: How Well Do LLMs Plan Strategically and Reason Socially?",
+    "authors": [
+      "Jianzhu Yao",
+      "Kevin Wang",
+      "Ryan Hsieh",
+      "Haisu Zhou",
+      "Tianqing Zou",
+      "Zerui Cheng",
+      "Zhangyang Wang",
+      "Pramod Viswanath"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=mgsS73kvOA",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Resource-efficient Inference with Foundation Model Programs",
+    "authors": [
+      "Lunyiu Nie",
+      "Zhimin Ding",
+      "Kevin Yu",
+      "Marco Cheung",
+      "Chris Jermaine",
+      "Swarat Chaudhuri"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=C5mb473GMY",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Teach Old SAEs New Domain Tricks with Boosting",
+    "authors": [
+      "Nikita Koriagin",
+      "Yaroslav Aksenov",
+      "Daniil Laptev",
+      "Gleb Gerasimov",
+      "Nikita Balagansky",
+      "Daniil Gavrilov"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=d4XXFVAlV7",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Improving LLMs‘ Generalized Reasoning Abilities by Graph Problems",
+    "authors": [
+      "Qifan Zhang",
+      "Nuo Chen",
+      "Zehua Li",
+      "Miao Peng",
+      "Jing Tang",
+      "Jia Li"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=6vMRcaYbU7",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Zero-shot Benchmarking: A Framework for Flexible and Scalable Automatic Evaluation of Language Models",
+    "authors": [
+      "José Pombal",
+      "Nuno M Guerreiro",
+      "Ricardo Rei",
+      "Andre Martins"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=WARZwyDf17",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Register Always Matters: Analysis of LLM Pretraining Data Through the Lens of Language Variation",
+    "authors": [
+      "Amanda Myntti",
+      "Erik Henriksson",
+      "Veronika Laippala",
+      "Sampo Pyysalo"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=FqXXtSZWEZ",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Scoring Verifiers: Evaluating Synthetic Verification for Code and Reasoning",
+    "authors": [
+      "Aleksander Ficek",
+      "Somshubra Majumdar",
+      "Vahid Noroozi",
+      "Boris Ginsburg"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=YLze3CETYP",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Cascade Reward Sampling for Efficient Decoding-Time Alignment",
+    "authors": [
+      "Bolian Li",
+      "Yifan Wang",
+      "Anamika Lochab",
+      "Ananth Grama",
+      "Ruqi Zhang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=QBmxLlmRYG",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Reverse-engineering NLI: A study of the meta-inferential properties of Natural Language Inference",
+    "authors": [
+      "Rasmus Blanck",
+      "Bill Noble",
+      "Stergios Chatzikyriakidis"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=NAcvSI2CRM",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Have Large Language Models Learned to Reason? A Characterization via 3-SAT",
+    "authors": [
+      "RISHI HAZRA",
+      "Gabriele Venturato",
+      "Pedro Zuidberg Dos Martires",
+      "Luc De Raedt"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=MPTlWIVSMU",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "HIPPO-VIDEO : Simulating Watch Histories with Large Language Models for History-Driven Video Highlighting",
+    "authors": [
+      "Jeongeun Lee",
+      "Youngjae Yu",
+      "Dongha Lee"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=Q6TCkggzQ2",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Adversarial Training of Reward Models",
+    "authors": [
+      "Alexander Bukharin",
+      "Haifeng Qian",
+      "Shengyang Sun",
+      "Adithya Renduchintala",
+      "Soumye Singhal",
+      "Zhilin Wang",
+      "Oleksii Kuchaiev",
+      "Olivier Delalleau",
+      "Tuo Zhao"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=H6Ae8Po6fS",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "The Unlearning Mirage: A Dynamic Framework for Evaluating LLM Unlearning",
+    "authors": [
+      "Raj Sanjay Shah",
+      "Jing Huang",
+      "Keerthiram Murugesan",
+      "Nathalie Baracaldo",
+      "Diyi Yang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=exW2SFJK4H",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Planted in Pretraining, Swayed by Finetuning: A Case Study on the Origins of Cognitive Biases in LLMs",
+    "authors": [
+      "Itay Itzhak",
+      "Yonatan Belinkov",
+      "Gabriel Stanovsky"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=KQhUEoPmJy",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "ALOPE: Adaptive Layer Optimization for Translation Quality Estimation using Large Language Models",
+    "authors": [
+      "Archchana Sindhujan",
+      "Shenbin Qian",
+      "Chan Chi Chun Matthew",
+      "Constantin Orasan",
+      "Diptesh Kanojia"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=qSFr5wJPGc",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "The Blessing and Curse of Dimensionality in Safety Alignment",
+    "authors": [
+      "Rachel S.Y. Teo",
+      "Laziz Abdullaev",
+      "Tan Minh Nguyen"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=TiTk6VDz2H",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "AdaptiVocab: Enhancing LLM Efficiency in Focused Domains through Lightweight Vocabulary Adaptation",
+    "authors": [
+      "Itay Nakash",
+      "Nitay Calderon",
+      "Eyal Ben-David",
+      "Elad Hoffer",
+      "Roi Reichart"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=TyXf9dwpZP",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Enhancing LLM Reliability via Explicit Knowledge Boundary Modeling",
+    "authors": [
+      "Hang Zheng",
+      "Hongshen Xu",
+      "Yuncong Liu",
+      "Shuai Fan",
+      "Lu Chen",
+      "Pascale Fung",
+      "Kai Yu"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=WLgfeRhuA0",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Effective Length Extrapolation via Dimension-Wise Positional Embeddings Manipulation",
+    "authors": [
+      "Yi Lu",
+      "Wanxu Zhao",
+      "Xin Zhou",
+      "Chenxin An",
+      "Chenglong Wang",
+      "Shuo Li",
+      "Yuming Yang",
+      "Jun Zhao",
+      "Tao Ji",
+      "Tao Gui",
+      "Qi Zhang",
+      "Xuanjing Huang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=Tahpc3iAnO",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "A Controlled Study on Long Context Extension and Generalization in LLMs",
+    "authors": [
+      "Yi Lu",
+      "Jing Nathan Yan",
+      "Songlin Yang",
+      "Justin T Chiu",
+      "Siyu Ren",
+      "Fei Yuan",
+      "Wenting Zhao",
+      "Zhiyong Wu",
+      "Alexander M Rush"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=BLonuGXDFu",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "G1yphD3c0de: Towards Safer Language Models on Visually Perturbed Texts",
+    "authors": [
+      "Yejinchoi",
+      "Yejin Yeo",
+      "Yejin Son",
+      "Seungju Han",
+      "Youngjae Yu"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=OGwE7LwtcR",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Efficient Process Reward Model Training via Active Learning",
+    "authors": [
+      "Keyu Duan",
+      "Zichen Liu",
+      "Xin Mao",
+      "Tianyu Pang",
+      "Changyu Chen",
+      "Qiguang Chen",
+      "Michael Qizhe Shieh",
+      "Longxu Dou"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=CJ2FmPmoDE",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Detecting and Pruning Prominent but Detrimental Neurons in Large Language Models",
+    "authors": [
+      "Ameen Ali Ali",
+      "Shahar Katz",
+      "Lior Wolf",
+      "Ivan Titov"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=cRE1XrHf1h",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "FormaRL: Enhancing Autoformalization with no Labeled Data",
+    "authors": [
+      "Yanxing Huang",
+      "Xinling Jin",
+      "Sijie Liang",
+      "Fuwen Luo",
+      "Peng Li",
+      "Yang Liu"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=Z2El1U94bq",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "ICQuant: Index Coding enables Low-bit LLM Quantization",
+    "authors": [
+      "Xinlin Li",
+      "Osama Hanna",
+      "Christina Fragouli",
+      "Suhas Diggavi"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=m6nBgFSMTL",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "MAC: A Live Benchmark for Multimodal Large Language Models in Scientific Understanding",
+    "authors": [
+      "Mohan Jiang",
+      "Jin Gao",
+      "Jiahao Zhan",
+      "Dequan Wang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=0aHOVhkuOB",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Interpreting the linear structure of vision-language model embedding spaces",
+    "authors": [
+      "Isabel Papadimitriou",
+      "Huangyuan Su",
+      "Thomas Fel",
+      "Sham M. Kakade",
+      "Stephanie Gil"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=qPsmGjpq1j",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "LLM Can be a Dangerous Persuader: Empirical Study of Persuasion Safety in Large Language Models",
+    "authors": [
+      "Minqian Liu",
+      "Zhiyang Xu",
+      "Xinyi Zhang",
+      "Heajun An",
+      "Sarvech Qadir",
+      "Qi Zhang",
+      "Pamela J. Wisniewski",
+      "Jin-Hee Cho",
+      "Sang Won Lee",
+      "Ruoxi Jia",
+      "Lifu Huang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=TMB9SKqit9",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Establishing Task Scaling Laws via Compute-Efficient Model Ladders",
+    "authors": [
+      "Akshita Bhagia",
+      "Jiacheng Liu",
+      "Alexander Wettig",
+      "David Heineman",
+      "Oyvind Tafjord",
+      "Ananya Harsh Jha",
+      "Luca Soldaini",
+      "Noah A. Smith",
+      "Dirk Groeneveld",
+      "Pang Wei Koh",
+      "Jesse Dodge",
+      "Hannaneh Hajishirzi"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=FeAM2RVO8l",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Can A Society of Generative Agents Simulate Human Behavior and Inform Public Health Policy? A Case Study on Vaccine Hesitancy",
+    "authors": [
+      "Abe Bohan Hou",
+      "Hongru Du",
+      "Yichen Wang",
+      "Jingyu Zhang",
+      "Zixiao Wang",
+      "Paul Pu Liang",
+      "Daniel Khashabi",
+      "Lauren M Gardner",
+      "Tianxing He"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=zSbecER9il",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "LongPerceptualThoughts: Distilling System-2 Reasoning  for System-1 Perception",
+    "authors": [
+      "Yuan-Hong Liao",
+      "Sven Elflein",
+      "Liu He",
+      "Laura Leal-Taixé",
+      "Yejin Choi",
+      "Sanja Fidler",
+      "David Acuna"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=SrKdi4MsUW",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "RARe: Retrieval Augmented Retrieval with In-Context Examples",
+    "authors": [
+      "Atula Tejaswi",
+      "Yoonsang Lee",
+      "sujay sanghavi",
+      "Eunsol Choi"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=9FES5yT9v3",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Reasoning-SQL: Reinforcement Learning with SQL Tailored Partial Rewards for Reasoning-Enhanced Text-to-SQL",
+    "authors": [
+      "Mohammadreza Pourreza",
+      "Shayan Talaei",
+      "Ruoxi Sun",
+      "Xingchen Wan",
+      "Hailong Li",
+      "Azalia Mirhoseini",
+      "Amin Saberi",
+      "Sercan O Arik"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=HbwkIDWQgN",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "PersonaEval: Are LLM Evaluators Human Enough to Judge Role-Play?",
+    "authors": [
+      "Lingfeng Zhou",
+      "Jialing Zhang",
+      "Jin Gao",
+      "Mohan Jiang",
+      "Dequan Wang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=drdrFhKYjP",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "MapIQ: Evaluating Multimodal Large Language Models for Map Question Answering",
+    "authors": [
+      "Varun Srivastava",
+      "Fan Lei",
+      "Srija Mukhopadhyay",
+      "Vivek Gupta",
+      "Ross Maciejewski"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=VSwRuGtB5n",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Bayesian scaling laws for in-context learning",
+    "authors": [
+      "Aryaman Arora",
+      "Dan Jurafsky",
+      "Christopher Potts",
+      "Noah Goodman"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=U2ihVSREUb",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "DoomArena: A framework for Testing AI Agents Against Evolving Security Threats",
+    "authors": [
+      "Léo Boisvert",
+      "Abhay Puri",
+      "Gabriel Huang",
+      "Mihir Bansal",
+      "Chandra Kiran Reddy Evuru",
+      "Avinandan Bose",
+      "Maryam Fazel",
+      "Quentin Cappart",
+      "Alexandre Lacoste",
+      "Alexandre Drouin",
+      "Krishnamurthy Dj Dvijotham"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=GanmYQ0RpE",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Texture or Semantics? Vision-Language Models Get Lost in Font Recognition",
+    "authors": [
+      "Zhecheng Li",
+      "Guoxian Song",
+      "Yujun Cai",
+      "Zhen Xiong",
+      "Junsong Yuan",
+      "Yiwei Wang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=qiLJVU4I8P",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Speculative Thinking: Enhancing Small-Model Reasoning with Large Model Guidance at Inference Time",
+    "authors": [
+      "Van Yang",
+      "Xiang Yue",
+      "Vipin Chaudhary",
+      "Xiaotian Han"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=4Ns18bSoHo",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Transformers are Efficient Compilers, Provably",
+    "authors": [
+      "Xiyu Zhai",
+      "Runlong Zhou",
+      "Liao Zhang",
+      "Simon Shaolei Du"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=CaWkEqUjxs",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation",
+    "authors": [
+      "Lajanugen Logeswaran",
+      "Jaekyeom Kim",
+      "Sungryull Sohn",
+      "Creighton Glasscock",
+      "Honglak Lee"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=63JtmQL7dv",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Pretrained Hybrids with MAD Skills",
+    "authors": [
+      "Nicholas Roberts",
+      "Samuel Guo",
+      "Zhiqi Gao",
+      "Satya Sai Srinath Namburi GNVV",
+      "Sonia Cromp",
+      "Chengjun Wu",
+      "Chengyu Duan",
+      "Frederic Sala"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=8xSbwT3763",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Benchmarking Retrieval-Augmented Generation for Chemistry",
+    "authors": [
+      "Xianrui Zhong",
+      "Bowen Jin",
+      "Siru Ouyang",
+      "Yanzhen Shen",
+      "Qiao Jin",
+      "Yin Fang",
+      "Zhiyong Lu",
+      "Jiawei Han"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=qG4dL0bart",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "AutoScale: Scale-Aware Data Mixing for Pre-Training LLMs",
+    "authors": [
+      "Feiyang Kang",
+      "Yifan Sun",
+      "Bingbing Wen",
+      "Si Chen",
+      "Dawn Song",
+      "Rafid Mahmood",
+      "Ruoxi Jia"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=rujwIvjooA",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Meta-Learning for Speeding Up Large Model Inference in Decentralized Environments",
+    "authors": [
+      "Yipeng Du",
+      "Zihao Wang",
+      "Ahmad Farhan",
+      "Claudio Angione",
+      "Harry Yang",
+      "Fielding Johnston",
+      "James P. Buban",
+      "Yue Zhao",
+      "Yuzhe Yang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=eLWn2XVMHA",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Multilingual and  Multi-Accent Jailbreaking of Audio LLMs",
+    "authors": [
+      "Jaechul Roh",
+      "Virat Shejwalkar",
+      "Amir Houmansadr"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=yGa8CYT8kS",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "X-EcoMLA: Upcycling Pre-Trained Attention into MLA for Efficient and Extreme KV Compression",
+    "authors": [
+      "Guihong Li",
+      "Mehdi Rezagholizadeh",
+      "Mingyu Yang",
+      "Vikram Appia",
+      "Emad Barsoum"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=CPJ9EAeYfd",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "OpenCodeReasoning: Advancing Data Distillation for Competitive Coding",
+    "authors": [
+      "Wasi Uddin Ahmad",
+      "Sean Narenthiran",
+      "Somshubra Majumdar",
+      "Aleksander Ficek",
+      "Siddhartha Jain",
+      "Jocelyn Huang",
+      "Vahid Noroozi",
+      "Boris Ginsburg"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=aykM7KUVJZ",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "UNVEILING: What Makes Linguistics Olympiad Puzzles Tricky for LLMs?",
+    "authors": [
+      "Mukund Choudhary",
+      "KV Aditya Srivatsa",
+      "Gaurja Aeron",
+      "Antara Raaghavi Bhattacharya",
+      "Dang Khoa Dang Dinh",
+      "Ikhlasul Akmal Hanif",
+      "Daria Kotova",
+      "Ekaterina Kochmar",
+      "Monojit Choudhury"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=fcRcl1EXc4",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Inducing Programmatic Skills for Agentic Tasks",
+    "authors": [
+      "Zora Zhiruo Wang",
+      "Apurva Gandhi",
+      "Graham Neubig",
+      "Daniel Fried"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=lsAY6fWsog",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Learning to Reason for Long-Form Story Generation",
+    "authors": [
+      "Alexander Gurung",
+      "Mirella Lapata"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=dr3eg5ehR2",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Can LLM \"Self-report\"?: Evaluating the Validity of Self-report Scales in Measuring Personality Design in LLM-based Chatbots",
+    "authors": [
+      "Huiqi Zou",
+      "Pengda Wang",
+      "Zihan Yan",
+      "Tianjun Sun",
+      "Ziang Xiao"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=xqIwK9mNkj",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Visual Representations inside the Language Model",
+    "authors": [
+      "Benlin Liu",
+      "Amita Kamath",
+      "Madeleine Grunde-McLaughlin",
+      "Winson Han",
+      "Ranjay Krishna"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=99e72TkWTi",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths",
+    "authors": [
+      "Kaixuan Huang",
+      "Xudong Guo",
+      "Mengdi Wang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=Y131N9fUbU",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "RankAlign: A Ranking View of the Generator-Validator Gap in Large Language Models",
+    "authors": [
+      "Juan Diego Rodriguez",
+      "Wenxuan Ding",
+      "Katrin Erk",
+      "Greg Durrett"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=rJOkPauru9",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "SAEs Can Improve Unlearning: Dynamic Sparse Autoencoder Guardrails for Precision Unlearning in LLMs",
+    "authors": [
+      "Aashiq Muhamed",
+      "Jacopo Bonato",
+      "Mona T. Diab",
+      "Virginia Smith"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=kaPAalWAp3",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Energy-Based Reward Models for Robust Language Model Alignment",
+    "authors": [
+      "Anamika Lochab",
+      "Ruqi Zhang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=x6evCULIOQ",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "AI-Slop to AI-Polish? Aligning Language Models through Edit-Based Writing Rewards and Test-time computation",
+    "authors": [
+      "Tuhin Chakrabarty",
+      "Philippe Laban",
+      "Chien-Sheng Wu"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=jeDYcjuZIV",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Mitigating Modal Imbalance in Multimodal Reasoning",
+    "authors": [
+      "Chen Henry Wu",
+      "Neil Kale",
+      "Aditi Raghunathan"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=JsaXxGOXfU",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "NoveltyBench: Evaluating Language Models for Humanlike Diversity",
+    "authors": [
+      "Yiming Zhang",
+      "Harshita Diddee",
+      "Susan Holm",
+      "Hanchen Liu",
+      "Xinyue Liu",
+      "Vinay Samuel",
+      "Barry Wang",
+      "Daphne Ippolito"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=XZm1ekzERf",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "(Im)possibility of Automated Hallucination Detection in Large Language Models",
+    "authors": [
+      "Amin Karbasi",
+      "Omar Montasser",
+      "John Sous",
+      "Grigoris Velegkas"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=e5jWdZIX0Q",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "RRO: LLM Agent Optimization Through Rising Reward Trajectories",
+    "authors": [
+      "Zilong Wang",
+      "Jingfeng Yang",
+      "Sreyashi Nag",
+      "Samarth Varshney",
+      "Xianfeng Tang",
+      "Haoming Jiang",
+      "Jingbo Shang",
+      "Sheikh Muhammad Sarwar"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=PhaE8TSM5j",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Single-Pass Document Scanning for Question Answering",
+    "authors": [
+      "Weili Cao",
+      "Jianyou Wang",
+      "Youze Zheng",
+      "Longtian Bao",
+      "Qirui Zheng",
+      "Taylor Berg-Kirkpatrick",
+      "Ramamohan Paturi",
+      "Leon Bergen"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=7Vj78acKIp",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Knowledge Graph Retrieval-Augmented Generation via GNN-Guided Prompting",
+    "authors": [
+      "Haochen Liu",
+      "Song Wang",
+      "Jundong Li"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=R1NWMExESj",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Don’t lie to your friends: Learning what you know from collaborative self-play",
+    "authors": [
+      "Jacob Eisenstein",
+      "Reza Aghajani",
+      "Adam Fisch",
+      "Dheeru Dua",
+      "Fantine Huot",
+      "Mirella Lapata",
+      "Vicky Zayats",
+      "Jonathan Berant"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=2vDJiGUfhV",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+    "authors": [
+      "Bowen Jin",
+      "Hansi Zeng",
+      "Zhenrui Yue",
+      "Jinsung Yoon",
+      "Sercan O Arik",
+      "Dong Wang",
+      "Hamed Zamani",
+      "Jiawei Han"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=Rwhi91ideu",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "AgentRewardBench: Evaluating Automatic Evaluations of Web Agent Trajectories",
+    "authors": [
+      "Xing Han Lù",
+      "Amirhossein Kazemnejad",
+      "Nicholas Meade",
+      "Arkil Patel",
+      "Dongchan Shin",
+      "Alejandra Zambrano",
+      "Karolina Stanczak",
+      "Peter Shaw",
+      "Christopher Pal",
+      "Siva Reddy"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=fQcUZMPIvu",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "EvalTree: Profiling Language Model Weaknesses via Hierarchical Capability Trees",
+    "authors": [
+      "Zhiyuan Zeng",
+      "Yizhong Wang",
+      "Hannaneh Hajishirzi",
+      "Pang Wei Koh"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=aV2hQN9vkp",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "ThoughtTerminator: Benchmarking, Calibrating, and Mitigating Overthinking in Reasoning Models",
+    "authors": [
+      "Xiao Pu",
+      "Michael Saxon",
+      "Wenyue Hua",
+      "William Yang Wang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=oHR862dpMC",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Scaling Analysis of Interleaved Speech-Text Language Models",
+    "authors": [
+      "Gallil Maimon",
+      "Michael Hassid",
+      "Amit Roth",
+      "Yossi Adi"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=IXwgE8hyJs",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Putting the Value Back in RL: Better Test-Time Scaling by Unifying LLM Reasoners With Verifiers",
+    "authors": [
+      "Kusha Sareen",
+      "Morgane M Moss",
+      "Alessandro Sordoni",
+      "Arian Hosseini",
+      "Rishabh Agarwal"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=kVOrGZM5N7",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Refusal Tokens: A Simple Way to Calibrate Refusals in Large Language Models",
+    "authors": [
+      "Neel Jain",
+      "Aditya Shrivastava",
+      "Chenyang Zhu",
+      "Daben Liu",
+      "Alfy Samuel",
+      "Ashwinee Panda",
+      "Anoop Kumar",
+      "Micah Goldblum",
+      "Tom Goldstein"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=Pbs4i3FgbD",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Language Model Personalization via Reward Factorization",
+    "authors": [
+      "Idan Shenfeld",
+      "Felix Faltings",
+      "Pulkit Agrawal",
+      "Aldo Pacchiano"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=E7Tu5yjqXw",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Resona: Improving Context Copying in Linear Recurrence Models with Retrieval",
+    "authors": [
+      "Xinyu Wang",
+      "Linrui Ma",
+      "Jerry Huang",
+      "Peng Lu",
+      "Prasanna Parthasarathi",
+      "Xiao-Wen Chang",
+      "Boxing Chen",
+      "Yufei Cui"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=4mxQmpnawk",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Model-Agnostic Policy Explanations with Large Language Models",
+    "authors": [
+      "Zhang Xi-Jia",
+      "Yue Guo",
+      "Shufei Chen",
+      "Simon Stepputtis",
+      "Matthew Craig Gombolay",
+      "Katia P. Sycara",
+      "Joseph Campbell"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=VzXpFjKgJg",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "How Multimodal LLMs Solve Image Tasks: A Lens on Visual Grounding, Task Reasoning, and Answer Decoding",
+    "authors": [
+      "Zhuoran Yu",
+      "Yong Jae Lee"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=kjNJYWvfPA",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Tulu 3: Pushing Frontiers in Open Language Model Post-Training",
+    "authors": [
+      "Nathan Lambert",
+      "Jacob Morrison",
+      "Valentina Pyatkin",
+      "Shengyi Huang",
+      "Hamish Ivison",
+      "Faeze Brahman",
+      "Lester James Validad Miranda",
+      "Alisa Liu",
+      "Nouha Dziri",
+      "Xinxi Lyu",
+      "Yuling Gu",
+      "Saumya Malik",
+      "Victoria Graf",
+      "Jena D. Hwang",
+      "Jiangjiang Yang",
+      "Ronan Le Bras",
+      "Oyvind Tafjord",
+      "Christopher Wilhelm",
+      "Luca Soldaini",
+      "Noah A. Smith",
+      "Yizhong Wang",
+      "Pradeep Dasigi",
+      "Hannaneh Hajishirzi"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=i1uGbfHHpH",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Customize Multi-modal RAI Guardrails with Precedent-based predictions",
+    "authors": [
+      "Cheng-Fu Yang",
+      "Thanh Tran",
+      "Christos Christodoulopoulos",
+      "Weitong Ruan",
+      "Rahul Gupta",
+      "Kai-Wei Chang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=HL5X5uX0RD",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Can Large Language Models Integrate Spatial Data? Empirical Insights into Reasoning Strengths and Computational Weaknesses",
+    "authors": [
+      "Bin HAN",
+      "Robert Wolfe",
+      "Anat Caspi",
+      "Bill Howe"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=QNaHC8njYt",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "What is the Visual Cognition Gap between Humans and Multimodal LLMs?",
+    "authors": [
+      "Xu Cao",
+      "Yifan Shen",
+      "Bolin Lai",
+      "Wenqian Ye",
+      "Yunsheng Ma",
+      "Joerg Heintz",
+      "Jintai Chen",
+      "Meihuan Huang",
+      "Jianguo Cao",
+      "Aidong Zhang",
+      "James Matthew Rehg"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=78lTuD6wiO",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning",
+    "authors": [
+      "Pranjal Aggarwal",
+      "Sean Welleck"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=4jdIxXBNve",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Elucidating the Design Space of Decay in Linear Attention",
+    "authors": [
+      "Zhen Qin",
+      "Xuyang Shen",
+      "Yiran Zhong"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=whXh2YxMbt",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Noiser: Bounded Input Perturbations for Attributing Large Language Models",
+    "authors": [
+      "Mohammad Reza Ghasemi Madani",
+      "Aryo Pradipta Gema",
+      "Yu Zhao",
+      "Gabriele Sarti",
+      "Pasquale Minervini",
+      "Andrea Passerini"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=17yFbHmblo",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "SmolLM2: When Smol Goes Big — Data-Centric Training of a Fully Open Small Language Model",
+    "authors": [
+      "Loubna Ben allal",
+      "Anton Lozhkov",
+      "Elie Bakouch",
+      "Gabriel Martin Blazquez",
+      "Guilherme Penedo",
+      "Lewis Tunstall",
+      "Andrés Marafioti",
+      "Agustín Piqueres Lajarín",
+      "Hynek Kydlíček",
+      "Vaibhav Srivastav",
+      "Joshua Lochner",
+      "Caleb Fahlgren",
+      "Xuan Son NGUYEN",
+      "Ben Burtenshaw",
+      "Clémentine Fourrier",
+      "Haojun Zhao",
+      "Hugo Larcher",
+      "Mathieu Morlon",
+      "Cyril Zakka",
+      "Colin Raffel",
+      "Leandro Von Werra",
+      "Thomas Wolf"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=3JiCl2A14H",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "LongCodeBench: Evaluating Coding LLMs at 1M Context Windows",
+    "authors": [
+      "Stefano Rando",
+      "Luca Romani",
+      "Alessio Sampieri",
+      "Luca Franco",
+      "John Yang",
+      "Yuta Kyuragi",
+      "Fabio Galasso",
+      "Tatsunori Hashimoto"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=GFPoM8Ylp8",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Agree to Disagree? A Meta-Evaluation of LLM Misgendering",
+    "authors": [
+      "Arjun Subramonian",
+      "Vagrant Gautam",
+      "Preethi Seshadri",
+      "Dietrich Klakow",
+      "Kai-Wei Chang",
+      "Yizhou Sun"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=vgmiRvpCLA",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "MALT: Improving Reasoning with Multi-Agent LLM Training",
+    "authors": [
+      "Sumeet Ramesh Motwani",
+      "Chandler Smith",
+      "Rocktim Jyoti Das",
+      "Rafael Rafailov",
+      "Philip Torr",
+      "Ivan Laptev",
+      "Fabio Pizzati",
+      "Ronald Clark",
+      "Christian Schroeder de Witt"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=jXP9bgFack",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "More is Less: The Pitfalls of Multi-Model Synthetic Preference Data in DPO Safety Alignment",
+    "authors": [
+      "Yifan Wang",
+      "Runjin Chen",
+      "Bolian Li",
+      "David Cho",
+      "Yihe Deng",
+      "Ruqi Zhang",
+      "Tianlong Chen",
+      "Zhangyang Wang",
+      "Ananth Grama",
+      "Junyuan Hong"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=wXOUYzNv5k",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "BlockFFN: Towards End-Side Acceleration-Friendly Mixture-of-Experts with Chunk-Level Activation Sparsity",
+    "authors": [
+      "Chenyang Song",
+      "Weilin Zhao",
+      "Xu Han",
+      "Chaojun Xiao",
+      "Yingfa Chen",
+      "Yuxuan Li",
+      "Zhiyuan Liu",
+      "Maosong Sun"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=uLl7tSUOir",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Adaptive Layer-skipping in Pre-trained LLMs",
+    "authors": [
+      "Xuan Luo",
+      "Weizhi Wang",
+      "Xifeng Yan"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=Gu0XSax2YS",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "AIR: A Systematic Analysis of Annotations, Instructions, and Response Pairs in Preference Dataset",
+    "authors": [
+      "Bingxiang He",
+      "Wenbin Zhang",
+      "Jiaxi Song",
+      "Cheng Qian",
+      "Zixuan Fu",
+      "Bowen Sun",
+      "Ning Ding",
+      "Haiwen Hong",
+      "Longtao Huang",
+      "Hui Xue",
+      "Ganqu Cui",
+      "Wanxiang Che",
+      "Zhiyuan Liu",
+      "Maosong Sun"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=Sz3ZU6oeVJ",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Insights from the Inverse: Reconstructing LLM Training Goals Through Inverse Reinforcement Learning",
+    "authors": [
+      "Jared Joselowitz",
+      "Ritam Majumdar",
+      "Arjun Jagota",
+      "Matthieu Bou",
+      "Nyal Patel",
+      "Satyapriya Krishna",
+      "Sonali Parbhoo"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=Bs5Jb285qv",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "LLMs Are In-Context Bandit Reinforcement Learners",
+    "authors": [
+      "Giovanni Monea",
+      "Antoine Bosselut",
+      "Kianté Brantley",
+      "Yoav Artzi"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=c0RsezY2D1",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Rethinking Multilingual Continual Pretraining: Data Mixing for Adapting LLMs Across Languages and Resources",
+    "authors": [
+      "Zihao Li",
+      "Shaoxiong Ji",
+      "Hengyu Luo",
+      "Jörg Tiedemann"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=mpTIzK4Zca",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Self-Evolving Critique Abilities in Large Language Models",
+    "authors": [
+      "Zhengyang Tang",
+      "Ziniu Li",
+      "Zhenyang Xiao",
+      "Tian Ding",
+      "Ruoyu Sun",
+      "Benyou Wang",
+      "Dayiheng Liu",
+      "Fei Huang",
+      "Tianyu Liu",
+      "Bowen Yu",
+      "Junyang Lin"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=TA6azZKWJq",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Scaling Laws of Synthetic Data for Language Model",
+    "authors": [
+      "Zeyu Qin",
+      "Qingxiu Dong",
+      "Xingxing Zhang",
+      "Li Dong",
+      "Xiaolong Huang",
+      "Ziyi Yang",
+      "MAHMOUD KHADEMI",
+      "Dongdong Zhang",
+      "Hany Hassan Awadalla",
+      "Yi R. Fung",
+      "Weizhu Chen",
+      "Minhao Cheng",
+      "Furu Wei"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=UmUXPXHtdl",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "HyperINF: Unleashing the HyperPower of Schulz's Method for Data Influence Estimation",
+    "authors": [
+      "Xinyu Zhou",
+      "Simin Fan",
+      "Martin Jaggi"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=QByEdZMJdx",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Contextualize-then-Aggregate: Circuits for In-Context Learning in Gemma-2 2B",
+    "authors": [
+      "Aleksandra Bakalova",
+      "Yana Veitsman",
+      "Xinting Huang",
+      "Michael Hahn"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=rGNAyHReSg",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "CONCAP: Seeing Beyond English with Concepts Retrieval-Augmented Captioning",
+    "authors": [
+      "George Ibrahim",
+      "Rita Ramos",
+      "Yova Kementchedjhieva"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=yfnaK1pZxu",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "AIOS: LLM Agent Operating System",
+    "authors": [
+      "Kai Mei",
+      "Xi Zhu",
+      "Wujiang Xu",
+      "Mingyu Jin",
+      "Wenyue Hua",
+      "Zelong Li",
+      "Shuyuan Xu",
+      "Ruosong Ye",
+      "Yingqiang Ge",
+      "Yongfeng Zhang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=L4HHkCDz2x",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "LoX: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning",
+    "authors": [
+      "Gabriel Jacob Perin",
+      "Runjin Chen",
+      "Xuxi Chen",
+      "Nina S. T. Hirata",
+      "Zhangyang Wang",
+      "Junyuan Hong"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=ASS5YD4hL4",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Verifying the Verifiers: Unveiling Pitfalls and Potentials in Fact Verifiers",
+    "authors": [
+      "Wooseok Seo",
+      "Seungju Han",
+      "Jaehun Jung",
+      "Benjamin Newman",
+      "Seungwon Lim",
+      "Seungbeen Lee",
+      "Ximing Lu",
+      "Yejin Choi",
+      "Youngjae Yu"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=3NjnRo6apU",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Towards User-level Private Reinforcement Learning with Human Feedback",
+    "authors": [
+      "Jiaming Zhang",
+      "Mingxi Lei",
+      "Meng Ding",
+      "Mengdi Li",
+      "Zihang Xiang",
+      "Difei Xu",
+      "Jinhui Xu",
+      "Di Wang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=tfriX0r2Sg",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "MeMAD: Structured Memory of Debates for Enhanced Multi-Agent Reasoning",
+    "authors": [
+      "Shuai Ling",
+      "Lizi Liao",
+      "Dongmei Jiang",
+      "Weili Guan"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=zLbmsdyTiN",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "VaPR - Vision-language Preference alignment for Reasoning",
+    "authors": [
+      "Rohan Wadhawan",
+      "Fabrice Y Harel-Canada",
+      "Zi-Yi Dou",
+      "Suhaila Shakiah",
+      "Robinson Piramuthu",
+      "Nanyun Peng"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=uBAubFwymy",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "FalseReject: A Resource for Improving Contextual Safety and Mitigating Over-Refusals in LLMs via Structured Reasoning",
+    "authors": [
+      "Zhehao Zhang",
+      "Weijie Xu",
+      "Fanyou Wu",
+      "Chandan K. Reddy"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=1w9Hay7tvm",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "SuperBPE: Space Travel for Language Models",
+    "authors": [
+      "Alisa Liu",
+      "Jonathan Hayase",
+      "Valentin Hofmann",
+      "Sewoong Oh",
+      "Noah A. Smith",
+      "Yejin Choi"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=lcDRvffeNP",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "MegaMath: Pushing the Limits of Open Math Corpora",
+    "authors": [
+      "Fan Zhou",
+      "Zengzhi Wang",
+      "Nikhil Ranjan",
+      "Zhoujun Cheng",
+      "Liping Tang",
+      "Guowei He",
+      "Zhengzhong Liu",
+      "Eric P. Xing"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=SHB0sLrZrh",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "FacTool: Factuality Detection in Generative AI -- A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios",
+    "authors": [
+      "Ethan Chern",
+      "Steffi Chern",
+      "Shiqi Chen",
+      "Weizhe Yuan",
+      "Kehua Feng",
+      "Chunting Zhou",
+      "Junxian He",
+      "Graham Neubig",
+      "Pengfei Liu"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=hJkQL9VtWT",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "SecurityLingua: Efficient Defense of LLM Jailbreak Attacks via Security-Aware Prompt Compression",
+    "authors": [
+      "Yucheng Li",
+      "Surin Ahn",
+      "Huiqiang Jiang",
+      "Amir H. Abdi",
+      "Yuqing Yang",
+      "Lili Qiu"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=tybbSo6wba",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "$\\mu$KE: Matryoshka Unstructured Knowledge Editing of Large Language Models",
+    "authors": [
+      "Zian Su",
+      "Ziyang Huang",
+      "Kaiyuan Zhang",
+      "Xiangyu Zhang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=MiR3ObcF3C",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models",
+    "authors": [
+      "Zhaochen Wang",
+      "Bryan Hooi",
+      "Yiwei Wang",
+      "Ming-Hsuan Yang",
+      "Zi Huang",
+      "Yujun Cai"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=naEyNVTLsh",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs",
+    "authors": [
+      "Kanishk Gandhi",
+      "Ayush K Chakravarthy",
+      "Anikait Singh",
+      "Nathan Lile",
+      "Noah Goodman"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=QGJ9ttXLTy",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Hawkeye: Model Collaboration for Efficient Reasoning",
+    "authors": [
+      "Jianshu She",
+      "Zhuohao Li",
+      "Zhemin Huang",
+      "Qi Li",
+      "Peiran Xu",
+      "Haonan Li",
+      "Qirong Ho"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=bdCWK4NkK7",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Building Instruction-Tuning Datasets from Human-Written Instructions with Open-Weight Large Language Models",
+    "authors": [
+      "Youmi Ma",
+      "Sakae Mizuki",
+      "Kazuki Fujii",
+      "Taishi Nakamura",
+      "Masanari Ohi",
+      "Hinari Shimada",
+      "Taihei Shiotani",
+      "Koshiro Saito",
+      "Koki Maeda",
+      "Kakeru Hattori",
+      "Takumi Okamoto",
+      "Shigeki Ishida",
+      "Rio Yokota",
+      "Hiroya Takamura",
+      "Naoaki Okazaki"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=6vTv9M9ZAA",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Impact-driven Context Filtering For Cross-file Code Completion",
+    "authors": [
+      "Yanzhou Li",
+      "Shangqing Liu",
+      "Kangjie Chen",
+      "Tianwei Zhang",
+      "Yang Liu"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=0Y2zXLFBji",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Phased Training for LLM-powered Text Retrieval Models Beyond Data Scaling",
+    "authors": [
+      "Xin Zhang",
+      "Yanzhao Zhang",
+      "Wen Xie",
+      "Dingkun Long",
+      "Mingxin Li",
+      "Pengjun Xie",
+      "Meishan Zhang",
+      "Wenjie Li",
+      "Min Zhang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=NC6G1KCxlt",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model",
+    "authors": [
+      "Yi Nian",
+      "Shenzhe Zhu",
+      "Yuehan Qin",
+      "Li Li",
+      "Ziyi Wang",
+      "Chaowei Xiao",
+      "Yue Zhao"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=8Pxdzsqvx9",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "IMPersona: Evaluating Individual Level LLM Impersonation",
+    "authors": [
+      "Quan Shi",
+      "Carlos E Jimenez",
+      "Stephen Dong",
+      "Brian Seo",
+      "Caden Yao",
+      "Adam Kelch",
+      "Karthik R Narasimhan"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=7qhBXq0NLN",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "ProsodyLM: Uncovering the Emerging Prosody Processing Capabilities in Speech Language Models",
+    "authors": [
+      "Kaizhi Qian",
+      "Xulin Fan",
+      "Junrui Ni",
+      "Slava Shechtman",
+      "Mark A. Hasegawa-Johnson",
+      "Chuang Gan",
+      "Yang Zhang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=uBg8PClMUu",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Bootstrapping Visual Assistant Modeling with Situated Interaction Simulation",
+    "authors": [
+      "Yichi Zhang",
+      "Run Peng",
+      "Yinpei Dai",
+      "Lingyun Wu",
+      "Xuweiyi Chen",
+      "Qiaozi Gao",
+      "Joyce Chai"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=S4nTXotasR",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Context-Adaptive Multi-Prompt Embedding with Large Language Models for Vision-Language Alignment",
+    "authors": [
+      "Dahun Kim",
+      "Anelia Angelova"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=29jP6OsrIQ",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Understanding Layer Significance in LLM Alignment",
+    "authors": [
+      "Guangyuan SHI",
+      "ZEXIN LU",
+      "Xiaoyu DONG",
+      "Wenlong Zhang",
+      "Xuanyu Zhang",
+      "Yujie Feng",
+      "Xiao-Ming Wu"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=JloZnCwhmk",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "EnrichIndex: Using LLMs to Enrich Retrieval Indices Offline",
+    "authors": [
+      "Peter Baile Chen",
+      "Tomer Wolfson",
+      "Mike Cafarella",
+      "Dan Roth"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=wyYL5Jov6e",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Scalable Zeroth-Order Fine-Tuning for Extremely Large Language Models with Limited GPU Memory",
+    "authors": [
+      "Liangyu Wang",
+      "Jie Ren",
+      "Hang Xu",
+      "Junxiao Wang",
+      "Huanyi Xie",
+      "David E. Keyes",
+      "Di Wang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=s0p9xpORgP",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Deep Binding of Language Model Virtual Personas: a Study on Approximating Political Partisan Misperceptions",
+    "authors": [
+      "Minwoo Kang",
+      "Suhong Moon",
+      "Seung Hyeong Lee",
+      "Ayush Raj",
+      "Joseph Suh",
+      "David Chan"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=zHdSCtNmM4",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "SAT: Dynamic Spatial Aptitude Training for Multimodal Language Models",
+    "authors": [
+      "Arijit Ray",
+      "Jiafei Duan",
+      "Ellis L Brown II",
+      "Reuben Tan",
+      "Dina Bashkirova",
+      "Rose Hendrix",
+      "Kiana Ehsani",
+      "Aniruddha Kembhavi",
+      "Bryan A. Plummer",
+      "Ranjay Krishna",
+      "Kuo-Hao Zeng",
+      "Kate Saenko"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=DW8U8ZWa1U",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "DeepRetrieval: Hacking Real Search Engines and Retrievers with Large Language Models via Reinforcement Learning",
+    "authors": [
+      "Pengcheng Jiang",
+      "Jiacheng Lin",
+      "Lang Cao",
+      "Runchu Tian",
+      "SeongKu Kang",
+      "Zifeng Wang",
+      "Jimeng Sun",
+      "Jiawei Han"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=u9JXu4L17I",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Exposing and Patching the Flaws of Large Language Models in Social Character Simulation",
+    "authors": [
+      "Yue Huang",
+      "Zhengqing Yuan",
+      "Yujun Zhou",
+      "Kehan Guo",
+      "Xiangqi Wang",
+      "Haomin Zhuang",
+      "Weixiang Sun",
+      "Lichao Sun",
+      "Jindong Wang",
+      "Yanfang Ye",
+      "Xiangliang Zhang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=B5E3ijlLML",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Rank1: Test-Time Compute for Reranking in Information Retrieval",
+    "authors": [
+      "Orion Weller",
+      "Kathryn Ricci",
+      "Eugene Yang",
+      "Andrew Yates",
+      "Dawn Lawrie",
+      "Benjamin Van Durme"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=Pg0PAvbhGv",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Can Language Models Falsify? Evaluating Algorithmic Reasoning with Counterexample Creation",
+    "authors": [
+      "Shiven Sinha",
+      "Shashwat Goel",
+      "Ponnurangam Kumaraguru",
+      "Jonas Geiping",
+      "Matthias Bethge",
+      "Ameya Prabhu"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=M7cl4Ldw61",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Plato: Plan to Efficient Decode for Large Language Model Inference",
+    "authors": [
+      "Shuowei Jin",
+      "Xueshen Liu",
+      "Yongji Wu",
+      "Haizhong Zheng",
+      "Qingzhao Zhang",
+      "Atul Prakash",
+      "Matthew Lentz",
+      "Danyang Zhuo",
+      "Feng Qian",
+      "Zhuoqing Mao"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=oGO0fNVWrN",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Correctness-Guaranteed Code Generation via Constrained Decoding",
+    "authors": [
+      "Lingxiao Li",
+      "salar rahili",
+      "Yiwei Zhao"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=CYiXNIQegF",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "StagFormer: Time Staggering Decoder only Transformers",
+    "authors": [
+      "Dylan J Cutler",
+      "Arun Kandoor",
+      "Nishanth Dikkala",
+      "Nikunj Saunshi",
+      "Xin Wang",
+      "Rina Panigrahy"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=gOKTe1KI8K",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "MLGym: A New Framework and Benchmark for Advancing AI Research Agents",
+    "authors": [
+      "Deepak Nathani",
+      "Lovish Madaan",
+      "Nicholas Roberts",
+      "Nikolay Bashlykov",
+      "Ajay Menon",
+      "Vincent Moens",
+      "Mikhail Plekhanov",
+      "Amar Budhiraja",
+      "Despoina Magka",
+      "Vladislav Vorotilov",
+      "Gaurav Chaurasia",
+      "Dieuwke Hupkes",
+      "Ricardo Silveira Cabral",
+      "Tatiana Shavrina",
+      "Jakob Nicolaus Foerster",
+      "Yoram Bachrach",
+      "William Yang Wang",
+      "Roberta Raileanu"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=ryTr83DxRq",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Limitations of refinement methods for weak to strong generalization",
+    "authors": [
+      "Seamus Somerstep",
+      "Yaacov Ritov",
+      "Mikhail Yurochkin",
+      "Subha Maity",
+      "Yuekai Sun"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=OKvSnV5Ar7",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "How do language models learn facts? Dynamics, curricula and hallucinations",
+    "authors": [
+      "Nicolas Zucchet",
+      "Jorg Bornschein",
+      "Stephanie C.Y. Chan",
+      "Andrew Kyle Lampinen",
+      "Razvan Pascanu",
+      "Soham De"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=vBcGnragkr",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "DualEdit: Dual Editing for Knowledge Updating in Vision-Language Models",
+    "authors": [
+      "Zhiyi Shi",
+      "Binjie Wang",
+      "Chongjie Si",
+      "Yichen Wu",
+      "Junsik Kim",
+      "Hanspeter Pfister"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=X5vFauyVWr",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Improving Table Understanding with LLMs and Entity-Oriented Search",
+    "authors": [
+      "Thi-Nhung Nguyen",
+      "Hoang Ngo",
+      "Dinh Phung",
+      "Thuy-Trang Vu",
+      "Dat Quoc Nguyen"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=vlyl9xZVAL",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "LongProc: Benchmarking Long-Context Language Models on Long Procedural Generation",
+    "authors": [
+      "Xi Ye",
+      "Fangcong Yin",
+      "Yinghui He",
+      "Joie Zhang",
+      "Howard Yen",
+      "Tianyu Gao",
+      "Greg Durrett",
+      "Danqi Chen"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=ruWC5LIMSo",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "ScholarCopilot: Training Large Language Models for Academic Writing with Accurate Citations",
+    "authors": [
+      "Yubo Wang",
+      "Xueguang Ma",
+      "Ping Nie",
+      "Huaye Zeng",
+      "Zhiheng Lyu",
+      "Yuxuan Zhang",
+      "Benjamin Schneider",
+      "Yi Lu",
+      "Xiang Yue",
+      "Wenhu Chen"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=r8nloXtluk",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Short-PHD: Detecting Short LLM-generated Text with Topological Data Analysis After Off-topic Content Insertion",
+    "authors": [
+      "Dongjun Wei",
+      "Minjia Mao",
+      "Xiao Fang",
+      "Michael Chau"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=IC2WwhUfQg",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Truth-value judgment in language models: ‘truth directions’ are context sensitive",
+    "authors": [
+      "Stefan F. Schouten",
+      "Peter Bloem",
+      "Ilia Markov",
+      "Piek Vossen"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=2H85485yAb",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Out-of-Distribution Detection using Synthetic Data Generation",
+    "authors": [
+      "Momin Abbas",
+      "Muneeza Azmat",
+      "Raya Horesh",
+      "Mikhail Yurochkin"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=TiRiDMkTmG",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Cutting the Root of Hallucination: Structural Trimming for Vulnerability Mitigation in Code LLMs",
+    "authors": [
+      "Yage Zhang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=dU4Y2sNfJ2",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "RWKV-7 \"Goose\" with Expressive Dynamic State Evolution",
+    "authors": [
+      "Bo Peng",
+      "Ruichong Zhang",
+      "Daniel Goldstein",
+      "Eric Alcaide",
+      "Xingjian Du",
+      "Haowen Hou",
+      "Jiaju Lin",
+      "Jiaxing Liu",
+      "Janna Lu",
+      "William Merrill",
+      "Guangyu Song",
+      "Kaifeng Tan",
+      "Saiteja Utpala",
+      "Nathan Wilce",
+      "Johan S. Wind",
+      "Tianyi Wu",
+      "Daniel Wuttke",
+      "Christian Zhou-Zheng"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=ayB1PACN5j",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Ensemble Debiasing Across Class and Sample Levels for Fairer Prompting Accuracy",
+    "authors": [
+      "Ruixi Lin",
+      "Ziqiao Wang",
+      "Yang You"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=63c7hTrUCh",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Imagine All The Relevance: Scenario-Profiled Indexing with Knowledge Expansion for Dense Retrieval",
+    "authors": [
+      "Sangam Lee",
+      "Ryang Heo",
+      "SeongKu Kang",
+      "Dongha Lee"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=ZYVAtUUNbH",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "You Cannot Feed Two Birds with One Score: the Accuracy-Naturalness Tradeoff in Translation",
+    "authors": [
+      "Gergely Flamich",
+      "David Vilar",
+      "Jan-Thorsten Peter",
+      "Markus Freitag"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=d9EkgbZZH9",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Mixture of Attention Spans: Optimizing LLM Inference Efficiency with Heterogeneous Sliding-Window Lengths",
+    "authors": [
+      "Tianyu Fu",
+      "Haofeng Huang",
+      "Xuefei Ning",
+      "Genghan Zhang",
+      "Boju Chen",
+      "Tianqi Wu",
+      "Hongyi Wang",
+      "Zixiao Huang",
+      "Shiyao Li",
+      "Shengen Yan",
+      "Guohao Dai",
+      "Huazhong Yang",
+      "Yu Wang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=n3rZJrWPLE",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Understanding the Uncertainty of LLM Explanations: A Perspective Based on Reasoning Topology",
+    "authors": [
+      "Longchao Da",
+      "Xiaoou Liu",
+      "Jiaxin Dai",
+      "Lu Cheng",
+      "Yaqing Wang",
+      "Hua Wei"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=p4wZfBFgyI",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "How does Watermarking Affect Visual Language Models in Document Understanding?",
+    "authors": [
+      "Chunxue Xu",
+      "Yiwei Wang",
+      "Bryan Hooi",
+      "Yujun Cai",
+      "Songze Li"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=lvQwn8eiRf",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Exploring the Limit of Outcome Reward for Learning Mathematical Reasoning",
+    "authors": [
+      "Chengqi Lyu",
+      "Songyang Gao",
+      "Yuzhe Gu",
+      "Wenwei Zhang",
+      "Jianfei Gao",
+      "Kuikun Liu",
+      "Ziyi Wang",
+      "Shuaibin Li",
+      "Qian Zhao",
+      "Haian Huang",
+      "Weihan Cao",
+      "Jiangning Liu",
+      "Hongwei Liu",
+      "Junnan Liu",
+      "Songyang Zhang",
+      "Dahua Lin",
+      "Kai Chen"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=hLg2rzBJR2",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "When To Solve, When To Verify: Compute-Optimal Problem Solving and Generative Verification for LLM Reasoning",
+    "authors": [
+      "Nishad Singhi",
+      "Hritik Bansal",
+      "Arian Hosseini",
+      "Aditya Grover",
+      "Kai-Wei Chang",
+      "Marcus Rohrbach",
+      "Anna Rohrbach"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=R7qRUFHGTx",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "R2E-Gym: Procedural Environment Generation and Hybrid Verifiers for Scaling Open-Weights SWE Agents",
+    "authors": [
+      "Naman Jain",
+      "Jaskirat Singh",
+      "Manish Shetty",
+      "Tianjun Zhang",
+      "Liang Zheng",
+      "Koushik Sen",
+      "Ion Stoica"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=7evvwwdo3z",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Robo-Instruct: Simulator-Augmented Instruction Alignment For Finetuning Code LLMs",
+    "authors": [
+      "Zichao Hu",
+      "Junyi Jessy Li",
+      "Arjun Guha",
+      "Joydeep Biswas"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=WnZjdQOWiY",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "CodeARC: Benchmarking Reasoning Capabilities of LLM Agents for Inductive Program Synthesis",
+    "authors": [
+      "Anjiang Wei",
+      "Tarun Suresh",
+      "Jiannan Cao",
+      "Naveen Kannan",
+      "Yuheng Wu",
+      "Kai Yan",
+      "Thiago S. F. X. Teixeira",
+      "Ke Wang",
+      "Alex Aiken"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=Q5pVZCrrKr",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing",
+    "authors": [
+      "Zhongyang Li",
+      "Ziyue Li",
+      "Tianyi Zhou"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=lqC5J7pBP9",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Gating is Weighting: Understanding Gated Linear Attention through In-context Learning",
+    "authors": [
+      "Yingcong Li",
+      "Davoud Ataee Tarzanagh",
+      "Ankit Singh Rawat",
+      "Maryam Fazel",
+      "Samet Oymak"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=9AFIz0YzD7",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "$100K or 100 Days: Trade-offs when Pre-Training with Academic Resources",
+    "authors": [
+      "Apoorv Khandelwal",
+      "Tian Yun",
+      "Nihal V. Nayak",
+      "Jack Merullo",
+      "Stephen Bach",
+      "Chen Sun",
+      "Ellie Pavlick"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=EFxC34XbDh",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Shared Global and Local Geometry of Language Model Embeddings",
+    "authors": [
+      "Andrew Lee",
+      "Melanie Weber",
+      "Fernanda Viégas",
+      "Martin Wattenberg"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=aJDykpJAYF",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "D3: A Dataset for Training Code LMs to Act Diff-by-Diff",
+    "authors": [
+      "Ulyana Piterbarg",
+      "Kanishk Gandhi",
+      "Lerrel Pinto",
+      "Noah Goodman",
+      "Rob Fergus"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=sy71y74U80",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "LLM-based Multi-Agents System Attack via Continuous Optimization with Discrete Efficient Search",
+    "authors": [
+      "Weichen Yu",
+      "Kai Hu",
+      "Tianyu Pang",
+      "Chao Du",
+      "Min Lin",
+      "Matt Fredrikson"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=ED5diyzc1C",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Do Biased Models Have Biased Thoughts?",
+    "authors": [
+      "Swati Rajwal",
+      "Shivank Garg",
+      "Reem Abdel-Salam",
+      "Abdelrahman Zayed"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=vDr0RV3590",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "BEARCUBS: A benchmark for computer-using web agents",
+    "authors": [
+      "Yixiao Song",
+      "Katherine Thai",
+      "Chau Minh Pham",
+      "Yapei Chang",
+      "Mazin Nadaf",
+      "Mohit Iyyer"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=0JzWiigkUy",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "CUPID: Evaluating Personalized and Contextualized Alignment of LLMs from Interactions",
+    "authors": [
+      "Tae Soo Kim",
+      "Yoonjoo Lee",
+      "Yoonah Park",
+      "Jiho Kim",
+      "Young-Ho Kim",
+      "Juho Kim"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=JMxRn7orEk",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Supposedly Equivalent Facts That Aren’t? Entity Frequency in Pre-training Induces Asymmetry in LLMs",
+    "authors": [
+      "Yuan He",
+      "Bailan He",
+      "Zifeng Ding",
+      "Alisia Maria Lupidi",
+      "Yuqicheng Zhu",
+      "Shuo Chen",
+      "Caiqi Zhang",
+      "Jiaoyan Chen",
+      "Yunpu Ma",
+      "Volker Tresp",
+      "Ian Horrocks"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=sX4OoLKSW2",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Training Plug-and-Play Knowledge Modules with Deep Context Distillation",
+    "authors": [
+      "Lucas Caccia",
+      "Alan Ansell",
+      "Edoardo Ponti",
+      "Ivan Vulić",
+      "Alessandro Sordoni"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=ghyyHZYORi",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "EuroBERT: Scaling Multilingual Encoders for European Languages",
+    "authors": [
+      "Nicolas Boizard",
+      "Hippolyte Gisserot-Boukhlef",
+      "Duarte Miguel Alves",
+      "Andre Martins",
+      "Ayoub Hammal",
+      "Caio Corro",
+      "CELINE HUDELOT",
+      "Emmanuel Malherbe",
+      "Etienne Malaboeuf",
+      "Fanny Jourdan",
+      "Gabriel Hautreux",
+      "João Alves",
+      "Kevin El Haddad",
+      "Manuel Faysse",
+      "Maxime Peyrard",
+      "Nuno M Guerreiro",
+      "Patrick Fernandes",
+      "Ricardo Rei",
+      "Pierre Colombo"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=jdOC24msVq",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Style over Substance: Distilled Language Models Reason Via Stylistic Replication",
+    "authors": [
+      "Philip Lippmann",
+      "Jie Yang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=5wAfbEs34A",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Plancraft: an evaluation dataset for planning with LLM agents",
+    "authors": [
+      "Gautier Dagan",
+      "Frank Keller",
+      "Alex Lascarides"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=nSV8Depcpx",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Off-Policy Corrected Reward Modeling for Reinforcement Learning from Human Feedback",
+    "authors": [
+      "Johannes Ackermann",
+      "Takashi Ishida",
+      "Masashi Sugiyama"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=0zxugBcgF5",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Efficient Construction of Model Family through Progressive Training Using Model Expansion",
+    "authors": [
+      "Kazuki Yano",
+      "Sho Takase",
+      "Sosuke Kobayashi",
+      "Shun Kiyono",
+      "Jun Suzuki"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=fuBrcTH8NM",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Inside-Out: Hidden Factual Knowledge in LLMs",
+    "authors": [
+      "Zorik Gekhman",
+      "Eyal Ben-David",
+      "Hadas Orgad",
+      "Eran Ofek",
+      "Yonatan Belinkov",
+      "Idan Szpektor",
+      "Jonathan Herzig",
+      "Roi Reichart"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=f7GG1MbsSM",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "News is More than a Collection of Facts: Moral Frame Preserving News Summarization",
+    "authors": [
+      "Enrico Liscio",
+      "Michela Lorandi",
+      "Pradeep K. Murukannaiah"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=uzauWUW9u3",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "LV-Eval: A Balanced Long-Context Benchmark with 5 Length Levels Up to 256K",
+    "authors": [
+      "Tao Yuan",
+      "Xuefei Ning",
+      "Dong Zhou",
+      "Zhijie Yang",
+      "Shiyao Li",
+      "Minghui Zhuang",
+      "Zheyue Tan",
+      "Zhuyu Yao",
+      "Dahua Lin",
+      "Boxun Li",
+      "Guohao Dai",
+      "Shengen Yan",
+      "Yu Wang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=r0AXK5Cnhr",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Base Models Beat Aligned Models at Randomness and Creativity",
+    "authors": [
+      "Peter West",
+      "Christopher Potts"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=vqN8uom4A1",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Enhancing LLM Reasoning with Iterative DPO: A Comprehensive Empirical Investigation",
+    "authors": [
+      "Songjun Tu",
+      "Jiahao Lin",
+      "Xiangyu Tian",
+      "Qichao Zhang",
+      "Linjing Li",
+      "Yuqian Fu",
+      "Nan Xu",
+      "Wei He",
+      "Xiangyuan Lan",
+      "Dongmei Jiang",
+      "Dongbin Zhao"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=OgWh4J7bkT",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Agents Are All You Need for LLM Unlearning",
+    "authors": [
+      "Debdeep Sanyal",
+      "Murari Mandal"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=X39dK0SX9W",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "One ruler to measure them all: Benchmarking multilingual long-context language models",
+    "authors": [
+      "Yekyung Kim",
+      "Jenna Russell",
+      "Marzena Karpinska",
+      "Mohit Iyyer"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=3vxxB3Ar9r",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "SEAL: Steerable Reasoning Calibration of Large Language Models for Free",
+    "authors": [
+      "Runjin Chen",
+      "Zhenyu Zhang",
+      "Junyuan Hong",
+      "Souvik Kundu",
+      "Zhangyang Wang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=klPszYDIRT",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild",
+    "authors": [
+      "Weihao Zeng",
+      "Yuzhen Huang",
+      "Qian Liu",
+      "Wei Liu",
+      "Keqing He",
+      "Zejun MA",
+      "Junxian He"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=vSMCBUgrQj",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "SpectR: Dynamically Composing LM Experts with Spectral Routing",
+    "authors": [
+      "William Fleshman",
+      "Benjamin Van Durme"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=tK8GHR62EX",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Both Direct and Indirect Evidence Contribute to Dative Alternation Preferences in Language Models",
+    "authors": [
+      "Qing Yao",
+      "Kanishka Misra",
+      "Leonie Weissweiler",
+      "Kyle Mahowald"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=h5SRsDax8v",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "TRELLIS: Learning to Compress Key-Value Memory in Attention Models",
+    "authors": [
+      "Mahdi Karami",
+      "Ali Behrouz",
+      "Praneeth Kacham",
+      "Vahab Mirrokni"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=r61s1FNYlj",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Beyond the Reported Cutoff: Where Large Language Models Fall Short on Financial Knowledge",
+    "authors": [
+      "Agam Shah",
+      "Liqin Ye",
+      "Sebastian Jaskowski",
+      "Wei Xu",
+      "Sudheer Chava"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=lEpPFmGH3L",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "LoRI: Reducing Cross-Task Interference in Multi-Task Low-Rank Adaptation",
+    "authors": [
+      "Juzheng Zhang",
+      "Jiacheng You",
+      "Ashwinee Panda",
+      "Tom Goldstein"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=b8cW86QcOD",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "CASCADE Your Datasets for Cross-Mode Knowledge Retrieval of Language Models",
+    "authors": [
+      "Runlong Zhou",
+      "Yi Zhang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=EJGlOybbDB",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Extragradient Preference Optimization (EGPO): Beyond Last-Iterate Convergence for Nash Learning from Human Feedback",
+    "authors": [
+      "Runlong Zhou",
+      "Maryam Fazel",
+      "Simon Shaolei Du"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=EP7mAqx2BO",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "The Devil is in the EOS: Sequence Training for Detailed Image Captioning",
+    "authors": [
+      "Abdelrahman Mohamed",
+      "Yova Kementchedjhieva"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=oSub7DiyjL",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "ReFeed: Multi-dimensional Summarization Refinement with Reflective Reasoning on Feedback",
+    "authors": [
+      "Taewon Yun",
+      "Jihwan Oh",
+      "Hyangsuk Min",
+      "Yuho Lee",
+      "Jihwan Bang",
+      "Jason Cai",
+      "Hwanjun Song"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=6BGDGKZN7q",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Modifying Large Language Model Post-Training for Diverse Creative Writing",
+    "authors": [
+      "John Joon Young Chung",
+      "Vishakh Padmakumar",
+      "Melissa Roemmele",
+      "Yuqian Sun",
+      "Max Kreminski"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=1Pmuw08LoM",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "LLMs as Research Tools: A Large Scale Survey of Researchers’ Usage and Perceptions",
+    "authors": [
+      "Zhehui Liao",
+      "Maria Antoniak",
+      "Inyoung Cheong",
+      "Evie Yu-Yen Cheng",
+      "Ai-Heng Lee",
+      "Kyle Lo",
+      "Joseph Chee Chang",
+      "Amy X Zhang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=p0BwJk3R1p",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "FineMedLM-o1: Enhancing Medical Knowledge Reasoning Ability of LLM from Supervised Fine-Tuning to Test-Time Training",
+    "authors": [
+      "hongzhou yu",
+      "Tianhao Cheng",
+      "Yingwen Wang",
+      "Wen He",
+      "Qing Wang",
+      "Ying Cheng",
+      "Yuejie Zhang",
+      "Rui Feng",
+      "Xiaobo Zhang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=7ZwuGZCopw",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Can Test-Time Scaling Improve World Foundation Model?",
+    "authors": [
+      "Wenyan Cong",
+      "Hanqing Zhu",
+      "Peihao Wang",
+      "Bangya Liu",
+      "Dejia Xu",
+      "Kevin Wang",
+      "David Z. Pan",
+      "Yan Wang",
+      "Zhiwen Fan",
+      "Zhangyang Wang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=jSmpq7IRYe",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information",
+    "authors": [
+      "Ryo Kamoi",
+      "Yusen Zhang",
+      "Sarkar Snigdha Sarathi Das",
+      "Ranran Haoran Zhang",
+      "Rui Zhang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=PYHwlyu2fa",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Hypothesis-Driven Theory-of-Mind Reasoning for Large Language Models",
+    "authors": [
+      "Hyunwoo Kim",
+      "Melanie Sclar",
+      "Tan Zhi-Xuan",
+      "Lance Ying",
+      "Sydney Levine",
+      "Yang Liu",
+      "Joshua B. Tenenbaum",
+      "Yejin Choi"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=yGQqTuSJPK",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "DFRot: Achieving Outlier-Free and Massive Activation-Free for Rotated LLMs with Refined Rotation",
+    "authors": [
+      "Jingyang Xiang",
+      "Sai Qian Zhang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=WzGypILLDb",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "The Dual-Route Model of Induction",
+    "authors": [
+      "Sheridan Feucht",
+      "Eric Todd",
+      "Byron C Wallace",
+      "David Bau"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=bNTrKqqnG9",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Language Models Fail to Introspect About Their Knowledge of Language",
+    "authors": [
+      "Siyuan Song",
+      "Jennifer Hu",
+      "Kyle Mahowald"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=AivRDOFi5H",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "SQuat: Subspace-orthogonal KV Cache Quantization",
+    "authors": [
+      "Hao Wang",
+      "Ligong Han",
+      "Kai Xu",
+      "Akash Srivastava"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=gKdhzBiHay",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Hidden in plain sight: VLMs overlook their visual representations",
+    "authors": [
+      "Stephanie Fu",
+      "tyler bonnen",
+      "Devin Guillory",
+      "Trevor Darrell"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=qQb1JLrwol",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Language Model Uncertainty Quantification with Attention Chain",
+    "authors": [
+      "Yinghao Li",
+      "Rushi Qiang",
+      "Lama Moukheiber",
+      "Chao Zhang"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=QTrW2HWNXe",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "SmolVLM: Redefining small and efficient multimodal models",
+    "authors": [
+      "Andrés Marafioti",
+      "Orr Zohar",
+      "Miquel Farré",
+      "Merve noyan",
+      "Elie Bakouch",
+      "Pedro Manuel Cuenca Jiménez",
+      "Cyril Zakka",
+      "Loubna Ben allal",
+      "Anton Lozhkov",
+      "Nouamane Tazi",
+      "Vaibhav Srivastav",
+      "Joshua Lochner",
+      "Hugo Larcher",
+      "Mathieu Morlon",
+      "Lewis Tunstall",
+      "Leandro Von Werra",
+      "Thomas Wolf"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=qMUbhGUFUb",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Efficient Self-Improvement in Multimodal Large Language Models: A Model-Level Judge-Free Approach",
+    "authors": [
+      "Shijian Deng",
+      "Wentian Zhao",
+      "Yu-Jhe Li",
+      "Kun Wan",
+      "Daniel Miranda",
+      "Ajinkya Kale",
+      "Yapeng Tian"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=NRrXHppaBg",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Overflow Prevention Enhances Long-Context Recurrent LLMs",
+    "authors": [
+      "Assaf Ben-Kish",
+      "Itamar Zimerman",
+      "Muhammad Jehanzeb Mirza",
+      "Lior Wolf",
+      "James R. Glass",
+      "Leonid Karlinsky",
+      "Raja Giryes"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=h99hJlU99U",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "KVSink: Understanding and Enhancing the Preservation of Attention Sinks in KV Cache Quantization for LLMs",
+    "authors": [
+      "Zunhai Su",
+      "Kehong Yuan"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=gIqb6zWZoO",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "PredGen: Accelerated Inference of Large Language Models through Input-Time Speculation for Real-Time Speech Interaction",
+    "authors": [
+      "Shufan Li",
+      "Aditya Grover"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=2Kl8Ztw6wk",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Discovering Knowledge Deficiencies of Language Models on Massive Knowledge Base",
+    "authors": [
+      "Linxin Song",
+      "Xuwei Ding",
+      "Jieyu Zhang",
+      "Taiwei Shi",
+      "Ryotaro Shimizu",
+      "Rahul Gupta",
+      "Yang Liu",
+      "Jian Kang",
+      "Jieyu Zhao"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=eqNItk1sWo",
+    "source": "COLM",
+    "year": 2025
+  },
+  {
+    "title": "Assessing Judging Bias in Large Reasoning Models: An Empirical Study",
+    "authors": [
+      "Qian Wang",
+      "Zhanzhi Lou",
+      "Zhenheng Tang",
+      "Nuo Chen",
+      "Xuandong Zhao",
+      "Wenxuan Zhang",
+      "Dawn Song",
+      "Bingsheng He"
+    ],
+    "pdf_link": "https://openreview.net/pdf?id=SlRtFwBdzP",
+    "source": "COLM",
+    "year": 2025
+  }
+]
