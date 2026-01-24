@@ -178,7 +178,7 @@ class COLMScraper:
 def main():
     """主函数"""
     # 可以在这里修改年份
-    year = 2023
+    year = 2024
     
     # 创建爬虫实例
     scraper = COLMScraper(year=year)

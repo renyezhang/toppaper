@@ -161,7 +161,7 @@ class UnifiedNIPSScraper:
 def main():
     """主函数"""
     # 可以在这里修改年份
-    year = 2020
+    year = 2021
     
     # 创建爬虫实例
     scraper = UnifiedNIPSScraper(year=year)

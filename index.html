@@ -605,8 +605,14 @@
                     responses.map(response => response.json())
                 );
                 
-                // 合并所有数组
+                // 合并所有数组并按年份降序排序
                 allPapers = papersArrays.flat();
+                // 按年份降序排序（2025 -> 2024 -> ...）
+                allPapers.sort((a, b) => {
+                    const yearA = a.year || 0;
+                    const yearB = b.year || 0;
+                    return yearB - yearA; // 降序排序
+                });
                 filteredPapers = [...allPapers];
                 
                 document.getElementById('loading').style.display = 'none';
@@ -693,6 +699,13 @@
                 }
                 
                 return textMatch && yearMatch && sourceMatch;
+            });
+
+            // 按年份降序排序（2025 -> 2024 -> ...）
+            filteredPapers.sort((a, b) => {
+                const yearA = a.year || 0;
+                const yearB = b.year || 0;
+                return yearB - yearA; // 降序排序
             });
 
             updateStats();
