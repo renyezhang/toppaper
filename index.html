@@ -499,6 +499,14 @@
                         >
                         <label for="sourceCOLM">COLM</label>
                     </div>
+                    <div class="checkbox-item">
+                        <input 
+                            type="checkbox" 
+                            id="sourceAAAI" 
+                            checked
+                        >
+                        <label for="sourceAAAI">AAAI</label>
+                    </div>
                 </div>
             </div>
             <div class="stats">
@@ -539,10 +547,11 @@
         // 加载JSON数据
         async function loadPapers() {
             try {
-                // 并行加载两个JSON文件
-                const [response1, response2] = await Promise.all([
+                // 并行加载三个JSON文件
+                const [response1, response2, response3] = await Promise.all([
                     fetch('AAAI2025papers.json'),
-                    fetch('CVPR2024papers.json')
+                    fetch('CVPR2024papers.json'),
+                    fetch('AAAI2024papers.json')
                 ]);
                 
                 if (!response1.ok) {
@@ -551,12 +560,16 @@
                 if (!response2.ok) {
                     throw new Error('无法加载CVPR2024papers.json文件');
                 }
+                if (!response3.ok) {
+                    throw new Error('无法加载AAAI2024papers.json文件');
+                }
                 
                 const papers1 = await response1.json();
                 const papers2 = await response2.json();
+                const papers3 = await response3.json();
                 
-                // 合并两个数组
-                allPapers = [...papers1, ...papers2];
+                // 合并三个数组
+                allPapers = [...papers1, ...papers2, ...papers3];
                 filteredPapers = [...allPapers];
                 
                 document.getElementById('loading').style.display = 'none';
@@ -575,6 +588,7 @@
                 document.getElementById('sourceICLR').addEventListener('change', handleSourceFilter);
                 document.getElementById('sourceICML').addEventListener('change', handleSourceFilter);
                 document.getElementById('sourceCOLM').addEventListener('change', handleSourceFilter);
+                document.getElementById('sourceAAAI').addEventListener('change', handleSourceFilter);
             } catch (error) {
                 document.getElementById('loading').textContent = '加载失败: ' + error.message;
                 console.error('Error loading papers:', error);
@@ -595,6 +609,7 @@
             const sourceICLR = document.getElementById('sourceICLR').checked;
             const sourceICML = document.getElementById('sourceICML').checked;
             const sourceCOLM = document.getElementById('sourceCOLM').checked;
+            const sourceAAAI = document.getElementById('sourceAAAI').checked;
             
             // 获取选中的source列表
             const selectedSources = [];
@@ -605,6 +620,7 @@
             if (sourceICLR) selectedSources.push('ICLR');
             if (sourceICML) selectedSources.push('ICML');
             if (sourceCOLM) selectedSources.push('COLM');
+            if (sourceAAAI) selectedSources.push('AAAI');
             
             filteredPapers = allPapers.filter(paper => {
                 // 文本搜索过滤
