@@ -9,8 +9,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # --- 配置参数 ---
-JSON_FILE = "papers.json"
-RESTART_EVERY_N = 20  # 每爬取多少篇论文后重启一次浏览器
+JSON_FILE = "AAAI2025papers.json"
+RESTART_EVERY_N = 200  # 每爬取多少篇论文后重启一次浏览器
 MIN_DELAY = 5  # 最小等待秒数
 MAX_DELAY = 10  # 最大等待秒数
 
