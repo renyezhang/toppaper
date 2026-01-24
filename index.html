@@ -547,29 +547,40 @@
         // 加载JSON数据
         async function loadPapers() {
             try {
-                // 并行加载三个JSON文件
-                const [response1, response2, response3] = await Promise.all([
-                    fetch('AAAI2025papers.json'),
-                    fetch('CVPR2024papers.json'),
-                    fetch('AAAI2024papers.json')
-                ]);
+                // 定义所有要加载的JSON文件列表
+                const jsonFiles = [
+                    'AAAI2021papers.json',
+                    'AAAI2022papers.json',
+                    'AAAI2023papers.json',
+                    'AAAI2024papers.json',
+                    'AAAI2025papers.json',
+                    'CVPR2024papers.json'
+                ];
                 
-                if (!response1.ok) {
-                    throw new Error('无法加载AAAI2025papers.json文件');
-                }
-                if (!response2.ok) {
-                    throw new Error('无法加载CVPR2024papers.json文件');
-                }
-                if (!response3.ok) {
-                    throw new Error('无法加载AAAI2024papers.json文件');
+                // 并行加载所有JSON文件
+                const responses = await Promise.all(
+                    jsonFiles.map(file => fetch(file))
+                );
+                
+                // 检查所有响应是否成功
+                const failedFiles = [];
+                responses.forEach((response, index) => {
+                    if (!response.ok) {
+                        failedFiles.push(jsonFiles[index]);
+                    }
+                });
+                
+                if (failedFiles.length > 0) {
+                    throw new Error('无法加载以下文件: ' + failedFiles.join(', '));
                 }
                 
-                const papers1 = await response1.json();
-                const papers2 = await response2.json();
-                const papers3 = await response3.json();
+                // 解析所有JSON数据
+                const papersArrays = await Promise.all(
+                    responses.map(response => response.json())
+                );
                 
-                // 合并三个数组
-                allPapers = [...papers1, ...papers2, ...papers3];
+                // 合并所有数组
+                allPapers = papersArrays.flat();
                 filteredPapers = [...allPapers];
                 
                 document.getElementById('loading').style.display = 'none';
