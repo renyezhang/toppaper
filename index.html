@@ -539,11 +539,24 @@
         // 加载JSON数据
         async function loadPapers() {
             try {
-                const response = await fetch('AAAI2025papers.json');
-                if (!response.ok) {
-                    throw new Error('无法加载JSON文件');
+                // 并行加载两个JSON文件
+                const [response1, response2] = await Promise.all([
+                    fetch('AAAI2025papers.json'),
+                    fetch('CVPR2024papers.json')
+                ]);
+                
+                if (!response1.ok) {
+                    throw new Error('无法加载AAAI2025papers.json文件');
                 }
-                allPapers = await response.json();
+                if (!response2.ok) {
+                    throw new Error('无法加载CVPR2024papers.json文件');
+                }
+                
+                const papers1 = await response1.json();
+                const papers2 = await response2.json();
+                
+                // 合并两个数组
+                allPapers = [...papers1, ...papers2];
                 filteredPapers = [...allPapers];
                 
                 document.getElementById('loading').style.display = 'none';
