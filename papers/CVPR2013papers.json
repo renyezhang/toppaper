@@ -1,0 +1,5412 @@
+[
+  {
+    "title": "Deformable Spatial Pyramid Matching for Fast Dense Correspondences",
+    "authors": [
+      "Kim, Jaechul",
+      "Liu, Ce",
+      "Sha, Fei",
+      "Grauman, Kristen"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Kim_Deformable_Spatial_Pyramid_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "A Genetic Algorithm-Based Solver for Very Large Jigsaw Puzzles",
+    "authors": [
+      "Sholomon, Dror",
+      "David, Omid",
+      "Netanyahu, Nathan S."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Sholomon_A_Genetic_Algorithm-Based_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Exploring Compositional High Order Pattern Potentials for Structured Output Learning",
+    "authors": [
+      "Li, Yujia",
+      "Tarlow, Daniel",
+      "Zemel, Richard"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Li_Exploring_Compositional_High_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Hyperbolic Harmonic Mapping for Constrained Brain Surface Registration",
+    "authors": [
+      "Shi, Rui",
+      "Zeng, Wei",
+      "Su, Zhengyu",
+      "Damasio, Hanna",
+      "Lu, Zhonglin",
+      "Wang, Yalin",
+      "Yau, Shing-Tung",
+      "Gu, Xianfeng"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Shi_Hyperbolic_Harmonic_Mapping_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Dense Variational Reconstruction of Non-rigid Surfaces from Monocular Video",
+    "authors": [
+      "Garg, Ravi",
+      "Roussos, Anastasios",
+      "Agapito, Lourdes"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Garg_Dense_Variational_Reconstruction_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Fusing Depth from Defocus and Stereo with Coded Apertures",
+    "authors": [
+      "Takeda, Yuichi",
+      "Hiura, Shinsaku",
+      "Sato, Kosuke"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Takeda_Fusing_Depth_from_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "A Non-parametric Framework for Document Bleed-through Removal",
+    "authors": [
+      "Rowley-Brooke, Roisin",
+      "Pitie, Francois",
+      "Kokaram, Anil"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Rowley-Brooke_A_Non-parametric_Framework_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "A Comparative Study of Modern Inference Techniques for Discrete Energy Minimization Problems",
+    "authors": [
+      "Kappes, J.",
+      "Andres, B.",
+      "Hamprecht, F.",
+      "Schnorr, C.",
+      "Nowozin, S.",
+      "Batra, D.",
+      "Kim, S.",
+      "Kausler, B.",
+      "Lellmann, J.",
+      "Komodakis, N.",
+      "Rother, C."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Kappes_A_Comparative_Study_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Submodular Salient Region Detection",
+    "authors": [
+      "Jiang, Zhuolin",
+      "Davis, Larry S."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Jiang_Submodular_Salient_Region_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Spatio-temporal Depth Cuboid Similarity Feature for Activity Recognition Using Depth Camera",
+    "authors": [
+      "Xia, Lu",
+      "Aggarwal, J.K."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Xia_Spatio-temporal_Depth_Cuboid_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Bringing Semantics into Focus Using Visual Abstraction",
+    "authors": [
+      "Zitnick, C. L.",
+      "Parikh, Devi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zitnick_Bringing_Semantics_into_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Fast Multiple-Part Based Object Detection Using KD-Ferns",
+    "authors": [
+      "Levi, Dan",
+      "Silberstein, Shai",
+      "Bar-Hillel, Aharon"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Levi_Fast_Multiple-Part_Based_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Computing Diffeomorphic Paths for Large Motion Interpolation",
+    "authors": [
+      "Seo, Dohyung",
+      "Ho, Jeffrey",
+      "Vemuri, Baba C."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Seo_Computing_Diffeomorphic_Paths_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Wide-Baseline Hair Capture Using Strand-Based Refinement",
+    "authors": [
+      "Luo, Linjie",
+      "Zhang, Cha",
+      "Zhang, Zhengyou",
+      "Rusinkiewicz, Szymon"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Luo_Wide-Baseline_Hair_Capture_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Radial Distortion Self-Calibration",
+    "authors": [
+      "Henrique Brito, Jose",
+      "Angst, Roland",
+      "Koser, Kevin",
+      "Pollefeys, Marc"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Brito_Radial_Distortion_Self-Calibration_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Separating Signal from Noise Using Patch Recurrence across Scales",
+    "authors": [
+      "Zontak, Maria",
+      "Mosseri, Inbar",
+      "Irani, Michal"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zontak_Separating_Signal_from_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Detection Evolution with Multi-order Contextual Co-occurrence",
+    "authors": [
+      "Chen, Guang",
+      "Ding, Yuanyuan",
+      "Xiao, Jing",
+      "Han, Tony X."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Chen_Detection_Evolution_with_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Manhattan Scene Understanding via XSlit Imaging",
+    "authors": [
+      "Ye, Jinwei",
+      "Ji, Yu",
+      "Yu, Jingyi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ye_Manhattan_Scene_Understanding_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Cumulative Attribute Space for Age and Crowd Density Estimation",
+    "authors": [
+      "Chen, Ke",
+      "Gong, Shaogang",
+      "Xiang, Tao",
+      "Change Loy, Chen"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Chen_Cumulative_Attribute_Space_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Tensor-Based High-Order Semantic Relation Transfer for Semantic Scene Segmentation",
+    "authors": [
+      "Myeong, Heesoo",
+      "Mu Lee, Kyoung"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Myeong_Tensor-Based_High-Order_Semantic_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Accurate and Robust Registration of Nonrigid Surface Using Hierarchical Statistical Shape Model",
+    "authors": [
+      "Hontani, Hidekata",
+      "Tsunekawa, Yuto",
+      "Sawada, Yoshihide"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Hontani_Accurate_and_Robust_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "POOF: Part-Based One-vs.-One Features for Fine-Grained Categorization, Face Verification, and Attribute Estimation",
+    "authors": [
+      "Berg, Thomas",
+      "Belhumeur, Peter N."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Berg_POOF_Part-Based_One-vs.-One_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Sparse Quantization for Patch Description",
+    "authors": [
+      "Boix, Xavier",
+      "Gygli, Michael",
+      "Roig, Gemma",
+      "Van Gool, Luc"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Boix_Sparse_Quantization_for_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "What's in a Name? First Names as Facial Attributes",
+    "authors": [
+      "Chen, Huizhong",
+      "Gallagher, Andrew C.",
+      "Girod, Bernd"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Chen_Whats_in_a_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Context-Aware Modeling and Recognition of Activities in Video",
+    "authors": [
+      "Zhu, Yingying",
+      "Nayak, Nandita M.",
+      "Roy-Chowdhury, Amit K."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zhu_Context-Aware_Modeling_and_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Learning to Detect Partially Overlapping Instances",
+    "authors": [
+      "Arteta, Carlos",
+      "Lempitsky, Victor",
+      "Noble, J. A.",
+      "Zisserman, Andrew"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Arteta_Learning_to_Detect_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Exemplar-Based Face Parsing",
+    "authors": [
+      "Smith, Brandon M.",
+      "Zhang, Li",
+      "Brandt, Jonathan",
+      "Lin, Zhe",
+      "Yang, Jianchao"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Smith_Exemplar-Based_Face_Parsing_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Multipath Sparse Coding Using Hierarchical Matching Pursuit",
+    "authors": [
+      "Bo, Liefeng",
+      "Ren, Xiaofeng",
+      "Fox, Dieter"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Bo_Multipath_Sparse_Coding_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Visual Tracking via Locality Sensitive Histograms",
+    "authors": [
+      "He, Shengfeng",
+      "Yang, Qingxiong",
+      "Lau, Rynson W.H.",
+      "Wang, Jiang",
+      "Yang, Ming-Hsuan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/He_Visual_Tracking_via_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Optimized Product Quantization for Approximate Nearest Neighbor Search",
+    "authors": [
+      "Ge, Tiezheng",
+      "He, Kaiming",
+      "Ke, Qifa",
+      "Sun, Jian"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ge_Optimized_Product_Quantization_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Tracking People and Their Objects",
+    "authors": [
+      "Baumgartner, Tobias",
+      "Mitzel, Dennis",
+      "Leibe, Bastian"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Baumgartner_Tracking_People_and_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Multi-target Tracking by Lagrangian Relaxation to Min-cost Network Flow",
+    "authors": [
+      "Butt, Asad A.",
+      "Collins, Robert T."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Butt_Multi-target_Tracking_by_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "In Defense of 3D-Label Stereo",
+    "authors": [
+      "Olsson, Carl",
+      "Ulen, Johannes",
+      "Boykov, Yuri"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Olsson_In_Defense_of_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Compressible Motion Fields",
+    "authors": [
+      "Ottaviano, Giuseppe",
+      "Kohli, Pushmeet"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ottaviano_Compressible_Motion_Fields_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Dense Object Reconstruction with Semantic Priors",
+    "authors": [
+      "Yingze Bao, Sid",
+      "Chandraker, Manmohan",
+      "Lin, Yuanqing",
+      "Savarese, Silvio"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Bao_Dense_Object_Reconstruction_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Large-Scale Video Summarization Using Web-Image Priors",
+    "authors": [
+      "Khosla, Aditya",
+      "Hamid, Raffay",
+      "Lin, Chih-Jen",
+      "Sundaresan, Neel"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Khosla_Large-Scale_Video_Summarization_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Deformable Graph Matching",
+    "authors": [
+      "Zhou, Feng",
+      "De la Torre, Fernando"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zhou_Deformable_Graph_Matching_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "3D Visual Proxemics: Recognizing Human Interactions in 3D from a Single Image",
+    "authors": [
+      "Chakraborty, Ishani",
+      "Cheng, Hui",
+      "Javed, Omar"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Chakraborty_3D_Visual_Proxemics_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Dictionary Learning from Ambiguously Labeled Data",
+    "authors": [
+      "Chen, Yi-Chen",
+      "Patel, Vishal M.",
+      "Pillai, Jaishanker K.",
+      "Chellappa, Rama",
+      "Phillips, P. J."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Chen_Dictionary_Learning_from_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Graph-Based Optimization with Tubularity Markov Tree for 3D Vessel Segmentation",
+    "authors": [
+      "Zhu, Ning",
+      "Chung, Albert C.S."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zhu_Graph-Based_Optimization_with_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Fast Convolutional Sparse Coding",
+    "authors": [
+      "Bristow, Hilton",
+      "Eriksson, Anders",
+      "Lucey, Simon"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Bristow_Fast_Convolutional_Sparse_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Block and Group Regularized Sparse Modeling for Dictionary Learning",
+    "authors": [
+      "Chi, Yu-Tseh",
+      "Ali, Mohsen",
+      "Rajwade, Ajit",
+      "Ho, Jeffrey"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Chi_Block_and_Group_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Compressed Hashing",
+    "authors": [
+      "Lin, Yue",
+      "Jin, Rong",
+      "Cai, Deng",
+      "Yan, Shuicheng",
+      "Li, Xuelong"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Lin_Compressed_Hashing_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Part Discovery from Partial Correspondence",
+    "authors": [
+      "Maji, Subhransu",
+      "Shakhnarovich, Gregory"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Maji_Part_Discovery_from_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Alternating Decision Forests",
+    "authors": [
+      "Schulter, Samuel",
+      "Wohlhart, Paul",
+      "Leistner, Christian",
+      "Saffari, Amir",
+      "Roth, Peter M.",
+      "Bischof, Horst"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Schulter_Alternating_Decision_Forests_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "SWIGS: A Swift Guided Sampling Method",
+    "authors": [
+      "Fragoso, Victor",
+      "Turk, Matthew"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Fragoso_SWIGS_A_Swift_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Recognize Human Activities from Partially Observed Videos",
+    "authors": [
+      "Cao, Yu",
+      "Barrett, Daniel",
+      "Barbu, Andrei",
+      "Narayanaswamy, Siddharth",
+      "Yu, Haonan",
+      "Michaux, Aaron",
+      "Lin, Yuewei",
+      "Dickinson, Sven",
+      "Mark Siskind, Jeffrey",
+      "Wang, Song"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Cao_Recognize_Human_Activities_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "A Convex Regularizer for Reducing Color Artifact in Color Image Recovery",
+    "authors": [
+      "Ono, Shunsuke",
+      "Yamada, Isao"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ono_A_Convex_Regularize_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Maximum Cohesive Grid of Superpixels for Fast Object Localization",
+    "authors": [
+      "Li, Liang",
+      "Feng, Wei",
+      "Wan, Liang",
+      "Zhang, Jiawan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Li_Maximum_Cohesive_Grid_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Action Recognition by Hierarchical Sequence Summarization",
+    "authors": [
+      "Song, Yale",
+      "Morency, Louis-Philippe",
+      "Davis, Randall"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Song_Action_Recognition_by_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "An Iterated L1 Algorithm for Non-smooth Non-convex Optimization in Computer Vision",
+    "authors": [
+      "Ochs, Peter",
+      "Dosovitskiy, Alexey",
+      "Brox, Thomas",
+      "Pock, Thomas"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ochs_An_Iterated_L1_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Ensemble Video Object Cut in Highly Dynamic Scenes",
+    "authors": [
+      "Ren, Xiaobo",
+      "Han, Tony X.",
+      "He, Zhihai"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ren_Ensemble_Video_Object_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Learning for Structured Prediction Using Approximate Subgradient Descent with Working Sets",
+    "authors": [
+      "Lucchi, Aurelien",
+      "Li, Yunpeng",
+      "Fua, Pascal"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Lucchi_Learning_for_Structured_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Exploring Implicit Image Statistics for Visual Representativeness Modeling",
+    "authors": [
+      "Sun, Xiaoshuai",
+      "Wang, Xin-Jing",
+      "Yao, Hongxun",
+      "Zhang, Lei"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Sun_Exploring_Implicit_Image_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Reconstructing Gas Flows Using Light-Path Approximation",
+    "authors": [
+      "Ji, Yu",
+      "Ye, Jinwei",
+      "Yu, Jingyi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ji_Reconstructing_Gas_Flows_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Learning Multiple Non-linear Sub-spaces Using K-RBMs",
+    "authors": [
+      "Chandra, Siddhartha",
+      "Kumar, Shailesh",
+      "Jawahar, C.V."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Chandra_Learning_Multiple_Non-linear_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Articulated and Restricted Motion Subspaces and Their Signatures",
+    "authors": [
+      "Jacquet, Bastien",
+      "Angst, Roland",
+      "Pollefeys, Marc"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Jacquet_Articulated_and_Restricted_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Simultaneous Active Learning of Classifiers & Attributes via Relative Feedback",
+    "authors": [
+      "Biswas, Arijit",
+      "Parikh, Devi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Biswas_Simultaneous_Active_Learning_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Monocular Template-Based 3D Reconstruction of Extensible Surfaces with Local Linear Elasticity",
+    "authors": [
+      "Malti, Abed",
+      "Hartley, Richard",
+      "Bartoli, Adrien",
+      "Kim, Jae-Hak"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Malti_Monocular_Template-Based_3D_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Multi-view Photometric Stereo with Spatially Varying Isotropic Materials",
+    "authors": [
+      "Zhou, Zhenglong",
+      "Wu, Zhe",
+      "Tan, Ping"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zhou_Multi-view_Photometric_Stereo_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "A New Model and Simple Algorithms for Multi-label Mumford-Shah Problems",
+    "authors": [
+      "Hong, Byung-Woo",
+      "Lu, Zhaojin",
+      "Sundaramoorthi, Ganesh"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Hong_A_New_Model_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Kernel Learning for Extrinsic Classification of Manifold Features",
+    "authors": [
+      "Vemulapalli, Raviteja",
+      "Pillai, Jaishanker K.",
+      "Chellappa, Rama"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Vemulapalli_Kernel_Learning_for_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Finding Things: Image Parsing with Regions and Per-Exemplar Detectors",
+    "authors": [
+      "Tighe, Joseph",
+      "Lazebnik, Svetlana"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Tighe_Finding_Things_Image_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Complex Event Detection via Multi-source Video Attributes",
+    "authors": [
+      "Ma, Zhigang",
+      "Yang, Yi",
+      "Xu, Zhongwen",
+      "Yan, Shuicheng",
+      "Sebe, Nicu",
+      "Hauptmann, Alexander G."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ma_Complex_Event_Detection_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Learning Collections of Part Models for Object Recognition",
+    "authors": [
+      "Endres, Ian",
+      "Shih, Kevin J.",
+      "Jiaa, Johnston",
+      "Hoiem, Derek"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Endres_Learning_Collections_of_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "FrameBreak: Dramatic Image Extrapolation by Guided Shift-Maps",
+    "authors": [
+      "Zhang, Yinda",
+      "Xiao, Jianxiong",
+      "Hays, James",
+      "Tan, Ping"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zhang_FrameBreak_Dramatic_Image_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Bayesian Grammar Learning for Inverse Procedural Modeling",
+    "authors": [
+      "Martinovic, Andelo",
+      "Van Gool, Luc"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Martinovic_Bayesian_Grammar_Learning_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Single Image Calibration of Multi-axial Imaging Systems",
+    "authors": [
+      "Agrawal, Amit",
+      "Ramalingam, Srikumar"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Agrawal_Single_Image_Calibration_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "3D R Transform on Spatio-temporal Interest Points for Action Recognition",
+    "authors": [
+      "Yuan, Chunfeng",
+      "Li, Xi",
+      "Hu, Weiming",
+      "Ling, Haibin",
+      "Maybank, Stephen"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Yuan_3D_R_Transform_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "First-Person Activity Recognition: What Are They Doing to Me?",
+    "authors": [
+      "Ryoo, Michael S.",
+      "Matthies, Larry"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ryoo_First-Person_Activity_Recognition_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Sparse Subspace Denoising for Image Manifolds",
+    "authors": [
+      "Wang, Bo",
+      "Tu, Zhuowen"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Wang_Sparse_Subspace_Denoising_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Adding Unlabeled Samples to Categories by Learned Attributes",
+    "authors": [
+      "Choi, Jonghyun",
+      "Rastegari, Mohammad",
+      "Farhadi, Ali",
+      "Davis, Larry S."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Choi_Adding_Unlabeled_Samples_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Auxiliary Cuts for General Classes of Higher Order Functionals",
+    "authors": [
+      "Ben Ayed, Ismail",
+      "Gorelick, Lena",
+      "Boykov, Yuri"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ayed_Auxiliary_Cuts_for_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Template-Based Isometric Deformable 3D Reconstruction with Sampling-Based Focal Length Self-Calibration",
+    "authors": [
+      "Bartoli, Adrien",
+      "Collins, Toby"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Bartoli_Template-Based_Isometric_Deformable_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Binary Code Ranking with Weighted Hamming Distance",
+    "authors": [
+      "Zhang, Lei",
+      "Zhang, Yongdong",
+      "Tang, Jinhu",
+      "Lu, Ke",
+      "Tian, Qi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zhang_Binary_Code_Ranking_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Video Editing with Temporal, Spatial and Appearance Consistency",
+    "authors": [
+      "Guo, Xiaojie",
+      "Cao, Xiaochun",
+      "Chen, Xiaowu",
+      "Ma, Yi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Guo_Video_Editing_with_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Unsupervised Joint Object Discovery and Segmentation in Internet Images",
+    "authors": [
+      "Rubinstein, Michael",
+      "Joulin, Armand",
+      "Kopf, Johannes",
+      "Liu, Ce"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Rubinstein_Unsupervised_Joint_Object_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Learning SURF Cascade for Fast and Accurate Object Detection",
+    "authors": [
+      "Li, Jianguo",
+      "Zhang, Yimin"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Li_Learning_SURF_Cascade_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Efficient Computation of Shortest Path-Concavity for 3D Meshes",
+    "authors": [
+      "Zimmer, Henrik",
+      "Campen, Marcel",
+      "Kobbelt, Leif"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zimmer_Efficient_Computation_of_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Learning Discriminative Illumination and Filters for Raw Material Classification with Optimal Projections of Bidirectional Texture Functions",
+    "authors": [
+      "Liu, Chao",
+      "Yang, Geifei",
+      "Gu, Jinwei"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Liu_Learning_Discriminative_Illumination_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Illumination Estimation Based on Bilayer Sparse Coding",
+    "authors": [
+      "Li, Bing",
+      "Xiong, Weihua",
+      "Hu, Weiming",
+      "Peng, Houwen"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Li_Illumination_Estimation_Based_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Leveraging Structure from Motion to Learn Discriminative Codebooks for Scalable Landmark Classification",
+    "authors": [
+      "Bergamo, Alessandro",
+      "Sinha, Sudipta N.",
+      "Torresani, Lorenzo"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Bergamo_Leveraging_Structure_from_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Efficient 2D-to-3D Correspondence Filtering for Scalable 3D Object Recognition",
+    "authors": [
+      "Hao, Qiang",
+      "Cai, Rui",
+      "Li, Zhiwei",
+      "Zhang, Lei",
+      "Pang, Yanwei",
+      "Wu, Feng",
+      "Rui, Yong"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Hao_Efficient_2D-to-3D_Correspondence_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Weakly Supervised Learning for Attribute Localization in Outdoor Scenes",
+    "authors": [
+      "Wang, Shuo",
+      "Joo, Jungseock",
+      "Wang, Yizhou",
+      "Zhu, Song-Chun"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Wang_Weakly_Supervised_Learning_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Jointly Aligning and Segmenting Multiple Web Photo Streams for the Inference of Collective Photo Storylines",
+    "authors": [
+      "Kim, Gunhee",
+      "Xing, Eric P."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Kim_Jointly_Aligning_and_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Studying Relationships between Human Gaze, Description, and Computer Vision",
+    "authors": [
+      "Yun, Kiwon",
+      "Peng, Yifan",
+      "Samaras, Dimitris",
+      "Zelinsky, Gregory J.",
+      "Berg, Tamara L."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Yun_Studying_Relationships_between_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "SLAM++: Simultaneous Localisation and Mapping at the Level of Objects",
+    "authors": [
+      "Salas-Moreno, Renato F.",
+      "Newcombe, Richard A.",
+      "Strasdat, Hauke",
+      "Kelly, Paul H.J.",
+      "Davison, Andrew J."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Salas-Moreno_SLAM_Simultaneous_Localisation_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "A Theory of Refractive Photo-Light-Path Triangulation",
+    "authors": [
+      "Chari, Visesh",
+      "Sturm, Peter"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Chari_A_Theory_of_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Learning Structured Low-Rank Representations for Image Classification",
+    "authors": [
+      "Zhang, Yangmuzi",
+      "Jiang, Zhuolin",
+      "Davis, Larry S."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zhang_Learning_Structured_Low-Rank_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Detecting and Aligning Faces by Image Retrieval",
+    "authors": [
+      "Shen, Xiaohui",
+      "Lin, Zhe",
+      "Brandt, Jonathan",
+      "Wu, Ying"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Shen_Detecting_and_Aligning_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Towards Contactless, Low-Cost and Accurate 3D Fingerprint Identification",
+    "authors": [
+      "Kumar, Ajay",
+      "Kwong, Cyril"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Kumar_Towards_Contactless_Low-Cost_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Augmenting CRFs with Boltzmann Machine Shape Priors for Image Labeling",
+    "authors": [
+      "Kae, Andrew",
+      "Sohn, Kihyuk",
+      "Lee, Honglak",
+      "Learned-Miller, Erik"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Kae_Augmenting_CRFs_with_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "It's Not Polite to Point: Describing People with Uncertain Attributes",
+    "authors": [
+      "Sadovnik, Amir",
+      "Gallagher, Andrew",
+      "Chen, Tsuhan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Sadovnik_Its_Not_Polite_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Reconstructing Loopy Curvilinear Structures Using Integer Programming",
+    "authors": [
+      "Turetken, Engin",
+      "Benmansour, Fethallah",
+      "Andres, Bjoern",
+      "Pfister, Hanspeter",
+      "Fua, Pascal"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Turetken_Reconstructing_Loopy_Curvilinear_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Weakly-Supervised Dual Clustering for Image Semantic Segmentation",
+    "authors": [
+      "Liu, Yang",
+      "Liu, Jing",
+      "Li, Zechao",
+      "Tang, Jinhui",
+      "Lu, Hanqing"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Liu_Weakly-Supervised_Dual_Clustering_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Multi-target Tracking by Rank-1 Tensor Approximation",
+    "authors": [
+      "Shi, Xinchu",
+      "Ling, Haibin",
+      "Xing, Junling",
+      "Hu, Weiming"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Shi_Multi-target_Tracking_by_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Multi-image Blind Deblurring Using a Coupled Adaptive Sparse Prior",
+    "authors": [
+      "Zhang, Haichao",
+      "Wipf, David",
+      "Zhang, Yanning"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zhang_Multi-image_Blind_Deblurring_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Templateless Quasi-rigid Shape Modeling with Implicit Loop-Closure",
+    "authors": [
+      "Zeng, Ming",
+      "Zheng, Jiaxiang",
+      "Cheng, Xuan",
+      "Liu, Xinguo"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zeng_Templateless_Quasi-rigid_Shape_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Cross-View Action Recognition via a Continuous Virtual Path",
+    "authors": [
+      "Zhang, Zhong",
+      "Wang, Chunheng",
+      "Xiao, Baihua",
+      "Zhou, Wen",
+      "Liu, Shuang",
+      "Shi, Cunzhao"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zhang_Cross-View_Action_Recognition_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Non-rigid Structure from Motion with Diffusion Maps Prior",
+    "authors": [
+      "Tao, Lili",
+      "Matuszewski, Bogdan J."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Tao_Non-rigid_Structure_from_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Discriminative Non-blind Deblurring",
+    "authors": [
+      "Schmidt, Uwe",
+      "Rother, Carsten",
+      "Nowozin, Sebastian",
+      "Jancsary, Jeremy",
+      "Roth, Stefan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Schmidt_Discriminative_Non-blind_Deblurring_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Prostate Segmentation in CT Images via Spatial-Constrained Transductive Lasso",
+    "authors": [
+      "Shi, Yinghuan",
+      "Liao, Shu",
+      "Gao, Yaozong",
+      "Zhang, Daoqiang",
+      "Gao, Yang",
+      "Shen, Dinggang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Shi_Prostate_Segmentation_in_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Optimized Pedestrian Detection for Multiple and Occluded People",
+    "authors": [
+      "Rujikietgumjorn, Sitapa",
+      "Collins, Robert T."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Rujikietgumjorn_Optimized_Pedestrian_Detection_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Rotation, Scaling and Deformation Invariant Scattering for Texture Discrimination",
+    "authors": [
+      "Sifre, Laurent",
+      "Mallat, Stephane"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Sifre_Rotation_Scaling_and_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "A Minimum Error Vanishing Point Detection Approach for Uncalibrated Monocular Images of Man-Made Environments",
+    "authors": [
+      "Xu, Yiliang",
+      "Oh, Sangmin",
+      "Hoogs, Anthony"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Xu_A_Minimum_Error_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Poselet Key-Framing: A Model for Human Activity Recognition",
+    "authors": [
+      "Raptis, Michalis",
+      "Sigal, Leonid"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Raptis_Poselet_Key-Framing_A_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Probabilistic Label Trees for Efficient Large Scale Image Classification",
+    "authors": [
+      "Liu, Baoyuan",
+      "Sadeghi, Fereshteh",
+      "Tappen, Marshall",
+      "Shamir, Ohad",
+      "Liu, Ce"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Liu_Probabilistic_Label_Trees_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Depth Super Resolution by Rigid Body Self-Similarity in 3D",
+    "authors": [
+      "Hornacek, Michael",
+      "Rhemann, Christoph",
+      "Gelautz, Margrit",
+      "Rother, Carsten"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Hornacek_Depth_Super_Resolution_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "SCALPEL: Segmentation Cascades with Localized Priors and Efficient Learning",
+    "authors": [
+      "Weiss, David",
+      "Taskar, Ben"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Weiss_SCALPEL_Segmentation_Cascades_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Lost! Leveraging the Crowd for Probabilistic Visual Self-Localization",
+    "authors": [
+      "Brubaker, Marcus A.",
+      "Geiger, Andreas",
+      "Urtasun, Raquel"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Brubaker_Lost_Leveraging_the_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Class Generative Models Based on Feature Regression for Pose Estimation of Object Categories",
+    "authors": [
+      "Fenzi, Michele",
+      "Leal-Taixe, Laura",
+      "Rosenhahn, Bodo",
+      "Ostermann, Jorn"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Fenzi_Class_Generative_Models_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Event Retrieval in Large Video Collections with Circulant Temporal Encoding",
+    "authors": [
+      "Revaud, Jerome",
+      "Douze, Matthijs",
+      "Schmid, Cordelia",
+      "Jegou, Herve"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Revaud_Event_Retrieval_in_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Looking Beyond the Image: Unsupervised Learning for Object Saliency and Detection",
+    "authors": [
+      "Siva, Parthipan",
+      "Russell, Chris",
+      "Xiang, Tao",
+      "Agapito, Lourdes"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Siva_Looking_Beyond_the_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Selective Transfer Machine for Personalized Facial Action Unit Detection",
+    "authors": [
+      "Chu, Wen-Sheng",
+      "De La Torre, Fernando",
+      "Cohn, Jeffery F."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Chu_Selective_Transfer_Machine_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Procrustean Normal Distribution for Non-rigid Structure from Motion",
+    "authors": [
+      "Lee, Minsik",
+      "Cho, Jungchan",
+      "Choi, Chong-Ho",
+      "Oh, Songhwai"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Lee_Procrustean_Normal_Distribution_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Blur Processing Using Double Discrete Wavelet Transform",
+    "authors": [
+      "Zhang, Yi",
+      "Hirakawa, Keigo"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zhang_Blur_Processing_Using_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Video Enhancement of People Wearing Polarized Glasses: Darkening Reversal and Reflection Reduction",
+    "authors": [
+      "Ye, Mao",
+      "Zhang, Cha",
+      "Yang, Ruigang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ye_Video_Enhancement_of_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Joint Geodesic Upsampling of Depth Images",
+    "authors": [
+      "Liu, Ming-Yu",
+      "Tuzel, Oncel",
+      "Taguchi, Yuichi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Liu_Joint_Geodesic_Upsampling_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Discriminative Re-ranking of Diverse Segmentations",
+    "authors": [
+      "Yadollahpour, Payman",
+      "Batra, Dhruv",
+      "Shakhnarovich, Gregory"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Yadollahpour_Discriminative_Re-ranking_of_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Incorporating User Interaction and Topological Constraints within Contour Completion via Discrete Calculus",
+    "authors": [
+      "Xu, Jia",
+      "Collins, Maxwell D.",
+      "Singh, Vikas"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Xu_Incorporating_User_Interaction_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Shading-Based Shape Refinement of RGB-D Images",
+    "authors": [
+      "Yu, Lap-Fai",
+      "Yeung, Sai-Kit",
+      "Tai, Yu-Wing",
+      "Lin, Stephen"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Yu_Shading-Based_Shape_Refinement_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Active Contours with Group Similarity",
+    "authors": [
+      "Zhou, Xiaowei",
+      "Huang, Xiaojie",
+      "Duncan, James S.",
+      "Yu, Weichuan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zhou_Active_Contours_with_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Diffusion Processes for Retrieval Revisited",
+    "authors": [
+      "Donoser, Michael",
+      "Bischof, Horst"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Donoser_Diffusion_Processes_for_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "From N to N+1: Multiclass Transfer Incremental Learning",
+    "authors": [
+      "Kuzborskij, Ilja",
+      "Orabona, Francesco",
+      "Caputo, Barbara"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Kuzborskij_From_N_to_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "The SVM-Minus Similarity Score for Video Face Recognition",
+    "authors": [
+      "Wolf, Lior",
+      "Levy, Noga"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Wolf_The_SVM-Minus_Similarity_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Human Pose Estimation Using Body Parts Dependent Joint Regressors",
+    "authors": [
+      "Dantone, Matthias",
+      "Gall, Juergen",
+      "Leistner, Christian",
+      "Van Gool, Luc"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Dantone_Human_Pose_Estimation_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "A Principled Deep Random Field Model for Image Segmentation",
+    "authors": [
+      "Kohli, Pushmeet",
+      "Osokin, Anton",
+      "Jegelka, Stefanie"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Kohli_A_Principled_Deep_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Hash Bit Selection: A Unified Solution for Selection Problems in Hashing",
+    "authors": [
+      "Liu, Xianglong",
+      "He, Junfeng",
+      "Lang, Bo",
+      "Chang, Shih-Fu"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Liu_Hash_Bit_Selection_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "HON4D: Histogram of Oriented 4D Normals for Activity Recognition from Depth Sequences",
+    "authors": [
+      "Oreifej, Omar",
+      "Liu, Zicheng"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Oreifej_HON4D_Histogram_of_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Principal Observation Ray Calibration for Tiled-Lens-Array Integral Imaging Display",
+    "authors": [
+      "Li, Weiming",
+      "Wang, Haitao",
+      "Zhou, Mingcai",
+      "Wang, Shandong",
+      "Jiao, Shaohui",
+      "Mei, Xing",
+      "Hong, Tao",
+      "Lee, Hoyoung",
+      "Kim, Jiyeun"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Li_Principal_Observation_Ray_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Exploring Weak Stabilization for Motion Feature Extraction",
+    "authors": [
+      "Park, Dennis",
+      "Zitnick, C. L.",
+      "Ramanan, Deva",
+      "Dollar, Piotr"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Park_Exploring_Weak_Stabilization_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Discovering the Structure of a Planar Mirror System from Multiple Observations of a Single Point",
+    "authors": [
+      "Reshetouski, Ilya",
+      "Manakov, Alkhazur",
+      "Bandhari, Ayush",
+      "Raskar, Ramesh",
+      "Seidel, Hans-Peter",
+      "Ihrke, Ivo"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Reshetouski_Discovering_the_Structure_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Fine-Grained Crowdsourcing for Fine-Grained Recognition",
+    "authors": [
+      "Deng, Jia",
+      "Krause, Jonathan",
+      "Fei-Fei, Li"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Deng_Fine-Grained_Crowdsourcing_for_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Joint 3D Scene Reconstruction and Class Segmentation",
+    "authors": [
+      "Hane, Christian",
+      "Zach, Christopher",
+      "Cohen, Andrea",
+      "Angst, Roland",
+      "Pollefeys, Marc"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Hane_Joint_3D_Scene_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Kernel Null Space Methods for Novelty Detection",
+    "authors": [
+      "Bodesheim, Paul",
+      "Freytag, Alexander",
+      "Rodner, Erik",
+      "Kemmler, Michael",
+      "Denzler, Joachim"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Bodesheim_Kernel_Null_Space_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Information Consensus for Distributed Multi-target Tracking",
+    "authors": [
+      "Kamal, Ahmed T.",
+      "Farrell, Jay A.",
+      "Roy-Chowdhury, Amit K."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Kamal_Information_Consensus_for_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "CLAM: Coupled Localization and Mapping with Efficient Outlier Handling",
+    "authors": [
+      "Balzer, Jonathan",
+      "Soatto, Stefano"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Balzer_CLAM_Coupled_Localization_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Semi-supervised Domain Adaptation with Instance Constraints",
+    "authors": [
+      "Donahue, Jeff",
+      "Hoffman, Judy",
+      "Rodner, Erik",
+      "Saenko, Kate",
+      "Darrell, Trevor"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Donahue_Semi-supervised_Domain_Adaptation_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Detecting and Naming Actors in Movies Using Generative Appearance Models",
+    "authors": [
+      "Gandhi, Vineet",
+      "Ronfard, Remi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Gandhi_Detecting_and_Naming_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Rolling Shutter Camera Calibration",
+    "authors": [
+      "Oth, Luc",
+      "Furgale, Paul",
+      "Kneip, Laurent",
+      "Siegwart, Roland"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Oth_Rolling_Shutter_Camera_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "A Linear Approach to Matching Cuboids in RGBD Images",
+    "authors": [
+      "Jiang, Hao",
+      "Xiao, Jianxiong"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Jiang_A_Linear_Approach_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Discriminative Segment Annotation in Weakly Labeled Video",
+    "authors": [
+      "Tang, Kevin",
+      "Sukthankar, Rahul",
+      "Yagnik, Jay",
+      "Fei-Fei, Li"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Tang_Discriminative_Segment_Annotation_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Multi-agent Event Detection: Localization and Role Assignment",
+    "authors": [
+      "Kwak, Suha",
+      "Han, Bohyung",
+      "Hee Han, Joon"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Kwak_Multi-agent_Event_Detection_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Incorporating Structural Alternatives and Sharing into Hierarchy for Multiclass Object Recognition and Detection",
+    "authors": [
+      "Wang, Xiaolong",
+      "Lin, Liang",
+      "Huang, Lichao",
+      "Yan, Shuicheng"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Wang_Incorporating_Structural_Alternatives_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Correspondence-Less Non-rigid Registration of Triangular Surface Meshes",
+    "authors": [
+      "Santa, Zsolt",
+      "Kato, Zoltan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Santa_Correspondence-Less_Non-rigid_Registration_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Globally Consistent Multi-label Assignment on the Ray Space of 4D Light Fields",
+    "authors": [
+      "Wanner, Sven",
+      "Straehle, Christoph",
+      "Goldluecke, Bastian"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Wanner_Globally_Consistent_Multi-label_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Top-Down Segmentation of Non-rigid Visual Objects Using Derivative-Based Search on Sparse Manifolds",
+    "authors": [
+      "Nascimento, Jacinto C.",
+      "Carneiro, Gustavo"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Nascimento_Top-Down_Segmentation_of_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Harry Potter's Marauder's Map: Localizing and Tracking Multiple Persons-of-Interest by Nonnegative Discretization",
+    "authors": [
+      "Yu, Shoou-I",
+      "Yang, Yi",
+      "Hauptmann, Alexander"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Yu_Harry_Potters_Marauders_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Fast Image Super-Resolution Based on In-Place Example Regression",
+    "authors": [
+      "Yang, Jianchao",
+      "Lin, Zhe",
+      "Cohen, Scott"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Yang_Fast_Image_Super-Resolution_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Query Adaptive Similarity for Large Scale Object Retrieval",
+    "authors": [
+      "Qin, Danfeng",
+      "Wengert, Christian",
+      "Van Gool, Luc"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Qin_Query_Adaptive_Similarity_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Winding Number for Region-Boundary Consistent Salient Contour Extraction",
+    "authors": [
+      "Ming, Yansheng",
+      "Li, Hongdong",
+      "He, Xuming"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ming_Winding_Number_for_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Analytic Bilinear Appearance Subspace Construction for Modeling Image Irradiance under Natural Illumination and Non-Lambertian Reflectance",
+    "authors": [
+      "Elhabian, Shireen Y.",
+      "Farag, Aly A."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Elhabian_Analytic_Bilinear_Appearance_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "A Fully-Connected Layered Model of Foreground and Background Flow",
+    "authors": [
+      "Sun, Deqing",
+      "Wulff, Jonas",
+      "Sudderth, Erik B.",
+      "Pfister, Hanspeter",
+      "Black, Michael J."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Sun_A_Fully-Connected_Layered_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Bilinear Programming for Human Activity Recognition with Unknown MRF Graphs",
+    "authors": [
+      "Wang, Zhenhua",
+      "Shi, Qinfeng",
+      "Shen, Chunhua",
+      "van den Hengel, Anton"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Wang_Bilinear_Programming_for_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "What Object Motion Reveals about Shape with Unknown BRDF and Lighting",
+    "authors": [
+      "Chandraker, Manmohan",
+      "Reddy, Dikpal",
+      "Wang, Yizhou",
+      "Ramamoorthi, Ravi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Chandraker_What_Object_Motion_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Learning by Associating Ambiguously Labeled Images",
+    "authors": [
+      "Zeng, Zinan",
+      "Xiao, Shijie",
+      "Jia, Kui",
+      "Chan, Tsung-Han",
+      "Gao, Shenghua",
+      "Xu, Dong",
+      "Ma, Yi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zeng_Learning_by_Associating_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "As-Projective-As-Possible Image Stitching with Moving DLT",
+    "authors": [
+      "Zaragoza, Julio",
+      "Chin, Tat-Jun",
+      "Brown, Michael S.",
+      "Suter, David"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zaragoza_As-Projective-As-Possible_Image_Stitching_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Light Field Distortion Feature for Transparent Object Recognition",
+    "authors": [
+      "Maeno, Kazuki",
+      "Nagahara, Hajime",
+      "Shimada, Atsushi",
+      "Taniguchi, Rin-Ichiro"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Maeno_Light_Field_Distortion_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Ensemble Learning for Confidence Measures in Stereo Vision",
+    "authors": [
+      "Haeusler, Ralf",
+      "Nair, Rahul",
+      "Kondermann, Daniel"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Haeusler_Ensemble_Learning_for_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Mirror Surface Reconstruction from a Single Image",
+    "authors": [
+      "Liu, Miaomiao",
+      "Hartley, Richard",
+      "Salzmann, Mathieu"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Liu_Mirror_Surface_Reconstruction_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Handling Noise in Single Image Deblurring Using Directional Filters",
+    "authors": [
+      "Zhong, Lin",
+      "Cho, Sunghyun",
+      "Metaxas, Dimitris",
+      "Paris, Sylvain",
+      "Wang, Jue"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zhong_Handling_Noise_in_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Joint Spectral Correspondence for Disparate Image Matching",
+    "authors": [
+      "Bansal, Mayank",
+      "Daniilidis, Kostas"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Bansal_Joint_Spectral_Correspondence_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "From Local Similarity to Global Coding: An Application to Image Classification",
+    "authors": [
+      "Shaban, Amirreza",
+      "Rabiee, Hamid R.",
+      "Farajtabar, Mehrdad",
+      "Ghazvininejad, Marjan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Shaban_From_Local_Similarity_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Probabilistic Elastic Matching for Pose Variant Face Verification",
+    "authors": [
+      "Li, Haoxiang",
+      "Hua, Gang",
+      "Lin, Zhe",
+      "Brandt, Jonathan",
+      "Yang, Jianchao"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Li_Probabilistic_Elastic_Matching_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Story-Driven Summarization for Egocentric Video",
+    "authors": [
+      "Lu, Zheng",
+      "Grauman, Kristen"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Lu_Story-Driven_Summarization_for_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Towards Pose Robust Face Recognition",
+    "authors": [
+      "Yi, Dong",
+      "Lei, Zhen",
+      "Li, Stan Z."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Yi_Towards_Pose_Robust_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "All About VLAD",
+    "authors": [
+      "Arandjelovic, Relja",
+      "Zisserman, Andrew"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Arandjelovic_All_About_VLAD_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Graph-Based Discriminative Learning for Location Recognition",
+    "authors": [
+      "Cao, Song",
+      "Snavely, Noah"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Cao_Graph-Based_Discriminative_Learning_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Calibrating Photometric Stereo by Holistic Reflectance Symmetry Analysis",
+    "authors": [
+      "Wu, Zhe",
+      "Tan, Ping"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Wu_Calibrating_Photometric_Stereo_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Relative Hidden Markov Models for Evaluating Motion Skill",
+    "authors": [
+      "Zhang, Qiang",
+      "Li, Baoxin"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zhang_Relative_Hidden_Markov_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Classification of Tumor Histology via Morphometric Context",
+    "authors": [
+      "Chang, Hang",
+      "Borowsky, Alexander",
+      "Spellman, Paul",
+      "Parvin, Bahram"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Chang_Classification_of_Tumor_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Five Shades of Grey for Fast and Reliable Camera Pose Estimation",
+    "authors": [
+      "Herout, Adam",
+      "Szentandrasi, Istvan",
+      "Zacharias, Michal",
+      "Dubska, Marketa",
+      "Kajan, Rudolf"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Herout_Five_Shades_of_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Fast Patch-Based Denoising Using Approximated Patch Geodesic Paths",
+    "authors": [
+      "Chen, Xiaogang",
+      "Bing Kang, Sing",
+      "Yang, Jie",
+      "Yu, Jingyi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Chen_Fast_Patch-Based_Denoising_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Boosting Binary Keypoint Descriptors",
+    "authors": [
+      "Trzcinski, Tomasz",
+      "Christoudias, Mario",
+      "Fua, Pascal",
+      "Lepetit, Vincent"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Trzcinski_Boosting_Binary_Keypoint_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Structured Face Hallucination",
+    "authors": [
+      "Yang, Chih-Yuan",
+      "Liu, Sifei",
+      "Yang, Ming-Hsuan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Yang_Structured_Face_Hallucination_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Adaptive Active Learning for Image Classification",
+    "authors": [
+      "Li, Xin",
+      "Guo, Yuhong"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Li_Adaptive_Active_Learning_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Improving an Object Detector and Extracting Regions Using Superpixels",
+    "authors": [
+      "Shu, Guang",
+      "Dehghan, Afshin",
+      "Shah, Mubarak"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Shu_Improving_an_Object_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "HDR Deghosting: How to Deal with Saturation?",
+    "authors": [
+      "Hu, Jun",
+      "Gallo, Orazio",
+      "Pulli, Kari",
+      "Sun, Xiaobai"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Hu_HDR_Deghosting_How_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Transfer Sparse Coding for Robust Image Representation",
+    "authors": [
+      "Long, Mingsheng",
+      "Ding, Guiguang",
+      "Wang, Jianmin",
+      "Sun, Jiaguang",
+      "Guo, Yuchen",
+      "Yu, Philip S."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Long_Transfer_Sparse_Coding_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Semi-supervised Learning of Feature Hierarchies for Object Detection in a Video",
+    "authors": [
+      "Yang, Yang",
+      "Shu, Guang",
+      "Shah, Mubarak"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Yang_Semi-supervised_Learning_of_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Computationally Efficient Regression on a Dependency Graph for Human Pose Estimation",
+    "authors": [
+      "Hara, Kota",
+      "Chellappa, Rama"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Hara_Computationally_Efficient_Regression_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "In Defense of Sparsity Based Face Recognition",
+    "authors": [
+      "Deng, Weihong",
+      "Hu, Jiani",
+      "Guo, Jun"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Deng_In_Defense_of_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Image Matting with Local and Nonlocal Smooth Priors",
+    "authors": [
+      "Chen, Xiaowu",
+      "Zou, Dongqing",
+      "Zhiying Zhou, Steven",
+      "Zhao, Qinping",
+      "Tan, Ping"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Chen_Image_Matting_with_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Image Tag Completion via Image-Specific and Tag-Specific Linear Sparse Reconstructions",
+    "authors": [
+      "Lin, Zijia",
+      "Ding, Guiguang",
+      "Hu, Mingqing",
+      "Wang, Jianmin",
+      "Ye, Xiaojun"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Lin_Image_Tag_Completion_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Non-parametric Filtering for Geometric Detail Extraction and Material Representation",
+    "authors": [
+      "Liao, Zicheng",
+      "Rock, Jason",
+      "Wang, Yang",
+      "Forsyth, David"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Liao_Non-parametric_Filtering_for_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Bottom-Up Segmentation for Top-Down Detection",
+    "authors": [
+      "Fidler, Sanja",
+      "Mottaghi, Roozbeh",
+      "Yuille, Alan",
+      "Urtasun, Raquel"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Fidler_Bottom-Up_Segmentation_for_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Expanded Parts Model for Human Attribute and Action Recognition in Still Images",
+    "authors": [
+      "Sharma, Gaurav",
+      "Jurie, Frederic",
+      "Schmid, Cordelia"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Sharma_Expanded_Parts_Model_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Inductive Hashing on Manifolds",
+    "authors": [
+      "Shen, Fumin",
+      "Shen, Chunhua",
+      "Shi, Qinfeng",
+      "van den Hengel, Anton",
+      "Tang, Zhenmin"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Shen_Inductive_Hashing_on_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Robust Feature Matching with Alternate Hough and Inverted Hough Transforms",
+    "authors": [
+      "Chen, Hsin-Yi",
+      "Lin, Yen-Yu",
+      "Chen, Bing-Yu"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Chen_Robust_Feature_Matching_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Fast Object Detection with Entropy-Driven Evaluation",
+    "authors": [
+      "Sznitman, Raphael",
+      "Becker, Carlos",
+      "Fleuret, Francois",
+      "Fua, Pascal"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Sznitman_Fast_Object_Detection_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Event Recognition in Videos by Learning from Heterogeneous Web Sources",
+    "authors": [
+      "Chen, Lin",
+      "Duan, Lixin",
+      "Xu, Dong"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Chen_Event_Recognition_in_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Discriminative Color Descriptors",
+    "authors": [
+      "Khan, Rahat",
+      "van de Weijer, Joost",
+      "Shahbaz Khan, Fahad",
+      "Muselet, Damien",
+      "Ducottet, Christophe",
+      "Barat, Cecile"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Khan_Discriminative_Color_Descriptors_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Optical Flow Estimation Using Laplacian Mesh Energy",
+    "authors": [
+      "Li, Wenbin",
+      "Cosker, Darren",
+      "Brown, Matthew",
+      "Tang, Rui"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Li_Optical_Flow_Estimation_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Constrained Clustering and Its Application to Face Clustering in Videos",
+    "authors": [
+      "Wu, Baoyuan",
+      "Zhang, Yifan",
+      "Hu, Bao-Gang",
+      "Ji, Qiang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Wu_Constrained_Clustering_and_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Subcategory-Aware Object Classification",
+    "authors": [
+      "Dong, Jian",
+      "Xia, Wei",
+      "Chen, Qiang",
+      "Feng, Jianshi",
+      "Huang, Zhongyang",
+      "Yan, Shuicheng"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Dong_Subcategory-Aware_Object_Classification_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Face Recognition in Movie Trailers via Mean Sequence Sparse Representation-Based Classification",
+    "authors": [
+      "Ortiz, Enrique G.",
+      "Wright, Alan",
+      "Shah, Mubarak"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ortiz_Face_Recognition_in_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Multi-attribute Queries: To Merge or Not to Merge?",
+    "authors": [
+      "Rastegari, Mohammad",
+      "Diba, Ali",
+      "Parikh, Devi",
+      "Farhadi, Ali"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Rastegari_Multi-attribute_Queries_To_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Towards Efficient and Exact MAP-Inference for Large Scale Discrete Computer Vision Problems via Combinatorial Optimization",
+    "authors": [
+      "Hendrik Kappes, Jorg",
+      "Speth, Markus",
+      "Reinelt, Gerhard",
+      "Schnorr, Christoph"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Kappes_Towards_Efficient_and_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Plane-Based Content Preserving Warps for Video Stabilization",
+    "authors": [
+      "Zhou, Zihan",
+      "Jin, Hailin",
+      "Ma, Yi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zhou_Plane-Based_Content_Preserving_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Three-Dimensional Bilateral Symmetry Plane Estimation in the Phase Domain",
+    "authors": [
+      "Kakarala, Ramakrishna",
+      "Kaliamoorthi, Prabhu",
+      "Premachandran, Vittal"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Kakarala_Three-Dimensional_Bilateral_Symmetry_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Watching Unlabeled Video Helps Learn New Human Actions from Very Few Labeled Snapshots",
+    "authors": [
+      "Chen, Chao-Yeh",
+      "Grauman, Kristen"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Chen_Watching_Unlabeled_Video_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Long-Term Occupancy Analysis Using Graph-Based Optimisation in Thermal Imagery",
+    "authors": [
+      "Gade, Rikke",
+      "Jorgensen, Anders",
+      "Moeslund, Thomas B."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Gade_Long-Term_Occupancy_Analysis_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Topical Video Object Discovery from Key Frames by Modeling Word Co-occurrence Prior",
+    "authors": [
+      "Zhao, Gangqiang",
+      "Yuan, Junsong",
+      "Hua, Gang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zhao_Topical_Video_Object_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Keypoints from Symmetries by Wave Propagation",
+    "authors": [
+      "Salti, Samuele",
+      "Lanza, Alessandro",
+      "Di Stefano, Luigi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Salti_Keypoints_from_Symmetries_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Robust Real-Time Tracking of Multiple Objects by Volumetric Mass Densities",
+    "authors": [
+      "Possegger, Horst",
+      "Sternig, Sabine",
+      "Mauthner, Thomas",
+      "Roth, Peter M.",
+      "Bischof, Horst"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Possegger_Robust_Real-Time_Tracking_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "A Divide-and-Conquer Method for Scalable Low-Rank Latent Matrix Pursuit",
+    "authors": [
+      "Pan, Yan",
+      "Lai, Hanjiang",
+      "Liu, Cong",
+      "Yan, Shuicheng"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Pan_A_Divide-and-Conquer_Method_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "PDM-ENLOR: Learning Ensemble of Local PDM-Based Regressions",
+    "authors": [
+      "Le, Yen H.",
+      "Kurkure, Uday",
+      "Kakadiaris, Ioannis A."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Le_PDM-ENLOR_Learning_Ensemble_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Beta Process Joint Dictionary Learning for Coupled Feature Spaces with Application to Single Image Super-Resolution",
+    "authors": [
+      "He, Li",
+      "Qi, Hairong",
+      "Zaretzki, Russell"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/He_Beta_Process_Joint_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Fast Trust Region for Segmentation",
+    "authors": [
+      "Gorelick, Lena",
+      "Schmidt, Frank R.",
+      "Boykov, Yuri"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Gorelick_Fast_Trust_Region_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Area Preserving Brain Mapping",
+    "authors": [
+      "Su, Zhengyu",
+      "Zeng, Wei",
+      "Shi, Rui",
+      "Wang, Yalin",
+      "Sun, Jian",
+      "Gu, Xianfeng"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Su_Area_Preserving_Brain_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Multi-level Discriminative Dictionary Learning towards Hierarchical Visual Categorization",
+    "authors": [
+      "Shen, Li",
+      "Wang, Shuhui",
+      "Sun, Gang",
+      "Jiang, Shuqiang",
+      "Huang, Qingming"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Shen_Multi-level_Discriminative_Dictionary_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "BFO Meets HOG: Feature Extraction Based on Histograms of Oriented p.d.f. Gradients for Image Classification",
+    "authors": [
+      "Kobayashi, Takumi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Kobayashi_BFO_Meets_HOG_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Single-Sample Face Recognition with Image Corruption and Misalignment via Sparse Illumination Transfer",
+    "authors": [
+      "Zhuang, Liansheng",
+      "Yang, Allen Y.",
+      "Zhou, Zihan",
+      "Shankar Sastry, S.",
+      "Ma, Yi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zhuang_Single-Sample_Face_Recognition_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "GeoF: Geodesic Forests for Learning Coupled Predictors",
+    "authors": [
+      "Kontschieder, Peter",
+      "Kohli, Pushmeet",
+      "Shotton, Jamie",
+      "Criminisi, Antonio"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Kontschieder_GeoF_Geodesic_Forests_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Improving Image Matting Using Comprehensive Sampling Sets",
+    "authors": [
+      "Shahrian, Ehsan",
+      "Rajan, Deepu",
+      "Price, Brian",
+      "Cohen, Scott"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Shahrian_Improving_Image_Matting_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Sketch Tokens: A Learned Mid-level Representation for Contour and Object Detection",
+    "authors": [
+      "Lim, Joseph J.",
+      "Zitnick, C. L.",
+      "Dollar, Piotr"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Lim_Sketch_Tokens_A_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Subspace Interpolation via Dictionary Learning for Unsupervised Domain Adaptation",
+    "authors": [
+      "Ni, Jie",
+      "Qiu, Qiang",
+      "Chellappa, Rama"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ni_Subspace_Interpolation_via_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Probabilistic Graphlet Cut: Exploiting Spatial Structure Cue for Weakly Supervised Image Segmentation",
+    "authors": [
+      "Zhang, Luming",
+      "Song, Mingli",
+      "Liu, Zicheng",
+      "Liu, Xiao",
+      "Bu, Jiajun",
+      "Chen, Chun"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zhang_Probabilistic_Graphlet_Cut_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Fast Energy Minimization Using Learned State Filters",
+    "authors": [
+      "Guillaumin, Matthieu",
+      "Van Gool, Luc",
+      "Ferrari, Vittorio"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Guillaumin_Fast_Energy_Minimization_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Learning Binary Codes for High-Dimensional Data Using Bilinear Projections",
+    "authors": [
+      "Gong, Yunchao",
+      "Kumar, Sanjiv",
+      "Rowley, Henry A.",
+      "Lazebnik, Svetlana"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Gong_Learning_Binary_Codes_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Multi-scale Curve Detection on Surfaces",
+    "authors": [
+      "Kolomenkin, Michael",
+      "Shimshoni, Ilan",
+      "Tal, Ayellet"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Kolomenkin_Multi-scale_Curve_Detection_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Saliency Aggregation: A Data-Driven Approach",
+    "authors": [
+      "Mai, Long",
+      "Niu, Yuzhen",
+      "Liu, Feng"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Mai_Saliency_Aggregation_A_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Crossing the Line: Crowd Counting by Integer Programming with Local Features",
+    "authors": [
+      "Ma, Zheng",
+      "Chan, Antoni B."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ma_Crossing_the_Line_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Discriminative Subspace Clustering",
+    "authors": [
+      "Zografos, Vasileios",
+      "Ellis, Liam",
+      "Mester, Rudolf"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zografos_Discriminative_Subspace_Clustering_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Measuring Crowd Collectiveness",
+    "authors": [
+      "Zhou, Bolei",
+      "Tang, Xiaoou",
+      "Wang, Xiaogang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zhou_Measuring_Crowd_Collectiveness_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "MKPLS: Manifold Kernel Partial Least Squares for Lipreading and Speaker Identification",
+    "authors": [
+      "Bakry, Amr",
+      "Elgammal, Ahmed"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Bakry_MKPLS_Manifold_Kernel_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Whitened Expectation Propagation: Non-Lambertian Shape from Shading and Shadow",
+    "authors": [
+      "Potetz, Brian",
+      "Hajiarbabi, Mohammadreza"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Potetz_Whitened_Expectation_Propagation_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Multi-class Video Co-segmentation with a Generative Multi-video Model",
+    "authors": [
+      "Chiu, Wei-Chen",
+      "Fritz, Mario"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Chiu_Multi-class_Video_Co-segmentation_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Lp-Norm IDF for Large Scale Image Search",
+    "authors": [
+      "Zheng, Liang",
+      "Wang, Shengjin",
+      "Liu, Ziqiong",
+      "Tian, Qi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zheng_Lp-Norm_IDF_for_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Saliency Detection via Graph-Based Manifold Ranking",
+    "authors": [
+      "Yang, Chuan",
+      "Zhang, Lihe",
+      "Lu, Huchuan",
+      "Ruan, Xiang",
+      "Yang, Ming-Hsuan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Yang_Saliency_Detection_via_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Online Object Tracking: A Benchmark",
+    "authors": [
+      "Wu, Yi",
+      "Lim, Jongwoo",
+      "Yang, Ming-Hsuan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Wu_Online_Object_Tracking_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Tracking Sports Players with Context-Conditioned Motion Models",
+    "authors": [
+      "Liu, Jingchen",
+      "Carr, Peter",
+      "Collins, Robert T.",
+      "Liu, Yanxi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Liu_Tracking_Sports_Players_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Physically Plausible 3D Scene Tracking: The Single Actor Hypothesis",
+    "authors": [
+      "Kyriazis, Nikolaos",
+      "Argyros, Antonis"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Kyriazis_Physically_Plausible_3D_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Improved Image Set Classification via Joint Sparse Approximated Nearest Subspaces",
+    "authors": [
+      "Chen, Shaokang",
+      "Sanderson, Conrad",
+      "Harandi, Mehrtash T.",
+      "Lovell, Brian C."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Chen_Improved_Image_Set_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Underwater Camera Calibration Using Wavelength Triangulation",
+    "authors": [
+      "Yau, Timothy",
+      "Gong, Minglun",
+      "Yang, Yee-Hong"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Yau_Underwater_Camera_Calibration_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Expressive Visual Text-to-Speech Using Active Appearance Models",
+    "authors": [
+      "Anderson, Robert",
+      "Stenger, Bjorn",
+      "Wan, Vincent",
+      "Cipolla, Roberto"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Anderson_Expressive_Visual_Text-to-Speech_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Joint Sparsity-Based Representation and Analysis of Unconstrained Activities",
+    "authors": [
+      "Gopalan, Raghuraman"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Gopalan_Joint_Sparsity-Based_Representation_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Discriminative Brain Effective Connectivity Analysis for Alzheimer's Disease: A Kernel Learning Approach upon Sparse Gaussian Bayesian Network",
+    "authors": [
+      "Zhou, Luping",
+      "Wang, Lei",
+      "Liu, Lingqiao",
+      "Ogunbona, Philip",
+      "Shen, Dinggang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zhou_Discriminative_Brain_Effective_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Robust Monocular Epipolar Flow Estimation",
+    "authors": [
+      "Yamaguchi, Koichiro",
+      "McAllester, David",
+      "Urtasun, Raquel"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Yamaguchi_Robust_Monocular_Epipolar_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Heterogeneous Visual Features Fusion via Sparse Multimodal Machine",
+    "authors": [
+      "Wang, Hua",
+      "Nie, Feiping",
+      "Huang, Heng",
+      "Ding, Chris"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Wang_Heterogeneous_Visual_Features_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "A Thousand Frames in Just a Few Words: Lingual Description of Videos through Latent Topics and Sparse Object Stitching",
+    "authors": [
+      "Das, Pradipto",
+      "Xu, Chenliang",
+      "Doell, Richard F.",
+      "Corso, Jason J."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Das_A_Thousand_Frames_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Online Dominant and Anomalous Behavior Detection in Videos",
+    "authors": [
+      "Javan Roshtkhari, Mehrsan",
+      "Levine, Martin D."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Roshtkhari_Online_Dominant_and_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Learning Class-to-Image Distance with Object Matchings",
+    "authors": [
+      "Zhou, Guang-Tong",
+      "Lan, Tian",
+      "Yang, Weilong",
+      "Mori, Greg"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zhou_Learning_Class-to-Image_Distance_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Spectral Modeling and Relighting of Reflective-Fluorescent Scenes",
+    "authors": [
+      "Lam, Antony",
+      "Sato, Imari"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Lam_Spectral_Modeling_and_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Is There a Procedural Logic to Architecture?",
+    "authors": [
+      "Weissenberg, Julien",
+      "Riemenschneider, Hayko",
+      "Prasad, Mukta",
+      "Van Gool, Luc"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Weissenberg_Is_There_a_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Motion Estimation for Self-Driving Cars with a Generalized Camera",
+    "authors": [
+      "Hee Lee, Gim",
+      "Faundorfer, Friedrich",
+      "Pollefeys, Marc"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Lee_Motion_Estimation_for_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Histograms of Sparse Codes for Object Detection",
+    "authors": [
+      "Ren, Xiaofeng",
+      "Ramanan, Deva"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ren_Histograms_of_Sparse_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Video Object Segmentation through Spatially Accurate and Temporally Dense Extraction of Primary Object Regions",
+    "authors": [
+      "Zhang, Dong",
+      "Javed, Omar",
+      "Shah, Mubarak"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zhang_Video_Object_Segmentation_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Capturing Complex Spatio-temporal Relations among Facial Muscles for Facial Expression Recognition",
+    "authors": [
+      "Wang, Ziheng",
+      "Wang, Shangfei",
+      "Ji, Qiang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Wang_Capturing_Complex_Spatio-temporal_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Bayesian Depth-from-Defocus with Shading Constraints",
+    "authors": [
+      "Li, Chen",
+      "Su, Shuochen",
+      "Matsushita, Yasuyuki",
+      "Zhou, Kun",
+      "Lin, Stephen"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Li_Bayesian_Depth-from-Defocus_with_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Sparse Output Coding for Large-Scale Visual Recognition",
+    "authors": [
+      "Zhao, Bin",
+      "Xing, Eric P."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zhao_Sparse_Output_Coding_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Boundary Cues for 3D Object Shape Recovery",
+    "authors": [
+      "Karsch, Kevin",
+      "Liao, Zicheng",
+      "Rock, Jason",
+      "Barron, Jonathan T.",
+      "Hoiem, Derek"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Karsch_Boundary_Cues_for_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Image Segmentation by Cascaded Region Agglomeration",
+    "authors": [
+      "Ren, Zhile",
+      "Shakhnarovich, Gregory"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ren_Image_Segmentation_by_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Spatial Inference Machines",
+    "authors": [
+      "Shapovalov, Roman",
+      "Vetrov, Dmitry",
+      "Kohli, Pushmeet"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Shapovalov_Spatial_Inference_Machines_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Can a Fully Unconstrained Imaging Model Be Applied Effectively to Central Cameras?",
+    "authors": [
+      "Bergamasco, Filippo",
+      "Albarelli, Andrea",
+      "Rodola, Emanuele",
+      "Torsello, Andrea"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Bergamasco_Can_a_Fully_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Learning Compact Binary Codes for Visual Tracking",
+    "authors": [
+      "Li, Xi",
+      "Shen, Chunhua",
+      "Dick, Anthony",
+      "van den Hengel, Anton"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Li_Learning_Compact_Binary_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Efficient Maximum Appearance Search for Large-Scale Object Detection",
+    "authors": [
+      "Chen, Qiang",
+      "Song, Zheng",
+      "Feris, Rogerio",
+      "Datta, Ankur",
+      "Cao, Liangliang",
+      "Huang, Zhongyang",
+      "Yan, Shuicheng"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Chen_Efficient_Maximum_Appearance_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "A New Perspective on Uncalibrated Photometric Stereo",
+    "authors": [
+      "Papadhimitri, Thoma",
+      "Favaro, Paolo"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Papadhimitri_A_New_Perspective_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "A Joint Model for 2D and 3D Pose Estimation from a Single Image",
+    "authors": [
+      "Simo-Serra, Edgar",
+      "Quattoni, Ariadna",
+      "Torras, Carme",
+      "Moreno-Noguer, Francesc"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Simo-Serra_A_Joint_Model_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "A Statistical Model for Recreational Trails in Aerial Images",
+    "authors": [
+      "Predoehl, Andrew",
+      "Morris, Scott",
+      "Barnard, Kobus"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Predoehl_A_Statistical_Model_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Learning Video Saliency from Human Gaze Using Candidate Selection",
+    "authors": [
+      "Rudoy, Dmitry",
+      "Goldman, Dan B.",
+      "Shechtman, Eli",
+      "Zelnik-Manor, Lihi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Rudoy_Learning_Video_Saliency_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Designing Category-Level Attributes for Discriminative Visual Recognition",
+    "authors": [
+      "Yu, Felix X.",
+      "Cao, Liangliang",
+      "Feris, Rogerio S.",
+      "Smith, John R.",
+      "Chang, Shih-Fu"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Yu_Designing_Category-Level_Attributes_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Dense Segmentation-Aware Descriptors",
+    "authors": [
+      "Trulls, Eduard",
+      "Kokkinos, Iasonas",
+      "Sanfeliu, Alberto",
+      "Moreno-Noguer, Francesc"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Trulls_Dense_Segmentation-Aware_Descriptors_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Modeling Mutual Visibility Relationship in Pedestrian Detection",
+    "authors": [
+      "Ouyang, Wanli",
+      "Zeng, Xingyu",
+      "Wang, Xiaogang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ouyang_Modeling_Mutual_Visibility_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Discriminatively Trained And-Or Tree Models for Object Detection",
+    "authors": [
+      "Song, Xi",
+      "Wu, Tianfu",
+      "Jia, Yunde",
+      "Zhu, Song-Chun"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Song_Discriminatively_Trained_And-Or_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Intrinsic Scene Properties from a Single RGB-D Image",
+    "authors": [
+      "Barron, Jonathan T.",
+      "Malik, Jitendra"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Barron_Intrinsic_Scene_Properties_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Cross-View Image Geolocalization",
+    "authors": [
+      "Lin, Tsung-Yi",
+      "Belongie, Serge",
+      "Hays, James"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Lin_Cross-View_Image_Geolocalization_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Learning Cross-Domain Information Transfer for Location Recognition and Clustering",
+    "authors": [
+      "Gopalan, Raghuraman"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Gopalan_Learning_Cross-Domain_Information_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Statistical Textural Distinctiveness for Salient Region Detection in Natural Images",
+    "authors": [
+      "Scharfenberger, Christian",
+      "Wong, Alexander",
+      "Fergani, Khalil",
+      "Zelek, John S.",
+      "Clausi, David A."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Scharfenberger_Statistical_Textural_Distinctiveness_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Robust Multi-resolution Pedestrian Detection in Traffic Scenes",
+    "authors": [
+      "Yan, Junjie",
+      "Zhang, Xucong",
+      "Lei, Zhen",
+      "Liao, Shengcai",
+      "Li, Stan Z."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Yan_Robust_Multi-resolution_Pedestrian_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Hypergraphs for Joint Multi-view Reconstruction and Multi-object Tracking",
+    "authors": [
+      "Hofmann, Martin",
+      "Wolf, Daniel",
+      "Rigoll, Gerhard"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Hofmann_Hypergraphs_for_Joint_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Recognizing Activities via Bag of Words for Attribute Dynamics",
+    "authors": [
+      "Li, Weixin",
+      "Yu, Qian",
+      "Sawhney, Harpreet",
+      "Vasconcelos, Nuno"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Li_Recognizing_Activities_via_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Towards Fast and Accurate Segmentation",
+    "authors": [
+      "Taylor, Camillo J."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Taylor_Towards_Fast_and_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Fast, Accurate Detection of 100,000 Object Classes on a Single Machine",
+    "authors": [
+      "Dean, Thomas",
+      "Ruzon, Mark A.",
+      "Segal, Mark",
+      "Shlens, Jonathon",
+      "Vijayanarasimhan, Sudheendra",
+      "Yagnik, Jay"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Dean_Fast_Accurate_Detection_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Robust Object Co-detection",
+    "authors": [
+      "Guo, Xin",
+      "Liu, Dong",
+      "Jou, Brendan",
+      "Zhu, Mojun",
+      "Cai, Anni",
+      "Chang, Shih-Fu"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Guo_Robust_Object_Co-detection_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Supervised Kernel Descriptors for Visual Recognition",
+    "authors": [
+      "Wang, Peng",
+      "Wang, Jingdong",
+      "Zeng, Gang",
+      "Xu, Weiwei",
+      "Zha, Hongbin",
+      "Li, Shipeng"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Wang_Supervised_Kernel_Descriptors_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Shape from Silhouette Probability Maps: Reconstruction of Thin Objects in the Presence of Silhouette Extraction and Calibration Error",
+    "authors": [
+      "Tabb, Amy"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Tabb_Shape_from_Silhouette_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Measures and Meta-Measures for the Supervised Evaluation of Image Segmentation",
+    "authors": [
+      "Pont-Tuset, Jordi",
+      "Marques, Ferran"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Pont-Tuset_Measures_and_Meta-Measures_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "A Fast Approximate AIB Algorithm for Distributional Word Clustering",
+    "authors": [
+      "Wang, Lei",
+      "Zhang, Jianjia",
+      "Zhou, Luping",
+      "Li, Wanqing"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Wang_A_Fast_Approximate_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Separable Dictionary Learning",
+    "authors": [
+      "Hawe, Simon",
+      "Seibert, Matthias",
+      "Kleinsteuber, Martin"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Hawe_Separable_Dictionary_Learning_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Representing and Discovering Adversarial Team Behaviors Using Player Roles",
+    "authors": [
+      "Lucey, Patrick",
+      "Bialkowski, Alina",
+      "Carr, Peter",
+      "Morgan, Stuart",
+      "Matthews, Iain",
+      "Sheikh, Yaser"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Lucey_Representing_and_Discovering_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Object-Centric Anomaly Detection by Attribute-Based Reasoning",
+    "authors": [
+      "Saleh, Babak",
+      "Farhadi, Ali",
+      "Elgammal, Ahmed"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Saleh_Object-Centric_Anomaly_Detection_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Cartesian K-Means",
+    "authors": [
+      "Norouzi, Mohammad",
+      "Fleet, David J."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Norouzi_Cartesian_K-Means_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Optimal Geometric Fitting under the Truncated L2-Norm",
+    "authors": [
+      "Ask, Erik",
+      "Enqvist, Olof",
+      "Kahl, Fredrik"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ask_Optimal_Geometric_Fitting_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Pedestrian Detection with Unsupervised Multi-stage Feature Learning",
+    "authors": [
+      "Sermanet, Pierre",
+      "Kavukcuoglu, Koray",
+      "Chintala, Soumith",
+      "Lecun, Yann"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Sermanet_Pedestrian_Detection_with_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Integrating Grammar and Segmentation for Human Pose Estimation",
+    "authors": [
+      "Rothrock, Brandon",
+      "Park, Seyoung",
+      "Zhu, Song-Chun"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Rothrock_Integrating_Grammar_and_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Scene Coordinate Regression Forests for Camera Relocalization in RGB-D Images",
+    "authors": [
+      "Shotton, Jamie",
+      "Glocker, Ben",
+      "Zach, Christopher",
+      "Izadi, Shahram",
+      "Criminisi, Antonio",
+      "Fitzgibbon, Andrew"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Shotton_Scene_Coordinate_Regression_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Joint Detection, Tracking and Mapping by Semantic Bundle Adjustment",
+    "authors": [
+      "Fioraio, Nicola",
+      "Di Stefano, Luigi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Fioraio_Joint_Detection_Tracking_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Robust Region Grouping via Internal Patch Statistics",
+    "authors": [
+      "Liu, Xiaobai",
+      "Lin, Liang",
+      "Yuille, Alan L."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Liu_Robust_Region_Grouping_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Boundary Detection Benchmarking: Beyond F-Measures",
+    "authors": [
+      "Hou, Xiaodi",
+      "Yuille, Alan",
+      "Koch, Christof"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Hou_Boundary_Detection_Benchmarking_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Manhattan Junction Catalogue for Spatial Reasoning of Indoor Scenes",
+    "authors": [
+      "Ramalingam, Srikumar",
+      "Pillai, Jaishanker K.",
+      "Jain, Arpit",
+      "Taguchi, Yuichi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ramalingam_Manhattan_Junction_Catalogue_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "What Makes a Patch Distinct?",
+    "authors": [
+      "Margolin, Ran",
+      "Tal, Ayellet",
+      "Zelnik-Manor, Lihi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Margolin_What_Makes_a_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Detection- and Trajectory-Level Exclusion in Multiple Object Tracking",
+    "authors": [
+      "Milan, Anton",
+      "Schindler, Konrad",
+      "Roth, Stefan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Milan_Detection-_and_Trajectory-Level_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Real-Time Model-Based Rigid Object Pose Estimation and Tracking Combining Dense and Sparse Visual Cues",
+    "authors": [
+      "Pauwels, Karl",
+      "Rubio, Leonardo",
+      "Diaz, Javier",
+      "Ros, Eduardo"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Pauwels_Real-Time_Model-Based_Rigid_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Unnatural L0 Sparse Representation for Natural Image Deblurring",
+    "authors": [
+      "Xu, Li",
+      "Zheng, Shicheng",
+      "Jia, Jiaya"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Xu_Unnatural_L0_Sparse_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Decoding Children's Social Behavior",
+    "authors": [
+      "Rehg, J.",
+      "Abowd, G.",
+      "Rozga, A.",
+      "Romero, M.",
+      "Clements, M.",
+      "Sclaroff, S.",
+      "Essa, I.",
+      "Ousley, O.",
+      "Li, Y.",
+      "Kim, C.",
+      "Rao, H.",
+      "Kim, J.",
+      "Lo Presti, L.",
+      "Zhang, J.",
+      "Lantsman, D.",
+      "Bidwell, J.",
+      "Ye, Z."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Rehg_Decoding_Childrens_Social_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Finding Group Interactions in Social Clutter",
+    "authors": [
+      "Li, Ruonan",
+      "Porfilio, Parker",
+      "Zickler, Todd"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Li_Finding_Group_Interactions_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Least Soft-Threshold Squares Tracking",
+    "authors": [
+      "Wang, Dong",
+      "Lu, Huchuan",
+      "Yang, Ming-Hsuan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Wang_Least_Soft-Threshold_Squares_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Online Robust Dictionary Learning",
+    "authors": [
+      "Lu, Cewu",
+      "Shi, Jiaping",
+      "Jia, Jiaya"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Lu_Online_Robust_Dictionary_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Learning the Change for Automatic Image Cropping",
+    "authors": [
+      "Yan, Jianzhou",
+      "Lin, Stephen",
+      "Bing Kang, Sing",
+      "Tang, Xiaoou"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Yan_Learning_the_Change_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Multi-resolution Shape Analysis via Non-Euclidean Wavelets: Applications to Mesh Segmentation and Surface Alignment Problems",
+    "authors": [
+      "Hwa Kim, Won",
+      "Chung, Moo K.",
+      "Singh, Vikas"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Kim_Multi-resolution_Shape_Analysis_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Stochastic Deconvolution",
+    "authors": [
+      "Gregson, James",
+      "Heide, Felix",
+      "Hullin, Matthias B.",
+      "Rouf, Mushfiqur",
+      "Heidrich, Wolfgang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Gregson_Stochastic_Deconvolution_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Nonparametric Scene Parsing with Adaptive Feature Relevance and Semantic Context",
+    "authors": [
+      "Singh, Gautam",
+      "Kosecka, Jana"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Singh_Nonparametric_Scene_Parsing_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Social Role Discovery in Human Events",
+    "authors": [
+      "Ramanathan, Vignesh",
+      "Yao, Bangpeng",
+      "Fei-Fei, Li"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ramanathan_Social_Role_Discovery_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Learning to Estimate and Remove Non-uniform Image Blur",
+    "authors": [
+      "Couzinie-Devy, Florent",
+      "Sun, Jian",
+      "Alahari, Karteek",
+      "Ponce, Jean"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Couzinie-Devy_Learning_to_Estimate_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Scene Parsing by Integrating Function, Geometry and Appearance Models",
+    "authors": [
+      "Zhao, Yibiao",
+      "Zhu, Song-Chun"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zhao_Scene_Parsing_by_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Efficient Detector Adaptation for Object Detection in a Video",
+    "authors": [
+      "Sharma, Pramod",
+      "Nevatia, Ram"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Sharma_Efficient_Detector_Adaptation_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Evaluation of Color STIPs for Human Action Recognition",
+    "authors": [
+      "Everts, Ivo",
+      "van Gemert, Jan C.",
+      "Gevers, Theo"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Everts_Evaluation_of_Color_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "A Global Approach for the Detection of Vanishing Points and Mutually Orthogonal Vanishing Directions",
+    "authors": [
+      "Antunes, Michel",
+      "Barreto, Joao P."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Antunes_A_Global_Approach_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Poselet Conditioned Pictorial Structures",
+    "authors": [
+      "Pishchulin, Leonid",
+      "Andriluka, Mykhaylo",
+      "Gehler, Peter",
+      "Schiele, Bernt"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Pishchulin_Poselet_Conditioned_Pictorial_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Enriching Texture Analysis with Semantic Data",
+    "authors": [
+      "Matthews, Tim",
+      "Nixon, Mark S.",
+      "Niranjan, Mahesan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Matthews_Enriching_Texture_Analysis_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Scene Text Recognition Using Part-Based Tree-Structured Character Detection",
+    "authors": [
+      "Shi, Cunzhao",
+      "Wang, Chunheng",
+      "Xiao, Baihua",
+      "Zhang, Yang",
+      "Gao, Song",
+      "Zhang, Zhong"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Shi_Scene_Text_Recognition_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "MODEC: Multimodal Decomposable Models for Human Pose Estimation",
+    "authors": [
+      "Sapp, Ben",
+      "Taskar, Ben"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Sapp_MODEC_Multimodal_Decomposable_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Multi-task Sparse Learning with Beta Process Prior for Action Recognition",
+    "authors": [
+      "Yuan, Chunfeng",
+      "Hu, Weiming",
+      "Tian, Guodong",
+      "Yang, Shuang",
+      "Wang, Haoran"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Yuan_Multi-task_Sparse_Learning_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Decoding, Calibration and Rectification for Lenselet-Based Plenoptic Cameras",
+    "authors": [
+      "Dansereau, Donald G.",
+      "Pizarro, Oscar",
+      "Williams, Stefan B."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Dansereau_Decoding_Calibration_and_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Hierarchical Video Representation with Trajectory Binary Partition Tree",
+    "authors": [
+      "Palou, Guillem",
+      "Salembier, Philippe"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Palou_Hierarchical_Video_Representation_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Cloud Motion as a Calibration Cue",
+    "authors": [
+      "Jacobs, Nathan",
+      "Islam, Mohammad T.",
+      "Workman, Scott"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Jacobs_Cloud_Motion_as_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "FasT-Match: Fast Affine Template Matching",
+    "authors": [
+      "Korman, Simon",
+      "Reichman, Daniel",
+      "Tsur, Gilad",
+      "Avidan, Shai"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Korman_FasT-Match_Fast_Affine_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Dense Non-rigid Point-Matching Using Random Projections",
+    "authors": [
+      "Hamid, Raffay",
+      "Decoste, Dennis",
+      "Lin, Chih-Jen"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Hamid_Dense_Non-rigid_Point-Matching_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Large Displacement Optical Flow from Nearest Neighbor Fields",
+    "authors": [
+      "Chen, Zhuoyuan",
+      "Jin, Hailin",
+      "Lin, Zhe",
+      "Cohen, Scott",
+      "Wu, Ying"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Chen_Large_Displacement_Optical_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Hallucinated Humans as the Hidden Context for Labeling 3D Scenes",
+    "authors": [
+      "Jiang, Yun",
+      "Koppula, Hema",
+      "Saxena, Ashutosh"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Jiang_Hallucinated_Humans_as_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Discrete MRF Inference of Marginal Densities for Non-uniformly Discretized Variable Space",
+    "authors": [
+      "Saito, Masaki",
+      "Okatani, Takayuki",
+      "Deguchi, Koichiro"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Saito_Discrete_MRF_Inference_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Efficient Large-Scale Structured Learning",
+    "authors": [
+      "Branson, Steve",
+      "Beijbom, Oscar",
+      "Belongie, Serge"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Branson_Efficient_Large-Scale_Structured_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Relative Volume Constraints for Single View 3D Reconstruction",
+    "authors": [
+      "Toppe, Eno",
+      "Nieuwenhuis, Claudia",
+      "Cremers, Daniel"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Toppe_Relative_Volume_Constraints_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Uncalibrated Photometric Stereo for Unknown Isotropic Reflectances",
+    "authors": [
+      "Lu, Feng",
+      "Matsushita, Yasuyuki",
+      "Sato, Imari",
+      "Okabe, Takahiro",
+      "Sato, Yoichi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Lu_Uncalibrated_Photometric_Stereo_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Image Understanding from Experts' Eyes by Modeling Perceptual Skill of Diagnostic Reasoning Processes",
+    "authors": [
+      "Li, Rui",
+      "Shi, Pengcheng",
+      "Haake, Anne R."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Li_Image_Understanding_from_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Robust Discriminative Response Map Fitting with Constrained Local Models",
+    "authors": [
+      "Asthana, Akshay",
+      "Zafeiriou, Stefanos",
+      "Cheng, Shiyang",
+      "Pantic, Maja"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Asthana_Robust_Discriminative_Response_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Unconstrained Monocular 3D Human Pose Estimation by Action Detection and Cross-Modality Regression Forest",
+    "authors": [
+      "Yu, Tsz-Ho",
+      "Kim, Tae-Kyun",
+      "Cipolla, Roberto"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Yu_Unconstrained_Monocular_3D_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Revisiting Depth Layers from Occlusions",
+    "authors": [
+      "Kowdle, Adarsh",
+      "Gallagher, Andrew",
+      "Chen, Tsuhan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Kowdle_Revisiting_Depth_Layers_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Efficient Object Detection and Segmentation for Fine-Grained Recognition",
+    "authors": [
+      "Angelova, Anelia",
+      "Zhu, Shenghuo"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Angelova_Efficient_Object_Detection_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Fast Rigid Motion Segmentation via Incrementally-Complex Local Models",
+    "authors": [
+      "Flores-Mangas, Fernando",
+      "Jepson, Allan D."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Flores-Mangas_Fast_Rigid_Motion_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "A Lazy Man's Approach to Benchmarking: Semisupervised Classifier Evaluation and Recalibration",
+    "authors": [
+      "Welinder, Peter",
+      "Welling, Max",
+      "Perona, Pietro"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Welinder_A_Lazy_Mans_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Motionlets: Mid-level 3D Parts for Human Motion Recognition",
+    "authors": [
+      "Wang, LiMin",
+      "Qiao, Yu",
+      "Tang, Xiaoou"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Wang_Motionlets_Mid-level_3D_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Understanding Indoor Scenes Using 3D Geometric Phrases",
+    "authors": [
+      "Choi, Wongun",
+      "Chao, Yu-Wei",
+      "Pantofaru, Caroline",
+      "Savarese, Silvio"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Choi_Understanding_Indoor_Scenes_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Intrinsic Characterization of Dynamic Surfaces",
+    "authors": [
+      "Tung, Tony",
+      "Matsuyama, Takashi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Tung_Intrinsic_Characterization_of_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Detecting Changes in 3D Structure of a Scene from Multi-view Images Captured by a Vehicle-Mounted Camera",
+    "authors": [
+      "Sakurada, Ken",
+      "Okatani, Takayuki",
+      "Deguchi, Koichiro"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Sakurada_Detecting_Changes_in_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Part-Based Visual Tracking with Online Latent Structural Learning",
+    "authors": [
+      "Yao, Rui",
+      "Shi, Qinfeng",
+      "Shen, Chunhua",
+      "Zhang, Yanning",
+      "van den Hengel, Anton"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Yao_Part-Based_Visual_Tracking_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "A Higher-Order CRF Model for Road Network Extraction",
+    "authors": [
+      "Wegner, Jan D.",
+      "Montoya-Zegarra, Javier A.",
+      "Schindler, Konrad"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Wegner_A_Higher-Order_CRF_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Fully-Connected CRFs with Non-Parametric Pairwise Potential",
+    "authors": [
+      "Campbell, Neill D.F.",
+      "Subr, Kartic",
+      "Kautz, Jan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Campbell_Fully-Connected_CRFs_with_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Hierarchical Saliency Detection",
+    "authors": [
+      "Yan, Qiong",
+      "Xu, Li",
+      "Shi, Jianping",
+      "Jia, Jiaya"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Yan_Hierarchical_Saliency_Detection_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Depth Acquisition from Density Modulated Binary Patterns",
+    "authors": [
+      "Yang, Zhe",
+      "Xiong, Zhiwei",
+      "Zhang, Yueyi",
+      "Wang, Jiao",
+      "Wu, Feng"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Yang_Depth_Acquisition_from_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Pose from Flow and Flow from Pose",
+    "authors": [
+      "Fragkiadaki, Katerina",
+      "Hu, Han",
+      "Shi, Jianbo"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Fragkiadaki_Pose_from_Flow_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Composite Statistical Inference for Semantic Segmentation",
+    "authors": [
+      "Li, Fuxin",
+      "Carreira, Joao",
+      "Lebanon, Guy",
+      "Sminchisescu, Cristian"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Li_Composite_Statistical_Inference_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "The Variational Structure of Disparity and Regularization of 4D Light Fields",
+    "authors": [
+      "Goldluecke, Bastian",
+      "Wanner, Sven"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Goldluecke_The_Variational_Structure_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Gauging Association Patterns of Chromosome Territories via Chromatic Median",
+    "authors": [
+      "Ding, Hu",
+      "Stojkovic, Branislav",
+      "Berezney, Ronald",
+      "Xu, Jinhui"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ding_Gauging_Association_Patterns_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Detecting Pulse from Head Motions in Video",
+    "authors": [
+      "Balakrishnan, Guha",
+      "Durand, Fredo",
+      "Guttag, John"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Balakrishnan_Detecting_Pulse_from_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Articulated Pose Estimation Using Discriminative Armlet Classifiers",
+    "authors": [
+      "Gkioxari, Georgia",
+      "Arbelaez, Pablo",
+      "Bourdev, Lubomir",
+      "Malik, Jitendra"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Gkioxari_Articulated_Pose_Estimation_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Salient Object Detection: A Discriminative Regional Feature Integration Approach",
+    "authors": [
+      "Jiang, Huaizu",
+      "Wang, Jingdong",
+      "Yuan, Zejian",
+      "Wu, Yang",
+      "Zheng, Nanning",
+      "Li, Shipeng"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Jiang_Salient_Object_Detection_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Learning Locally-Adaptive Decision Functions for Person Verification",
+    "authors": [
+      "Li, Zhen",
+      "Chang, Shiyu",
+      "Liang, Feng",
+      "Huang, Thomas S.",
+      "Cao, Liangliang",
+      "Smith, John R."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Li_Learning_Locally-Adaptive_Decision_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "BRDF Slices: Accurate Adaptive Anisotropic Appearance Acquisition",
+    "authors": [
+      "Filip, Jiri",
+      "Vavra, Radomir",
+      "Haindl, Michal",
+      "Zid, Pavel",
+      "Krupika, Mikulas",
+      "Havran, Vlastimil"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Filip_BRDF_Slices_Accurate_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Explicit Occlusion Modeling for 3D Object Class Representations",
+    "authors": [
+      "Zeeshan Zia, M.",
+      "Stark, Michael",
+      "Schindler, Konrad"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zia_Explicit_Occlusion_Modeling_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Tag Taxonomy Aware Dictionary Learning for Region Tagging",
+    "authors": [
+      "Zheng, Jingjing",
+      "Jiang, Zhuolin"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zheng_Tag_Taxonomy_Aware_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "A Fast Semidefinite Approach to Solving Binary Quadratic Problems",
+    "authors": [
+      "Wang, Peng",
+      "Shen, Chunhua",
+      "van den Hengel, Anton"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Wang_A_Fast_Semidefinite_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Learning without Human Scores for Blind Image Quality Assessment",
+    "authors": [
+      "Xue, Wufeng",
+      "Zhang, Lei",
+      "Mou, Xuanqin"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Xue_Learning_without_Human_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Hollywood 3D: Recognizing Actions in 3D Natural Scenes",
+    "authors": [
+      "Hadfield, Simon",
+      "Bowden, Richard"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Hadfield_Hollywood_3D_Recognizing_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "3D Pictorial Structures for Multiple View Articulated Pose Estimation",
+    "authors": [
+      "Burenius, Magnus",
+      "Sullivan, Josephine",
+      "Carlsson, Stefan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Burenius_3D_Pictorial_Structures_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Improving the Visual Comprehension of Point Sets",
+    "authors": [
+      "Katz, Sagi",
+      "Tal, Ayellet"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Katz_Improving_the_Visual_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Kernel Methods on the Riemannian Manifold of Symmetric Positive Definite Matrices",
+    "authors": [
+      "Jayasumana, Sadeep",
+      "Hartley, Richard",
+      "Salzmann, Mathieu",
+      "Li, Hongdong",
+      "Harandi, Mehrtash"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Jayasumana_Kernel_Methods_on_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Graph Transduction Learning with Connectivity Constraints with Application to Multiple Foreground Cosegmentation",
+    "authors": [
+      "Ma, Tianyang",
+      "Jan Latecki, Longin"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ma_Graph_Transduction_Learning_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "A Max-Margin Riffled Independence Model for Image Tag Ranking",
+    "authors": [
+      "Lan, Tian",
+      "Mori, Greg"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Lan_A_Max-Margin_Riffled_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Label Propagation from ImageNet to 3D Point Clouds",
+    "authors": [
+      "Wang, Yan",
+      "Ji, Rongrong",
+      "Chang, Shih-Fu"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Wang_Label_Propagation_from_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Supervised Semantic Gradient Extraction Using Linear-Time Optimization",
+    "authors": [
+      "Yang, Shulin",
+      "Wang, Jue",
+      "Shapiro, Linda"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Yang_Supervised_Semantic_Gradient_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Deep Learning Shape Priors for Object Segmentation",
+    "authors": [
+      "Chen, Fei",
+      "Yu, Huimin",
+      "Hu, Roland",
+      "Zeng, Xunxun"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Chen_Deep_Learning_Shape_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Consensus of k-NNs for Robust Neighborhood Selection on Graph-Based Manifolds",
+    "authors": [
+      "Premachandran, Vittal",
+      "Kakarala, Ramakrishna"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Premachandran_Consensus_of_k-NNs_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Semi-supervised Learning with Constraints for Person Identification in Multimedia Data",
+    "authors": [
+      "Bauml, Martin",
+      "Tapaswi, Makarand",
+      "Stiefelhagen, Rainer"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Bauml_Semi-supervised_Learning_with_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Capturing Layers in Image Collections with Componential Models: From the Layered Epitome to the Componential Counting Grid",
+    "authors": [
+      "Perina, Alessandro",
+      "Jojic, Nebojsa"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Perina_Capturing_Layers_in_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Layer Depth Denoising and Completion for Structured-Light RGB-D Cameras",
+    "authors": [
+      "Shen, Ju",
+      "Cheung, Sen-Ching S."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Shen_Layer_Depth_Denoising_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Adaptive Compressed Tomography Sensing",
+    "authors": [
+      "Barkan, Oren",
+      "Weill, Jonathan",
+      "Averbuch, Amir",
+      "Dekel, Shai"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Barkan_Adaptive_Compressed_Tomography_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Detection of Manipulation Action Consequences (MAC)",
+    "authors": [
+      "Yang, Yezhou",
+      "Fermuller, Cornelia",
+      "Aloimonos, Yiannis"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Yang_Detection_of_Manipulation_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Efficient Color Boundary Detection with Color-Opponent Mechanisms",
+    "authors": [
+      "Yang, Kaifu",
+      "Gao, Shaobing",
+      "Li, Chaoyi",
+      "Li, Yongjie"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Yang_Efficient_Color_Boundary_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Better Exploiting Motion for Better Action Recognition",
+    "authors": [
+      "Jain, Mihir",
+      "Jegou, Herve",
+      "Bouthemy, Patrick"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Jain_Better_Exploiting_Motion_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Constraints as Features",
+    "authors": [
+      "Asafi, Shmuel",
+      "Cohen-Or, Daniel"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Asafi_Constraints_as_Features_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Graph-Laplacian PCA: Closed-Form Solution and Robustness",
+    "authors": [
+      "Jiang, Bo",
+      "Ding, Chris",
+      "Luo, Bio",
+      "Tang, Jin"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Jiang_Graph-Laplacian_PCA_Closed-Form_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Determining Motion Directly from Normal Flows Upon the Use of a Spherical Eye Platform",
+    "authors": [
+      "Hui, Tak-Wai",
+      "Chung, Ronald"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Hui_Determining_Motion_Directly_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Visual Place Recognition with Repetitive Structures",
+    "authors": [
+      "Torii, Akihiko",
+      "Sivic, Josef",
+      "Pajdla, Tomas",
+      "Okutomi, Masatoshi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Torii_Visual_Place_Recognition_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Single-Pedestrian Detection Aided by Multi-pedestrian Detection",
+    "authors": [
+      "Ouyang, Wanli",
+      "Wang, Xiaogang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ouyang_Single-Pedestrian_Detection_Aided_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Understanding Bayesian Rooms Using Composite 3D Object Models",
+    "authors": [
+      "Del Pero, Luca",
+      "Bowdish, Joshua",
+      "Kermgard, Bonnie",
+      "Hartley, Emily",
+      "Barnard, Kobus"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Del_Pero_Understanding_Bayesian_Rooms_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Groupwise Registration via Graph Shrinkage on the Image Manifold",
+    "authors": [
+      "Ying, Shihui",
+      "Wu, Guorong",
+      "Wang, Qian",
+      "Shen, Dinggang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ying_Groupwise_Registration_via_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "On a Link Between Kernel Mean Maps and Fraunhofer Diffraction, with an Application to Super-Resolution Beyond the Diffraction Limit",
+    "authors": [
+      "Harmeling, Stefan",
+      "Hirsch, Michael",
+      "Scholkopf, Bernhard"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Harmeling_On_a_Link_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Background Modeling Based on Bidirectional Analysis",
+    "authors": [
+      "Shimada, Atsushi",
+      "Nagahara, Hajime",
+      "Taniguchi, Rin-ichiro"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Shimada_Background_Modeling_Based_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Minimum Uncertainty Gap for Robust Visual Tracking",
+    "authors": [
+      "Kwon, Junseok",
+      "Mu Lee, Kyoung"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Kwon_Minimum_Uncertainty_Gap_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Real-Time No-Reference Image Quality Assessment Based on Filter Learning",
+    "authors": [
+      "Ye, Peng",
+      "Kumar, Jayant",
+      "Kang, Le",
+      "Doermann, David"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ye_Real-Time_No-Reference_Image_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "City-Scale Change Detection in Cadastral 3D Models Using Images",
+    "authors": [
+      "Taneja, Aparna",
+      "Ballan, Luca",
+      "Pollefeys, Marc"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Taneja_City-Scale_Change_Detection_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Occlusion Patterns for Object Class Detection",
+    "authors": [
+      "Pepikj, Bojan",
+      "Stark, Michael",
+      "Gehler, Peter",
+      "Schiele, Bernt"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Pepikj_Occlusion_Patterns_for_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Local Fisher Discriminant Analysis for Pedestrian Re-identification",
+    "authors": [
+      "Pedagadi, Sateesh",
+      "Orwell, James",
+      "Velastin, Sergio",
+      "Boghossian, Boghos"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Pedagadi_Local_Fisher_Discriminant_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Semi-supervised Node Splitting for Random Forest Construction",
+    "authors": [
+      "Liu, Xiao",
+      "Song, Mingli",
+      "Tao, Dacheng",
+      "Liu, Zicheng",
+      "Zhang, Luming",
+      "Chen, Chun",
+      "Bu, Jiajun"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Liu_Semi-supervised_Node_Splitting_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Vantage Feature Frames for Fine-Grained Categorization",
+    "authors": [
+      "Rejeb Sfar, Asma",
+      "Boujemaa, Nozha",
+      "Geman, Donald"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Sfar_Vantage_Feature_Frames_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "A Video Representation Using Temporal Superpixels",
+    "authors": [
+      "Chang, Jason",
+      "Wei, Donglai",
+      "Fisher, III, John W."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Chang_A_Video_Representation_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Structure Preserving Object Tracking",
+    "authors": [
+      "Zhang, Lu",
+      "van der Maaten, Laurens"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zhang_Structure_Preserving_Object_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Unsupervised Salience Learning for Person Re-identification",
+    "authors": [
+      "Zhao, Rui",
+      "Ouyang, Wanli",
+      "Wang, Xiaogang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zhao_Unsupervised_Salience_Learning_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Spatiotemporal Deformable Part Models for Action Detection",
+    "authors": [
+      "Tian, Yicong",
+      "Sukthankar, Rahul",
+      "Shah, Mubarak"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Tian_Spatiotemporal_Deformable_Part_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Beyond Point Clouds: Scene Understanding by Reasoning Geometry and Physics",
+    "authors": [
+      "Zheng, Bo",
+      "Zhao, Yibiao",
+      "Yu, Joey C.",
+      "Ikeuchi, Katsushi",
+      "Zhu, Song-Chun"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zheng_Beyond_Point_Clouds_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Recovering Stereo Pairs from Anaglyphs",
+    "authors": [
+      "Joulin, Armand",
+      "Bing Kang, Sing"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Joulin_Recovering_Stereo_Pairs_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Axially Symmetric 3D Pots Configuration System Using Axis of Symmetry and Break Curve",
+    "authors": [
+      "Son, Kilho",
+      "Almeida, Eduardo B.",
+      "Cooper, David B."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Son_Axially_Symmetric_3D_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Learning a Manifold as an Atlas",
+    "authors": [
+      "Pitelis, Nikolaos",
+      "Russell, Chris",
+      "Agapito, Lourdes"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Pitelis_Learning_a_Manifold_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Label-Embedding for Attribute-Based Classification",
+    "authors": [
+      "Akata, Zeynep",
+      "Perronnin, Florent",
+      "Harchaoui, Zaid",
+      "Schmid, Cordelia"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Akata_Label-Embedding_for_Attribute-Based_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Dynamic Scene Classification: Learning Motion Descriptors with Slow Features Analysis",
+    "authors": [
+      "Theriault, Christian",
+      "Thome, Nicolas",
+      "Cord, Matthieu"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Theriault_Dynamic_Scene_Classification_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "The Episolar Constraint: Monocular Shape from Shadow Correspondence",
+    "authors": [
+      "Abrams, Austin",
+      "Miskell, Kylia",
+      "Pless, Robert"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Abrams_The_Episolar_Constraint_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Learning and Calibrating Per-Location Classifiers for Visual Place Recognition",
+    "authors": [
+      "Gronat, Petr",
+      "Obozinski, Guillaume",
+      "Sivic, Josef",
+      "Pajdla, Tomas"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Gronat_Learning_and_Calibrating_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Blind Deconvolution of Widefield Fluorescence Microscopic Data by Regularization of the Optical Transfer Function (OTF)",
+    "authors": [
+      "Keuper, Margret",
+      "Schmidt, Thorsten",
+      "Temerinac-Ott, Maja",
+      "Padeken, Jan",
+      "Heun, Patrick",
+      "Ronneberger, Olaf",
+      "Brox, Thomas"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Keuper_Blind_Deconvolution_of_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Tensor-Based Human Body Modeling",
+    "authors": [
+      "Chen, Yinpeng",
+      "Liu, Zicheng",
+      "Zhang, Zhengyou"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Chen_Tensor-Based_Human_Body_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Segment-Tree Based Cost Aggregation for Stereo Matching",
+    "authors": [
+      "Mei, Xing",
+      "Sun, Xun",
+      "Dong, Weiming",
+      "Wang, Haitao",
+      "Zhang, Xiaopeng"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Mei_Segment-Tree_Based_Cost_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Category Modeling from Just a Single Labeling: Use Depth Information to Guide the Learning of 2D Models",
+    "authors": [
+      "Zhang, Quanshi",
+      "Song, Xuan",
+      "Shao, Xiaowei",
+      "Shibasaki, Ryosuke",
+      "Zhao, Huijing"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zhang_Category_Modeling_from_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Human Pose Estimation Using a Joint Pixel-wise and Part-wise Formulation",
+    "authors": [
+      "Ladicky, Lubor",
+      "Torr, Philip H.S.",
+      "Zisserman, Andrew"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ladicky_Human_Pose_Estimation_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Learning Separable Filters",
+    "authors": [
+      "Rigamonti, Roberto",
+      "Sironi, Amos",
+      "Lepetit, Vincent",
+      "Fua, Pascal"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Rigamonti_Learning_Separable_Filters_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Tracking Human Pose by Tracking Symmetric Parts",
+    "authors": [
+      "Ramakrishna, Varun",
+      "Kanade, Takeo",
+      "Sheikh, Yaser"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ramakrishna_Tracking_Human_Pose_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Facial Feature Tracking Under Varying Facial Expressions and Face Poses Based on Restricted Boltzmann Machines",
+    "authors": [
+      "Wu, Yue",
+      "Wang, Zuoguan",
+      "Ji, Qiang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Wu_Facial_Feature_Tracking_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Weakly Supervised Learning of Mid-Level Features with Beta-Bernoulli Process Restricted Boltzmann Machines",
+    "authors": [
+      "Mittelman, Roni",
+      "Lee, Honglak",
+      "Kuipers, Benjamin",
+      "Savarese, Silvio"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Mittelman_Weakly_Supervised_Learning_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "K-Means Hashing: An Affinity-Preserving Quantization Method for Learning Binary Compact Codes",
+    "authors": [
+      "He, Kaiming",
+      "Wen, Fang",
+      "Sun, Jian"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/He_K-Means_Hashing_An_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Rolling Riemannian Manifolds to Solve the Multi-class Classification Problem",
+    "authors": [
+      "Caseiro, Rui",
+      "Martins, Pedro",
+      "Henriques, Joao F.",
+      "Silva Leite, Fatima",
+      "Batista, Jorge"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Caseiro_Rolling_Riemannian_Manifolds_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Mesh Based Semantic Modelling for Indoor and Outdoor Scenes",
+    "authors": [
+      "Valentin, Julien P.C.",
+      "Sengupta, Sunando",
+      "Warrell, Jonathan",
+      "Shahrokni, Ali",
+      "Torr, Philip H.S."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Valentin_Mesh_Based_Semantic_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "A Bayesian Approach to Multimodal Visual Dictionary Learning",
+    "authors": [
+      "Irie, Go",
+      "Liu, Dong",
+      "Li, Zhenguo",
+      "Chang, Shih-Fu"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Irie_A_Bayesian_Approach_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Photometric Ambient Occlusion",
+    "authors": [
+      "Hauagge, Daniel",
+      "Wehrwein, Scott",
+      "Bala, Kavita",
+      "Snavely, Noah"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Hauagge_Photometric_Ambient_Occlusion_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Beyond Physical Connections: Tree Models in Human Pose Estimation",
+    "authors": [
+      "Wang, Fang",
+      "Li, Yi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Wang_Beyond_Physical_Connections_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Patch Match Filter: Efficient Edge-Aware Filtering Meets Randomized Search for Fast Correspondence Field Estimation",
+    "authors": [
+      "Lu, Jiangbo",
+      "Yang, Hongsheng",
+      "Min, Dongbo",
+      "Do, Minh N."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Lu_Patch_Match_Filter_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Generalized Domain-Adaptive Dictionaries",
+    "authors": [
+      "Shekhar, Sumit",
+      "Patel, Vishal M.",
+      "Nguyen, Hien V.",
+      "Chellappa, Rama"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Shekhar_Generalized_Domain-Adaptive_Dictionaries_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Supervised Descent Method and Its Applications to Face Alignment",
+    "authors": [
+      "Xiong, Xuehan",
+      "De la Torre, Fernando"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Xiong_Supervised_Descent_Method_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Self-Paced Learning for Long-Term Tracking",
+    "authors": [
+      "Supancic, III, James S.",
+      "Ramanan, Deva"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Supancic_III_Self-Paced_Learning_for_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "A Machine Learning Approach for Non-blind Image Deconvolution",
+    "authors": [
+      "Schuler, Christian J.",
+      "Christopher Burger, Harold",
+      "Harmeling, Stefan",
+      "Scholkopf, Bernhard"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Schuler_A_Machine_Learning_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Correlation Filters for Object Alignment",
+    "authors": [
+      "Naresh Boddeti, Vishnu",
+      "Kanade, Takeo",
+      "Vijaya Kumar, B.V.K."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Boddeti_Correlation_Filters_for_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Voxel Cloud Connectivity Segmentation - Supervoxels for Point Clouds",
+    "authors": [
+      "Papon, Jeremie",
+      "Abramov, Alexey",
+      "Schoeler, Markus",
+      "Worgotter, Florentin"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Papon_Voxel_Cloud_Connectivity_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Adherent Raindrop Detection and Removal in Video",
+    "authors": [
+      "You, Shaodi",
+      "Tan, Robby T.",
+      "Kawakami, Rei",
+      "Ikeuchi, Katsushi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/You_Adherent_Raindrop_Detection_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Recovering Line-Networks in Images by Junction-Point Processes",
+    "authors": [
+      "Chai, Dengfeng",
+      "Forstner, Wolfgang",
+      "Lafarge, Florent"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Chai_Recovering_Line-Networks_in_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Continuous Inference in Graphical Models with Polynomial Energies",
+    "authors": [
+      "Salzmann, Mathieu"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Salzmann_Continuous_Inference_in_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Attribute-Based Detection of Unfamiliar Classes with Humans in the Loop",
+    "authors": [
+      "Wah, Catherine",
+      "Belongie, Serge"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Wah_Attribute-Based_Detection_of_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Locally Aligned Feature Transforms across Views",
+    "authors": [
+      "Li, Wei",
+      "Wang, Xiaogang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Li_Locally_Aligned_Feature_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Sensing and Recognizing Surface Textures Using a GelSight Sensor",
+    "authors": [
+      "Li, Rui",
+      "Adelson, Edward H."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Li_Sensing_and_Recognizing_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Universality of the Local Marginal Polytope",
+    "authors": [
+      "Prusa, Daniel",
+      "Werner, Tomas"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Prusa_Universality_of_the_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Graph Matching with Anchor Nodes: A Learning Approach",
+    "authors": [
+      "Hu, Nan",
+      "Rustamov, Raif M.",
+      "Guibas, Leonidas"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Hu_Graph_Matching_with_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Blocks That Shout: Distinctive Parts for Scene Classification",
+    "authors": [
+      "Juneja, Mayank",
+      "Vedaldi, Andrea",
+      "Jawahar, C.V.",
+      "Zisserman, Andrew"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Juneja_Blocks_That_Shout_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Megastereo: Constructing High-Resolution Stereo Panoramas",
+    "authors": [
+      "Richardt, Christian",
+      "Pritch, Yael",
+      "Zimmer, Henning",
+      "Sorkine-Hornung, Alexander"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Richardt_Megastereo_Constructing_High-Resolution_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Augmenting Bag-of-Words: Data-Driven Discovery of Temporal and Structural Information for Activity Recognition",
+    "authors": [
+      "Bettadapura, Vinay",
+      "Schindler, Grant",
+      "Ploetz, Thomas",
+      "Essa, Irfan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Bettadapura_Augmenting_Bag-of-Words_Data-Driven_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Dense 3D Reconstruction from Severely Blurred Images Using a Single Moving Camera",
+    "authors": [
+      "Seok Lee, Hee",
+      "Mu Lee, Kuoung"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Lee_Dense_3D_Reconstruction_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "A Practical Rank-Constrained Eight-Point Algorithm for Fundamental Matrix Estimation",
+    "authors": [
+      "Zheng, Yinqiang",
+      "Sugimoto, Shigeki",
+      "Okutomi, Masatoshi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zheng_A_Practical_Rank-Constrained_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Accurate Localization of 3D Objects from RGB-D Data Using Segmentation Hypotheses",
+    "authors": [
+      "Kim, Byung-soo",
+      "Xu, Shili",
+      "Savarese, Silvio"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Kim_Accurate_Localization_of_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Pixel-Level Hand Detection in Ego-centric Videos",
+    "authors": [
+      "Li, Cheng",
+      "Kitani, Kris M."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Li_Pixel-Level_Hand_Detection_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Geometric Context from Videos",
+    "authors": [
+      "Hussain Raza, S.",
+      "Grundmann, Matthias",
+      "Essa, Irfan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Raza_Geometric_Context_from_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Exploiting the Power of Stereo Confidences",
+    "authors": [
+      "Pfeiffer, David",
+      "Gehrig, Stefan",
+      "Schneider, Nicolai"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Pfeiffer_Exploiting_the_Power_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Optimizing 1-Nearest Prototype Classifiers",
+    "authors": [
+      "Wohlhart, Paul",
+      "Kostinger, Martin",
+      "Donoser, Michael",
+      "Roth, Peter M.",
+      "Bischof, Horst"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Wohlhart_Optimizing_1-Nearest_Prototype_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Efficient 3D Endfiring TRUS Prostate Segmentation with Globally Optimized Rotational Symmetry",
+    "authors": [
+      "Yuan, Jing",
+      "Qiu, Wu",
+      "Ukwatta, Eranga",
+      "Rajchl, Martin",
+      "Tai, Xue-Cheng",
+      "Fenster, Aaron"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Yuan_Efficient_3D_Endfiring_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Robust Canonical Time Warping for the Alignment of Grossly Corrupted Sequences",
+    "authors": [
+      "Panagakis, Yannis",
+      "Nicolaou, Mihalis A.",
+      "Zafeiriou, Stefanos",
+      "Pantic, Maja"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Panagakis_Robust_Canonical_Time_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "The Generalized Laplacian Distance and Its Applications for Visual Matching",
+    "authors": [
+      "Elboer, Elhanan",
+      "Werman, Michael",
+      "Hel-Or, Yacov"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Elboer_The_Generalized_Laplacian_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "A Sentence Is Worth a Thousand Pixels",
+    "authors": [
+      "Fidler, Sanja",
+      "Sharma, Abhishek",
+      "Urtasun, Raquel"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Fidler_A_Sentence_Is_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Deep Convolutional Network Cascade for Facial Point Detection",
+    "authors": [
+      "Sun, Yi",
+      "Wang, Xiaogang",
+      "Tang, Xiaoou"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Sun_Deep_Convolutional_Network_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Scalable Sparse Subspace Clustering",
+    "authors": [
+      "Peng, Xi",
+      "Zhang, Lei",
+      "Yi, Zhang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Peng_Scalable_Sparse_Subspace_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Nonlinearly Constrained MRFs: Exploring the Intrinsic Dimensions of Higher-Order Cliques",
+    "authors": [
+      "Zeng, Yun",
+      "Wang, Chaohui",
+      "Soatto, Stefano",
+      "Yau, Shing-Tung"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zeng_Nonlinearly_Constrained_MRFs_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Seeking the Strongest Rigid Detector",
+    "authors": [
+      "Benenson, Rodrigo",
+      "Mathias, Markus",
+      "Tuytelaars, Tinne",
+      "Van Gool, Luc"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Benenson_Seeking_the_Strongest_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "An Approach to Pose-Based Action Recognition",
+    "authors": [
+      "Wang, Chunyu",
+      "Wang, Yizhou",
+      "Yuille, Alan L."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Wang_An_Approach_to_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Pattern-Driven Colorization of 3D Surfaces",
+    "authors": [
+      "Leifman, George",
+      "Tal, Ayellet"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Leifman_Pattern-Driven_Colorization_of_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Dense Reconstruction Using 3D Object Shape Priors",
+    "authors": [
+      "Dame, Amaury",
+      "Prisacariu, Victor A.",
+      "Ren, Carl Y.",
+      "Reid, Ian"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Dame_Dense_Reconstruction_Using_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Modeling Actions through State Changes",
+    "authors": [
+      "Fathi, Alireza",
+      "Rehg, James M."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Fathi_Modeling_Actions_through_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "GRASP Recurring Patterns from a Single View",
+    "authors": [
+      "Liu, Jingchen",
+      "Liu, Yanxi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Liu_GRASP_Recurring_Patterns_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Texture Enhanced Image Denoising via Gradient Histogram Preservation",
+    "authors": [
+      "Zuo, Wangmeng",
+      "Zhang, Lei",
+      "Song, Chunwei",
+      "Zhang, David"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Zuo_Texture_Enhanced_Image_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Analyzing Semantic Segmentation Using Hybrid Human-Machine CRFs",
+    "authors": [
+      "Mottaghi, Roozbeh",
+      "Fidler, Sanja",
+      "Yao, Jian",
+      "Urtasun, Raquel",
+      "Parikh, Devi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Mottaghi_Analyzing_Semantic_Segmentation_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Multi-source Multi-scale Counting in Extremely Dense Crowd Images",
+    "authors": [
+      "Idrees, Haroon",
+      "Saleemi, Imran",
+      "Seibert, Cody",
+      "Shah, Mubarak"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Idrees_Multi-source_Multi-scale_Counting_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Non-uniform Motion Deblurring for Bilayer Scenes",
+    "authors": [
+      "Paramanand, Chandramouli",
+      "Rajagopalan, Ambasamudram N."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Paramanand_Non-uniform_Motion_Deblurring_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Specular Reflection Separation Using Dark Channel Prior",
+    "authors": [
+      "Kim, Hyeongwoo",
+      "Jin, Hailin",
+      "Hadap, Sunil",
+      "Kweon, Inso"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Kim_Specular_Reflection_Separation_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Blessing of Dimensionality: High-Dimensional Feature and Its Efficient Compression for Face Verification",
+    "authors": [
+      "Chen, Dong",
+      "Cao, Xudong",
+      "Wen, Fang",
+      "Sun, Jian"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Chen_Blessing_of_Dimensionality_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Robust Estimation of Nonrigid Transformation for Point Set Registration",
+    "authors": [
+      "Ma, Jiayi",
+      "Zhao, Ji",
+      "Tian, Jinwen",
+      "Tu, Zhuowen",
+      "Yuille, Alan L."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Ma_Robust_Estimation_of_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Representing Videos Using Mid-level Discriminative Patches",
+    "authors": [
+      "Jain, Arpit",
+      "Gupta, Abhinav",
+      "Rodriguez, Mikel",
+      "Davis, Larry S."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Jain_Representing_Videos_Using_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Fusing Robust Face Region Descriptors via Multiple Metric Learning for Face Recognition in the Wild",
+    "authors": [
+      "Cui, Zhen",
+      "Li, Wen",
+      "Xu, Dong",
+      "Shan, Shiguang",
+      "Chen, Xilin"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Cui_Fusing_Robust_Face_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Discriminative Sub-categorization",
+    "authors": [
+      "Hoai, Minh",
+      "Zisserman, Andrew"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Hoai_Discriminative_Sub-categorization_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Perceptual Organization and Recognition of Indoor Scenes from RGB-D Images",
+    "authors": [
+      "Gupta, Saurabh",
+      "Arbelaez, Pablo",
+      "Malik, Jitendra"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Gupta_Perceptual_Organization_and_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Harvesting Mid-level Visual Concepts from Large-Scale Internet Images",
+    "authors": [
+      "Li, Quannan",
+      "Wu, Jiajun",
+      "Tu, Zhuowen"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Li_Harvesting_Mid-level_Visual_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Sample-Specific Late Fusion for Visual Category Recognition",
+    "authors": [
+      "Liu, Dong",
+      "Lai, Kuan-Ting",
+      "Ye, Guangnan",
+      "Chen, Ming-Syan",
+      "Chang, Shih-Fu"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Liu_Sample-Specific_Late_Fusion_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "PISA: Pixelwise Image Saliency by Aggregating Complementary Appearance Contrast Measures with Spatial Priors",
+    "authors": [
+      "Shi, Keyang",
+      "Wang, Keze",
+      "Lu, Jiangbo",
+      "Lin, Liang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Shi_PISA_Pixelwise_Image_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Simultaneous Super-Resolution of Depth and Images Using a Single Camera",
+    "authors": [
+      "Seok Lee, Hee",
+      "Mu Lee, Kuoung"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Lee_Simultaneous_Super-Resolution_of_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Learning Structured Hough Voting for Joint Object Detection and Occlusion Reasoning",
+    "authors": [
+      "Wang, Tao",
+      "He, Xuming",
+      "Barnes, Nick"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Wang_Learning_Structured_Hough_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "3D-Based Reasoning with Blocks, Support, and Stability",
+    "authors": [
+      "Jia, Zhaoyin",
+      "Gallagher, Andrew",
+      "Saxena, Ashutosh",
+      "Chen, Tsuhan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Jia_3D-Based_Reasoning_with_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "Sampling Strategies for Real-Time Action Recognition",
+    "authors": [
+      "Shi, Feng",
+      "Petriu, Emil",
+      "Laganiere, Robert"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Shi_Sampling_Strategies_for_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  },
+  {
+    "title": "SCaLE: Supervised and Cascaded Laplacian Eigenmaps for Visual Object Recognition Based on Nearest Neighbors",
+    "authors": [
+      "Wu, Ruobing",
+      "Yu, Yizhou",
+      "Wang, Wenping"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_cvpr_2013/papers/Wu_SCaLE_Supervised_and_2013_CVPR_paper.pdf",
+    "source": "CVPR",
+    "year": 2013
+  }
+]

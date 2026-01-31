@@ -1,6 +1,6 @@
 """
-ICCV 论文爬虫
-从 https://openaccess.thecvf.com/ICCV{year} 爬取论文。
+CVPR 论文爬虫
+从 https://openaccess.thecvf.com/CVPR{year} 爬取论文。
 - 2018 及以后：页面按 Day 分页，解析 dt.ptitle + dd。
 - 2017 及以前：单页列出所有论文，无 day 分页，解析标题链接与 bibtex 中的 author。
 输出格式与项目内其他 JSON 一致：title, authors, pdf_link, source, year。
@@ -13,8 +13,8 @@ import os
 from typing import List, Dict
 
 # ========== 可修改参数 ==========
-# 修改年份即可爬取对应年份的 ICCV 论文
-YEAR = 2016
+# 修改年份即可爬取对应年份的 CVPR 论文
+YEAR = 2013
 
 BASE_URL = "https://openaccess.thecvf.com"
 OUTPUT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -77,7 +77,7 @@ def parse_papers_from_html(html: str, base_url: str, year: int) -> List[Dict]:
             "title": title,
             "authors": authors,
             "pdf_link": pdf_link,
-            "source": "ICCV",
+            "source": "CVPR",
             "year": year,
         })
     return papers
@@ -86,8 +86,8 @@ def parse_papers_from_html(html: str, base_url: str, year: int) -> List[Dict]:
 def parse_papers_from_html_legacy(html: str, base_url: str, year: int) -> List[Dict]:
     """解析 2017 及以前的旧版页面：单页列出所有论文，无 day 分页；标题链到 html，PDF 从路径推导；作者从 bibtex 的 author 行解析。"""
     papers = []
-    content_prefix = f"content_iccv_{year}"
-    # 所有指向 content_iccv_YYYY/html/*.html 的链接即论文标题链接
+    content_prefix = f"content_cvpr_{year}"
+    # 所有指向 content_cvpr_YYYY/html/*.html 的链接即论文标题链接
     title_link_re = re.compile(
         r'<a\s+href="(' + re.escape(content_prefix) + r'/html/[^"]+\.html)"[^>]*>([^<]+)</a>',
         re.IGNORECASE | re.DOTALL
@@ -102,10 +102,8 @@ def parse_papers_from_html_legacy(html: str, base_url: str, year: int) -> List[D
         href, title = m.group(1), m.group(2).strip()
         if not title:
             continue
-        # PDF 路径：2016 及以后 PDF 用 content_ICCV_；2015 及以前保持 content_iccv_
+        # PDF 路径：2017 及以前为 base/content_cvpr_YYYY/papers/xxx.pdf（无 CVPR{year} 段）
         pdf_path = href.replace("/html/", "/papers/").replace(".html", ".pdf")
-        if year >= 2016:
-            pdf_path = pdf_path.replace(f"content_iccv_{year}", f"content_ICCV_{year}")
         pdf_link = f"{base_url}/{pdf_path}" if not pdf_path.startswith("http") else pdf_path
 
         authors = []
@@ -118,19 +116,19 @@ def parse_papers_from_html_legacy(html: str, base_url: str, year: int) -> List[D
             "title": title,
             "authors": authors,
             "pdf_link": pdf_link,
-            "source": "ICCV",
+            "source": "CVPR",
             "year": year,
         })
     return papers
 
 
-def scrape_iccv(year: int = None) -> List[Dict]:
+def scrape_cvpr(year: int = None) -> List[Dict]:
     year = year if year is not None else YEAR
-    conference_url = f"{BASE_URL}/ICCV{year}"
+    conference_url = f"{BASE_URL}/CVPR{year}"
 
     # 2017 及以前：单页列出所有论文，无 day 分页，使用旧版解析
     if year <= 2017:
-        print(f"使用旧版单页解析 (ICCV {year})")
+        print(f"使用旧版单页解析 (CVPR {year})")
         html = fetch_page(conference_url)
         if not html:
             print("请求会议主页失败。")
@@ -161,7 +159,7 @@ def scrape_iccv(year: int = None) -> List[Dict]:
 def save_to_json(papers: List[Dict], filename: str = None, year: int = None) -> str:
     year = year if year is not None else YEAR
     if filename is None:
-        filename = os.path.join(OUTPUT_DIR, f"ICCV{year}papers.json")
+        filename = os.path.join(OUTPUT_DIR, f"CVPR{year}papers.json")
     else:
         filename = os.path.join(OUTPUT_DIR, filename)
     os.makedirs(os.path.dirname(filename), exist_ok=True)
@@ -172,10 +170,10 @@ def save_to_json(papers: List[Dict], filename: str = None, year: int = None) -> 
 
 
 def main():
-    papers = scrape_iccv(year=YEAR)
+    papers = scrape_cvpr(year=YEAR)
     if papers:
         save_to_json(papers, year=YEAR)
-        print(f"共爬取 ICCV {YEAR} 论文 {len(papers)} 篇")
+        print(f"共爬取 CVPR {YEAR} 论文 {len(papers)} 篇")
     else:
         print("未获取到任何论文。")
 

@@ -1,0 +1,6207 @@
+[
+  {
+    "title": "Ask Your Neurons: A Neural-Based Approach to Answering Questions About Images",
+    "authors": [
+      "Malinowski, Mateusz",
+      "Rohrbach, Marcus",
+      "Fritz, Mario"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Malinowski_Ask_Your_Neurons_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Segment-Phrase Table for Semantic Segmentation, Visual Entailment and Paraphrasing",
+    "authors": [
+      "Izadinia, Hamid",
+      "Sadeghi, Fereshteh",
+      "Divvala, Santosh K.",
+      "Hajishirzi, Hannaneh",
+      "Choi, Yejin",
+      "Farhadi, Ali"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Izadinia_Segment-Phrase_Table_for_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Aligning Books and Movies: Towards Story-Like Visual Explanations by Watching Movies and Reading Books",
+    "authors": [
+      "Zhu, Yukun",
+      "Kiros, Ryan",
+      "Zemel, Rich",
+      "Salakhutdinov, Ruslan",
+      "Urtasun, Raquel",
+      "Torralba, Antonio",
+      "Fidler, Sanja"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhu_Aligning_Books_and_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Query and Image Similarities With Ranking Canonical Correlation Analysis",
+    "authors": [
+      "Yao, Ting",
+      "Mei, Tao",
+      "Ngo, Chong-Wah"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Yao_Learning_Query_and_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning to See by Moving",
+    "authors": [
+      "Agrawal, Pulkit",
+      "Carreira, Joao",
+      "Malik, Jitendra"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Agrawal_Learning_to_See_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Object Detection Using Generalization and Efficiency Balanced Co-Occurrence Features",
+    "authors": [
+      "Ren, Haoyu",
+      "Li, Ze-Nian"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ren_Object_Detection_Using_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Mining And-Or Graphs for Graph Matching and Object Discovery",
+    "authors": [
+      "Zhang, Quanshi",
+      "Wu, Ying Nian",
+      "Zhu, Song-Chun"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhang_Mining_And-Or_Graphs_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Pose Induction for Novel Object Categories",
+    "authors": [
+      "Tulsiani, Shubham",
+      "Carreira, Joao",
+      "Malik, Jitendra"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Tulsiani_Pose_Induction_for_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Dynamic Texture Recognition via Orthogonal Tensor Dictionary Learning",
+    "authors": [
+      "Quan, Yuhui",
+      "Huang, Yan",
+      "Ji, Hui"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Quan_Dynamic_Texture_Recognition_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Convolutional Channel Features",
+    "authors": [
+      "Yang, Bin",
+      "Yan, Junjie",
+      "Lei, Zhen",
+      "Li, Stan Z."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Yang_Convolutional_Channel_Features_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Local Convolutional Features With Unsupervised Training for Image Retrieval",
+    "authors": [
+      "Paulin, Mattis",
+      "Douze, Matthijs",
+      "Harchaoui, Zaid",
+      "Mairal, Julien",
+      "Perronin, Florent",
+      "Schmid, Cordelia"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Paulin_Local_Convolutional_Features_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "RIDE: Reversal Invariant Descriptor Enhancement",
+    "authors": [
+      "Xie, Lingxi",
+      "Wang, Jingdong",
+      "Lin, Weiyao",
+      "Zhang, Bo",
+      "Tian, Qi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Xie_RIDE_Reversal_Invariant_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Discrete Tabu Search for Graph Matching",
+    "authors": [
+      "Adamczewski, Kamil",
+      "Suh, Yumin",
+      "Lee, Kyoung Mu"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Adamczewski_Discrete_Tabu_Search_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Discriminative Learning of Deep Convolutional Feature Point Descriptors",
+    "authors": [
+      "Simo-Serra, Edgar",
+      "Trulls, Eduard",
+      "Ferraz, Luis",
+      "Kokkinos, Iasonas",
+      "Fua, Pascal",
+      "Moreno-Noguer, Francesc"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Simo-Serra_Discriminative_Learning_of_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Amodal Completion and Size Constancy in Natural Scenes",
+    "authors": [
+      "Kar, Abhishek",
+      "Tulsiani, Shubham",
+      "Carreira, Joao",
+      "Malik, Jitendra"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Kar_Amodal_Completion_and_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Where to Position Parts in 3D",
+    "authors": [
+      "Pedersoli, Marco",
+      "Tuytelaars, Tinne"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Pedersoli_Learning_Where_to_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Query Adaptive Similarity Measure for RGB-D Object Recognition",
+    "authors": [
+      "Cheng, Yanhua",
+      "Cai, Rui",
+      "Zhang, Chi",
+      "Li, Zhiwei",
+      "Zhao, Xin",
+      "Huang, Kaiqi",
+      "Rui, Yong"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Cheng_Query_Adaptive_Similarity_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Listening With Your Eyes: Towards a Practical Visual Speech Recognition System Using Deep Boltzmann Machines",
+    "authors": [
+      "Sui, Chao",
+      "Bennamoun, Mohammed",
+      "Togneri, Roberto"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Sui_Listening_With_Your_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Cluster-Based Point Set Saliency",
+    "authors": [
+      "Tasse, Flora Ponjou",
+      "Kosinka, Jiri",
+      "Dodgson, Neil"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Tasse_Cluster-Based_Point_Set_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "A Comprehensive Multi-Illuminant Dataset for Benchmarking of the Intrinsic Image Algorithms",
+    "authors": [
+      "Beigpour, Shida",
+      "Kolb, Andreas",
+      "Kunz, Sven"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Beigpour_A_Comprehensive_Multi-Illuminant_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "PatchMatch-Based Automatic Lattice Detection for Near-Regular Textures",
+    "authors": [
+      "Liu, Siying",
+      "Ng, Tian-Tsong",
+      "Sunkavalli, Kalyan",
+      "Do, Minh N.",
+      "Shechtman, Eli",
+      "Carr, Nathan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Liu_PatchMatch-Based_Automatic_Lattice_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "A Data-Driven Metric for Comprehensive Evaluation of Saliency Models",
+    "authors": [
+      "Li, Jia",
+      "Xia, Changqun",
+      "Song, Yafei",
+      "Fang, Shu",
+      "Chen, Xiaowu"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Li_A_Data-Driven_Metric_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "A Matrix Decomposition Perspective to Multiple Graph Matching",
+    "authors": [
+      "Yan, Junchi",
+      "Xu, Hongteng",
+      "Zha, Hongyuan",
+      "Yang, Xiaokang",
+      "Liu, Huanxi",
+      "Chu, Stephen"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Yan_A_Matrix_Decomposition_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Fast and Effective L0 Gradient Minimization by Region Fusion",
+    "authors": [
+      "Nguyen, Rang M. H.",
+      "Brown, Michael S."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Nguyen_Fast_and_Effective_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Generic Promotion of Diffusion-Based Salient Object Detection",
+    "authors": [
+      "Jiang, Peng",
+      "Vasconcelos, Nuno",
+      "Peng, Jingliang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Jiang_Generic_Promotion_of_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Nighttime Haze Removal With Glow and Multiple Light Colors",
+    "authors": [
+      "Li, Yu",
+      "Tan, Robby T.",
+      "Brown, Michael S."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Li_Nighttime_Haze_Removal_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Conformal and Low-Rank Sparse Representation for Image Restoration",
+    "authors": [
+      "Li, Jianwei",
+      "Chen, Xiaowu",
+      "Zou, Dongqing",
+      "Gao, Bo",
+      "Teng, Wei"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Li_Conformal_and_Low-Rank_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Patch Group Based Nonlocal Self-Similarity Prior Learning for Image Denoising",
+    "authors": [
+      "Xu, Jun",
+      "Zhang, Lei",
+      "Zuo, Wangmeng",
+      "Zhang, David",
+      "Feng, Xiangchu"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Xu_Patch_Group_Based_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Automatic Thumbnail Generation Based on Visual Representativeness and Foreground Recognizability",
+    "authors": [
+      "Huang, Jingwei",
+      "Chen, Huarong",
+      "Wang, Bin",
+      "Lin, Stephen"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Huang_Automatic_Thumbnail_Generation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "SALICON: Reducing the Semantic Gap in Saliency Prediction by Adapting Deep Neural Networks",
+    "authors": [
+      "Huang, Xun",
+      "Shen, Chengyao",
+      "Boix, Xavier",
+      "Zhao, Qi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Huang_SALICON_Reducing_the_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "A Novel Sparsity Measure for Tensor Recovery",
+    "authors": [
+      "Zhao, Qian",
+      "Meng, Deyu",
+      "Kong, Xu",
+      "Xie, Qi",
+      "Cao, Wenfei",
+      "Wang, Yao",
+      "Xu, Zongben"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhao_A_Novel_Sparsity_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Oriented Object Proposals",
+    "authors": [
+      "He, Shengfeng",
+      "Lau, Rynson W.H."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/He_Oriented_Object_Proposals_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Nonlinear Spectral Filters for Color Image Reconstruction",
+    "authors": [
+      "Moeller, Michael",
+      "Diebold, Julia",
+      "Gilboa, Guy",
+      "Cremers, Daniel"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Moeller_Learning_Nonlinear_Spectral_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Beyond White: Ground Truth Colors for Color Constancy Correction",
+    "authors": [
+      "Cheng, Dongliang",
+      "Price, Brian",
+      "Cohen, Scott",
+      "Brown, Michael S."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Cheng_Beyond_White_Ground_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "RGB-Guided Hyperspectral Image Upsampling",
+    "authors": [
+      "Kwon, Hyeokhyen",
+      "Tai, Yu-Wing"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Kwon_RGB-Guided_Hyperspectral_Image_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Projection Onto the Manifold of Elongated Structures for Accurate Extraction",
+    "authors": [
+      "Sironi, Amos",
+      "Lepetit, Vincent",
+      "Fua, Pascal"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Sironi_Projection_Onto_the_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Naive Bayes Super-Resolution Forest",
+    "authors": [
+      "Salvador, Jordi",
+      "Perez-Pellitero, Eduardo"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Salvador_Naive_Bayes_Super-Resolution_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "POP Image Fusion - Derivative Domain Image Fusion Without Reintegration",
+    "authors": [
+      "Finlayson, Graham D.",
+      "Hayes, Alex E."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Finlayson_POP_Image_Fusion_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Adaptive Spatial-Spectral Dictionary Learning for Hyperspectral Image Denoising",
+    "authors": [
+      "Fu, Ying",
+      "Lam, Antony",
+      "Sato, Imari",
+      "Sato, Yoichi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Fu_Adaptive_Spatial-Spectral_Dictionary_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Fully Connected Guided Image Filtering",
+    "authors": [
+      "Dai, Longquan",
+      "Yuan, Mengke",
+      "Zhang, Feihu",
+      "Zhang, Xiaopeng"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Dai_Fully_Connected_Guided_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Segment Graph Based Image Filtering: Fast Structure-Preserving Smoothing",
+    "authors": [
+      "Zhang, Feihu",
+      "Dai, Longquan",
+      "Xiang, Shiming",
+      "Zhang, Xiaopeng"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhang_Segment_Graph_Based_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Deep Networks for Image Super-Resolution With Sparse Prior",
+    "authors": [
+      "Wang, Zhaowen",
+      "Liu, Ding",
+      "Yang, Jianchao",
+      "Han, Wei",
+      "Huang, Thomas"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Wang_Deep_Networks_for_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Convolutional Color Constancy",
+    "authors": [
+      "Barron, Jonathan T."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Barron_Convolutional_Color_Constancy_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Ordinal Relationships for Mid-Level Vision",
+    "authors": [
+      "Zoran, Daniel",
+      "Isola, Phillip",
+      "Krishnan, Dilip",
+      "Freeman, William T."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zoran_Learning_Ordinal_Relationships_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Thin Structure Estimation With Curvature Regularization",
+    "authors": [
+      "Marin, Dmitrii",
+      "Zhong, Yuchen",
+      "Drangova, Maria",
+      "Boykov, Yuri"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Marin_Thin_Structure_Estimation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "HARF: Hierarchy-Associated Rich Features for Salient Object Detection",
+    "authors": [
+      "Zou, Wenbin",
+      "Komodakis, Nikos"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zou_HARF_Hierarchy-Associated_Rich_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Deep Colorization",
+    "authors": [
+      "Cheng, Zezhou",
+      "Yang, Qingxiong",
+      "Sheng, Bin"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Cheng_Deep_Colorization_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Image Matting With KL-Divergence Based Sparse Sampling",
+    "authors": [
+      "Karacan, Levent",
+      "Erdem, Aykut",
+      "Erdem, Erkut"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Karacan_Image_Matting_With_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Intrinsic Decomposition of Image Sequences From Local Temporal Variations",
+    "authors": [
+      "Laffont, Pierre-Yves",
+      "Bazin, Jean-Charles"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Laffont_Intrinsic_Decomposition_of_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Low-Rank Tensor Approximation With Laplacian Scale Mixture Modeling for Multiframe Image Denoising",
+    "authors": [
+      "Dong, Weisheng",
+      "Li, Guangyu",
+      "Shi, Guangming",
+      "Li, Xin",
+      "Ma, Yi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Dong_Low-Rank_Tensor_Approximation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Parametric Distributions for Image Super-Resolution: Where Patch Matching Meets Sparse Coding",
+    "authors": [
+      "Li, Yongbo",
+      "Dong, Weisheng",
+      "Shi, Guangming",
+      "Xie, Xuemei"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Li_Learning_Parametric_Distributions_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Improving Image Restoration With Soft-Rounding",
+    "authors": [
+      "Mei, Xing",
+      "Qi, Honggang",
+      "Hu, Bao-Gang",
+      "Lyu, Siwei"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Mei_Improving_Image_Restoration_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "See the Difference: Direct Pre-Image Reconstruction and Pose Estimation by Differentiating HOG",
+    "authors": [
+      "Chiu, Wei-Chen",
+      "Fritz, Mario"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Chiu_See_the_Difference_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "An Efficient Statistical Method for Image Noise Level Estimation",
+    "authors": [
+      "Chen, Guangyong",
+      "Zhu, Fengyuan",
+      "Heng, Pheng Ann"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Chen_An_Efficient_Statistical_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Contour Detection and Characterization for Asynchronous Event Sensors",
+    "authors": [
+      "Barranco, Francisco",
+      "Teo, Ching L.",
+      "Fermuller, Cornelia",
+      "Aloimonos, Yiannis"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Barranco_Contour_Detection_and_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Class-Specific Image Deblurring",
+    "authors": [
+      "Anwar, Saeed",
+      "Huynh, Cong Phuoc",
+      "Porikli, Fatih"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Anwar_Class-Specific_Image_Deblurring_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "High-for-Low and Low-for-High: Efficient Boundary Detection From Deep Object Features and its Applications to High-Level Vision",
+    "authors": [
+      "Bertasius, Gedas",
+      "Shi, Jianbo",
+      "Torresani, Lorenzo"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Bertasius_High-for-Low_and_Low-for-High_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Variational Depth Superresolution Using Example-Based Edge Representations",
+    "authors": [
+      "Ferstl, David",
+      "Ruther, Matthias",
+      "Bischof, Horst"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ferstl_Variational_Depth_Superresolution_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Conditioned Regression Models for Non-Blind Single Image Super-Resolution",
+    "authors": [
+      "Riegler, Gernot",
+      "Schulter, Samuel",
+      "Ruther, Matthias",
+      "Bischof, Horst"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Riegler_Conditioned_Regression_Models_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Video Super-Resolution via Deep Draft-Ensemble Learning",
+    "authors": [
+      "Liao, Renjie",
+      "Tao, Xin",
+      "Li, Ruiyu",
+      "Ma, Ziyang",
+      "Jia, Jiaya"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Liao_Video_Super-Resolution_via_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Pan-Sharpening With a Hyper-Laplacian Penalty",
+    "authors": [
+      "Jiang, Yiyong",
+      "Ding, Xinghao",
+      "Zeng, Delu",
+      "Huang, Yue",
+      "Paisley, John"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Jiang_Pan-Sharpening_With_a_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Video Restoration Against Yin-Yang Phasing",
+    "authors": [
+      "Wu, Xiaolin",
+      "Li, Zhenhao",
+      "Deng, Xiaowei"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Wu_Video_Restoration_Against_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Rolling Shutter Super-Resolution",
+    "authors": [
+      "Punnappurath, Abhijith",
+      "Rengarajan, Vijay",
+      "Rajagopalan, A.N."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Punnappurath_Rolling_Shutter_Super-Resolution_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Large-Scale Automatic Image Colorization",
+    "authors": [
+      "Deshpande, Aditya",
+      "Rock, Jason",
+      "Forsyth, David"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Deshpande_Learning_Large-Scale_Automatic_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Compression Artifacts Reduction by a Deep Convolutional Network",
+    "authors": [
+      "Dong, Chao",
+      "Deng, Yubin",
+      "Loy, Chen Change",
+      "Tang, Xiaoou"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Dong_Compression_Artifacts_Reduction_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Multiple-Hypothesis Affine Region Estimation With Anisotropic LoG Filters",
+    "authors": [
+      "Hasegawa, Takahiro",
+      "Ambai, Mitsuru",
+      "Ishikawa, Kohta",
+      "Koutaki, Gou",
+      "Yamauchi, Yuji",
+      "Yamashita, Takayoshi",
+      "Fujiyoshi, Hironobu"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Hasegawa_Multiple-Hypothesis_Affine_Region_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "A Self-Paced Multiple-Instance Learning Framework for Co-Saliency Detection",
+    "authors": [
+      "Zhang, Dingwen",
+      "Meng, Deyu",
+      "Li, Chao",
+      "Jiang, Lu",
+      "Zhao, Qian",
+      "Han, Junwei"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhang_A_Self-Paced_Multiple-Instance_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "External Patch Prior Guided Internal Clustering for Image Denoising",
+    "authors": [
+      "Chen, Fei",
+      "Zhang, Lei",
+      "Yu, Huimin"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Chen_External_Patch_Prior_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Self-Calibration of Optical Lenses",
+    "authors": [
+      "Hirsch, Michael",
+      "Scholkopf, Bernhard"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Hirsch_Self-Calibration_of_Optical_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Illumination Robust Color Naming via Label Propagation",
+    "authors": [
+      "liu, Yuanliu",
+      "Yuan, Zejian",
+      "Chen, Badong",
+      "Xue, Jianru",
+      "Zheng, Nanning"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/liu_Illumination_Robust_Color_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Unsupervised Cross-Modal Synthesis of Subject-Specific Scans",
+    "authors": [
+      "Vemulapalli, Raviteja",
+      "Van Nguyen, Hien",
+      "Zhou, Shaohua Kevin"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Vemulapalli_Unsupervised_Cross-Modal_Synthesis_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning to Boost Filamentary Structure Segmentation",
+    "authors": [
+      "Gu, Lin",
+      "Cheng, Li"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Gu_Learning_to_Boost_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Weakly-Supervised Structured Output Learning With Flexible and Latent Graphs Using High-Order Loss Functions",
+    "authors": [
+      "Carneiro, Gustavo",
+      "Peng, Tingying",
+      "Bayer, Christine",
+      "Navab, Nassir"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Carneiro_Weakly-Supervised_Structured_Output_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Efficient Classifier Training to Minimize False Merges in Electron Microscopy Segmentation",
+    "authors": [
+      "Parag, Toufiq",
+      "Ciresan, Dan C.",
+      "Giusti, Alessandro"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Parag_Efficient_Classifier_Training_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "On Statistical Analysis of Neuroimages With Imperfect Registration",
+    "authors": [
+      "Kim, Won Hwa",
+      "Ravi, Sathya N.",
+      "Johnson, Sterling C.",
+      "Okonkwo, Ozioma C.",
+      "Singh, Vikas"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Kim_On_Statistical_Analysis_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Convex Optimization With Abstract Linear Operators",
+    "authors": [
+      "Diamond, Steven",
+      "Boyd, Stephen"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Diamond_Convex_Optimization_With_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Building Dynamic Cloud Maps From the Ground Up",
+    "authors": [
+      "Murdock, Calvin",
+      "Jacobs, Nathan",
+      "Pless, Robert"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Murdock_Building_Dynamic_Cloud_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "A Versatile Learning-Based 3D Temporal Tracker: Scalable, Robust, Online",
+    "authors": [
+      "Tan, David Joseph",
+      "Tombari, Federico",
+      "Ilic, Slobodan",
+      "Navab, Nassir"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Tan_A_Versatile_Learning-Based_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Realtime Edge-Based Visual Odometry for a Monocular Camera",
+    "authors": [
+      "Tarrio, Juan Jose",
+      "Pedre, Sol"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Tarrio_Realtime_Edge-Based_Visual_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Fill and Transfer: A Simple Physics-Based Approach for Containability Reasoning",
+    "authors": [
+      "Yu, Lap-Fai",
+      "Duncan, Noah",
+      "Yeung, Sai-Kit"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Yu_Fill_and_Transfer_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "On Linear Structure From Motion for Light Field Cameras",
+    "authors": [
+      "Johannsen, Ole",
+      "Sulc, Antonin",
+      "Goldluecke, Bastian"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Johannsen_On_Linear_Structure_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "3D Object Reconstruction From Hand-Object Interactions",
+    "authors": [
+      "Tzionas, Dimitrios",
+      "Gall, Juergen"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Tzionas_3D_Object_Reconstruction_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Minimal Solvers for 3D Geometry From Satellite Imagery",
+    "authors": [
+      "Zheng, Enliang",
+      "Wang, Ke",
+      "Dunn, Enrique",
+      "Frahm, Jan-Michael"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zheng_Minimal_Solvers_for_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "An Efficient Minimal Solution for Multi-Camera Motion",
+    "authors": [
+      "Ventura, Jonathan",
+      "Arth, Clemens",
+      "Lepetit, Vincent"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ventura_An_Efficient_Minimal_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Shape, Motion and Elastic Models in Force Space",
+    "authors": [
+      "Agudo, Antonio",
+      "Moreno-Noguer, Francesc"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Agudo_Learning_Shape_Motion_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "A Versatile Scene Model With Differentiable Visibility Applied to Generative Pose Estimation",
+    "authors": [
+      "Rhodin, Helge",
+      "Robertini, Nadia",
+      "Richardt, Christian",
+      "Seidel, Hans-Peter",
+      "Theobalt, Christian"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Rhodin_A_Versatile_Scene_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Semantic Pose Using Deep Networks Trained on Synthetic RGB-D",
+    "authors": [
+      "Papon, Jeremie",
+      "Schoeler, Markus"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Papon_Semantic_Pose_Using_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Exploiting High Level Scene Cues in Stereo Reconstruction",
+    "authors": [
+      "Hadfield, Simon",
+      "Bowden, Richard"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Hadfield_Exploiting_High_Level_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Point Triangulation Through Polyhedron Collapse Using the l[?] Norm",
+    "authors": [
+      "Donne, Simon",
+      "Goossens, Bart",
+      "Philips, Wilfried"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Donne_Point_Triangulation_Through_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Optimizing the Viewing Graph for Structure-From-Motion",
+    "authors": [
+      "Sweeney, Chris",
+      "Sattler, Torsten",
+      "Hollerer, Tobias",
+      "Turk, Matthew",
+      "Pollefeys, Marc"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Sweeney_Optimizing_the_Viewing_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Intrinsic Scene Decomposition From RGB-D images",
+    "authors": [
+      "Hachama, Mohammed",
+      "Ghanem, Bernard",
+      "Wonka, Peter"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Hachama_Intrinsic_Scene_Decomposition_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "3D Hand Pose Estimation Using Randomized Decision Forest With Segmentation Index Points",
+    "authors": [
+      "Li, Peiyi",
+      "Ling, Haibin",
+      "Li, Xi",
+      "Liao, Chunyuan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Li_3D_Hand_Pose_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Accurate Camera Calibration Robust to Defocus Using a Smartphone",
+    "authors": [
+      "Ha, Hyowon",
+      "Bok, Yunsu",
+      "Joo, Kyungdon",
+      "Jung, Jiyoung",
+      "Kweon, In So"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ha_Accurate_Camera_Calibration_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "High Quality Structure From Small Motion for Rolling Shutter Cameras",
+    "authors": [
+      "Im, Sunghoon",
+      "Ha, Hyowon",
+      "Choe, Gyeongmin",
+      "Jeon, Hae-Gon",
+      "Joo, Kyungdon",
+      "Kweon, In So"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Im_High_Quality_Structure_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Photogeometric Scene Flow for High-Detail Dynamic 3D Reconstruction",
+    "authors": [
+      "Gotardo, Paulo F. U.",
+      "Simon, Tomas",
+      "Sheikh, Yaser",
+      "Matthews, Iain"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Gotardo_Photogeometric_Scene_Flow_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Blur-Aware Disparity Estimation From Defocus Stereo Images",
+    "authors": [
+      "Chen, Ching-Hui",
+      "Zhou, Hui",
+      "Ahonen, Timo"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Chen_Blur-Aware_Disparity_Estimation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Global Structure-From-Motion by Similarity Averaging",
+    "authors": [
+      "Cui, Zhaopeng",
+      "Tan, Ping"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Cui_Global_Structure-From-Motion_by_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Massively Parallel Multiview Stereopsis by Surface Normal Diffusion",
+    "authors": [
+      "Galliani, Silvano",
+      "Lasinger, Katrin",
+      "Schindler, Konrad"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Galliani_Massively_Parallel_Multiview_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Variational PatchMatch MultiView Reconstruction and Refinement",
+    "authors": [
+      "Heise, Philipp",
+      "Jensen, Brian",
+      "Klose, Sebastian",
+      "Knoll, Alois"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Heise_Variational_PatchMatch_MultiView_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "As-Rigid-As-Possible Volumetric Shape-From-Template",
+    "authors": [
+      "Parashar, Shaifali",
+      "Pizarro, Daniel",
+      "Bartoli, Adrien",
+      "Collins, Toby"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Parashar_As-Rigid-As-Possible_Volumetric_Shape-From-Template_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "General Dynamic Scene Reconstruction From Multiple View Video",
+    "authors": [
+      "Mustafa, Armin",
+      "Kim, Hansung",
+      "Guillemaut, Jean-Yves",
+      "Hilton, Adrian"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Mustafa_General_Dynamic_Scene_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "The Joint Image Handbook",
+    "authors": [
+      "Trager, Matthew",
+      "Hebert, Martial",
+      "Ponce, Jean"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Trager_The_Joint_Image_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Direct, Dense, and Deformable: Template-Based Non-Rigid 3D Reconstruction From RGB Video",
+    "authors": [
+      "Yu, Rui",
+      "Russell, Chris",
+      "Campbell, Neill D. F.",
+      "Agapito, Lourdes"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Yu_Direct_Dense_and_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Single Image Pop-Up From Discriminatively Learned Parts",
+    "authors": [
+      "Zhu, Menglong",
+      "Zhou, Xiaowei",
+      "Daniilidis, Kostas"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhu_Single_Image_Pop-Up_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Informative Edge Maps for Indoor Scene Layout Prediction",
+    "authors": [
+      "Mallya, Arun",
+      "Lazebnik, Svetlana"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Mallya_Learning_Informative_Edge_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Multi-View Convolutional Neural Networks for 3D Shape Recognition",
+    "authors": [
+      "Su, Hang",
+      "Maji, Subhransu",
+      "Kalogerakis, Evangelos",
+      "Learned-Miller, Erik"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Su_Multi-View_Convolutional_Neural_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Analysis-by-Synthesis for 6D Pose Estimation in RGB-D Images",
+    "authors": [
+      "Krull, Alexander",
+      "Brachmann, Eric",
+      "Michel, Frank",
+      "Yang, Michael Ying",
+      "Gumhold, Stefan",
+      "Rother, Carsten"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Krull_Learning_Analysis-by-Synthesis_for_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "3D Surface Profilometry Using Phase Shifting of De Bruijn Pattern",
+    "authors": [
+      "Donlic, Matea",
+      "Petkovic, Tomislav",
+      "Pribanic, Tomislav"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Donlic_3D_Surface_Profilometry_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "A Deep Visual Correspondence Embedding Model for Stereo Matching Costs",
+    "authors": [
+      "Chen, Zhuoyuan",
+      "Sun, Xun",
+      "Wang, Liang",
+      "Yu, Yinan",
+      "Huang, Chang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Chen_A_Deep_Visual_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Concept Embeddings With Combined Human-Machine Expertise",
+    "authors": [
+      "Wilber, Michael",
+      "Kwak, Iljung S.",
+      "Kriegman, David",
+      "Belongie, Serge"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Wilber_Learning_Concept_Embeddings_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Deep Multi-Patch Aggregation Network for Image Style, Aesthetics, and Quality Estimation",
+    "authors": [
+      "Lu, Xin",
+      "Lin, Zhe",
+      "Shen, Xiaohui",
+      "Mech, Radomir",
+      "Wang, James Z."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Lu_Deep_Multi-Patch_Aggregation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Towards Computational Baby Learning: A Weakly-Supervised Approach for Object Detection",
+    "authors": [
+      "Liang, Xiaodan",
+      "Liu, Si",
+      "Wei, Yunchao",
+      "Liu, Luoqi",
+      "Lin, Liang",
+      "Yan, Shuicheng"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Liang_Towards_Computational_Baby_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Improving Image Classification With Location Context",
+    "authors": [
+      "Tang, Kevin",
+      "Paluri, Manohar",
+      "Fei-Fei, Li",
+      "Fergus, Rob",
+      "Bourdev, Lubomir"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Tang_Improving_Image_Classification_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "HICO: A Benchmark for Recognizing Human-Object Interactions in Images",
+    "authors": [
+      "Chao, Yu-Wei",
+      "Wang, Zhan",
+      "He, Yugeng",
+      "Wang, Jiaxuan",
+      "Deng, Jia"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Chao_HICO_A_Benchmark_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification",
+    "authors": [
+      "He, Kaiming",
+      "Zhang, Xiangyu",
+      "Ren, Shaoqing",
+      "Sun, Jian"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Continuous Pose Estimation With a Spatial Ensemble of Fisher Regressors",
+    "authors": [
+      "Fenzi, Michele",
+      "Leal-Taixe, Laura",
+      "Ostermann, Jorn",
+      "Tuytelaars, Tinne"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Fenzi_Continuous_Pose_Estimation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Adaptive Hashing for Fast Similarity Search",
+    "authors": [
+      "Cakir, Fatih",
+      "Sclaroff, Stan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Cakir_Adaptive_Hashing_for_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Single Image 3D Without a Single 3D Image",
+    "authors": [
+      "Fouhey, David F.",
+      "Hussain, Wajahat",
+      "Gupta, Abhinav",
+      "Hebert, Martial"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Fouhey_Single_Image_3D_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Cross-Domain Image Retrieval With a Dual Attribute-Aware Ranking Network",
+    "authors": [
+      "Huang, Junshi",
+      "Feris, Rogerio S.",
+      "Chen, Qiang",
+      "Yan, Shuicheng"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Huang_Cross-Domain_Image_Retrieval_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Attribute-Graph: A Graph Based Approach to Image Ranking",
+    "authors": [
+      "Prabhu, Nikita",
+      "Babu, R. Venkatesh"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Prabhu_Attribute-Graph_A_Graph_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Contextual Action Recognition With R*CNN",
+    "authors": [
+      "Gkioxari, Georgia",
+      "Girshick, Ross",
+      "Malik, Jitendra"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Gkioxari_Contextual_Action_Recognition_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "What Makes an Object Memorable?",
+    "authors": [
+      "Dubey, Rachit",
+      "Peterson, Joshua",
+      "Khosla, Aditya",
+      "Yang, Ming-Hsuan",
+      "Ghanem, Bernard"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Dubey_What_Makes_an_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "kNN Hashing With Factorized Neighborhood Representation",
+    "authors": [
+      "Ding, Kun",
+      "Huo, Chunlei",
+      "Fan, Bin",
+      "Pan, Chunhong"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ding_kNN_Hashing_With_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Multi-View Complementary Hash Tables for Nearest Neighbor Search",
+    "authors": [
+      "Liu, Xianglong",
+      "Huang, Lei",
+      "Deng, Cheng",
+      "Lu, Jiwen",
+      "Lang, Bo"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Liu_Multi-View_Complementary_Hash_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Scalable Person Re-Identification: A Benchmark",
+    "authors": [
+      "Zheng, Liang",
+      "Shen, Liyue",
+      "Tian, Lu",
+      "Wang, Shengjin",
+      "Wang, Jingdong",
+      "Tian, Qi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zheng_Scalable_Person_Re-Identification_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "MMSS: Multi-Modal Sharable and Specific Feature Learning for RGB-D Object Recognition",
+    "authors": [
+      "Wang, Anran",
+      "Cai, Jianfei",
+      "Lu, Jiwen",
+      "Cham, Tat-Jen"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Wang_MMSS_Multi-Modal_Sharable_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Object Detection via a Multi-Region and Semantic Segmentation-Aware CNN Model",
+    "authors": [
+      "Gidaris, Spyros",
+      "Komodakis, Nikos"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Gidaris_Object_Detection_via_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Neural Activation Constellations: Unsupervised Part Model Discovery With Convolutional Networks",
+    "authors": [
+      "Simon, Marcel",
+      "Rodner, Erik"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Simon_Neural_Activation_Constellations_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Cascaded Sparse Spatial Bins for Efficient and Effective Generic Object Detection",
+    "authors": [
+      "Novotny, David",
+      "Matas, Jiri"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Novotny_Cascaded_Sparse_Spatial_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Probabilistic Label Relation Graphs With Ising Models",
+    "authors": [
+      "Ding, Nan",
+      "Deng, Jia",
+      "Murphy, Kevin P.",
+      "Neven, Hartmut"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ding_Probabilistic_Label_Relation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Predicting Good Features for Image Geo-Localization Using Per-Bundle VLAD",
+    "authors": [
+      "Kim, Hyo Jin",
+      "Dunn, Enrique",
+      "Frahm, Jan-Michael"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Kim_Predicting_Good_Features_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Task-Driven Feature Pooling for Image Classification",
+    "authors": [
+      "Xie, Guo-Sen",
+      "Zhang, Xu-Yao",
+      "Shu, Xiangbo",
+      "Yan, Shuicheng",
+      "Liu, Cheng-Lin"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Xie_Task-Driven_Feature_Pooling_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Cutting Edge: Soft Correspondences in Multimodal Scene Parsing",
+    "authors": [
+      "Namin, Sarah Taghavi",
+      "Najafi, Mohammad",
+      "Salzmann, Mathieu",
+      "Petersson, Lars"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Namin_Cutting_Edge_Soft_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "One Shot Learning via Compositions of Meaningful Patches",
+    "authors": [
+      "Wong, Alex",
+      "Yuille, Alan L."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Wong_One_Shot_Learning_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "FASText: Efficient Unconstrained Scene Text Detector",
+    "authors": [
+      "Busta, Michal",
+      "Neumann, Lukas",
+      "Matas, Jiri"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Busta_FASText_Efficient_Unconstrained_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Multi-Scale Recognition With DAG-CNNs",
+    "authors": [
+      "Yang, Songfan",
+      "Ramanan, Deva"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Yang_Multi-Scale_Recognition_With_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Relaxed Multiple-Instance SVM With Application to Object Discovery",
+    "authors": [
+      "Wang, Xinggang",
+      "Zhu, Zhuotun",
+      "Yao, Cong",
+      "Bai, Xiang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Wang_Relaxed_Multiple-Instance_SVM_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Im2Calories: Towards an Automated Mobile Vision Food Diary",
+    "authors": [
+      "Meyers, Austin",
+      "Johnston, Nick",
+      "Rathod, Vivek",
+      "Korattikara, Anoop",
+      "Gorban, Alex",
+      "Silberman, Nathan",
+      "Guadarrama, Sergio",
+      "Papandreou, George",
+      "Huang, Jonathan",
+      "Murphy, Kevin P."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Meyers_Im2Calories_Towards_an_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "LEWIS: Latent Embeddings for Word Images and their Semantics",
+    "authors": [
+      "Gordo, Albert",
+      "Almazan, Jon",
+      "Murray, Naila",
+      "Perronin, Florent"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Gordo_LEWIS_Latent_Embeddings_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Per-Sample Kernel Adaptation for Visual Recognition and Grouping",
+    "authors": [
+      "Antic, Borislav",
+      "Ommer, Bjorn"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Antic_Per-Sample_Kernel_Adaptation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Fine-Grained Change Detection of Misaligned Scenes With Varied Illuminations",
+    "authors": [
+      "Feng, Wei",
+      "Tian, Fei-Peng",
+      "Zhang, Qian",
+      "Zhang, Nan",
+      "Wan, Liang",
+      "Sun, Jizhou"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Feng_Fine-Grained_Change_Detection_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Aggregating Local Deep Features for Image Retrieval",
+    "authors": [
+      "Babenko, Artem",
+      "Lempitsky, Victor"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Babenko_Aggregating_Local_Deep_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Deep Object Detectors From 3D Models",
+    "authors": [
+      "Peng, Xingchao",
+      "Sun, Baochen",
+      "Ali, Karim",
+      "Saenko, Kate"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Peng_Learning_Deep_Object_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Harvesting Discriminative Meta Objects With Deep CNN Features for Scene Classification",
+    "authors": [
+      "Wu, Ruobing",
+      "Wang, Baoyuan",
+      "Wang, Wenping",
+      "Yu, Yizhou"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Wu_Harvesting_Discriminative_Meta_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Scalable Nonlinear Embeddings for Semantic Category-Based Image Retrieval",
+    "authors": [
+      "Sharma, Gaurav",
+      "Schiele, Bernt"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Sharma_Scalable_Nonlinear_Embeddings_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Person Re-Identification Ranking Optimisation by Discriminant Context Information Analysis",
+    "authors": [
+      "Garcia, Jorge",
+      "Martinel, Niki",
+      "Micheloni, Christian",
+      "Gardel, Alfredo"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Garcia_Person_Re-Identification_Ranking_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Unsupervised Generation of a Viewpoint Annotated Car Dataset From Videos",
+    "authors": [
+      "Sedaghat, Nima",
+      "Brox, Thomas"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Sedaghat_Unsupervised_Generation_of_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Structured Indoor Modeling",
+    "authors": [
+      "Ikehata, Satoshi",
+      "Yang, Hang",
+      "Furukawa, Yasutaka"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ikehata_Structured_Indoor_Modeling_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "3D Time-Lapse Reconstruction From Internet Photos",
+    "authors": [
+      "Martin-Brualla, Ricardo",
+      "Gallup, David",
+      "Seitz, Steven M."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Martin-Brualla_3D_Time-Lapse_Reconstruction_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Global, Dense Multiscale Reconstruction for a Billion Points",
+    "authors": [
+      "Ummenhofer, Benjamin",
+      "Brox, Thomas"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ummenhofer_Global_Dense_Multiscale_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "On the Visibility of Point Clouds",
+    "authors": [
+      "Katz, Sagi",
+      "Tal, Ayellet"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Katz_On_the_Visibility_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Weakly Supervised Graph Based Semantic Segmentation by Learning Communities of Image-Parts",
+    "authors": [
+      "Pourian, Niloufar",
+      "Karthikeyan, S.",
+      "Manjunath, B.S."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Pourian_Weakly_Supervised_Graph_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Piecewise Flat Embedding for Image Segmentation",
+    "authors": [
+      "Yu, Yizhou",
+      "Fang, Chaowei",
+      "Liao, Zicheng"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Yu_Piecewise_Flat_Embedding_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Semantic Image Segmentation via Deep Parsing Network",
+    "authors": [
+      "Liu, Ziwei",
+      "Li, Xiaoxiao",
+      "Luo, Ping",
+      "Loy, Chen-Change",
+      "Tang, Xiaoou"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Liu_Semantic_Image_Segmentation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Human Parsing With Contextualized Convolutional Neural Network",
+    "authors": [
+      "Liang, Xiaodan",
+      "Xu, Chunyan",
+      "Shen, Xiaohui",
+      "Yang, Jianchao",
+      "Liu, Si",
+      "Tang, Jinhui",
+      "Lin, Liang",
+      "Yan, Shuicheng"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Liang_Human_Parsing_With_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Holistically-Nested Edge Detection",
+    "authors": [
+      "Xie, Saining",
+      "Tu, Zhuowen"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Minimum Barrier Salient Object Detection at 80 FPS",
+    "authors": [
+      "Zhang, Jianming",
+      "Sclaroff, Stan",
+      "Lin, Zhe",
+      "Shen, Xiaohui",
+      "Price, Brian",
+      "Mech, Radomir"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhang_Minimum_Barrier_Salient_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Image Representations Tied to Ego-Motion",
+    "authors": [
+      "Jayaraman, Dinesh",
+      "Grauman, Kristen"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Jayaraman_Learning_Image_Representations_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Unsupervised Visual Representation Learning by Context Prediction",
+    "authors": [
+      "Doersch, Carl",
+      "Gupta, Abhinav",
+      "Efros, Alexei A."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Doersch_Unsupervised_Visual_Representation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Webly Supervised Learning of Convolutional Networks",
+    "authors": [
+      "Chen, Xinlei",
+      "Gupta, Abhinav"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Chen_Webly_Supervised_Learning_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Fast R-CNN",
+    "authors": [
+      "Girshick, Ross"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Bilinear CNN Models for Fine-Grained Visual Recognition",
+    "authors": [
+      "Lin, Tsung-Yu",
+      "RoyChowdhury, Aruni",
+      "Maji, Subhransu"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Lin_Bilinear_CNN_Models_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Discovering the Spatial Extent of Relative Attributes",
+    "authors": [
+      "Xiao, Fanyi",
+      "Lee, Yong Jae"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Xiao_Discovering_the_Spatial_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Deep Neural Decision Forests",
+    "authors": [
+      "Kontschieder, Peter",
+      "Fiterau, Madalina",
+      "Criminisi, Antonio",
+      "Bulo, Samuel Rota"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Kontschieder_Deep_Neural_Decision_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Deep Fried Convnets",
+    "authors": [
+      "Yang, Zichao",
+      "Moczulski, Marcin",
+      "Denil, Misha",
+      "de Freitas, Nando",
+      "Smola, Alex",
+      "Song, Le",
+      "Wang, Ziyu"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Yang_Deep_Fried_Convnets_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Semantic Component Analysis",
+    "authors": [
+      "Murdock, Calvin",
+      "De la Torre, Fernando"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Murdock_Semantic_Component_Analysis_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Low-Rank Matrix Factorization Under General Mixture Noise Distributions",
+    "authors": [
+      "Cao, Xiangyong",
+      "Chen, Yang",
+      "Zhao, Qian",
+      "Meng, Deyu",
+      "Wang, Yao",
+      "Wang, Dong",
+      "Xu, Zongben"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Cao_Low-Rank_Matrix_Factorization_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Web-Scale Image Clustering Revisited",
+    "authors": [
+      "Avrithis, Yannis",
+      "Kalantidis, Yannis",
+      "Anagnostopoulos, Evangelos",
+      "Emiris, Ioannis Z."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Avrithis_Web-Scale_Image_Clustering_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Discriminative Reconstructions for Unsupervised Outlier Removal",
+    "authors": [
+      "Xia, Yan",
+      "Cao, Xudong",
+      "Wen, Fang",
+      "Hua, Gang",
+      "Sun, Jian"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Xia_Learning_Discriminative_Reconstructions_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Deconvolution Network for Semantic Segmentation",
+    "authors": [
+      "Noh, Hyeonwoo",
+      "Hong, Seunghoon",
+      "Han, Bohyung"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Conditional Random Fields as Recurrent Neural Networks",
+    "authors": [
+      "Zheng, Shuai",
+      "Jayasumana, Sadeep",
+      "Romera-Paredes, Bernardino",
+      "Vineet, Vibhav",
+      "Su, Zhizhong",
+      "Du, Dalong",
+      "Huang, Chang",
+      "Torr, Philip H. S."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zheng_Conditional_Random_Fields_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "The One Triangle Three Parallelograms Sampling Strategy and Its Application in Shape Regression",
+    "authors": [
+      "Nilsson, Mikael"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Nilsson_The_One_Triangle_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Boosting Object Proposals: From Pascal to COCO",
+    "authors": [
+      "Pont-Tuset, Jordi",
+      "Van Gool, Luc"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Pont-Tuset_Boosting_Object_Proposals_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Secrets of GrabCut and Kernel K-Means",
+    "authors": [
+      "Tang, Meng",
+      "Ben Ayed, Ismail",
+      "Marin, Dmitrii",
+      "Boykov, Yuri"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Tang_Secrets_of_GrabCut_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Video Matting via Sparse and Low-Rank Representation",
+    "authors": [
+      "Zou, Dongqing",
+      "Chen, Xiaowu",
+      "Cao, Guangying",
+      "Wang, Xiaogang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zou_Video_Matting_via_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Joint Object and Part Segmentation Using Deep Learned Potentials",
+    "authors": [
+      "Wang, Peng",
+      "Shen, Xiaohui",
+      "Lin, Zhe",
+      "Cohen, Scott",
+      "Price, Brian",
+      "Yuille, Alan L."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Wang_Joint_Object_and_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Low-Rank Tensor Constrained Multiview Subspace Clustering",
+    "authors": [
+      "Zhang, Changqing",
+      "Fu, Huazhu",
+      "Liu, Si",
+      "Liu, Guangcan",
+      "Cao, Xiaochun"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhang_Low-Rank_Tensor_Constrained_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "BodyPrint: Pose Invariant 3D Shape Matching of Human Bodies",
+    "authors": [
+      "Wang, Jiangping",
+      "Ma, Kai",
+      "Singh, Vivek Kumar",
+      "Huang, Thomas",
+      "Chen, Terrence"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Wang_BodyPrint_Pose_Invariant_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "The Middle Child Problem: Revisiting Parametric Min-Cut and Seeds for Object Proposals",
+    "authors": [
+      "Humayun, Ahmad",
+      "Li, Fuxin",
+      "Rehg, James M."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Humayun_The_Middle_Child_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Contour Guided Hierarchical Model for Shape Matching",
+    "authors": [
+      "Su, Yuanqi",
+      "Liu, Yuehu",
+      "Cuan, Bonan",
+      "Zheng, Nanning"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Su_Contour_Guided_Hierarchical_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Robust Image Segmentation Using Contour-Guided Color Palettes",
+    "authors": [
+      "Fu, Xiang",
+      "Wang, Chien-Yi",
+      "Chen, Chen",
+      "Wang, Changhu",
+      "Kuo, C.-C. Jay"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Fu_Robust_Image_Segmentation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Joint Optimization of Segmentation and Color Clustering",
+    "authors": [
+      "Lobacheva, Ekaterina",
+      "Veksler, Olga",
+      "Boykov, Yuri"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Lobacheva_Joint_Optimization_of_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation",
+    "authors": [
+      "Dai, Jifeng",
+      "He, Kaiming",
+      "Sun, Jian"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Dai_BoxSup_Exploiting_Bounding_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Detection and Segmentation of 2D Curved Reflection Symmetric Structures",
+    "authors": [
+      "Teo, Ching L.",
+      "Fermuller, Cornelia",
+      "Aloimonos, Yiannis"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Teo_Detection_and_Segmentation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Unsupervised Tube Extraction Using Transductive Learning and Dense Trajectories",
+    "authors": [
+      "Puscas, Mihai Marian",
+      "Sangineto, Enver",
+      "Culibrk, Dubravko",
+      "Sebe, Nicu"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Puscas_Unsupervised_Tube_Extraction_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Compositional Hierarchical Representation of Shape Manifolds for Classification of Non-Manifold Shapes",
+    "authors": [
+      "Ozay, Mete",
+      "Aktas, Umit Rusen",
+      "Wyatt, Jeremy L.",
+      "Leonardis, Ales"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ozay_Compositional_Hierarchical_Representation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Shell PCA: Statistical Shape Modelling in Shell Space",
+    "authors": [
+      "Zhang, Chao",
+      "Heeren, Behrend",
+      "Rumpf, Martin",
+      "Smith, William A. P."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhang_Shell_PCA_Statistical_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning to Combine Mid-Level Cues for Object Proposal Generation",
+    "authors": [
+      "Lee, Tom",
+      "Fidler, Sanja",
+      "Dickinson, Sven"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Lee_Learning_to_Combine_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Enhancing Road Maps by Parsing Aerial Images Around the World",
+    "authors": [
+      "Mattyus, Gellert",
+      "Wang, Shenlong",
+      "Fidler, Sanja",
+      "Urtasun, Raquel"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Mattyus_Enhancing_Road_Maps_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Probabilistic Appearance Models for Segmentation and Classification",
+    "authors": [
+      "Kruger, Julia",
+      "Ehrhardt, Jan",
+      "Handels, Heinz"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Kruger_Probabilistic_Appearance_Models_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "A Randomized Ensemble Approach to Industrial CT Segmentation",
+    "authors": [
+      "Kim, Hyojin",
+      "Thiagarajan, Jayaraman Jayaraman J.",
+      "Bremer, Peer-Timo"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Kim_A_Randomized_Ensemble_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Semi-Supervised Normalized Cuts for Image Segmentation",
+    "authors": [
+      "Chew, Selene E.",
+      "Cahill, Nathan D."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Chew_Semi-Supervised_Normalized_Cuts_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "StereoSnakes: Contour Based Consistent Object Extraction For Stereo Images",
+    "authors": [
+      "Ju, Ran",
+      "Ren, Tongwei",
+      "Wu, Gangshan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ju_StereoSnakes_Contour_Based_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Semantic Segmentation of RGBD Images With Mutex Constraints",
+    "authors": [
+      "Deng, Zhuo",
+      "Todorovic, Sinisa",
+      "Latecki, Longin Jan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Deng_Semantic_Segmentation_of_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Weakly- and Semi-Supervised Learning of a Deep Convolutional Network for Semantic Image Segmentation",
+    "authors": [
+      "Papandreou, George",
+      "Chen, Liang-Chieh",
+      "Murphy, Kevin P.",
+      "Yuille, Alan L."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Papandreou_Weakly-_and_Semi-Supervised_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Efficient Decomposition of Image and Mesh Graphs by Lifted Multicuts",
+    "authors": [
+      "Keuper, Margret",
+      "Levinkov, Evgeny",
+      "Bonneel, Nicolas",
+      "Lavoue, Guillaume",
+      "Brox, Thomas",
+      "Andres, Bjorn"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Keuper_Efficient_Decomposition_of_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Parsimonious Labeling",
+    "authors": [
+      "Dokania, Puneet K.",
+      "Kumar, M. Pawan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Dokania_Parsimonious_Labeling_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Volumetric Bias in Segmentation and Reconstruction: Secrets and Solutions",
+    "authors": [
+      "Boykov, Yuri",
+      "Isack, Hossam",
+      "Olsson, Carl",
+      "Ben Ayed, Ismail"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Boykov_Volumetric_Bias_in_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Entropy Minimization for Convex Relaxation Approaches",
+    "authors": [
+      "Souiai, Mohamed",
+      "Oswald, Martin R.",
+      "Kee, Youngwook",
+      "Kim, Junmo",
+      "Pollefeys, Marc",
+      "Cremers, Daniel"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Souiai_Entropy_Minimization_for_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Adaptively Unified Semi-Supervised Dictionary Learning With Active Points",
+    "authors": [
+      "Wang, Xiaobo",
+      "Guo, Xiaojie",
+      "Li, Stan Z."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Wang_Adaptively_Unified_Semi-Supervised_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Constrained Convolutional Neural Networks for Weakly Supervised Segmentation",
+    "authors": [
+      "Pathak, Deepak",
+      "Krahenbuhl, Philipp",
+      "Darrell, Trevor"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Pathak_Constrained_Convolutional_Neural_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "A Multiscale Variable-Grouping Framework for MRF Energy Minimization",
+    "authors": [
+      "Meir, Omer",
+      "Galun, Meirav",
+      "Yagev, Stav",
+      "Basri, Ronen",
+      "Yavneh, Irad"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Meir_A_Multiscale_Variable-Grouping_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Inferring M-Best Diverse Labelings in a Single One",
+    "authors": [
+      "Kirillov, Alexander",
+      "Savchynskyy, Bogdan",
+      "Schlesinger, Dmitrij",
+      "Vetrov, Dmitry",
+      "Rother, Carsten"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Kirillov_Inferring_M-Best_Diverse_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Convolutional Sparse Coding for Image Super-Resolution",
+    "authors": [
+      "Gu, Shuhang",
+      "Zuo, Wangmeng",
+      "Xie, Qi",
+      "Meng, Deyu",
+      "Feng, Xiangchu",
+      "Zhang, Lei"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Gu_Convolutional_Sparse_Coding_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "A Wavefront Marching Method for Solving the Eikonal Equation on Cartesian Grids",
+    "authors": [
+      "Cancela, Brais",
+      "Ortega, Marcos",
+      "Penedo, Manuel G."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Cancela_A_Wavefront_Marching_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "A Projection Free Method for Generalized Eigenvalue Problem With a Nonsmooth Regularizer",
+    "authors": [
+      "Hwang, Seong Jae",
+      "Collins, Maxwell D.",
+      "Ravi, Sathya N.",
+      "Ithapu, Vamsi K.",
+      "Adluru, Nagesh",
+      "Johnson, Sterling C.",
+      "Singh, Vikas"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Hwang_A_Projection_Free_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Optimizing Expected Intersection-Over-Union With Candidate-Constrained CRFs",
+    "authors": [
+      "Ahmed, Faruk",
+      "Tarlow, Dany",
+      "Batra, Dhruv"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ahmed_Optimizing_Expected_Intersection-Over-Union_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Higher-Order Inference for Multi-Class Log-Supermodular Models",
+    "authors": [
+      "Zhang, Jian",
+      "Djolonga, Josip",
+      "Krause, Andreas"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhang_Higher-Order_Inference_for_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Depth-Based Hand Pose Estimation: Data, Methods, and Challenges",
+    "authors": [
+      "Supancic, III, James S.",
+      "Rogez, Gregory",
+      "Yang, Yi",
+      "Shotton, Jamie",
+      "Ramanan, Deva"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Supancic_Depth-Based_Hand_Pose_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Adaptive Dither Voting for Robust Spatial Verification",
+    "authors": [
+      "Wu, Xiaomeng",
+      "Kashino, Kunio"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Wu_Adaptive_Dither_Voting_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Alternating Co-Quantization for Cross-Modal Hashing",
+    "authors": [
+      "Irie, Go",
+      "Arai, Hiroyuki",
+      "Taniguchi, Yukinobu"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Irie_Alternating_Co-Quantization_for_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Deep Representation With Large-Scale Attributes",
+    "authors": [
+      "Ouyang, Wanli",
+      "Li, Hongyang",
+      "Zeng, Xingyu",
+      "Wang, Xiaogang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ouyang_Learning_Deep_Representation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Deep Learning Strong Parts for Pedestrian Detection",
+    "authors": [
+      "Tian, Yonglong",
+      "Luo, Ping",
+      "Wang, Xiaogang",
+      "Tang, Xiaoou"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Tian_Deep_Learning_Strong_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Flowing ConvNets for Human Pose Estimation in Videos",
+    "authors": [
+      "Pfister, Tomas",
+      "Charles, James",
+      "Zisserman, Andrew"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Pfister_Flowing_ConvNets_for_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Top Rank Supervised Binary Coding for Visual Search",
+    "authors": [
+      "Song, Dongjin",
+      "Liu, Wei",
+      "Ji, Rongrong",
+      "Meyer, David A.",
+      "Smith, John R."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Song_Top_Rank_Supervised_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "BubbLeNet: Foveated Imaging for Visual Discovery",
+    "authors": [
+      "Matzen, Kevin",
+      "Snavely, Noah"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Matzen_BubbLeNet_Foveated_Imaging_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "PQTable: Fast Exact Asymmetric Distance Neighbor Search for Product Quantization Using Hash Tables",
+    "authors": [
+      "Matsui, Yusuke",
+      "Yamasaki, Toshihiko",
+      "Aizawa, Kiyoharu"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Matsui_PQTable_Fast_Exact_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Lending A Hand: Detecting Hands and Recognizing Activities in Complex Egocentric Interactions",
+    "authors": [
+      "Bambach, Sven",
+      "Lee, Stefan",
+      "Crandall, David J.",
+      "Yu, Chen"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Bambach_Lending_A_Hand_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Fast and Accurate Head Pose Estimation via Random Projection Forests",
+    "authors": [
+      "Lee, Donghoon",
+      "Yang, Ming-Hsuan",
+      "Oh, Songhwai"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Lee_Fast_and_Accurate_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "An MRF-Poselets Model for Detecting Highly Articulated Humans",
+    "authors": [
+      "Nguyen, Duc Thanh",
+      "Tran, Minh-Khoi",
+      "Yeung, Sai-Kit"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Nguyen_An_MRF-Poselets_Model_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Beyond Tree Structure Models: A New Occlusion Aware Graphical Model for Human Pose Estimation",
+    "authors": [
+      "Fu, Lianrui",
+      "Zhang, Junge",
+      "Huang, Kaiqi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Fu_Beyond_Tree_Structure_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Relaxing From Vocabulary: Robust Weakly-Supervised Deep Learning for Vocabulary-Free Image Tagging",
+    "authors": [
+      "Fu, Jianlong",
+      "Wu, Yue",
+      "Mei, Tao",
+      "Wang, Jinqiao",
+      "Lu, Hanqing",
+      "Rui, Yong"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Fu_Relaxing_From_Vocabulary_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Visual Phrases for Exemplar Face Detection",
+    "authors": [
+      "Kumar, Vijay",
+      "Namboodiri, Anoop",
+      "Jawahar, C. V."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Kumar_Visual_Phrases_for_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Spatial Semantic Regularisation for Large Scale Object Detection",
+    "authors": [
+      "Mrowca, Damian",
+      "Rohrbach, Marcus",
+      "Hoffman, Judy",
+      "Hu, Ronghang",
+      "Saenko, Kate",
+      "Darrell, Trevor"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Mrowca_Spatial_Semantic_Regularisation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Human Pose Estimation in Videos",
+    "authors": [
+      "Zhang, Dong",
+      "Shah, Mubarak"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhang_Human_Pose_Estimation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Contour Box: Rejecting Object Proposals Without Explicit Closed Contours",
+    "authors": [
+      "Lu, Cewu",
+      "Liu, Shu",
+      "Jia, Jiaya",
+      "Tang, Chi-Keung"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Lu_Contour_Box_Rejecting_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Registering Images to Untextured Geometry Using Average Shading Gradients",
+    "authors": [
+      "Plotz, Tobias",
+      "Roth, Stefan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Plotz_Registering_Images_to_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Robust Nonrigid Registration by Convex Optimization",
+    "authors": [
+      "Chen, Qifeng",
+      "Koltun, Vladlen"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Chen_Robust_Nonrigid_Registration_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Robust and Optimal Sum-of-Squares-Based Point-to-Plane Registration of Image Sets and Structured Scenes",
+    "authors": [
+      "Paudel, Danda Pani",
+      "Habed, Adlane",
+      "Demonceaux, Cedric",
+      "Vasseur, Pascal"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Paudel_Robust_and_Optimal_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "MeshStereo: A Global Stereo Model With Mesh Alignment Regularization for View Interpolation",
+    "authors": [
+      "Zhang, Chi",
+      "Li, Zhiwei",
+      "Cheng, Yanhua",
+      "Cai, Rui",
+      "Chao, Hongyang",
+      "Rui, Yong"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhang_MeshStereo_A_Global_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "CV-HAZOP: Introducing Test Data Validation for Computer Vision",
+    "authors": [
+      "Zendel, Oliver",
+      "Murschitz, Markus",
+      "Humenberger, Martin",
+      "Herzner, Wolfgang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zendel_CV-HAZOP_Introducing_Test_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Structure From Motion Using Structure-Less Resection",
+    "authors": [
+      "Zheng, Enliang",
+      "Wu, Changchang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zheng_Structure_From_Motion_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Joint Camera Clustering and Surface Segmentation for Large-Scale Multi-View Stereo",
+    "authors": [
+      "Zhang, Runze",
+      "Li, Shiwei",
+      "Fang, Tian",
+      "Zhu, Siyu",
+      "Quan, Long"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhang_Joint_Camera_Clustering_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Higher-Order CRF Structural Segmentation of 3D Reconstructed Surfaces",
+    "authors": [
+      "Liu, Jingbo",
+      "Wang, Jinglu",
+      "Fang, Tian",
+      "Tai, Chiew-Lan",
+      "Quan, Long"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Liu_Higher-Order_CRF_Structural_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Hyperpoints and Fine Vocabularies for Large-Scale Location Recognition",
+    "authors": [
+      "Sattler, Torsten",
+      "Havlena, Michal",
+      "Radenovic, Filip",
+      "Schindler, Konrad",
+      "Pollefeys, Marc"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Sattler_Hyperpoints_and_Fine_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Globally Optimal 2D-3D Registration From Points or Lines Without Correspondences",
+    "authors": [
+      "Brown, Mark",
+      "Windridge, David",
+      "Guillemaut, Jean-Yves"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Brown_Globally_Optimal_2D-3D_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "The HCI Stereo Metrics: Geometry-Aware Performance Analysis of Stereo Algorithms",
+    "authors": [
+      "Honauer, Katrin",
+      "Maier-Hein, Lena",
+      "Kondermann, Daniel"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Honauer_The_HCI_Stereo_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Merging the Unmatchable: Stitching Visually Disconnected SfM Models",
+    "authors": [
+      "Cohen, Andrea",
+      "Sattler, Torsten",
+      "Pollefeys, Marc"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Cohen_Merging_the_Unmatchable_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "3D Fragment Reassembly Using Integrated Template Guidance and Fracture-Region Matching",
+    "authors": [
+      "Zhang, Kang",
+      "Yu, Wuyi",
+      "Manhein, Mary",
+      "Waggenspack, Warren",
+      "Li, Xin"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhang_3D_Fragment_Reassembly_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Procedural Editing of 3D Building Point Clouds",
+    "authors": [
+      "Demir, Ilke",
+      "Aliaga, Daniel G.",
+      "Benes, Bedrich"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Demir_Procedural_Editing_of_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Semantically-Aware Aerial Reconstruction From Multi-Modal Data",
+    "authors": [
+      "Cabezas, Randi",
+      "Straub, Julian",
+      "Fisher, III, John W."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Cabezas_Semantically-Aware_Aerial_Reconstruction_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Guaranteed Outlier Removal for Rotation Search",
+    "authors": [
+      "Bustos, Alvaro Parra",
+      "Chin, Tat-Jun"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Bustos_Guaranteed_Outlier_Removal_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Peeking Template Matching for Depth Extension",
+    "authors": [
+      "Korman, Simon",
+      "Ofek, Eyal",
+      "Avidan, Shai"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Korman_Peeking_Template_Matching_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Deformable 3D Fusion: From Partial Dynamic 3D Observations to Complete 4D Models",
+    "authors": [
+      "Xu, Weipeng",
+      "Salzmann, Mathieu",
+      "Wang, Yongtian",
+      "Liu, Yue"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Xu_Deformable_3D_Fusion_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Non-Parametric Structure-Based Calibration of Radially Symmetric Cameras",
+    "authors": [
+      "Camposeco, Federico",
+      "Sattler, Torsten",
+      "Pollefeys, Marc"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Camposeco_Non-Parametric_Structure-Based_Calibration_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Exploiting Object Similarity in 3D Reconstruction",
+    "authors": [
+      "Zhou, Chen",
+      "Guney, Fatma",
+      "Wang, Yizhou",
+      "Geiger, Andreas"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhou_Exploiting_Object_Similarity_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "You Are Here: Mimicking the Human Thinking Process in Reading Floor-Plans",
+    "authors": [
+      "Chu, Hang",
+      "Kim, Dong Ki",
+      "Chen, Tsuhan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Chu_You_Are_Here_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "MAP Disparity Estimation Using Hidden Markov Trees",
+    "authors": [
+      "Psota, Eric T.",
+      "Kowalczuk, Jedrzej",
+      "Mittek, Mateusz",
+      "Perez, Lance C."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Psota_MAP_Disparity_Estimation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Wide Baseline Stereo Matching With Convex Bounded Distortion Constraints",
+    "authors": [
+      "Galun, Meirav",
+      "Amir, Tal",
+      "Hassner, Tal",
+      "Basri, Ronen",
+      "Lipman, Yaron"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Galun_Wide_Baseline_Stereo_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Interactive Visual Hull Refinement for Specular and Transparent Object Surface Reconstruction",
+    "authors": [
+      "Zuo, Xinxin",
+      "Du, Chao",
+      "Wang, Sen",
+      "Zheng, Jiangbin",
+      "Yang, Ruigang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zuo_Interactive_Visual_Hull_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Hierarchical Higher-Order Regression Forest Fields: An Application to 3D Indoor Scene Labelling",
+    "authors": [
+      "Pham, Trung T.",
+      "Reid, Ian",
+      "Latif, Yasir",
+      "Gould, Stephen"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Pham_Hierarchical_Higher-Order_Regression_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Classical Scaling Revisited",
+    "authors": [
+      "Shamai, Gil",
+      "Aflalo, Yonathan",
+      "Zibulevsky, Michael",
+      "Kimmel, Ron"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Shamai_Classical_Scaling_Revisited_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Dense Continuous-Time Tracking and Mapping With Rolling Shutter RGB-D Cameras",
+    "authors": [
+      "Kerl, Christian",
+      "Stuckler, Jorg",
+      "Cremers, Daniel"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Kerl_Dense_Continuous-Time_Tracking_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Dense Image Registration and Deformable Surface Reconstruction in Presence of Occlusions and Minimal Texture",
+    "authors": [
+      "Ngo, Dat Tien",
+      "Park, Sanghyuk",
+      "Jorstad, Anne",
+      "Crivellaro, Alberto",
+      "Yoo, Chang D.",
+      "Fua, Pascal"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ngo_Dense_Image_Registration_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "The Likelihood-Ratio Test and Efficient Robust Estimation",
+    "authors": [
+      "Cohen, Andrea",
+      "Zach, Christopher"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Cohen_The_Likelihood-Ratio_Test_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Reflection Modeling for Passive Stereo",
+    "authors": [
+      "Nair, Rahul",
+      "Fitzgibbon, Andrew",
+      "Kondermann, Daniel",
+      "Rother, Carsten"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Nair_Reflection_Modeling_for_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Detailed Full-Body Reconstructions of Moving People From Monocular RGB-D Sequences",
+    "authors": [
+      "Bogo, Federica",
+      "Black, Michael J.",
+      "Loper, Matthew",
+      "Romero, Javier"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Bogo_Detailed_Full-Body_Reconstructions_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Efficient Solution to the Epipolar Geometry for Radially Distorted Cameras",
+    "authors": [
+      "Kukelova, Zuzana",
+      "Heller, Jan",
+      "Bujnak, Martin",
+      "Fitzgibbon, Andrew",
+      "Pajdla, Tomas"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Kukelova_Efficient_Solution_to_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning a Descriptor-Specific 3D Keypoint Detector",
+    "authors": [
+      "Salti, Samuele",
+      "Tombari, Federico",
+      "Spezialetti, Riccardo",
+      "Di Stefano, Luigi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Salti_Learning_a_Descriptor-Specific_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Component-Wise Modeling of Articulated Objects",
+    "authors": [
+      "Ntouskos, Valsamis",
+      "Sanzari, Marta",
+      "Cafaro, Bruno",
+      "Nardi, Federico",
+      "Natola, Fabrizio",
+      "Pirri, Fiora",
+      "Ruiz, Manuel"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ntouskos_Component-Wise_Modeling_of_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "A Collaborative Filtering Approach to Real-Time Hand Pose Estimation",
+    "authors": [
+      "Choi, Chiho",
+      "Sinha, Ayan",
+      "Choi, Joon Hee",
+      "Jang, Sujin",
+      "Ramani, Karthik"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Choi_A_Collaborative_Filtering_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "On the Equivalence of Moving Entrance Pupil and Radial Distortion for Camera Calibration",
+    "authors": [
+      "Kumar, Avinash",
+      "Ahuja, Narendra"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Kumar_On_the_Equivalence_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "A Linear Generalized Camera Calibration From Three Intersecting Reference Planes",
+    "authors": [
+      "Nishimura, Mai",
+      "Nobuhara, Shohei",
+      "Matsuyama, Takashi",
+      "Shimizu, Shinya",
+      "Fujii, Kensaku"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Nishimura_A_Linear_Generalized_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Towards Pointless Structure From Motion: 3D Reconstruction and Camera Parameters From General 3D Curves",
+    "authors": [
+      "Nurutdinova, Irina",
+      "Fitzgibbon, Andrew"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Nurutdinova_Towards_Pointless_Structure_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Attributed Grammars for Joint Estimation of Human Attributes, Part and Pose",
+    "authors": [
+      "Park, Seyoung",
+      "Zhu, Song-Chun"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Park_Attributed_Grammars_for_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Real-Time Pose Estimation Piggybacked on Object Detection",
+    "authors": [
+      "Juranek, Roman",
+      "Herout, Adam",
+      "Dubska, Marketa",
+      "Zemcik, Pavel"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Juranek_Real-Time_Pose_Estimation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Understanding and Predicting Image Memorability at a Large Scale",
+    "authors": [
+      "Khosla, Aditya",
+      "Raju, Akhil S.",
+      "Torralba, Antonio",
+      "Oliva, Aude"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Khosla_Understanding_and_Predicting_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Multiple Granularity Descriptors for Fine-Grained Categorization",
+    "authors": [
+      "Wang, Dequan",
+      "Shen, Zhiqiang",
+      "Shao, Jie",
+      "Zhang, Wei",
+      "Xue, Xiangyang",
+      "Zhang, Zheng"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Wang_Multiple_Granularity_Descriptors_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Guiding the Long-Short Term Memory Model for Image Caption Generation",
+    "authors": [
+      "Jia, Xu",
+      "Gavves, Efstratios",
+      "Fernando, Basura",
+      "Tuytelaars, Tinne"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Jia_Guiding_the_Long-Short_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Just Noticeable Differences in Visual Attributes",
+    "authors": [
+      "Yu, Aron",
+      "Grauman, Kristen"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Yu_Just_Noticeable_Differences_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "VQA: Visual Question Answering",
+    "authors": [
+      "Antol, Stanislaw",
+      "Agrawal, Aishwarya",
+      "Lu, Jiasen",
+      "Mitchell, Margaret",
+      "Batra, Dhruv",
+      "Zitnick, C. Lawrence",
+      "Parikh, Devi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Localize Me Anywhere, Anytime: A Multi-Task Point-Retrieval Approach",
+    "authors": [
+      "Lu, Guoyu",
+      "Yan, Yan",
+      "Ren, Li",
+      "Song, Jingkuan",
+      "Sebe, Nicu",
+      "Kambhamettu, Chandra"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Lu_Localize_Me_Anywhere_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Dense Optical Flow Prediction From a Static Image",
+    "authors": [
+      "Walker, Jacob",
+      "Gupta, Abhinav",
+      "Hebert, Martial"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Walker_Dense_Optical_Flow_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Unsupervised Domain Adaptation for Zero-Shot Learning",
+    "authors": [
+      "Kodirov, Elyor",
+      "Xiang, Tao",
+      "Fu, Zhenyong",
+      "Gong, Shaogang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Kodirov_Unsupervised_Domain_Adaptation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Visual Madlibs: Fill in the Blank Description Generation and Question Answering",
+    "authors": [
+      "Yu, Licheng",
+      "Park, Eunbyung",
+      "Berg, Alexander C.",
+      "Berg, Tamara L."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Yu_Visual_Madlibs_Fill_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Actions and Attributes From Wholes and Parts",
+    "authors": [
+      "Gkioxari, Georgia",
+      "Girshick, Ross",
+      "Malik, Jitendra"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Gkioxari_Actions_and_Attributes_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "DeepBox: Learning Objectness With Convolutional Networks",
+    "authors": [
+      "Kuo, Weicheng",
+      "Hariharan, Bharath",
+      "Malik, Jitendra"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Kuo_DeepBox_Learning_Objectness_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Active Object Localization With Deep Reinforcement Learning",
+    "authors": [
+      "Caicedo, Juan C.",
+      "Lazebnik, Svetlana"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Caicedo_Active_Object_Localization_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Scene-Domain Active Part Models for Object Representation",
+    "authors": [
+      "Ren, Zhou",
+      "Wang, Chaohui",
+      "Yuille, Alan L."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ren_Scene-Domain_Active_Part_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "A Unified Multiplicative Framework for Attribute Learning",
+    "authors": [
+      "Liang, Kongming",
+      "Chang, Hong",
+      "Shan, Shiguang",
+      "Chen, Xilin"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Liang_A_Unified_Multiplicative_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Contractive Rectifier Networks for Nonlinear Maximum Margin Classification",
+    "authors": [
+      "An, Senjian",
+      "Hayat, Munawar",
+      "Khan, Salman H.",
+      "Bennamoun, Mohammed",
+      "Boussaid, Farid",
+      "Sohel, Ferdous"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/An_Contractive_Rectifier_Networks_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Augmenting Strong Supervision Using Web Data for Fine-Grained Categorization",
+    "authors": [
+      "Xu, Zhe",
+      "Huang, Shaoli",
+      "Zhang, Ya",
+      "Tao, Dacheng"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Xu_Augmenting_Strong_Supervision_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Like a Child: Fast Novel Visual Concept Learning From Sentence Descriptions of Images",
+    "authors": [
+      "Mao, Junhua",
+      "Wei, Xu",
+      "Yang, Yi",
+      "Wang, Jiang",
+      "Huang, Zhiheng",
+      "Yuille, Alan L."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Mao_Learning_Like_a_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Common Sense Through Visual Abstraction",
+    "authors": [
+      "Vedantam, Ramakrishna",
+      "Lin, Xiao",
+      "Batra, Tanmay",
+      "Zitnick, C. Lawrence",
+      "Parikh, Devi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Vedantam_Learning_Common_Sense_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Domain Generalization for Object Recognition With Multi-Task Autoencoders",
+    "authors": [
+      "Ghifary, Muhammad",
+      "Kleijn, W. Bastiaan",
+      "Zhang, Mengjie",
+      "Balduzzi, David"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ghifary_Domain_Generalization_for_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Square Localization for Efficient and Accurate Object Detection",
+    "authors": [
+      "Lu, Cewu",
+      "Lu, Yongyi",
+      "Chen, Hao",
+      "Tang, Chi-Keung"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Lu_Square_Localization_for_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Box Aggregation for Proposal Decimation: Last Mile of Object Detection",
+    "authors": [
+      "Liu, Shu",
+      "Lu, Cewu",
+      "Jia, Jiaya"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Liu_Box_Aggregation_for_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "DeepProposal: Hunting Objects by Cascading Deep Convolutional Layers",
+    "authors": [
+      "Ghodrati, Amir",
+      "Diba, Ali",
+      "Pedersoli, Marco",
+      "Tuytelaars, Tinne",
+      "Van Gool, Luc"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ghodrati_DeepProposal_Hunting_Objects_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Semantic Segmentation With Object Clique Potential",
+    "authors": [
+      "Qi, Xiaojuan",
+      "Shi, Jianping",
+      "Liu, Shu",
+      "Liao, Renjie",
+      "Jia, Jiaya"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Qi_Semantic_Segmentation_With_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Automatic Concept Discovery From Parallel Text and Visual Corpora",
+    "authors": [
+      "Sun, Chen",
+      "Gan, Chuang",
+      "Nevatia, Ram"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Sun_Automatic_Concept_Discovery_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Simpler Non-Parametric Methods Provide as Good or Better Results to Multiple-Instance Learning",
+    "authors": [
+      "Venkatesan, Ragav",
+      "Chandakkar, Parag",
+      "Li, Baoxin"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Venkatesan_Simpler_Non-Parametric_Methods_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Monocular Object Instance Segmentation and Depth Ordering With CNNs",
+    "authors": [
+      "Zhang, Ziyu",
+      "Schwing, Alexander G.",
+      "Fidler, Sanja",
+      "Urtasun, Raquel"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhang_Monocular_Object_Instance_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Multimodal Convolutional Neural Networks for Matching Image and Sentence",
+    "authors": [
+      "Ma, Lin",
+      "Lu, Zhengdong",
+      "Shang, Lifeng",
+      "Li, Hang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ma_Multimodal_Convolutional_Neural_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Structural Kernel Learning for Large Scale Multiclass Object Co-Detection",
+    "authors": [
+      "Hayder, Zeeshan",
+      "He, Xuming",
+      "Salzmann, Mathieu"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Hayder_Structural_Kernel_Learning_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Flickr30k Entities: Collecting Region-to-Phrase Correspondences for Richer Image-to-Sentence Models",
+    "authors": [
+      "Plummer, Bryan A.",
+      "Wang, Liwei",
+      "Cervantes, Chris M.",
+      "Caicedo, Juan C.",
+      "Hockenmaier, Julia",
+      "Lazebnik, Svetlana"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Plummer_Flickr30k_Entities_Collecting_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Predicting Depth, Surface Normals and Semantic Labels With a Common Multi-Scale Convolutional Architecture",
+    "authors": [
+      "Eigen, David",
+      "Fergus, Rob"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Eigen_Predicting_Depth_Surface_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "AttentionNet: Aggregating Weak Directions for Accurate Object Detection",
+    "authors": [
+      "Yoo, Donggeun",
+      "Park, Sunggyun",
+      "Lee, Joon-Young",
+      "Paek, Anthony S.",
+      "Kweon, In So"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Yoo_AttentionNet_Aggregating_Weak_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Common Subspace for Model and Similarity: Phrase Learning for Caption Generation From Images",
+    "authors": [
+      "Ushiku, Yoshitaka",
+      "Yamaguchi, Masataka",
+      "Mukuta, Yusuke",
+      "Harada, Tatsuya"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ushiku_Common_Subspace_for_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "3D-Assisted Feature Synthesis for Novel Views of an Object",
+    "authors": [
+      "Su, Hao",
+      "Wang, Fan",
+      "Yi, Eric",
+      "Guibas, Leonidas J."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Su_3D-Assisted_Feature_Synthesis_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Render for CNN: Viewpoint Estimation in Images Using CNNs Trained With Rendered 3D Model Views",
+    "authors": [
+      "Su, Hao",
+      "Qi, Charles R.",
+      "Li, Yangyan",
+      "Guibas, Leonidas J."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Su_Render_for_CNN_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Lost Shopping! Monocular Localization in Large Indoor Spaces",
+    "authors": [
+      "Wang, Shenlong",
+      "Fidler, Sanja",
+      "Urtasun, Raquel"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Wang_Lost_Shopping_Monocular_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Camera Pose Voting for Large-Scale Image-Based Localization",
+    "authors": [
+      "Zeisl, Bernhard",
+      "Sattler, Torsten",
+      "Pollefeys, Marc"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zeisl_Camera_Pose_Voting_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "MANTRA: Minimum Maximum Latent Structural SVM for Image Classification and Ranking",
+    "authors": [
+      "Durand, Thibaut",
+      "Thome, Nicolas",
+      "Cord, Matthieu"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Durand_MANTRA_Minimum_Maximum_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving",
+    "authors": [
+      "Chen, Chenyi",
+      "Seff, Ari",
+      "Kornhauser, Alain",
+      "Xiao, Jianxiong"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Chen_DeepDriving_Learning_Affordance_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Active Transfer Learning With Zero-Shot Priors: Reusing Past Datasets for Future Tasks",
+    "authors": [
+      "Gavves, Efstratios",
+      "Mensink, Thomas",
+      "Tommasi, Tatiana",
+      "Snoek, Cees G. M.",
+      "Tuytelaars, Tinne"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Gavves_Active_Transfer_Learning_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "HD-CNN: Hierarchical Deep Convolutional Neural Networks for Large Scale Visual Recognition",
+    "authors": [
+      "Yan, Zhicheng",
+      "Zhang, Hao",
+      "Piramuthu, Robinson",
+      "Jagadeesh, Vignesh",
+      "DeCoste, Dennis",
+      "Di, Wei",
+      "Yu, Yizhou"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Yan_HD-CNN_Hierarchical_Deep_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning The Structure of Deep Convolutional Networks",
+    "authors": [
+      "Feng, Jiashi",
+      "Darrell, Trevor"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Feng_Learning_The_Structure_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "FlowNet: Learning Optical Flow With Convolutional Networks",
+    "authors": [
+      "Dosovitskiy, Alexey",
+      "Fischer, Philipp",
+      "Ilg, Eddy",
+      "Hausser, Philip",
+      "Hazirbas, Caner",
+      "Golkov, Vladimir",
+      "van der Smagt, Patrick",
+      "Cremers, Daniel",
+      "Brox, Thomas"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Dosovitskiy_FlowNet_Learning_Optical_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Semi-Supervised Representation Towards a Unified Optimization Framework for Semi-Supervised Learning",
+    "authors": [
+      "Li, Chun-Guang",
+      "Lin, Zhouchen",
+      "Zhang, Honggang",
+      "Guo, Jun"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Li_Learning_Semi-Supervised_Representation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Context-Guided Diffusion for Label Propagation on Graphs",
+    "authors": [
+      "Kim, Kwang In",
+      "Tompkin, James",
+      "Pfister, Hanspeter",
+      "Theobalt, Christian"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Kim_Context-Guided_Diffusion_for_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning to Rank Based on Subsequences",
+    "authors": [
+      "Fernando, Basura",
+      "Gavves, Efstratios",
+      "Muselet, Damien",
+      "Tuytelaars, Tinne"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Fernando_Learning_to_Rank_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Unsupervised Learning of Visual Representations Using Videos",
+    "authors": [
+      "Wang, Xiaolong",
+      "Gupta, Abhinav"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Wang_Unsupervised_Learning_of_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "A Nonparametric Bayesian Approach Toward Stacked Convolutional Independent Component Analysis",
+    "authors": [
+      "Chatzis, Sotirios P.",
+      "Kosmopoulos, Dimitrios"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Chatzis_A_Nonparametric_Bayesian_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Robust Principal Component Analysis on Graphs",
+    "authors": [
+      "Shahid, Nauman",
+      "Kalofolias, Vassilis",
+      "Bresson, Xavier",
+      "Bronstein, Michael",
+      "Vandergheynst, Pierre"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Shahid_Robust_Principal_Component_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Projection Bank: From High-Dimensional Data to Medium-Length Binary Codes",
+    "authors": [
+      "Liu, Li",
+      "Yu, Mengyang",
+      "Shao, Ling"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Liu_Projection_Bank_From_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Robust Optimization for Deep Regression",
+    "authors": [
+      "Belagiannis, Vasileios",
+      "Rupprecht, Christian",
+      "Carneiro, Gustavo",
+      "Navab, Nassir"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Belagiannis_Robust_Optimization_for_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Multi-Class Multi-Annotator Active Learning With Robust Gaussian Process for Visual Recognition",
+    "authors": [
+      "Long, Chengjiang",
+      "Hua, Gang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Long_Multi-Class_Multi-Annotator_Active_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Maximum-Margin Structured Learning With Deep Networks for 3D Human Pose Estimation",
+    "authors": [
+      "Li, Sijin",
+      "Zhang, Weichen",
+      "Chan, Antoni B."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Li_Maximum-Margin_Structured_Learning_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "An Exploration of Parameter Redundancy in Deep Networks With Circulant Projections",
+    "authors": [
+      "Cheng, Yu",
+      "Yu, Felix X.",
+      "Feris, Rogerio S.",
+      "Kumar, Sanjiv",
+      "Choudhary, Alok",
+      "Chang, Shi-Fu"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Cheng_An_Exploration_of_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Additive Nearest Neighbor Feature Maps",
+    "authors": [
+      "Wang, Zhenzhen",
+      "Yuan, Xiao-Tong",
+      "Liu, Qingshan",
+      "Yan, Shuicheng"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Wang_Additive_Nearest_Neighbor_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Understanding Deep Features With Computer-Generated Imagery",
+    "authors": [
+      "Aubry, Mathieu",
+      "Russell, Bryan C."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Aubry_Understanding_Deep_Features_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Interpolation on the Manifold of K Component GMMs",
+    "authors": [
+      "Kim, Hyunwoo J.",
+      "Adluru, Nagesh",
+      "Banerjee, Monami",
+      "Vemuri, Baba C.",
+      "Singh, Vikas"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Kim_Interpolation_on_the_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Context-Aware CNNs for Person Head Detection",
+    "authors": [
+      "Vu, Tuan-Hung",
+      "Osokin, Anton",
+      "Laptev, Ivan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Vu_Context-Aware_CNNs_for_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Mode-Seeking on Hypergraphs for Robust Geometric Model Fitting",
+    "authors": [
+      "Wang, Hanzi",
+      "Xiao, Guobao",
+      "Yan, Yan",
+      "Suter, David"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Wang_Mode-Seeking_on_Hypergraphs_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Highly-Expressive Spaces of Well-Behaved Transformations: Keeping It Simple",
+    "authors": [
+      "Freifeld, Oren",
+      "Hauberg, Soren",
+      "Batmanghelich, Kayhan",
+      "Fisher, III, John W."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Freifeld_Highly-Expressive_Spaces_of_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Entropy-Based Latent Structured Output Prediction",
+    "authors": [
+      "Bouchacourt, Diane",
+      "Nowozin, Sebastian",
+      "Kumar, M. Pawan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Bouchacourt_Entropy-Based_Latent_Structured_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Fast Orthogonal Projection Based on Kronecker Product",
+    "authors": [
+      "Zhang, Xu",
+      "Yu, Felix X.",
+      "Guo, Ruiqi",
+      "Kumar, Sanjiv",
+      "Wang, Shengjin",
+      "Chang, Shi-Fu"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhang_Fast_Orthogonal_Projection_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization",
+    "authors": [
+      "Kendall, Alex",
+      "Grimes, Matthew",
+      "Cipolla, Roberto"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Kendall_PoseNet_A_Convolutional_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Predicting Multiple Structured Visual Interpretations",
+    "authors": [
+      "Dey, Debadeepta",
+      "Ramakrishna, Varun",
+      "Hebert, Martial",
+      "Bagnell, J. Andrew"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Dey_Predicting_Multiple_Structured_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Look and Think Twice: Capturing Top-Down Visual Attention With Feedback Convolutional Neural Networks",
+    "authors": [
+      "Cao, Chunshui",
+      "Liu, Xianming",
+      "Yang, Yi",
+      "Yu, Yinan",
+      "Wang, Jiang",
+      "Wang, Zilei",
+      "Huang, Yongzhen",
+      "Wang, Liang",
+      "Huang, Chang",
+      "Xu, Wei",
+      "Ramanan, Deva",
+      "Huang, Thomas S."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Cao_Look_and_Think_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Matrix Backpropagation for Deep Networks With Structured Layers",
+    "authors": [
+      "Ionescu, Catalin",
+      "Vantzos, Orestis",
+      "Sminchisescu, Cristian"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ionescu_Matrix_Backpropagation_for_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Introducing Geometry in Active Learning for Image Segmentation",
+    "authors": [
+      "Konyushkova, Ksenia",
+      "Sznitman, Raphael",
+      "Fua, Pascal"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Konyushkova_Introducing_Geometry_in_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Joint Fine-Tuning in Deep Neural Networks for Facial Expression Recognition",
+    "authors": [
+      "Jung, Heechul",
+      "Lee, Sihaeng",
+      "Yim, Junho",
+      "Park, Sunjeong",
+      "Kim, Junmo"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Jung_Joint_Fine-Tuning_in_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Direct Intrinsics: Learning Albedo-Shading Decomposition by Convolutional Regression",
+    "authors": [
+      "Narihira, Takuya",
+      "Maire, Michael",
+      "Yu, Stella X."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Narihira_Direct_Intrinsics_Learning_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Face Flow",
+    "authors": [
+      "Snape, Patrick",
+      "Roussos, Anastasios",
+      "Panagakis, Yannis",
+      "Zafeiriou, Stefanos"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Snape_Face_Flow_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Discriminative Low-Rank Tracking",
+    "authors": [
+      "Sui, Yao",
+      "Tang, Yafei",
+      "Zhang, Li"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Sui_Discriminative_Low-Rank_Tracking_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "SOWP: Spatially Ordered and Weighted Patch Descriptor for Visual Tracking",
+    "authors": [
+      "Kim, Han-Ul",
+      "Lee, Dae-Youn",
+      "Sim, Jae-Young",
+      "Kim, Chang-Su"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Kim_SOWP_Spatially_Ordered_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Live Repetition Counting",
+    "authors": [
+      "Levy, Ofir",
+      "Wolf, Lior"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Levy_Live_Repetition_Counting_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Near-Online Multi-Target Tracking With Aggregated Local Flow Descriptor",
+    "authors": [
+      "Choi, Wongun"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Choi_Near-Online_Multi-Target_Tracking_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Multi-Kernel Correlation Filter for Visual Tracking",
+    "authors": [
+      "Tang, Ming",
+      "Feng, Jiayi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Tang_Multi-Kernel_Correlation_Filter_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Joint Probabilistic Data Association Revisited",
+    "authors": [
+      "Rezatofighi, Seyed Hamid",
+      "Milan, Anton",
+      "Zhang, Zhen",
+      "Shi, Qinfeng",
+      "Dick, Anthony",
+      "Reid, Ian"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Rezatofighi_Joint_Probabilistic_Data_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Tracking-by-Segmentation With Online Gradient Boosting Decision Tree",
+    "authors": [
+      "Son, Jeany",
+      "Jung, Ilchae",
+      "Park, Kayoung",
+      "Han, Bohyung"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Son_Tracking-by-Segmentation_With_Online_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Exploring Causal Relationships in Visual Object Tracking",
+    "authors": [
+      "Lebeda, Karel",
+      "Hadfield, Simon",
+      "Bowden, Richard"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Lebeda_Exploring_Causal_Relationships_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Hierarchical Convolutional Features for Visual Tracking",
+    "authors": [
+      "Ma, Chao",
+      "Huang, Jia-Bin",
+      "Yang, Xiaokang",
+      "Yang, Ming-Hsuan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ma_Hierarchical_Convolutional_Features_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Robust Non-Rigid Motion Tracking and Surface Reconstruction Using L0 Regularization",
+    "authors": [
+      "Guo, Kaiwen",
+      "Xu, Feng",
+      "Wang, Yangang",
+      "Liu, Yebin",
+      "Dai, Qionghai"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Guo_Robust_Non-Rigid_Motion_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Online Object Tracking With Proposal Selection",
+    "authors": [
+      "Hua, Yang",
+      "Alahari, Karteek",
+      "Schmid, Cordelia"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Hua_Online_Object_Tracking_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Understanding and Diagnosing Visual Tracking Systems",
+    "authors": [
+      "Wang, Naiyan",
+      "Shi, Jianping",
+      "Yeung, Dit-Yan",
+      "Jia, Jiaya"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Wang_Understanding_and_Diagnosing_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Integrating Dashcam Views Through Inter-Video Mapping",
+    "authors": [
+      "Chen, Hsin-I",
+      "Chen, Yi-Ling",
+      "Lee, Wei-Tse",
+      "Wang, Fan",
+      "Chen, Bing-Yu"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Chen_Integrating_Dashcam_Views_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Visual Tracking With Fully Convolutional Networks",
+    "authors": [
+      "Wang, Lijun",
+      "Ouyang, Wanli",
+      "Wang, Xiaogang",
+      "Lu, Huchuan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Wang_Visual_Tracking_With_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Multiple Feature Fusion via Weighted Entropy for Visual Tracking",
+    "authors": [
+      "Ma, Lin",
+      "Lu, Jiwen",
+      "Feng, Jianjiang",
+      "Zhou, Jie"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ma_Multiple_Feature_Fusion_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Pedestrian Travel Time Estimation in Crowded Scenes",
+    "authors": [
+      "Yi, Shuai",
+      "Li, Hongsheng",
+      "Wang, Xiaogang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Yi_Pedestrian_Travel_Time_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Unsupervised Synchrony Discovery in Human Interaction",
+    "authors": [
+      "Chu, Wen-Sheng",
+      "Zeng, Jiabei",
+      "De la Torre, Fernando",
+      "Cohn, Jeffrey F.",
+      "Messinger, Daniel S."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Chu_Unsupervised_Synchrony_Discovery_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Efficient Video Segmentation Using Parametric Graph Partitioning",
+    "authors": [
+      "Yu, Chen-Ping",
+      "Le, Hieu",
+      "Zelinsky, Gregory",
+      "Samaras, Dimitris"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Yu_Efficient_Video_Segmentation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning to Track for Spatio-Temporal Action Localization",
+    "authors": [
+      "Weinzaepfel, Philippe",
+      "Harchaoui, Zaid",
+      "Schmid, Cordelia"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Weinzaepfel_Learning_to_Track_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Unsupervised Object Discovery and Tracking in Video Collections",
+    "authors": [
+      "Kwak, Suha",
+      "Cho, Minsu",
+      "Laptev, Ivan",
+      "Ponce, Jean",
+      "Schmid, Cordelia"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Kwak_Unsupervised_Object_Discovery_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Car That Knows Before You Do: Anticipating Maneuvers via Learning Temporal Driving Models",
+    "authors": [
+      "Jain, Ashesh",
+      "Koppula, Hema S.",
+      "Raghavan, Bharad",
+      "Soh, Shane",
+      "Saxena, Ashutosh"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Jain_Car_That_Knows_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Activity Auto-Completion: Predicting Human Activities From Partial Videos",
+    "authors": [
+      "Xu, Zhen",
+      "Qing, Laiyun",
+      "Miao, Jun"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Xu_Activity_Auto-Completion_Predicting_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Person Re-Identification With Correspondence Structure Learning",
+    "authors": [
+      "Shen, Yang",
+      "Lin, Weiyao",
+      "Yan, Junchi",
+      "Xu, Mingliang",
+      "Wu, Jianxin",
+      "Wang, Jingdong"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Shen_Person_Re-Identification_With_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Adaptive Exponential Smoothing for Online Filtering of Pixel Prediction Maps",
+    "authors": [
+      "Dang, Kang",
+      "Yang, Jiong",
+      "Yuan, Junsong"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Dang_Adaptive_Exponential_Smoothing_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "P-CNN: Pose-Based CNN Features for Action Recognition",
+    "authors": [
+      "Cheron, Guilhem",
+      "Laptev, Ivan",
+      "Schmid, Cordelia"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Cheron_P-CNN_Pose-Based_CNN_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Fully Connected Object Proposals for Video Segmentation",
+    "authors": [
+      "Perazzi, Federico",
+      "Wang, Oliver",
+      "Gross, Markus",
+      "Sorkine-Hornung, Alexander"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Perazzi_Fully_Connected_Object_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Video Segmentation With Just a Few Strokes",
+    "authors": [
+      "Nagaraja, Naveen Shankar",
+      "Schmidt, Frank R.",
+      "Brox, Thomas"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Nagaraja_Video_Segmentation_With_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Actionness-Assisted Recognition of Actions",
+    "authors": [
+      "Luo, Ye",
+      "Cheong, Loong-Fah",
+      "Tran, An"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Luo_Actionness-Assisted_Recognition_of_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "COUNT Forest: CO-Voting Uncertain Number of Targets Using Random Forest for Crowd Density Estimation",
+    "authors": [
+      "Pham, Viet-Quoc",
+      "Kozakaya, Tatsuo",
+      "Yamaguchi, Osamu",
+      "Okada, Ryuzo"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Pham_COUNT_Forest_CO-Voting_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Multi-Cue Structure Preserving MRF for Unconstrained Video Segmentation",
+    "authors": [
+      "Yi, Saehoon",
+      "Pavlovic, Vladimir"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Yi_Multi-Cue_Structure_Preserving_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Motion Trajectory Segmentation via Minimum Cost Multicuts",
+    "authors": [
+      "Keuper, Margret",
+      "Andres, Bjoern",
+      "Brox, Thomas"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Keuper_Motion_Trajectory_Segmentation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Action Localization in Videos Through Context Walk",
+    "authors": [
+      "Soomro, Khurram",
+      "Idrees, Haroon",
+      "Shah, Mubarak"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Soomro_Action_Localization_in_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "RGB-W: When Vision Meets Wireless",
+    "authors": [
+      "Alahi, Alexandre",
+      "Haque, Albert",
+      "Fei-Fei, Li"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Alahi_RGB-W_When_Vision_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Action Detection by Implicit Intentional Motion Clustering",
+    "authors": [
+      "Chen, Wei",
+      "Corso, Jason J."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Chen_Action_Detection_by_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Simultaneous Foreground Detection and Classification With Hybrid Features",
+    "authors": [
+      "Kim, Jaemyun",
+      "Rivera, Adin Ramirez",
+      "Ryu, Byungyong",
+      "Chae, Oksam"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Kim_Simultaneous_Foreground_Detection_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Training a Feedback Loop for Hand Pose Estimation",
+    "authors": [
+      "Oberweger, Markus",
+      "Wohlhart, Paul",
+      "Lepetit, Vincent"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Oberweger_Training_a_Feedback_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Opening the Black Box: Hierarchical Sampling Optimization for Estimating Human Hand Pose",
+    "authors": [
+      "Tang, Danhang",
+      "Taylor, Jonathan",
+      "Kohli, Pushmeet",
+      "Keskin, Cem",
+      "Kim, Tae-Kyun",
+      "Shotton, Jamie"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Tang_Opening_the_Black_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Panoptic Studio: A Massively Multiview System for Social Motion Capture",
+    "authors": [
+      "Joo, Hanbyul",
+      "Liu, Hao",
+      "Tan, Lei",
+      "Gui, Lin",
+      "Nabbe, Bart",
+      "Matthews, Iain",
+      "Kanade, Takeo",
+      "Nobuhara, Shohei",
+      "Sheikh, Yaser"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Joo_Panoptic_Studio_A_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Where to Buy It: Matching Street Clothing Photos in Online Shops",
+    "authors": [
+      "Kiapour, M. Hadi",
+      "Han, Xufeng",
+      "Lazebnik, Svetlana",
+      "Berg, Alexander C.",
+      "Berg, Tamara L."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Kiapour_Where_to_Buy_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Multi-Task Recurrent Neural Network for Immediacy Prediction",
+    "authors": [
+      "Chu, Xiao",
+      "Ouyang, Wanli",
+      "Yang, Wei",
+      "Wang, Xiaogang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Chu_Multi-Task_Recurrent_Neural_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Complexity-Aware Cascades for Deep Pedestrian Detection",
+    "authors": [
+      "Cai, Zhaowei",
+      "Saberian, Mohammad",
+      "Vasconcelos, Nuno"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Cai_Learning_Complexity-Aware_Cascades_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Polarized 3D: High-Quality Depth Sensing With Polarization Cues",
+    "authors": [
+      "Kadambi, Achuta",
+      "Taamazyan, Vage",
+      "Shi, Boxin",
+      "Raskar, Ramesh"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Kadambi_Polarized_3D_High-Quality_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Airborne Three-Dimensional Cloud Tomography",
+    "authors": [
+      "Levis, Aviad",
+      "Schechner, Yoav Y.",
+      "Aides, Amit",
+      "Davis, Anthony B."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Levis_Airborne_Three-Dimensional_Cloud_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Leave-One-Out Kernel Optimization for Shadow Detection",
+    "authors": [
+      "Vicente, Tomas F. Yago",
+      "Hoai, Minh",
+      "Samaras, Dimitris"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Vicente_Leave-One-Out_Kernel_Optimization_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Removing Rain From a Single Image via Discriminative Sparse Coding",
+    "authors": [
+      "Luo, Yu",
+      "Xu, Yong",
+      "Ji, Hui"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Luo_Removing_Rain_From_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Mutual-Structure for Joint Filtering",
+    "authors": [
+      "Shen, Xiaoyong",
+      "Zhou, Chao",
+      "Xu, Li",
+      "Jia, Jiaya"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Shen_Mutual-Structure_for_Joint_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Photometric Stereo in a Scattering Medium",
+    "authors": [
+      "Murez, Zak",
+      "Treibitz, Tali",
+      "Ramamoorthi, Ravi",
+      "Kriegman, David"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Murez_Photometric_Stereo_in_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Resolving Scale Ambiguity Via XSlit Aspect Ratio Analysis",
+    "authors": [
+      "Yang, Wei",
+      "Lin, Haiting",
+      "Kang, Sing Bing",
+      "Yu, Jingyi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Yang_Resolving_Scale_Ambiguity_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Single-Shot Specular Surface Reconstruction With Gonio-Plenoptic Imaging",
+    "authors": [
+      "Meng, Lingfei",
+      "Lu, Liyang",
+      "Bedard, Noah",
+      "Berkner, Kathrin"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Meng_Single-Shot_Specular_Surface_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "TransCut: Transparent Object Segmentation From a Light-Field Image",
+    "authors": [
+      "Xu, Yichao",
+      "Nagahara, Hajime",
+      "Shimada, Atsushi",
+      "Taniguchi, Rin-ichiro"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Xu_TransCut_Transparent_Object_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Depth Recovery From Light Field Using Focal Stack Symmetry",
+    "authors": [
+      "Lin, Haiting",
+      "Chen, Can",
+      "Kang, Sing Bing",
+      "Yu, Jingyi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Lin_Depth_Recovery_From_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Depth Map Estimation and Colorization of Anaglyph Images Using Local Color Prior and Reverse Intensity Distribution",
+    "authors": [
+      "Williem, W.",
+      "Raskar, Ramesh",
+      "Park, In Kyu"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Williem_Depth_Map_Estimation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Data-Driven Reflectance Priors for Intrinsic Image Decomposition",
+    "authors": [
+      "Zhou, Tinghui",
+      "Krahenbuhl, Philipp",
+      "Efros, Alexei A."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhou_Learning_Data-Driven_Reflectance_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Photometric Stereo With Small Angular Variations",
+    "authors": [
+      "Wang, Jian",
+      "Matsushita, Yasuyuki",
+      "Shi, Boxin",
+      "Sankaranarayanan, Aswin C."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Wang_Photometric_Stereo_With_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Occlusion-Aware Depth Estimation Using Light-Field Cameras",
+    "authors": [
+      "Wang, Ting-Chun",
+      "Efros, Alexei A.",
+      "Ramamoorthi, Ravi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Wang_Occlusion-Aware_Depth_Estimation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Oriented Light-Field Windows for Scene Flow",
+    "authors": [
+      "Srinivasan, Pratul P.",
+      "Tao, Michael W.",
+      "Ng, Ren",
+      "Ramamoorthi, Ravi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Srinivasan_Oriented_Light-Field_Windows_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Extended Depth of Field Catadioptric Imaging Using Focal Sweep",
+    "authors": [
+      "Yokoya, Ryunosuke",
+      "Nayar, Shree K."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Yokoya_Extended_Depth_of_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Intrinsic Depth: Improving Depth Transfer With Intrinsic Images",
+    "authors": [
+      "Kong, Naejin",
+      "Black, Michael J."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Kong_Intrinsic_Depth_Improving_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Separating Fluorescent and Reflective Components by Using a Single Hyperspectral Image",
+    "authors": [
+      "Zheng, Yinqiang",
+      "Fu, Ying",
+      "Lam, Antony",
+      "Sato, Imari",
+      "Sato, Yoichi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zheng_Separating_Fluorescent_and_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Frequency-Based Environment Matting by Compressive Sensing",
+    "authors": [
+      "Qian, Yiming",
+      "Gong, Minglun",
+      "Yang, Yee-Hong"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Qian_Frequency-Based_Environment_Matting_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Complementary Sets of Shutter Sequences for Motion Deblurring",
+    "authors": [
+      "Jeon, Hae-Gon",
+      "Lee, Joon-Young",
+      "Han, Yudeog",
+      "Kim, Seon Joo",
+      "Kweon, In So"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Jeon_Complementary_Sets_of_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Hyperspectral Compressive Sensing Using Manifold-Structured Sparsity Prior",
+    "authors": [
+      "Zhang, Lei",
+      "Wei, Wei",
+      "Zhang, Yanning",
+      "Li, Fei",
+      "Shen, Chunhua",
+      "Shi, Qinfeng"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhang_Hyperspectral_Compressive_Sensing_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "A Gaussian Process Latent Variable Model for BRDF Inference",
+    "authors": [
+      "Georgoulis, Stamatios",
+      "Vanweddingen, Vincent",
+      "Proesmans, Marc",
+      "Van Gool, Luc"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Georgoulis_A_Gaussian_Process_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Active One-Shot Scan for Wide Depth Range Using a Light Field Projector Based on Coded Aperture",
+    "authors": [
+      "Kawasaki, Hiroshi",
+      "Ono, Satoshi",
+      "Horita, Yuki",
+      "Shiba, Yuki",
+      "Furukawa, Ryo",
+      "Hiura, Shinsaku"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Kawasaki_Active_One-Shot_Scan_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Model-Based Tracking at 300Hz Using Raw Time-of-Flight Observations",
+    "authors": [
+      "Stuhmer, Jan",
+      "Nowozin, Sebastian",
+      "Fitzgibbon, Andrew",
+      "Szeliski, Richard",
+      "Perry, Travis",
+      "Acharya, Sunil",
+      "Cremers, Daniel",
+      "Shotton, Jamie"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Stuhmer_Model-Based_Tracking_at_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Hyperspectral Super-Resolution by Coupled Spectral Unmixing",
+    "authors": [
+      "Lanaras, Charis",
+      "Baltsavias, Emmanuel",
+      "Schindler, Konrad"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Lanaras_Hyperspectral_Super-Resolution_by_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Depth Selective Camera: A Direct, On-Chip, Programmable Technique for Depth Selectivity in Photography",
+    "authors": [
+      "Tadano, Ryuichi",
+      "Pediredla, Adithya Kumar",
+      "Veeraraghavan, Ashok"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Tadano_Depth_Selective_Camera_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "A Groupwise Multilinear Correspondence Optimization for 3D Faces",
+    "authors": [
+      "Bolkart, Timo",
+      "Wuhrer, Stefanie"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Bolkart_A_Groupwise_Multilinear_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Selective Encoding for Recognizing Unreliably Localized Faces",
+    "authors": [
+      "Li, Ang",
+      "Morariu, Vlad",
+      "Davis, Larry S."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Li_Selective_Encoding_for_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Confidence Preserving Machine for Facial Action Unit Detection",
+    "authors": [
+      "Zeng, Jiabei",
+      "Chu, Wen-Sheng",
+      "De la Torre, Fernando",
+      "Cohn, Jeffrey F.",
+      "Xiong, Zhang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zeng_Confidence_Preserving_Machine_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Social Relation Traits From Face Images",
+    "authors": [
+      "Zhang, Zhanpeng",
+      "Luo, Ping",
+      "Loy, Chen-Change",
+      "Tang, Xiaoou"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhang_Learning_Social_Relation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Robust Heart Rate Measurement From Video Using Select Random Patches",
+    "authors": [
+      "Lam, Antony",
+      "Kuno, Yoshinori"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Lam_Robust_Heart_Rate_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Robust Model-Based 3D Head Pose Estimation",
+    "authors": [
+      "Meyer, Gregory P.",
+      "Gupta, Shalini",
+      "Frosio, Iuri",
+      "Reddy, Dikpal",
+      "Kautz, Jan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Meyer_Robust_Model-Based_3D_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Robust Facial Landmark Detection Under Significant Head Poses and Occlusion",
+    "authors": [
+      "Wu, Yue",
+      "Ji, Qiang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Wu_Robust_Facial_Landmark_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Conditional Convolutional Neural Network for Modality-Aware Face Recognition",
+    "authors": [
+      "Xiong, Chao",
+      "Zhao, Xiaowei",
+      "Tang, Danhang",
+      "Jayashree, Karlekar",
+      "Yan, Shuicheng",
+      "Kim, Tae-Kyun"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Xiong_Conditional_Convolutional_Neural_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "From Facial Parts Responses to Face Detection: A Deep Learning Approach",
+    "authors": [
+      "Yang, Shuo",
+      "Luo, Ping",
+      "Loy, Chen-Change",
+      "Tang, Xiaoou"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Yang_From_Facial_Parts_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Efficient PSD Constrained Asymmetric Metric Learning for Person Re-Identification",
+    "authors": [
+      "Liao, Shengcai",
+      "Li, Stan Z."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Liao_Efficient_PSD_Constrained_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Pose-Invariant 3D Face Alignment",
+    "authors": [
+      "Jourabloo, Amin",
+      "Liu, Xiaoming"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Jourabloo_Pose-Invariant_3D_Face_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "From Emotions to Action Units With Hidden and Semi-Hidden-Task Learning",
+    "authors": [
+      "Ruiz, Adria",
+      "Van de Weijer, Joost",
+      "Binefa, Xavier"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ruiz_From_Emotions_to_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Automated Facial Trait Judgment and Election Outcome Prediction: Social Dimensions of Face",
+    "authors": [
+      "Joo, Jungseock",
+      "Steen, Francis F.",
+      "Zhu, Song-Chun"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Joo_Automated_Facial_Trait_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Simultaneous Local Binary Feature Learning and Encoding for Face Recognition",
+    "authors": [
+      "Lu, Jiwen",
+      "Liong, Venice Erin",
+      "Zhou, Jie"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Lu_Simultaneous_Local_Binary_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Deep Learning Face Attributes in the Wild",
+    "authors": [
+      "Liu, Ziwei",
+      "Luo, Ping",
+      "Wang, Xiaogang",
+      "Tang, Xiaoou"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Liu_Deep_Learning_Face_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Multi-Task Learning With Low Rank Attribute Embedding for Person Re-Identification",
+    "authors": [
+      "Su, Chi",
+      "Yang, Fan",
+      "Zhang, Shiliang",
+      "Tian, Qi",
+      "Davis, Larry S.",
+      "Gao, Wen"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Su_Multi-Task_Learning_With_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Regressing a 3D Face Shape From a Single Image",
+    "authors": [
+      "Tulyakov, Sergey",
+      "Sebe, Nicu"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Tulyakov_Regressing_a_3D_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Rendering of Eyes for Eye-Shape Registration and Gaze Estimation",
+    "authors": [
+      "Wood, Erroll",
+      "Baltrusaitis, Tadas",
+      "Zhang, Xucong",
+      "Sugano, Yusuke",
+      "Robinson, Peter",
+      "Bulling, Andreas"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Wood_Rendering_of_Eyes_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Multi-Scale Learning for Low-Resolution Person Re-Identification",
+    "authors": [
+      "Li, Xiang",
+      "Zheng, Wei-Shi",
+      "Wang, Xiaojuan",
+      "Xiang, Tao",
+      "Gong, Shaogang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Li_Multi-Scale_Learning_for_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning to Transfer: Transferring Latent Task Structures and Its Application to Person-Specific Facial Action Unit Detection",
+    "authors": [
+      "Almaev, Timur",
+      "Martinez, Brais",
+      "Valstar, Michel"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Almaev_Learning_to_Transfer_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Pairwise Conditional Random Forests for Facial Expression Recognition",
+    "authors": [
+      "Dapogny, Arnaud",
+      "Bailly, Kevin",
+      "Dubuisson, Severine"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Dapogny_Pairwise_Conditional_Random_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Multi-Conditional Latent Variable Model for Joint Facial Action Unit Detection",
+    "authors": [
+      "Eleftheriadis, Stefanos",
+      "Rudovic, Ognjen",
+      "Pantic, Maja"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Eleftheriadis_Multi-Conditional_Latent_Variable_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Leveraging Datasets With Varying Annotations for Face Alignment via Deep Regression Network",
+    "authors": [
+      "Zhang, Jie",
+      "Kan, Meina",
+      "Shan, Shiguang",
+      "Chen, Xilin"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhang_Leveraging_Datasets_With_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "A Spatio-Temporal Appearance Representation for Viceo-Based Pedestrian Re-Identification",
+    "authors": [
+      "Liu, Kan",
+      "Ma, Bingpeng",
+      "Zhang, Wei",
+      "Huang, Rui"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Liu_A_Spatio-Temporal_Appearance_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Two Birds, One Stone: Jointly Learning Binary Code for Large-Scale Face Image Retrieval and Attributes Prediction",
+    "authors": [
+      "Li, Yan",
+      "Wang, Ruiping",
+      "Liu, Haomiao",
+      "Jiang, Huajie",
+      "Shan, Shiguang",
+      "Chen, Xilin"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Li_Two_Birds_One_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "An Accurate Iris Segmentation Framework Under Relaxed Imaging Constraints Using Total Variation Model",
+    "authors": [
+      "Zhao, Zijing",
+      "Ajay, Kumar"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhao_An_Accurate_Iris_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Discriminative Pose-Free Descriptors for Face and Object Matching",
+    "authors": [
+      "Sanyal, Soubhik",
+      "Mudunuri, Sivaram Prasad",
+      "Biswas, Soma"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Sanyal_Discriminative_Pose-Free_Descriptors_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Bi-Shifting Auto-Encoder for Unsupervised Domain Adaptation",
+    "authors": [
+      "Kan, Meina",
+      "Shan, Shiguang",
+      "Chen, Xilin"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Kan_Bi-Shifting_Auto-Encoder_for_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Regressive Tree Structured Model for Facial Landmark Localization",
+    "authors": [
+      "Hsu, Gee-Sern",
+      "Chang, Kai-Hsiang",
+      "Huang, Shih-Chieh"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Hsu_Regressive_Tree_Structured_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Person Recognition in Personal Photo Collections",
+    "authors": [
+      "Oh, Seong Joon",
+      "Benenson, Rodrigo",
+      "Fritz, Mario",
+      "Schiele, Bernt"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Oh_Person_Recognition_in_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Robust Statistical Face Frontalization",
+    "authors": [
+      "Sagonas, Christos",
+      "Panagakis, Yannis",
+      "Zafeiriou, Stefanos",
+      "Pantic, Maja"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Sagonas_Robust_Statistical_Face_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "PIEFA: Personalized Incremental and Ensemble Face Alignment",
+    "authors": [
+      "Peng, Xi",
+      "Zhang, Shaoting",
+      "Yang, Yu",
+      "Metaxas, Dimitris N."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Peng_PIEFA_Personalized_Incremental_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Understanding Everyday Hands in Action From RGB-D Images",
+    "authors": [
+      "Rogez, Gregory",
+      "Supancic, III, James S.",
+      "Ramanan, Deva"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Rogez_Understanding_Everyday_Hands_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Example-Based Modeling of Facial Texture From Deficient Data",
+    "authors": [
+      "Dessein, Arnaud",
+      "Smith, William A. P.",
+      "Wilson, Richard C.",
+      "Hancock, Edwin R."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Dessein_Example-Based_Modeling_of_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning to Predict Saliency on Face Images",
+    "authors": [
+      "Xu, Mai",
+      "Ren, Yun",
+      "Wang, Zulin"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Xu_Learning_to_Predict_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Group Membership Prediction",
+    "authors": [
+      "Zhang, Ziming",
+      "Chen, Yuting",
+      "Saligrama, Venkatesh"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhang_Group_Membership_Prediction_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Extraction of Virtual Baselines From Distorted Document Images Using Curvilinear Projection",
+    "authors": [
+      "Meng, Gaofeng",
+      "Huang, Zuming",
+      "Song, Yonghong",
+      "Xiang, Shiming",
+      "Pan, Chunhong"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Meng_Extraction_of_Virtual_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Robust RGB-D Odometry Using Point and Line Features",
+    "authors": [
+      "Lu, Yan",
+      "Song, Dezhen"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Lu_Robust_RGB-D_Odometry_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning a Discriminative Model for the Perception of Realism in Composite Images",
+    "authors": [
+      "Zhu, Jun-Yan",
+      "Krahenbuhl, Philipp",
+      "Shechtman, Eli",
+      "Efros, Alexei A."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhu_Learning_a_Discriminative_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "What Makes Tom Hanks Look Like Tom Hanks",
+    "authors": [
+      "Suwajanakorn, Supasorn",
+      "Seitz, Steven M.",
+      "Kemelmacher-Shlizerman, Ira"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Suwajanakorn_What_Makes_Tom_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Wide-Area Image Geolocalization With Aerial Reference Imagery",
+    "authors": [
+      "Workman, Scott",
+      "Souvenir, Richard",
+      "Jacobs, Nathan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Workman_Wide-Area_Image_Geolocalization_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Personalized Age Progression With Aging Dictionary",
+    "authors": [
+      "Shu, Xiangbo",
+      "Tang, Jinhui",
+      "Lai, Hanjiang",
+      "Liu, Luoqi",
+      "Yan, Shuicheng"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Shu_Personalized_Age_Progression_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "FaceDirector: Continuous Control of Facial Performance in Video",
+    "authors": [
+      "Malleson, Charles",
+      "Bazin, Jean-Charles",
+      "Wang, Oliver",
+      "Bradley, Derek",
+      "Beeler, Thabo",
+      "Hilton, Adrian",
+      "Sorkine-Hornung, Alexander"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Malleson_FaceDirector_Continuous_Control_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Synthesizing Illumination Mosaics From Internet Photo-Collections",
+    "authors": [
+      "Ji, Dinghuang",
+      "Dunn, Enrique",
+      "Frahm, Jan-Michael"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ji_Synthesizing_Illumination_Mosaics_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Hot or Not: Exploring Correlations Between Appearance and Temperature",
+    "authors": [
+      "Glasner, Daniel",
+      "Fua, Pascal",
+      "Zickler, Todd",
+      "Zelnik-Manor, Lihi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Glasner_Hot_or_Not_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "SPM-BP: Sped-up PatchMatch Belief Propagation for Continuous MRFs",
+    "authors": [
+      "Li, Yu",
+      "Min, Dongbo",
+      "Brown, Michael S.",
+      "Do, Minh N.",
+      "Lu, Jiangbo"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Li_SPM-BP_Sped-up_PatchMatch_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Flow Fields: Dense Correspondence Fields for Highly Accurate Large Displacement Optical Flow Estimation",
+    "authors": [
+      "Bailer, Christian",
+      "Taetz, Bertram",
+      "Stricker, Didier"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Bailer_Flow_Fields_Dense_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Dense Semantic Correspondence Where Every Pixel is a Classifier",
+    "authors": [
+      "Bristow, Hilton",
+      "Valmadre, Jack",
+      "Lucey, Simon"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Bristow_Dense_Semantic_Correspondence_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Multi-Image Matching via Fast Alternating Minimization",
+    "authors": [
+      "Zhou, Xiaowei",
+      "Zhu, Menglong",
+      "Daniilidis, Kostas"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhou_Multi-Image_Matching_via_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Differential Recurrent Neural Networks for Action Recognition",
+    "authors": [
+      "Veeriah, Vivek",
+      "Zhuang, Naifan",
+      "Qi, Guo-Jun"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Veeriah_Differential_Recurrent_Neural_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Similarity Gaussian Process Latent Variable Model for Multi-Modal Data Analysis",
+    "authors": [
+      "Song, Guoli",
+      "Wang, Shuhui",
+      "Huang, Qingming",
+      "Tian, Qi"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Song_Similarity_Gaussian_Process_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Ensembles of Potential Functions for Structured Prediction With Latent Variables",
+    "authors": [
+      "Hajimirsadeghi, Hossein",
+      "Mori, Greg"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Hajimirsadeghi_Learning_Ensembles_of_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Simultaneous Deep Transfer Across Domains and Tasks",
+    "authors": [
+      "Tzeng, Eric",
+      "Hoffman, Judy",
+      "Darrell, Trevor",
+      "Saenko, Kate"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Tzeng_Simultaneous_Deep_Transfer_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Low Dimensional Explicit Feature Maps",
+    "authors": [
+      "Chum, Ondrej"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Chum_Low_Dimensional_Explicit_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Unsupervised Learning of Spatiotemporally Coherent Metrics",
+    "authors": [
+      "Goroshin, Ross",
+      "Bruna, Joan",
+      "Tompson, Jonathan",
+      "Eigen, David",
+      "LeCun, Yann"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Goroshin_Unsupervised_Learning_of_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Multi-Label Cross-Modal Retrieval",
+    "authors": [
+      "Ranjan, Viresh",
+      "Rasiwasia, Nikhil",
+      "Jawahar, C. V."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ranjan_Multi-Label_Cross-Modal_Retrieval_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Improving Ferns Ensembles by Sparsifying and Quantising Posterior Probabilities",
+    "authors": [
+      "Rodriguez, Antonio L.",
+      "Sequeira, Vitor"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Rodriguez_Improving_Ferns_Ensembles_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Beyond Gauss: Image-Set Matching on the Riemannian Manifold of PDFs",
+    "authors": [
+      "Harandi, Mehrtash",
+      "Salzmann, Mathieu",
+      "Baktashmotlagh, Mahsa"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Harandi_Beyond_Gauss_Image-Set_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Unsupervised Domain Adaptation With Imbalanced Cross-Domain Data",
+    "authors": [
+      "Hsu, Tzu Ming Harry",
+      "Chen, Wei Yu",
+      "Hou, Cheng-An",
+      "Tsai, Yao-Hung Hubert",
+      "Yeh, Yi-Ren",
+      "Wang, Yu-Chiang Frank"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Hsu_Unsupervised_Domain_Adaptation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Secrets of Matrix Factorization: Approximations, Numerics, Manifold Optimization and Random Restarts",
+    "authors": [
+      "Hong, Je Hyeong",
+      "Fitzgibbon, Andrew"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Hong_Secrets_of_Matrix_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Geometry-Aware Deep Transform",
+    "authors": [
+      "Huang, Jiaji",
+      "Qiu, Qiang",
+      "Calderbank, Robert",
+      "Sapiro, Guillermo"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Huang_Geometry-Aware_Deep_Transform_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Binary Codes for Maximum Inner Product Search",
+    "authors": [
+      "Shen, Fumin",
+      "Liu, Wei",
+      "Zhang, Shaoting",
+      "Yang, Yang",
+      "Shen, Heng Tao"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Shen_Learning_Binary_Codes_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "ML-MG: Multi-Label Learning With Missing Labels Using a Mixed Graph",
+    "authors": [
+      "Wu, Baoyuan",
+      "Lyu, Siwei",
+      "Ghanem, Bernard"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Wu_ML-MG_Multi-Label_Learning_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Zero-Shot Learning via Semantic Similarity Embedding",
+    "authors": [
+      "Zhang, Ziming",
+      "Saligrama, Venkatesh"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhang_Zero-Shot_Learning_via_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Bayesian Model Adaptation for Crowd Counts",
+    "authors": [
+      "Liu, Bo",
+      "Vasconcelos, Nuno"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Liu_Bayesian_Model_Adaptation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "An NMF Perspective on Binary Hashing",
+    "authors": [
+      "Mukherjee, Lopamudra",
+      "Ravi, Sathya N.",
+      "Ithapu, Vamsi K.",
+      "Holmes, Tyler",
+      "Singh, Vikas"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Mukherjee_An_NMF_Perspective_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Multi-View Domain Generalization for Visual Recognition",
+    "authors": [
+      "Niu, Li",
+      "Li, Wen",
+      "Xu, Dong"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Niu_Multi-View_Domain_Generalization_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Infinite Feature Selection",
+    "authors": [
+      "Roffo, Giorgio",
+      "Melzi, Simone",
+      "Cristani, Marco"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Roffo_Infinite_Feature_Selection_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Semi-Supervised Zero-Shot Classification With Label Representation Learning",
+    "authors": [
+      "Li, Xin",
+      "Guo, Yuhong",
+      "Schuurmans, Dale"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Li_Semi-Supervised_Zero-Shot_Classification_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "A Supervised Low-Rank Method for Learning Invariant Subspaces",
+    "authors": [
+      "Siyahjani, Farzad",
+      "Almohsen, Ranya",
+      "Sabri, Sinan",
+      "Doretto, Gianfranco"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Siyahjani_A_Supervised_Low-Rank_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Recursive Frechet Mean Computation on the Grassmannian and its Applications to Computer Vision",
+    "authors": [
+      "Chakraborty, Rudrasis",
+      "Vemuri, Baba C."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Chakraborty_Recursive_Frechet_Mean_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Multi-View Subspace Clustering",
+    "authors": [
+      "Gao, Hongchang",
+      "Nie, Feiping",
+      "Li, Xuelong",
+      "Huang, Heng"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Gao_Multi-View_Subspace_Clustering_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Predicting Deep Zero-Shot Convolutional Neural Networks Using Textual Descriptions",
+    "authors": [
+      "Ba, Jimmy Lei",
+      "Swersky, Kevin",
+      "Fidler, Sanja",
+      "salakhutdinov, Ruslan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ba_Predicting_Deep_Zero-Shot_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Structured Feature Selection",
+    "authors": [
+      "Gao, Tian",
+      "Wang, Ziheng",
+      "Ji, Qiang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Gao_Structured_Feature_Selection_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Conditional High-Order Boltzmann Machine: A Supervised Learning Model for Relation Learning",
+    "authors": [
+      "Huang, Yan",
+      "Wang, Wei",
+      "Wang, Liang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Huang_Conditional_High-Order_Boltzmann_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Image and User Features for Recommendation in Social Networks",
+    "authors": [
+      "Geng, Xue",
+      "Zhang, Hanwang",
+      "Bian, Jingwen",
+      "Chua, Tat-Seng"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Geng_Learning_Image_and_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Dual-Feature Warping-Based Motion Model Estimation",
+    "authors": [
+      "Li, Shiwei",
+      "Yuan, Lu",
+      "Sun, Jian",
+      "Quan, Long"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Li_Dual-Feature_Warping-Based_Motion_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "An Adaptive Data Representation for Robust Point-Set Registration and Merging",
+    "authors": [
+      "Campbell, Dylan",
+      "Petersson, Lars"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Campbell_An_Adaptive_Data_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Local Subspace Collaborative Tracking",
+    "authors": [
+      "Ma, Lin",
+      "Zhang, Xiaoqin",
+      "Hu, Weiming",
+      "Xing, Junliang",
+      "Lu, Jiwen",
+      "Zhou, Jie"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ma_Local_Subspace_Collaborative_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Spatially Regularized Correlation Filters for Visual Tracking",
+    "authors": [
+      "Danelljan, Martin",
+      "Hager, Gustav",
+      "Khan, Fahad Shahbaz",
+      "Felsberg, Michael"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Danelljan_Learning_Spatially_Regularized_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "SpeDo: 6 DOF Ego-Motion Sensor Using Speckle Defocus Imaging",
+    "authors": [
+      "Jo, Kensei",
+      "Gupta, Mohit",
+      "Nayar, Shree K."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Jo_SpeDo_6_DOF_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Unsupervised Trajectory Clustering via Adaptive Multi-Kernel-Based Shrinkage",
+    "authors": [
+      "Xu, Hongteng",
+      "Zhou, Yang",
+      "Lin, Weiyao",
+      "Zha, Hongyuan"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Xu_Unsupervised_Trajectory_Clustering_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "TRIC-track: Tracking by Regression With Incrementally Learned Cascades",
+    "authors": [
+      "Wang, Xiaomeng",
+      "Valstar, Michel",
+      "Martinez, Brais",
+      "Khan, Muhammad Haris",
+      "Pridmore, Tony"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Wang_TRIC-track_Tracking_by_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Recurrent Network Models for Human Dynamics",
+    "authors": [
+      "Fragkiadaki, Katerina",
+      "Levine, Sergey",
+      "Felsen, Panna",
+      "Malik, Jitendra"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Fragkiadaki_Recurrent_Network_Models_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Contour Flow: Middle-Level Motion Estimation by Combining Motion Segmentation and Contour Alignment",
+    "authors": [
+      "Di, Huijun",
+      "Shi, Qingxuan",
+      "Lv, Feng",
+      "Qin, Ming",
+      "Lu, Yao"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Di_Contour_Flow_Middle-Level_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "FollowMe: Efficient Online Min-Cost Flow Tracking With Bounded Memory and Computation",
+    "authors": [
+      "Lenz, Philip",
+      "Geiger, Andreas",
+      "Urtasun, Raquel"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Lenz_FollowMe_Efficient_Online_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning to Divide and Conquer for Online Multi-Target Tracking",
+    "authors": [
+      "Solera, Francesco",
+      "Calderara, Simone",
+      "Cucchiara, Rita"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Solera_Learning_to_Divide_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Minimizing Human Effort in Interactive Tracking by Incremental Learning of Model Parameters",
+    "authors": [
+      "Ciptadi, Arridhana",
+      "Rehg, James M."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ciptadi_Minimizing_Human_Effort_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "A Novel Representation of Parts for Accurate 3D Object Detection and Tracking in Monocular Images",
+    "authors": [
+      "Crivellaro, Alberto",
+      "Rad, Mahdi",
+      "Verdie, Yannick",
+      "Yi, Kwang Moo",
+      "Fua, Pascal",
+      "Lepetit, Vincent"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Crivellaro_A_Novel_Representation_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Linearization to Nonlinear Learning for Visual Tracking",
+    "authors": [
+      "Ma, Bo",
+      "Hu, Hongwei",
+      "Shen, Jianbing",
+      "Zhang, Yuping",
+      "Porikli, Fatih"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ma_Linearization_to_Nonlinear_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Self-Occlusions and Disocclusions in Causal Video Object Segmentation",
+    "authors": [
+      "Yang, Yanchao",
+      "Sundaramoorthi, Ganesh",
+      "Soatto, Stefano"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Yang_Self-Occlusions_and_Disocclusions_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Large Displacement 3D Scene Flow With Occlusion Reasoning",
+    "authors": [
+      "Zanfir, Andrei",
+      "Sminchisescu, Cristian"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zanfir_Large_Displacement_3D_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Co-Interest Person Detection From Multiple Wearable Camera Videos",
+    "authors": [
+      "Lin, Yuewei",
+      "Abdelfatah, Kareem",
+      "Zhou, Youjie",
+      "Fan, Xiaochuan",
+      "Yu, Hongkai",
+      "Qian, Hui",
+      "Wang, Song"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Lin_Co-Interest_Person_Detection_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Sparse Dynamic 3D Reconstruction From Unsynchronized Videos",
+    "authors": [
+      "Zheng, Enliang",
+      "Ji, Dinghuang",
+      "Dunn, Enrique",
+      "Frahm, Jan-Michael"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zheng_Sparse_Dynamic_3D_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Category-Blind Human Action Recognition: A Practical Recognition System",
+    "authors": [
+      "Li, Wenbo",
+      "Wen, Longyin",
+      "Chuah, Mooi Choo",
+      "Lyu, Siwei"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Li_Category-Blind_Human_Action_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Temporal Subspace Clustering for Human Motion Segmentation",
+    "authors": [
+      "Li, Sheng",
+      "Li, Kang",
+      "Fu, Yun"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Li_Temporal_Subspace_Clustering_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Weakly-Supervised Alignment of Video With Text",
+    "authors": [
+      "Bojanowski, Piotr",
+      "Lajugie, Remi",
+      "Grave, Edouard",
+      "Bach, Francis",
+      "Laptev, Ivan",
+      "Ponce, Jean",
+      "Schmid, Cordelia"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Bojanowski_Weakly-Supervised_Alignment_of_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Temporal Embeddings for Complex Video Analysis",
+    "authors": [
+      "Ramanathan, Vignesh",
+      "Tang, Kevin",
+      "Mori, Greg",
+      "Fei-Fei, Li"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ramanathan_Learning_Temporal_Embeddings_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Unsupervised Semantic Parsing of Video Collections",
+    "authors": [
+      "Sener, Ozan",
+      "Zamir, Amir R.",
+      "Savarese, Silvio",
+      "Saxena, Ashutosh"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Sener_Unsupervised_Semantic_Parsing_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Spatiotemporal Features With 3D Convolutional Networks",
+    "authors": [
+      "Tran, Du",
+      "Bourdev, Lubomir",
+      "Fergus, Rob",
+      "Torresani, Lorenzo",
+      "Paluri, Manohar"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Temporal Perception and Prediction in Ego-Centric Video",
+    "authors": [
+      "Zhou, Yipin",
+      "Berg, Tamara L."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zhou_Temporal_Perception_and_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Describing Videos by Exploiting Temporal Structure",
+    "authors": [
+      "Yao, Li",
+      "Torabi, Atousa",
+      "Cho, Kyunghyun",
+      "Ballas, Nicolas",
+      "Pal, Christopher",
+      "Larochelle, Hugo",
+      "Courville, Aaron"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Yao_Describing_Videos_by_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Person Re-Identification With Discriminatively Trained Viewpoint Invariant Dictionaries",
+    "authors": [
+      "Karanam, Srikrishna",
+      "Li, Yang",
+      "Radke, Richard J."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Karanam_Person_Re-Identification_With_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Storyline Representation of Egocentric Videos With an Applications to Story-Based Search",
+    "authors": [
+      "Xiong, Bo",
+      "Kim, Gunhee",
+      "Sigal, Leonid"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Xiong_Storyline_Representation_of_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Sequence to Sequence - Video to Text",
+    "authors": [
+      "Venugopalan, Subhashini",
+      "Rohrbach, Marcus",
+      "Donahue, Jeffrey",
+      "Mooney, Raymond",
+      "Darrell, Trevor",
+      "Saenko, Kate"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Venugopalan_Sequence_to_Sequence_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Context Aware Active Learning of Activity Recognition Models",
+    "authors": [
+      "Hasan, Mahmudul",
+      "Roy-Chowdhury, Amit K."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Hasan_Context_Aware_Active_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Action Recognition by Hierarchical Mid-Level Action Elements",
+    "authors": [
+      "Lan, Tian",
+      "Zhu, Yuke",
+      "Zamir, Amir Roshan",
+      "Savarese, Silvio"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Lan_Action_Recognition_by_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Selecting Relevant Web Trained Concepts for Automated Event Retrieval",
+    "authors": [
+      "Singh, Bharat",
+      "Han, Xintong",
+      "Wu, Zhe",
+      "Morariu, Vlad I.",
+      "Davis, Larry S."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Singh_Selecting_Relevant_Web_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Beyond Covariance: Feature Representation With Nonlinear Kernel Matrices",
+    "authors": [
+      "Wang, Lei",
+      "Zhang, Jianjia",
+      "Zhou, Luping",
+      "Tang, Chang",
+      "Li, Wanqing"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Wang_Beyond_Covariance_Feature_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Multiresolution Hierarchy Co-Clustering for Semantic Segmentation in Sequences With Small Variations",
+    "authors": [
+      "Varas, David",
+      "Alfaro, Monica",
+      "Marques, Ferran"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Varas_Multiresolution_Hierarchy_Co-Clustering_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Objects2action: Classifying and Localizing Actions Without Any Video Example",
+    "authors": [
+      "Jain, Mihir",
+      "van Gemert, Jan C.",
+      "Mensink, Thomas",
+      "Snoek, Cees G. M."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Jain_Objects2action_Classifying_and_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Human Action Recognition Using Factorized Spatio-Temporal Convolutional Networks",
+    "authors": [
+      "Sun, Lin",
+      "Jia, Kui",
+      "Yeung, Dit-Yan",
+      "Shi, Bertram E."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Sun_Human_Action_Recognition_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Bayesian Non-Parametric Inference for Manifold Based MoCap Representation",
+    "authors": [
+      "Natola, Fabrizio",
+      "Ntouskos, Valsamis",
+      "Sanzari, Marta",
+      "Pirri, Fiora"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Natola_Bayesian_Non-Parametric_Inference_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Semantic Video Entity Linking Based on Visual Content and Metadata",
+    "authors": [
+      "Li, Yuncheng",
+      "Yang, Xitong",
+      "Luo, Jiebo"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Li_Semantic_Video_Entity_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Love Thy Neighbors: Image Annotation by Exploiting Image Metadata",
+    "authors": [
+      "Johnson, Justin",
+      "Ballan, Lamberto",
+      "Fei-Fei, Li"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Johnson_Love_Thy_Neighbors_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Unsupervised Extraction of Video Highlights Via Robust Recurrent Auto-Encoders",
+    "authors": [
+      "Yang, Huan",
+      "Wang, Baoyuan",
+      "Lin, Stephen",
+      "Wipf, David",
+      "Guo, Minyi",
+      "Guo, Baining"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Yang_Unsupervised_Extraction_of_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning Visual Clothing Style With Heterogeneous Dyadic Co-Occurrences",
+    "authors": [
+      "Veit, Andreas",
+      "Kovacs, Balazs",
+      "Bell, Sean",
+      "McAuley, Julian",
+      "Bala, Kavita",
+      "Belongie, Serge"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Veit_Learning_Visual_Clothing_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Text Flow: A Unified Text Detection System in Natural Scene Images",
+    "authors": [
+      "Tian, Shangxuan",
+      "Pan, Yifeng",
+      "Huang, Chang",
+      "Lu, Shijian",
+      "Yu, Kai",
+      "Tan, Chew Lim"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Tian_Text_Flow_A_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Uncovering Interactions and Interactors: Joint Estimation of Head, Body Orientation and F-Formations From Surveillance Videos",
+    "authors": [
+      "Ricci, Elisa",
+      "Varadarajan, Jagannadan",
+      "Subramanian, Ramanathan",
+      "Bulo, Samuel Rota",
+      "Ahuja, Narendra",
+      "Lanz, Oswald"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ricci_Uncovering_Interactions_and_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Generating Notifications for Missing Actions: Don't Forget to Turn the Lights Off!",
+    "authors": [
+      "Soran, Bilge",
+      "Farhadi, Ali",
+      "Shapiro, Linda"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Soran_Generating_Notifications_for_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Partial Person Re-Identification",
+    "authors": [
+      "Zheng, Wei-Shi",
+      "Li, Xiang",
+      "Xiang, Tao",
+      "Liao, Shengcai",
+      "Lai, Jianhuang",
+      "Gong, Shaogang"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Zheng_Partial_Person_Re-Identification_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Shape Interaction Matrix Revisited and Robustified: Efficient Subspace Clustering With Corrupted and Incomplete Data",
+    "authors": [
+      "Ji, Pan",
+      "Salzmann, Mathieu",
+      "Li, Hongdong"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Ji_Shape_Interaction_Matrix_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Multiple Hypothesis Tracking Revisited",
+    "authors": [
+      "Kim, Chanho",
+      "Li, Fuxin",
+      "Ciptadi, Arridhana",
+      "Rehg, James M."
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Kim_Multiple_Hypothesis_Tracking_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  },
+  {
+    "title": "Learning to Track: Online Multi-Object Tracking by Decision Making",
+    "authors": [
+      "Xiang, Yu",
+      "Alahi, Alexandre",
+      "Savarese, Silvio"
+    ],
+    "pdf_link": "https://openaccess.thecvf.com/content_iccv_2015/papers/Xiang_Learning_to_Track_ICCV_2015_paper.pdf",
+    "source": "ICCV",
+    "year": 2015
+  }
+]
