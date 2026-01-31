@@ -47,6 +47,29 @@
             opacity: 0.9;
         }
 
+        .header-icon-links {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 16px;
+        }
+        .header-github-link,
+        .header-email-link {
+            display: inline-block;
+            line-height: 0;
+            transition: opacity 0.2s;
+        }
+        .header-github-link:hover,
+        .header-email-link:hover {
+            opacity: 0.7;
+        }
+        .header-github-link img,
+        .header-email-link img {
+            width: 28px;
+            height: 28px;
+            vertical-align: middle;
+        }
+
         .controls {
             padding: 30px;
             background: #f8f9fa;
@@ -407,6 +430,14 @@
     <div class="container">
         <div class="header">
             <h1>TopPaper</h1>
+            <div class="header-icon-links">
+                <a href="https://github.com/renyezhang/toppaper" target="_blank" rel="noopener noreferrer" class="header-github-link" title="项目 GitHub 仓库">
+                    <img src="src/img/github.svg" alt="GitHub">
+                </a>
+                <a href="mailto:renyezhang2016@163.com" class="header-email-link" title="邮件联系">
+                    <img src="src/img/email.svg" alt="Email">
+                </a>
+            </div>
             <p>探索人工智能领域的最新研究成果</p>
         </div>
 
