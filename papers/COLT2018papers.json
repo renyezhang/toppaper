@@ -1,0 +1,998 @@
+[
+    {
+        "title": "Algorithmic Regularization in Over-parameterized Matrix Sensing and Neural Networks with Quadratic Activations",
+        "authors": [
+            "Yuanzhi Li",
+            "Tengyu Ma",
+            "Hongyang Zhang"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/li18a/li18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Reducibility and Computational Lower Bounds for Problems with Planted Sparse Structure",
+        "authors": [
+            "Matthew Brennan",
+            "Guy Bresler",
+            "Wasim Huleihel"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/brennan18a/brennan18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Logistic Regression: The Importance of Being Improper",
+        "authors": [
+            "Dylan J. Foster",
+            "Satyen Kale",
+            "Haipeng Luo",
+            "Mehryar Mohri",
+            "Karthik Sridharan"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/foster18a/foster18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Actively Avoiding Nonsense in Generative Models",
+        "authors": [
+            "Steve Hanneke",
+            "Adam Tauman Kalai",
+            "Gautam Kamath",
+            "Christos Tzamos"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/hanneke18a/hanneke18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "A Faster Approximation Algorithm for the Gibbs Partition Function",
+        "authors": [
+            "Vladimir Kolmogorov"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/kolmogorov18a/kolmogorov18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Exponential Convergence of Testing Error for Stochastic Gradient Methods",
+        "authors": [
+            "Loucas Pillaud-Vivien",
+            "Alessandro Rudi",
+            "Francis Bach"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/pillaud-vivien18a/pillaud-vivien18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Size-Independent  Sample Complexity of Neural Networks",
+        "authors": [
+            "Noah Golowich",
+            "Alexander Rakhlin",
+            "Ohad Shamir"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/golowich18a/golowich18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Underdamped Langevin MCMC: A non-asymptotic analysis",
+        "authors": [
+            "Xiang Cheng",
+            "Niladri S. Chatterji",
+            "Peter L. Bartlett",
+            "Michael I. Jordan"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/cheng18a/cheng18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Online Variance Reduction for Stochastic Optimization",
+        "authors": [
+            "Zalan Borsos",
+            "Andreas Krause",
+            "Kfir Y. Levy"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/borsos18a/borsos18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Information Directed Sampling and Bandits with Heteroscedastic Noise",
+        "authors": [
+            "Johannes Kirschner",
+            "Andreas Krause"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/kirschner18a/kirschner18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Testing Symmetric Markov Chains From a Single Trajectory",
+        "authors": [
+            "Constantinos Daskalakis",
+            "Nishanth Dikkala",
+            "Nick Gravin"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/daskalakis18a/daskalakis18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Detection limits in the high-dimensional spiked rectangular model",
+        "authors": [
+            "Ahmed El Alaoui",
+            "Michael I. Jordan"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/el-alaoui18a/el-alaoui18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Learning Without Mixing: Towards A Sharp Analysis of Linear System Identification",
+        "authors": [
+            "Max Simchowitz",
+            "Horia Mania",
+            "Stephen Tu",
+            "Michael I. Jordan",
+            "Benjamin Recht"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/simchowitz18a/simchowitz18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Active Tolerant Testing",
+        "authors": [
+            "Avrim Blum",
+            "Lunjia Hu"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/blum18a/blum18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Polynomial Time and Sample Complexity for Non-Gaussian Component Analysis: Spectral Methods",
+        "authors": [
+            "Yan Shuo Tan",
+            "Roman Vershynin"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/tan18a/tan18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Calibrating Noise to Variance in Adaptive Data Analysis",
+        "authors": [
+            "Vitaly Feldman",
+            "Thomas Steinke"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/feldman18a/feldman18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Accelerating Stochastic Gradient Descent for Least Squares Regression",
+        "authors": [
+            "Prateek Jain",
+            "Sham M. Kakade",
+            "Rahul Kidambi",
+            "Praneeth Netrapalli",
+            "Aaron Sidford"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/jain18a/jain18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Generalization Bounds of SGLD for Non-convex Learning: Two Theoretical Viewpoints",
+        "authors": [
+            "Wenlong Mou",
+            "Liwei Wang",
+            "Xiyu Zhai",
+            "Kai Zheng"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/mou18a/mou18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Optimal approximation of continuous functions by very deep ReLU networks",
+        "authors": [
+            "Dmitry Yarotsky"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/yarotsky18a/yarotsky18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Averaging Stochastic Gradient Descent on Riemannian Manifolds",
+        "authors": [
+            "Nilesh Tripuraneni",
+            "Nicolas Flammarion",
+            "Francis Bach",
+            "Michael I. Jordan"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/tripuraneni18a/tripuraneni18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Fitting a Putative Manifold to Noisy Data",
+        "authors": [
+            "Charles Fefferman",
+            "Sergei Ivanov",
+            "Yaroslav Kurylev",
+            "Matti Lassas",
+            "Hariharan Narayanan"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/fefferman18a/fefferman18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Private Sequential Learning",
+        "authors": [
+            "John Tsitsiklis",
+            "Kuang Xu",
+            "Zhi Xu"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/tsitsiklis18a/tsitsiklis18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Optimal Errors and Phase Transitions in High-Dimensional Generalized Linear Models",
+        "authors": [
+            "Jean Barbier",
+            "Florent Krzakala",
+            "Nicolas Macris",
+            "Léo Miolane",
+            "Lenka Zdeborová"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/barbier18a/barbier18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Exact and Robust Conformal Inference Methods for Predictive Machine Learning with Dependent Data",
+        "authors": [
+            "Victor Chernozhukov",
+            "Kaspar Wüthrich",
+            "Zhu Yinchu"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/chernozhukov18a/chernozhukov18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Nonstochastic Bandits with Composite Anonymous Feedback",
+        "authors": [
+            "Nicolò Cesa-Bianchi",
+            "Claudio Gentile",
+            "Yishay Mansour"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/cesa-bianchi18a/cesa-bianchi18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Lower Bounds for Higher-Order Convex Optimization",
+        "authors": [
+            "Naman Agarwal",
+            "Elad Hazan"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/agarwal18a/agarwal18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Log-concave sampling: Metropolis-Hastings algorithms are fast!",
+        "authors": [
+            "Raaz Dwivedi",
+            "Yuansi Chen",
+            "Martin J Wainwright",
+            "Bin Yu"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/dwivedi18a/dwivedi18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Incentivizing Exploration by Heterogeneous Users",
+        "authors": [
+            "Bangrui Chen",
+            "Peter Frazier",
+            "David Kempe"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/chen18a/chen18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Fast and Sample Near-Optimal Algorithms for Learning Multidimensional Histograms",
+        "authors": [
+            "Ilias Diakonikolas",
+            "Jerry Li",
+            "Ludwig Schmidt"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/diakonikolas18a/diakonikolas18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Time-Space Tradeoffs for Learning Finite Functions from Random Evaluations, with Applications to Polynomials",
+        "authors": [
+            "Paul Beame",
+            "Shayan Oveis Gharan",
+            "Xin Yang"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/beame18a/beame18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Local Optimality and Generalization Guarantees for the Langevin Algorithm via Empirical Metastability",
+        "authors": [
+            "Belinda Tzen",
+            "Tengyuan Liang",
+            "Maxim Raginsky"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/tzen18a/tzen18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Hardness of Learning Noisy Halfspaces using Polynomial Thresholds",
+        "authors": [
+            "Arnab Bhattacharyya",
+            "Suprovat Ghoshal",
+            "Rishi Saket"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/bhattacharyya18a/bhattacharyya18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Best of both worlds: Stochastic & adversarial best-arm identification",
+        "authors": [
+            "Yasin Abbasi-Yadkori",
+            "Peter Bartlett",
+            "Victor Gabillon",
+            "Alan Malek",
+            "Michal Valko"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/abbasi-yadkori18a/abbasi-yadkori18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Learning Patterns for Detection with Multiscale Scan Statistics",
+        "authors": [
+            "James Sharpnack"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/sharpnack18a/sharpnack18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Global Guarantees for Enforcing Deep Generative Priors by Empirical Risk",
+        "authors": [
+            "Paul Hand",
+            "Vladislav Voroninski"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/hand18a/hand18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Small-loss bounds for online learning with partial information",
+        "authors": [
+            "Thodoris Lykouris",
+            "Karthik Sridharan",
+            "Éva Tardos"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/lykouris18a/lykouris18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Empirical bounds for functions with weak interactions",
+        "authors": [
+            "Andreas Maurer",
+            "Massimiliano Pontil"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/maurer18a/maurer18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Restricted Eigenvalue from Stable Rank with Applications to Sparse Linear Regression",
+        "authors": [
+            "Shiva Prasad Kasiviswanathan",
+            "Mark Rudelson"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/kasiviswanathan18a/kasiviswanathan18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Accelerated Gradient Descent Escapes Saddle Points Faster than Gradient Descent",
+        "authors": [
+            "Chi Jin",
+            "Praneeth Netrapalli",
+            "Michael I. Jordan"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/jin18a/jin18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Convex Optimization with Unbounded Nonconvex Oracles using Simulated Annealing",
+        "authors": [
+            "Oren Mangoubi",
+            "Nisheeth K. Vishnoi"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/mangoubi18a/mangoubi18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Learning Mixtures of Linear Regressions with Nearly Optimal Complexity",
+        "authors": [
+            "Yuanzhi Li",
+            "Yingyu Liang"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/li18b/li18b.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Detecting Correlations with Little Memory and Communication",
+        "authors": [
+            "Yuval Dagan",
+            "Ohad Shamir"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/dagan18a/dagan18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Finite Sample Analysis of Two-Timescale Stochastic Approximation with Applications to Reinforcement Learning",
+        "authors": [
+            "Gal Dalal",
+            "Gugan Thoppe",
+            "Balázs Szörényi",
+            "Shie Mannor"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/dalal18a/dalal18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Near-Optimal Sample Complexity Bounds for Maximum Likelihood Estimation of Multivariate Log-concave Densities",
+        "authors": [
+            "Timothy Carpenter",
+            "Ilias Diakonikolas",
+            "Anastasios Sidiropoulos",
+            "Alistair Stewart"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/carpenter18a/carpenter18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "More Adaptive Algorithms for Adversarial Bandits",
+        "authors": [
+            "Chen-Yu Wei",
+            "Haipeng Luo"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/wei18a/wei18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Efficient Convex Optimization with Membership Oracles",
+        "authors": [
+            "Yin Tat Lee",
+            "Aaron Sidford",
+            "Santosh S. Vempala"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/lee18a/lee18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "A General Approach to Multi-Armed Bandits Under Risk Criteria",
+        "authors": [
+            "Asaf Cassel",
+            "Shie Mannor",
+            "Assaf Zeevi"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/cassel18a/cassel18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "An Optimal Learning Algorithm for Online Unconstrained Submodular Maximization",
+        "authors": [
+            "Tim Roughgarden",
+            "Joshua R. Wang"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/roughgarden18a/roughgarden18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "The Mean-Field Approximation: Information Inequalities, Algorithms, and Complexity",
+        "authors": [
+            "Vishesh Jain",
+            "Frederic Koehler",
+            "Elchanan Mossel"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/jain18b/jain18b.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Approximation beats concentration? An approximation view  on inference with smooth radial kernels",
+        "authors": [
+            "Mikhail Belkin"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/belkin18a/belkin18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Non-Convex Matrix Completion Against a Semi-Random Adversary",
+        "authors": [
+            "Yu Cheng",
+            "Rong Ge"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/cheng18b/cheng18b.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "The Vertex Sample Complexity of Free Energy is Polynomial",
+        "authors": [
+            "Vishesh Jain",
+            "Frederic Koehler",
+            "Elchanan Mossel"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/jain18c/jain18c.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Efficient Algorithms for Outlier-Robust Regression",
+        "authors": [
+            "Adam Klivans",
+            "Pravesh K. Kothari",
+            "Raghu Meka"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/klivans18a/klivans18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Action-Constrained Markov Decision Processes With Kullback-Leibler Cost",
+        "authors": [
+            "Ana Bušić",
+            "Sean Meyn"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/busic18a/busic18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Fundamental Limits of Weak Recovery with Applications to Phase Retrieval",
+        "authors": [
+            "Marco Mondelli",
+            "Andrea Montanari"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/mondelli18a/mondelli18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Cutting plane methods can be extended into nonconvex optimization",
+        "authors": [
+            "Oliver Hinder"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/hinder18a/hinder18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "An Analysis of the t-SNE Algorithm for Data Visualization",
+        "authors": [
+            "Sanjeev Arora",
+            "Wei Hu",
+            "Pravesh K. Kothari"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/arora18a/arora18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Adaptivity to Smoothness in X-armed bandits",
+        "authors": [
+            "Andrea Locatelli",
+            "Alexandra Carpentier"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/locatelli18a/locatelli18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Black-Box Reductions for Parameter-free Online Learning in Banach Spaces",
+        "authors": [
+            "Ashok Cutkosky",
+            "Francesco Orabona"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/cutkosky18a/cutkosky18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "A Data Prism: Semi-verified learning in the small-alpha regime",
+        "authors": [
+            "Michela Meister",
+            "Gregory Valiant"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/meister18a/meister18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "A Direct Sum Result for the Information Complexity of Learning",
+        "authors": [
+            "Ido Nachum",
+            "Jonathan Shafer",
+            "Amir Yehudayoff"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/nachum18a/nachum18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Online learning over a finite action set with limited switching",
+        "authors": [
+            "Jason Altschuler",
+            "Kunal Talwar"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/altschuler18a/altschuler18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Smoothed Online Convex Optimization in High Dimensions via Online Balanced Descent",
+        "authors": [
+            "Niangjun Chen",
+            "Gautam Goel",
+            "Adam Wierman"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/chen18b/chen18b.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Faster Rates for Convex-Concave Games",
+        "authors": [
+            "Jacob Abernethy",
+            "Kevin A. Lai",
+            "Kfir Y. Levy",
+            "Jun-Kun Wang"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/abernethy18a/abernethy18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "$\\ell_1$ Regression using Lewis Weights Preconditioning and Stochastic Gradient Descent",
+        "authors": [
+            "David Durfee",
+            "Kevin A. Lai",
+            "Saurabh Sawlani"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/durfee18a/durfee18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Optimal Single Sample Tests for Structured versus Unstructured Network Data",
+        "authors": [
+            "Guy Bresler",
+            "Dheeraj Nagaraj"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/bresler18a/bresler18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "A Finite Time Analysis of Temporal Difference Learning With Linear Function Approximation",
+        "authors": [
+            "Jalaj Bhandari",
+            "Daniel Russo",
+            "Raghav Singal"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/bhandari18a/bhandari18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Privacy-preserving Prediction",
+        "authors": [
+            "Cynthia Dwork",
+            "Vitaly Feldman"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/dwork18a/dwork18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "An Estimate Sequence for Geodesically Convex Optimization",
+        "authors": [
+            "Hongyi Zhang",
+            "Suvrit Sra"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/zhang18a/zhang18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "The Externalities of Exploration and How Data Diversity Helps Exploitation",
+        "authors": [
+            "Manish Raghavan",
+            "Aleksandrs Slivkins",
+            "Jennifer Vaughan Wortman",
+            "Zhiwei Steven Wu"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/raghavan18a/raghavan18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Efficient Contextual Bandits in Non-stationary Worlds",
+        "authors": [
+            "Haipeng Luo",
+            "Chen-Yu Wei",
+            "Alekh Agarwal",
+            "John Langford"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/luo18a/luo18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Langevin Monte Carlo and JKO splitting",
+        "authors": [
+            "Espen Bernton"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/bernton18a/bernton18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Subpolynomial trace reconstruction for random strings \\{and arbitrary deletion probability",
+        "authors": [
+            "Nina Holden",
+            "Robin Pemantle",
+            "Yuval Peres"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/holden18a/holden18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "An explicit analysis of the entropic penalty in linear programming",
+        "authors": [
+            "Jonathan Weed"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/weed18a/weed18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Efficient active learning of sparse halfspaces",
+        "authors": [
+            "Chicheng Zhang"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/zhang18b/zhang18b.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Marginal Singularity, and the Benefits of Labels in Covariate-Shift",
+        "authors": [
+            "Samory Kpotufe",
+            "Guillaume Martinet"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/kpotufe18a/kpotufe18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Learning Single-Index Models in Gaussian Space",
+        "authors": [
+            "Rishabh Dudeja",
+            "Daniel Hsu"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/dudeja18a/dudeja18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Hidden Integrality of SDP Relaxations for Sub-Gaussian Mixture Models",
+        "authors": [
+            "Yingjie Fei",
+            "Yudong Chen"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/fei18a/fei18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Counting Motifs with Graph Sampling",
+        "authors": [
+            "Jason M. Klusowski",
+            "Yihong Wu"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/klusowski18a/klusowski18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Approximate Nearest Neighbors in Limited  Space",
+        "authors": [
+            "Piotr Indyk",
+            "Tal Wagner"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/indyk18a/indyk18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Breaking the $1/\\sqrt{n}$ Barrier: Faster Rates for Permutation-based Models in Polynomial Time",
+        "authors": [
+            "Cheng Mao",
+            "Ashwin Pananjady",
+            "Martin J. Wainwright"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/mao18a/mao18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Unleashing Linear Optimizers for Group-Fair Learning and Optimization",
+        "authors": [
+            "Daniel Alabi",
+            "Nicole Immorlica",
+            "Adam Kalai"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/alabi18a/alabi18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "The Many Faces of Exponential Weights in Online Learning",
+        "authors": [
+            "Dirk Hoeven",
+            "Tim Erven",
+            "Wojciech Kotłowski"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/hoeven18a/hoeven18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Sampling as optimization in the space of measures: The Langevin dynamics as a composite optimization problem",
+        "authors": [
+            "Andre Wibisono"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/wibisono18a/wibisono18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Online Learning: Sufficient Statistics and the Burkholder Method",
+        "authors": [
+            "Dylan J. Foster",
+            "Alexander Rakhlin",
+            "Karthik Sridharan"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/foster18b/foster18b.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Minimax Bounds on Stochastic Batched Convex Optimization",
+        "authors": [
+            "John Duchi",
+            "Feng Ruan",
+            "Chulhee Yun"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/duchi18a/duchi18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Geometric Lower Bounds for Distributed Parameter Estimation under Communication Constraints",
+        "authors": [
+            "Yanjun Han",
+            "Ayfer Özgür",
+            "Tsachy Weissman"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/han18a/han18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Local moment matching: A unified methodology for symmetric functional estimation and distribution estimation under Wasserstein distance",
+        "authors": [
+            "Yanjun Han",
+            "Jiantao Jiao",
+            "Tsachy Weissman"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/han18b/han18b.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Iterate Averaging as Regularization for Stochastic Gradient Descent",
+        "authors": [
+            "Gergely Neu",
+            "Lorenzo Rosasco"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/neu18a/neu18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Smoothed analysis for low-rank solutions to semidefinite programs in quadratic penalty form",
+        "authors": [
+            "Srinadh Bhojanapalli",
+            "Nicolas Boumal",
+            "Prateek Jain",
+            "Praneeth Netrapalli"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/bhojanapalli18a/bhojanapalli18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Certified Computation from Unreliable Datasets",
+        "authors": [
+            "Themis Gouleakis",
+            "Christos Tzamos",
+            "Manolis Zampetakis"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/gouleakis18a/gouleakis18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Open Problem: The Dependence of Sample Complexity Lower Bounds on Planning Horizon",
+        "authors": [
+            "Nan Jiang",
+            "Alekh Agarwal"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/jiang18a/jiang18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    },
+    {
+        "title": "Open problem: Improper learning of mixtures of Gaussians",
+        "authors": [
+            "Elad Hazan",
+            "Livni Roi"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v75/hazan18a/hazan18a.pdf",
+        "source": "COLT",
+        "year": 2018
+    }
+]

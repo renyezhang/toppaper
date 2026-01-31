@@ -1,0 +1,736 @@
+[
+    {
+        "title": "Open Problem: Approximate Planning of POMDPs in the class of Memoryless Policies",
+        "authors": [
+            "Kamyar Azizzadenesheli",
+            "Alessandro Lazaric",
+            "Animashree Anandkumar"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/azizzadenesheli16b.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Open Problem: Best Arm Identification: Almost Instance-Wise Optimality and the Gap Entropy Conjecture",
+        "authors": [
+            "Lijie Chen",
+            "Jian Li"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/chen16b.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Open Problem: Kernel methods on manifolds and metric spaces. What is the probability of a positive definite geodesic exponential kernel?",
+        "authors": [
+            "Aasa Feragen",
+            "Søren Hauberg"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/feragen16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Open Problem: Second order regret bounds based on scaling time",
+        "authors": [
+            "Yoav Freund"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/freund16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Open Problem: Property Elicitation and Elicitation Complexity",
+        "authors": [
+            "Rafael Frongillo",
+            "Ian Kash",
+            "Stephen Becker"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/frongillo16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Open Problem: Parameter-Free and Scale-Free Online Algorithms",
+        "authors": [
+            "Francesco Orabona",
+            "Dávid Pál"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/orabona16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "An efficient algorithm for contextual bandits with knapsacks, and an extension to concave objectives",
+        "authors": [
+            "Shipra Agrawal",
+            "Nikhil R. Devanur",
+            "Lihong Li"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/agrawal16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Learning and Testing Junta Distributions",
+        "authors": [
+            "Maryam Aliakbarpour",
+            "Eric Blais",
+            "Ronitt Rubinfeld"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/aliakbarpour16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Sign rank versus VC dimension",
+        "authors": [
+            "Noga Alon",
+            "Shay Moran",
+            "Amir Yehudayoff"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/alon16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Efficient approaches for escaping higher order saddle points  in non-convex optimization",
+        "authors": [
+            "Animashree Anandkumar",
+            "Rong Ge"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/anandkumar16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Monte Carlo Markov Chain Algorithms for Sampling Strongly Rayleigh Distributions and Determinantal Point Processes",
+        "authors": [
+            "Nima Anari",
+            "Shayan Oveis Gharan",
+            "Alireza Rezaei"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/anari16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "An algorithm with nearly optimal pseudo-regret for both stochastic and adversarial bandits",
+        "authors": [
+            "Peter Auer",
+            "Chao-Kai Chiang"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/auer16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Policy Error Bounds for Model-Based Reinforcement Learning with Factored Linear Models",
+        "authors": [
+            "Bernardo Ávila Pires",
+            "Csaba Szepesvári"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/avilapires16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Learning and 1-bit Compressed Sensing under Asymmetric Noise",
+        "authors": [
+            "Pranjal Awasthi",
+            "Maria-Florina Balcan",
+            "Nika Haghtalab",
+            "Hongyang Zhang"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/awasthi16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Reinforcement Learning of POMDPs using Spectral Methods",
+        "authors": [
+            "Kamyar Azizzadenesheli",
+            "Alessandro Lazaric",
+            "Animashree Anandkumar"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/azizzadenesheli16a.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Highly-Smooth Zero-th Order Online Optimization",
+        "authors": [
+            "Francis Bach",
+            "Vianney Perchet"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/bach16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "An Improved Gap-Dependency Analysis of the Noisy Power Method",
+        "authors": [
+            "Maria-Florina Balcan",
+            "Simon Shaolei Du",
+            "Yining Wang",
+            "Adams Wei Yu"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/balcan16a.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Learning Combinatorial Functions from Pairwise Comparisons",
+        "authors": [
+            "Maria-Florina Balcan",
+            "Ellen Vitercik",
+            "Colin White"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/balcan16b.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Instance-dependent Regret Bounds for Dueling Bandits",
+        "authors": [
+            "Akshay Balsubramani",
+            "Zohar Karnin",
+            "Robert E. Schapire",
+            "Masrour Zoghi"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/balsubramani16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "On the low-rank approach for semidefinite programs arising in synchronization and community detection",
+        "authors": [
+            "Afonso S. Bandeira",
+            "Nicolas Boumal",
+            "Vladislav Voroninski"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/bandeira16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Information-theoretic thresholds for community detection in sparse networks",
+        "authors": [
+            "Jess Banks",
+            "Cristopher Moore",
+            "Joe Neeman",
+            "Praneeth Netrapalli"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/banks16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Noisy Tensor Completion via the Sum-of-Squares Hierarchy",
+        "authors": [
+            "Boaz Barak",
+            "Ankur Moitra"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/barak16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Basis Learning as an Algorithmic Primitive",
+        "authors": [
+            "Mikhail Belkin",
+            "Luis Rademacher",
+            "James Voss"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/belkin16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Aggregation of supports along the Lasso path",
+        "authors": [
+            "Pierre C. Bellec"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/bellec16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Dropping Convexity for Faster Semi-definite Optimization",
+        "authors": [
+            "Srinadh Bhojanapalli",
+            "Anastasios Kyrillidis",
+            "Sujay Sanghavi"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/bhojanapalli16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Multi-scale exploration of convex functions and bandit convex optimization",
+        "authors": [
+            "Sébastien Bubeck",
+            "Ronen Eldan"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/bubeck16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Tight (Lower) Bounds for the Fixed Budget Best Arm Identification Bandit Problem",
+        "authors": [
+            "Alexandra Carpentier",
+            "Andrea Locatelli"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/carpentier16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Delay and Cooperation in Nonstochastic Bandits",
+        "authors": [
+            "Nicol‘o Cesa-Bianchi",
+            "Claudio Gentile",
+            "Yishay Mansour",
+            "Alberto Minora"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/cesa-bianchi16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "On the Approximability of Sparse PCA",
+        "authors": [
+            "Siu On Chan",
+            "Dimitris Papailliopoulos",
+            "Aviad Rubinstein"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/chan16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Pure Exploration of Multi-armed Bandit Under Matroid Constraints",
+        "authors": [
+            "Lijie Chen",
+            "Anupam Gupta",
+            "Jian Li"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/chen16a.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Provably manipulation-resistant reputation systems",
+        "authors": [
+            "Paul Christiano"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/christiano16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "On the Expressive Power of Deep Learning: A Tensor Analysis",
+        "authors": [
+            "Nadav Cohen",
+            "Or Sharir",
+            "Amnon Shashua"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/cohen16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "A Light Touch for Heavily Constrained SGD",
+        "authors": [
+            "Andrew Cotter",
+            "Maya Gupta",
+            "Jan Pfeifer"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/cotter16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Adaptive Learning with Robust Generalization Guarantees",
+        "authors": [
+            "Rachel Cummings",
+            "Katrina Ligett",
+            "Kobbi Nissim",
+            "Aaron Roth",
+            "Zhiwei Steven Wu"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/cummings16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Complexity Theoretic Limitations on Learning DNF’s",
+        "authors": [
+            "Amit Daniely",
+            "Shai Shalev-Shwartz"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/daniely16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Optimal Learning via the Fourier Transform for Sums of Independent Integer Random Variables",
+        "authors": [
+            "I. Diakonikolas",
+            "D. M. Kane",
+            "A. Stewart"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/diakonikolas16a.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Properly Learning Poisson Binomial Distributions in Almost Polynomial Time",
+        "authors": [
+            "I. Diakonikolas",
+            "D. M. Kane",
+            "A. Stewart"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/diakonikolas16b.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Asymptotic behavior of \\ell_p-based Laplacian regularization in semi-supervised learning",
+        "authors": [
+            "Ahmed El Alaoui",
+            "Xiang Cheng",
+            "Aaditya Ramdas",
+            "Martin J. Wainwright",
+            "Michael I. Jordan"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/elalaoui16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "The Power of Depth for Feedforward Neural Networks",
+        "authors": [
+            "Ronen Eldan",
+            "Ohad Shamir"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/eldan16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Online Learning and Blackwell Approachability in Quitting Games",
+        "authors": [
+            "Janos Flesch",
+            "Rida Laraki",
+            "Vianney Perchet"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/flesch16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Spectral thresholds in the bipartite stochastic block model",
+        "authors": [
+            "Laura Florescu",
+            "Will Perkins"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/florescu16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Online Sparse Linear Regression",
+        "authors": [
+            "Dean Foster",
+            "Satyen Kale",
+            "Howard Karloff"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/foster16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Preference-based Teaching",
+        "authors": [
+            "Ziyuan Gao",
+            "Christoph Ries",
+            "Hans Simon",
+            "Sandra Zilles"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/gao16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Optimal Best Arm Identification with Fixed Confidence",
+        "authors": [
+            "Aurélien Garivier",
+            "Emilie Kaufmann"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/garivier16a.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Maximin Action Identification: A New Bandit Framework for Games",
+        "authors": [
+            "Aurélien Garivier",
+            "Emilie Kaufmann",
+            "Wouter M. Koolen"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/garivier16b.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Semidefinite Programs for Exact Recovery of a Hidden Community",
+        "authors": [
+            "Bruce Hajek",
+            "Yihong Wu",
+            "Jiaming Xu"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/hajek16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Online Learning with Low Rank Experts",
+        "authors": [
+            "Elad Hazan",
+            "Tomer Koren",
+            "Roi Livni",
+            "Yishay Mansour"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/hazan16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Optimal rates for total variation denoising",
+        "authors": [
+            "Jan-Christian Hütter",
+            "Philippe Rigollet"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/huetter16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Streaming PCA: Matching Matrix Bernstein and Near-Optimal Finite Sample Guarantees for Oja’s Algorithm",
+        "authors": [
+            "Prateek Jain",
+            "Chi Jin",
+            "Sham M. Kakade",
+            "Praneeth Netrapalli",
+            "Aaron Sidford"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/jain16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Online Isotonic Regression",
+        "authors": [
+            "Wojciech Kotłowski",
+            "Wouter M. Koolen",
+            "Alan Malek"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/kotlowski16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Time series prediction and online learning",
+        "authors": [
+            "Vitaly Kuznetsov",
+            "Mehryar Mohri"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/kuznetsov16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Regret Analysis of the Finite-Horizon Gittins Index Strategy for Multi-Armed Bandits",
+        "authors": [
+            "Tor Lattimore"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/lattimore16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Gradient Descent Only Converges to Minimizers",
+        "authors": [
+            "Jason D. Lee",
+            "Max Simchowitz",
+            "Michael I. Jordan",
+            "Benjamin Recht"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/lee16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Learning Communities in the Presence of Errors",
+        "authors": [
+            "Konstantin Makarychev",
+            "Yury Makarychev",
+            "Aravindan Vijayaraghavan"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/makarychev16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "On the capacity of information processing systems",
+        "authors": [
+            "Laurent Massoulie",
+            "Kuang Xu"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/massoulie16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Learning Simple Auctions",
+        "authors": [
+            "Jamie Morgenstern",
+            "Tim Roughgarden"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/morgenstern16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Density Evolution in the Degree-correlated Stochastic Block Model",
+        "authors": [
+            "Elchanan Mossel",
+            "Jiaming Xu"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/mossel16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Cortical Computation via Iterative Constructions",
+        "authors": [
+            "Christos Papadimitriou",
+            "Samantha Petti",
+            "Santosh Vempala"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/papadimitriou16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "When can we rank well from comparisons of O(n\\log(n)) non-actively chosen pairs?",
+        "authors": [
+            "Arun Rajkumar",
+            "Shivani Agarwal"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/rajkumar16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "How to calculate partition functions using convex programming hierarchies: provable bounds for variational methods",
+        "authors": [
+            "Andrej Risteski"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/risteski16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Simple Bayesian Algorithms for Best Arm Identification",
+        "authors": [
+            "Daniel Russo"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/russo16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Interactive Algorithms: from Pool to Stream",
+        "authors": [
+            "Sivan Sabato",
+            "Tom Hess"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/sabato16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Best-of-K-bandits",
+        "authors": [
+            "Max Simchowitz",
+            "Kevin Jamieson",
+            "Benjamin Recht"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/simchowitz16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Memory, Communication, and Statistical Queries",
+        "authors": [
+            "Jacob Steinhardt",
+            "Gregory Valiant",
+            "Stefan Wager"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/steinhardt16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "benefits of depth in neural networks",
+        "authors": [
+            "Matus Telgarsky"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/telgarsky16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "A Guide to Learning Arithmetic Circuits",
+        "authors": [
+            "Ilya Volkovich"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/volkovich16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "Online learning in repeated auctions",
+        "authors": [
+            "Jonathan Weed",
+            "Vianney Perchet",
+            "Philippe Rigollet"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/weed16.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "The Extended Littlestone’s Dimension for Learning with Mistakes and Abstentions",
+        "authors": [
+            "Chicheng Zhang",
+            "Kamalika Chaudhuri"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/zhang16a.pdf",
+        "source": "COLT",
+        "year": 2016
+    },
+    {
+        "title": "First-order Methods for Geodesically Convex Optimization",
+        "authors": [
+            "Hongyi Zhang",
+            "Suvrit Sra"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v49/zhang16b.pdf",
+        "source": "COLT",
+        "year": 2016
+    }
+]

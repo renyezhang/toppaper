@@ -29,7 +29,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/32596/34751",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/TengfeiLiu966/HC-LLM"
   },
   {
     "title": "Training Matting Models Without Alpha Labels",
@@ -1086,7 +1087,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/32670/34825",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/fzjcdt/constraint-relaxation-attack"
   },
   {
     "title": "Dual-calibrated Co-training Framework for Personalized Federated Semi-Supervised Medical Image Segmentation",
@@ -1116,7 +1118,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/32672/34827",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/jaychempan/LAE-DINO"
   },
   {
     "title": "Learning with Open-world Noisy Data via Class-independent Margin in Dual Representation Space",
@@ -1268,7 +1271,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/32683/34838",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/opendatalab/VHM"
   },
   {
     "title": "Beyond Text: Fine-Grained Multi-Modal Fact Verification with Hypergraph Transformers",
@@ -1592,7 +1596,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/32707/34862",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/Mengjie-s/MiJUN"
   },
   {
     "title": "Integrating Low-Level Visual Cues for Enhanced Unsupervised Semantic Segmentation",
@@ -1644,7 +1649,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/32711/34866",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/anonymous0519/HSOD-BIT"
   },
   {
     "title": "HOGSA: Bimanual Hand-Object Interaction Understanding with 3D Gaussian Splatting Based Data Augmentation",
@@ -1705,7 +1711,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/32715/34870",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/Vastlab/GHOST"
   },
   {
     "title": "AWRaCLe: All-Weather Image Restoration Using Visual In-Context Learning",
@@ -1966,7 +1973,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/32978/35133",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/yumozi/GUARD"
   },
   {
     "title": "ShotVL: Human-Centric Highlight Frame Retrieval via Language Queries",
@@ -3468,7 +3476,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/33083/35238",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/zanly20/R2-Art"
   },
   {
     "title": "Common Sense Bias Modeling for Classification Tasks",
@@ -4193,7 +4202,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/32765/34920",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/SunWeiLin-Lynne/Hierarchically-Structured-Open-Vocabulary-Indoor-Scene-Synthesis/blob/main/README.md"
   },
   {
     "title": "Diversifying Query: Region-Guided Transformer for Temporal Sentence Grounding",
@@ -4220,7 +4230,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/32767/34922",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/sunzunyi/M2FLOW"
   },
   {
     "title": "Leveraging Large Vision-Language Model as User Intent-Aware Encoder for Composed Image Retrieval",
@@ -4502,7 +4513,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/32786/34941",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/Joshua-Yu/gragstack"
   },
   {
     "title": "Cycle3D: High-quality and Consistent Image-to-3D Generation via Generation-Reconstruction Cycle",
@@ -4754,7 +4766,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/32804/34959",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/VisualAIKHU/Keyword-DETR"
   },
   {
     "title": "VOILA: Complexity-Aware Universal Segmentation of CT Images by Voxel Interacting with Language",
@@ -4784,7 +4797,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/32806/34961",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/bytedance/ParGo"
   },
   {
     "title": "Overcoming Heterogeneous Data in Federated Medical Vision-Language Pre-training: A Triple-Embedding Model Selector Approach",
@@ -5143,7 +5157,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/32830/34985",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/Dootmaan/M2OST"
   },
   {
     "title": "SpotActor: Training-Free Layout-Controlled Consistent Image Generation",
@@ -6735,7 +6750,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/34290/36445",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/ShayanTalaei/HDO"
   },
   {
     "title": "FastPERT: Towards Fast Microservice Application Latency Prediction via Structural Inductive Bias over PERT Networks",
@@ -7112,7 +7128,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/33691/35846",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/toggled/WGTL"
   },
   {
     "title": "Neural Combinatorial Clustered Bandits for Recommendation Systems",
@@ -7621,7 +7638,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/33731/35886",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/gaoxin492/MVP"
   },
   {
     "title": "FedPop: Federated Population-based Hyperparameter Tuning",
@@ -7846,7 +7864,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/33748/35903",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/Secilia-Cxy/MIETT"
   },
   {
     "title": "Novelty-Guided Data Reuse for Efficient and Diversified Multi-Agent Reinforcement Learning",
@@ -8319,7 +8338,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/33785/35940",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/dzy49/AffectiveLiveComm/blob/main/README.md"
   },
   {
     "title": "The Surprising Effectiveness of Infinite-Width NTKs for Characterizing and Improving Model Training",
@@ -9808,7 +9828,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/32326/34481",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/AllenNeuralDynamics/supervoxel-loss"
   },
   {
     "title": "MaintaAvatar: A Maintainable Avatar Based on Neural Radiance Fields by Continual Learning",
@@ -10689,7 +10710,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/33830/35985",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/xbfu/FedVN/blob/main/README.md"
   },
   {
     "title": "Discrete Curvature Graph Information Bottleneck",
@@ -10934,7 +10956,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/33848/36003",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/grodino/QuRD"
   },
   {
     "title": "An Optimal Transport-based Latent Mixer for Robust Multi-modal Learning",
@@ -11117,7 +11140,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/33862/36017",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/Yuqin-G/FedCGS"
   },
   {
     "title": "Enhancing Multivariate Time-Series Domain Adaptation via Contrastive Frequency Graph Discovery and Language-Guided Adversary Alignment",
@@ -12190,7 +12214,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/34069/36224",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/mia-321/asym-opt"
   },
   {
     "title": "Uncertainty-Aware Contrastive Learning with Hard Negative Sampling for Code Search Tasks",
@@ -13738,7 +13763,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/33340/35495",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/Chrissie-Law/AREAD-Multi-Domain-Recommendation"
   },
   {
     "title": "Enhancing Sequential Recommendation with Global Diffusion",
@@ -14298,7 +14324,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/33380/35535",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/futureeeeee/dynamic-rag"
   },
   {
     "title": "ScoreNet: Consistency-driven Framework with Multi-side Information Fusion for Session-based Recommendation",
@@ -14575,7 +14602,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/33399/35554",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/wang1351/Re2LLM/"
   },
   {
     "title": "Prompt-based Unifying Inference Attack on Graph Neural Networks",
@@ -14701,7 +14729,8 @@
     ],
     "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/view/33408/35563",
     "source": "AAAI",
-    "year": 2025
+    "year": 2025,
+    "code": "https://github.com/Jinfeng-Xu/MENTOR"
   },
   {
     "title": "MEATRD: Multimodal Anomalous Tissue Region Detection Enhanced with Spatial Transcriptomics",

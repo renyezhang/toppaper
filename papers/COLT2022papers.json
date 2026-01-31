@@ -1,0 +1,1786 @@
+[
+    {
+        "title": "Analysis of Langevin Monte Carlo from Poincare to Log-Sobolev",
+        "authors": [
+            "Sinho Chewi",
+            "Murat A Erdogdu",
+            "Mufan Li",
+            "Ruoqi Shen",
+            "Shunshi Zhang"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/chewi22a/chewi22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Optimization-Based Separations for Neural Networks",
+        "authors": [
+            "Itay Safran",
+            "Jason Lee"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/safran22a/safran22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Mirror Descent Strikes Again: Optimal Stochastic Convex Optimization under Infinite Noise Variance",
+        "authors": [
+            "Nuri Mert Vural",
+            "Lu Yu",
+            "Krishna Balasubramanian",
+            "Stanislav Volgushev",
+            "Murat A Erdogdu"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/vural22a/vural22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Wasserstein GANs with Gradient Penalty Compute Congested Transport",
+        "authors": [
+            "Tristan Milne",
+            "Adrian I Nachman"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/milne22a/milne22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Robust Estimation for Random Graphs",
+        "authors": [
+            "Jayadev Acharya",
+            "Ayush Jain",
+            "Gautam Kamath",
+            "Ananda Theertha Suresh",
+            "Huanyu Zhang"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/acharya22a/acharya22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Tight query complexity bounds for learning graph partitions",
+        "authors": [
+            "Xizhi Liu",
+            "Sayan Mukherjee"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/liu22a/liu22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Pushing the Efficiency-Regret Pareto Frontier for Online Learning of Portfolios and Quantum States",
+        "authors": [
+            "Julian Zimmert",
+            "Naman Agarwal",
+            "Satyen Kale"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/zimmert22a/zimmert22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Risk bounds for aggregated shallow neural networks using Gaussian priors",
+        "authors": [
+            "Laura Tinsi",
+            "Arnak Dalalyan"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/tinsi22a/tinsi22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "On the Benefits of Large Learning Rates for Kernel Methods",
+        "authors": [
+            "Gaspard Beugnot",
+            "Julien Mairal",
+            "Alessandro Rudi"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/beugnot22a/beugnot22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Near-Optimal Statistical Query Lower Bounds for Agnostically Learning Intersections of Halfspaces with Gaussian Marginals",
+        "authors": [
+            "Daniel J Hsu",
+            "Clayton H Sanford",
+            "Rocco Servedio",
+            "Emmanouil Vasileios Vlatakis-Gkaragkounis"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/hsu22a/hsu22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "The Power of Adaptivity in SGD: Self-Tuning Step Sizes with Unbounded Gradients and Affine Variance",
+        "authors": [
+            "Matthew Faw",
+            "Isidoros Tziotis",
+            "Constantine Caramanis",
+            "Aryan Mokhtari",
+            "Sanjay Shakkottai",
+            "Rachel Ward"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/faw22a/faw22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Optimal Mean Estimation without a Variance",
+        "authors": [
+            "Yeshwanth Cherapanamjeri",
+            "Nilesh Tripuraneni",
+            "Peter Bartlett",
+            "Michael Jordan"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/cherapanamjeri22a/cherapanamjeri22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Beyond No Regret: Instance-Dependent PAC Reinforcement Learning",
+        "authors": [
+            "Andrew J Wagenmaker",
+            "Max Simchowitz",
+            "Kevin Jamieson"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/wagenmaker22a/wagenmaker22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Learning Low Degree Hypergraphs",
+        "authors": [
+            "Eric Balkanski",
+            "Oussama Hanguir",
+            "Shatian Wang"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/balkanski22a/balkanski22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Depth and Feature Learning are Provably Beneficial for Neural Network Discriminators",
+        "authors": [
+            "Carles Domingo-Enrich"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/domingo-enrich22a/domingo-enrich22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "The Implicit Bias of Benign Overfitting",
+        "authors": [
+            "Ohad Shamir"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/shamir22a/shamir22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Universal Online Learning with Bounded Loss: Reduction to Binary Classification",
+        "authors": [
+            "Moise Blanchard",
+            "Romain Cosson"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/blanchard22a/blanchard22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Negative curvature obstructs acceleration for strongly geodesically convex optimization, even with exact first-order oracles",
+        "authors": [
+            "Christopher Criscitiello",
+            "Nicolas Boumal"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/criscitiello22a/criscitiello22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Multi-Agent  Learning for  Iterative Dominance Elimination: Formal Barriers and New Algorithms",
+        "authors": [
+            "Jibang Wu",
+            "Haifeng Xu",
+            "Fan Yao"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/wu22a/wu22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "A Private and Computationally-Efficient Estimator for Unbounded Gaussians",
+        "authors": [
+            "Gautam Kamath",
+            "Argyris Mouzakis",
+            "Vikrant Singhal",
+            "Thomas Steinke",
+            "Jonathan Ullman"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/kamath22a/kamath22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "The Price of Tolerance in Distribution Testing",
+        "authors": [
+            "Clement L Canonne",
+            "Ayush Jain",
+            "Gautam Kamath",
+            "Jerry Li"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/canonne22a/canonne22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "A bounded-noise mechanism for differential privacy",
+        "authors": [
+            "Yuval Dagan",
+            "Gil Kur"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/dagan22a/dagan22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Learning with metric losses",
+        "authors": [
+            "Dan Tsir Cohen",
+            "Aryeh Kontorovich"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/cohen22a/cohen22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Rate of Convergence of Polynomial Networks to Gaussian Processes",
+        "authors": [
+            "Adam Klukowski"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/klukowski22a/klukowski22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Private Robust Estimation by Stabilizing Convex Relaxations",
+        "authors": [
+            "Pravesh Kothari",
+            "Pasin Manurangsi",
+            "Ameya Velingker"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/kothari22a/kothari22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Stochastic Variance Reduction for Variational Inequality Methods",
+        "authors": [
+            "Ahmet Alacaoglu",
+            "Yura Malitsky"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/alacaoglu22a/alacaoglu22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Self-Consistency of the Fokker Planck Equation",
+        "authors": [
+            "Zebang Shen",
+            "Zhenfu Wang",
+            "Satyen Kale",
+            "Alejandro Ribeiro",
+            "Amin Karbasi",
+            "Hamed Hassani"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/shen22a/shen22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Monotone Learning",
+        "authors": [
+            "Olivier J Bousquet",
+            "Amit Daniely",
+            "Haim Kaplan",
+            "Yishay Mansour",
+            "Shay Moran",
+            "Uri Stemmer"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/bousquet22a/bousquet22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Chasing Convex Bodies and Functions with Black-Box Advice",
+        "authors": [
+            "Nicolas Christianson",
+            "Tinashe Handina",
+            "Adam Wierman"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/christianson22a/christianson22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "ROOT-SGD: Sharp Nonasymptotics and Asymptotic Efficiency in a Single Algorithm",
+        "authors": [
+            "Chris Junchi Li",
+            "Wenlong Mou",
+            "Martin Wainwright",
+            "Michael Jordan"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/li22a/li22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Policy Optimization for Stochastic Shortest Path",
+        "authors": [
+            "Liyu Chen",
+            "Haipeng Luo",
+            "Aviv Rosenberg"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/chen22a/chen22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Optimal SQ Lower Bounds for Learning Halfspaces with Massart Noise",
+        "authors": [
+            "Rajai Nasser",
+            "Stefan Tiegel"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/nasser22a/nasser22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Private and polynomial time algorithms for learning Gaussians and beyond",
+        "authors": [
+            "Hassan Ashtiani",
+            "Christopher Liaw"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/ashtiani22a/ashtiani22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Universal Online Learning: an Optimistically Universal Learning Rule",
+        "authors": [
+            "Moise Blanchard"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/blanchard22b/blanchard22b.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "(Nearly) Optimal Private Linear Regression for Sub-Gaussian Data via Adaptive Clipping",
+        "authors": [
+            "Prateek Varshney",
+            "Abhradeep Thakurta",
+            "Prateek Jain"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/varshney22a/varshney22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Differential privacy and robust statistics in high dimensions",
+        "authors": [
+            "Xiyang Liu",
+            "Weihao Kong",
+            "Sewoong Oh"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/liu22b/liu22b.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Lattice-Based Methods Surpass Sum-of-Squares in Clustering",
+        "authors": [
+            "Ilias Zadik",
+            "Min Jae Song",
+            "Alexander S Wein",
+            "Joan Bruna"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/zadik22a/zadik22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Width is Less Important than Depth in ReLU Neural Networks",
+        "authors": [
+            "Gal Vardi",
+            "Gilad Yehudai",
+            "Ohad Shamir"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/vardi22a/vardi22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Computational-Statistical Gap in Reinforcement Learning",
+        "authors": [
+            "Daniel Kane",
+            "Sihan Liu",
+            "Shachar Lovett",
+            "Gaurav Mahajan"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/kane22a/kane22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Trace norm regularization for multi-task learning with scarce data",
+        "authors": [
+            "Etienne Boursier",
+            "Mikhail Konobeev",
+            "Nicolas Flammarion"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/boursier22a/boursier22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "The Role of Interactivity in Structured Estimation",
+        "authors": [
+            "Jayadev Acharya",
+            "Clement L. Canonne",
+            "Ziteng Sun",
+            "Himanshu Tyagi"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/acharya22b/acharya22b.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Dimension-free convergence rates for gradient Langevin dynamics in RKHS",
+        "authors": [
+            "Boris Muzellec",
+            "Kanji Sato",
+            "Mathurin Massias",
+            "Taiji Suzuki"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/muzellec22a/muzellec22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Adversarially Robust Multi-Armed Bandit Algorithm with Variance-Dependent Regret Bounds",
+        "authors": [
+            "Shinji Ito",
+            "Taira Tsuchiya",
+            "Junya Honda"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/ito22a/ito22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "A Sharp Memory-Regret Trade-off for Multi-Pass Streaming Bandits",
+        "authors": [
+            "Arpit Agarwal",
+            "Sanjeev Khanna",
+            "Prathamesh Patil"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/agarwal22a/agarwal22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Approximate Cluster Recovery from Noisy Labels",
+        "authors": [
+            "Buddhima Gamlath",
+            "Silvio Lattanzi",
+            "Ashkan Norouzi-Fard",
+            "Ola Svensson"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/gamlath22a/gamlath22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "An Efficient Minimax Optimal Estimator For Multivariate Convex Regression",
+        "authors": [
+            "Gil Kur",
+            "Eli Putterman"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/kur22a/kur22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Minimax Regret for Partial Monitoring: Infinite Outcomes and Rustichini’s Regret",
+        "authors": [
+            "Tor Lattimore"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/lattimore22a/lattimore22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Adaptive Bandit Convex Optimization with Heterogeneous Curvature",
+        "authors": [
+            "Haipeng Luo",
+            "Mengxiao Zhang",
+            "Peng Zhao"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/luo22a/luo22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Statistical Estimation and Online Inference via Local SGD",
+        "authors": [
+            "Xiang Li",
+            "Jiadong Liang",
+            "Xiangyu Chang",
+            "Zhihua Zhang"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/li22b/li22b.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Community Recovery in the Degree-Heterogeneous Stochastic Block Model",
+        "authors": [
+            "Vincent Cohen-Addad",
+            "Frederik Mallmann-Trenn",
+            "David Saulpic"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/cohen-addad22a/cohen-addad22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Strong Gaussian Approximation for the Sum of Random Vectors",
+        "authors": [
+            "Nazar Buzun",
+            "Nikolay Shvetsov",
+            "Dmitry V. Dylov"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/buzun22a/buzun22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Smoothed Online Learning is as Easy as Statistical Learning",
+        "authors": [
+            "Adam Block",
+            "Yuval Dagan",
+            "Noah Golowich",
+            "Alexander Rakhlin"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/block22a/block22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Gardner formula for Ising perceptron models at small densities",
+        "authors": [
+            "Erwin Bolthausen",
+            "Shuta Nakajima",
+            "Nike Sun",
+            "Changji Xu"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/bolthausen22a/bolthausen22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Derivatives and residual distribution of regularized M-estimators with application to adaptive tuning",
+        "authors": [
+            "Pierre C Bellec",
+            "Yiwei Shen"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/bellec22a/bellec22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Private Convex Optimization via Exponential Mechanism",
+        "authors": [
+            "Sivakanth Gopi",
+            "Yin Tat Lee",
+            "Daogao Liu"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/gopi22a/gopi22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Towards Optimal Algorithms for Multi-Player Bandits without Collision Sensing Information",
+        "authors": [
+            "Wei Huang",
+            "Richard Combes",
+            "Cindy Trinh"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/huang22a/huang22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Generalization Bounds for Data-Driven Numerical Linear Algebra",
+        "authors": [
+            "Peter Bartlett",
+            "Piotr Indyk",
+            "Tal Wagner"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/bartlett22a/bartlett22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "The query complexity of sampling from strongly log-concave distributions in one dimension",
+        "authors": [
+            "Sinho Chewi",
+            "Patrik R Gerber",
+            "Chen Lu",
+            "Thibaut Le Gouic",
+            "Philippe Rigollet"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/chewi22b/chewi22b.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Optimal and instance-dependent guarantees for Markovian linear stochastic approximation",
+        "authors": [
+            "Wenlong Mou",
+            "Ashwin Pananjady",
+            "Martin Wainwright",
+            "Peter Bartlett"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/mou22a/mou22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Accelerated SGD for Non-Strongly-Convex Least Squares",
+        "authors": [
+            "Aditya Varre",
+            "Nicolas Flammarion"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/varre22a/varre22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Label noise (stochastic) gradient descent implicitly solves the Lasso for quadratic parametrisation",
+        "authors": [
+            "Loucas Pillaud Vivien",
+            "Julien Reygner",
+            "Nicolas Flammarion"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/vivien22a/vivien22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Tracking Most Significant Arm Switches in Bandits",
+        "authors": [
+            "Joe Suk",
+            "Samory Kpotufe"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/suk22a/suk22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Exact Community Recovery in Correlated Stochastic Block Models",
+        "authors": [
+            "Julia Gaudio",
+            "Miklos Z. Racz",
+            "Anirudh Sridhar"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/gaudio22a/gaudio22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Mean-field nonparametric estimation of interacting particle systems",
+        "authors": [
+            "Rentian Yao",
+            "Xiaohui Chen",
+            "Yun Yang"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/yao22a/yao22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Inductive Bias of Multi-Channel Linear Convolutional Networks with Bounded Weight Norm",
+        "authors": [
+            "Meena Jagadeesan",
+            "Ilya Razenshteyn",
+            "Suriya Gunasekar"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/jagadeesan22a/jagadeesan22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "New Projection-free Algorithms for Online Convex Optimization with Adaptive Regret Guarantees",
+        "authors": [
+            "Dan Garber",
+            "Ben Kretzu"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/garber22a/garber22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Making SGD Parameter-Free",
+        "authors": [
+            "Yair Carmon",
+            "Oliver Hinder"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/carmon22a/carmon22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Efficient Convex Optimization Requires Superlinear Memory",
+        "authors": [
+            "Annie Marsden",
+            "Vatsal Sharan",
+            "Aaron Sidford",
+            "Gregory Valiant"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/marsden22a/marsden22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Big-Step-Little-Step: Efficient Gradient Methods for Objectives with Multiple Scales",
+        "authors": [
+            "Jonathan Kelner",
+            "Annie Marsden",
+            "Vatsal Sharan",
+            "Aaron Sidford",
+            "Gregory Valiant",
+            "Honglin Yuan"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/kelner22a/kelner22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Toward Instance-Optimal State Certification With Incoherent Measurements",
+        "authors": [
+            "Sitan Chen",
+            "Jerry Li",
+            "Ryan O’Donnell"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/chen22b/chen22b.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "EM’s Convergence in Gaussian Latent Tree Models",
+        "authors": [
+            "Yuval Dagan",
+            "Vardis Kandiros",
+            "Constantinos Daskalakis"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/dagan22b/dagan22b.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Benign Overfitting without Linearity: Neural Network Classifiers Trained by Gradient Descent for Noisy Linear Data",
+        "authors": [
+            "Spencer Frei",
+            "Niladri S Chatterji",
+            "Peter Bartlett"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/frei22a/frei22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Minimax Regret Optimization for Robust Machine Learning under Distribution Shift",
+        "authors": [
+            "Alekh Agarwal",
+            "Tong Zhang"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/agarwal22b/agarwal22b.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Offline Reinforcement Learning with Realizability and Single-policy Concentrability",
+        "authors": [
+            "Wenhao Zhan",
+            "Baihe Huang",
+            "Audrey Huang",
+            "Nan Jiang",
+            "Jason Lee"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/zhan22a/zhan22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Non-Linear Reinforcement Learning in Large Action Spaces: Structural Conditions and Sample-efficiency of Posterior Sampling",
+        "authors": [
+            "Alekh Agarwal",
+            "Tong Zhang"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/agarwal22c/agarwal22c.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Learning GMMs with Nearly Optimal Robustness Guarantees",
+        "authors": [
+            "Allen Liu",
+            "Ankur Moitra"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/liu22c/liu22c.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Towards a Theory of Non-Log-Concave Sampling:First-Order Stationarity Guarantees for Langevin Monte Carlo",
+        "authors": [
+            "Krishna Balasubramanian",
+            "Sinho Chewi",
+            "Murat A Erdogdu",
+            "Adil Salim",
+            "Shunshi Zhang"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/balasubramanian22a/balasubramanian22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Understanding Riemannian Acceleration via a Proximal Extragradient Framework",
+        "authors": [
+            "Jikai Jin",
+            "Suvrit Sra"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/jin22a/jin22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "On Almost Sure Convergence Rates of Stochastic Gradient Methods",
+        "authors": [
+            "Jun Liu",
+            "Ye Yuan"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/liu22d/liu22d.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Improved analysis for a proximal algorithm for sampling",
+        "authors": [
+            "Yongxin Chen",
+            "Sinho Chewi",
+            "Adil Salim",
+            "Andre Wibisono"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/chen22c/chen22c.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Realizable Learning is All You Need",
+        "authors": [
+            "Max Hopkins",
+            "Daniel M. Kane",
+            "Shachar Lovett",
+            "Gaurav Mahajan"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/hopkins22a/hopkins22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Streaming Algorithms for Ellipsoidal Approximation of Convex Polytopes",
+        "authors": [
+            "Yury Makarychev",
+            "Naren Sarayu Manoj",
+            "Max Ovsiankin"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/makarychev22a/makarychev22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "The Pareto Frontier of Instance-Dependent Guarantees in Multi-Player Multi-Armed Bandits with no Communication",
+        "authors": [
+            "Allen X Liu",
+            "Mark Sellke"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/liu22e/liu22e.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Minimax Regret on Patterns Using Kullback-Leibler Divergence Covering",
+        "authors": [
+            "Jennifer Tang"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/tang22a/tang22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Sharp Constants in Uniformity Testing via the Huber Statistic",
+        "authors": [
+            "Shivam Gupta",
+            "Eric Price"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/gupta22a/gupta22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Low-Degree Multicalibration",
+        "authors": [
+            "Parikshit Gopalan",
+            "Michael P Kim",
+            "Mihir A Singhal",
+            "Shengjia Zhao"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/gopalan22a/gopalan22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Thompson Sampling Achieves $\\tilde{O}(\\sqrt{T})$ Regret in Linear Quadratic Control",
+        "authors": [
+            "Taylan Kargin",
+            "Sahin Lale",
+            "Kamyar Azizzadenesheli",
+            "Animashree Anandkumar",
+            "Babak Hassibi"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/kargin22a/kargin22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Return of the bias: Almost minimax optimal high probability bounds for adversarial linear bandits",
+        "authors": [
+            "Julian Zimmert",
+            "Tor Lattimore"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/zimmert22b/zimmert22b.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Uniform Stability for First-Order Empirical Risk Minimization",
+        "authors": [
+            "Amit Attia",
+            "Tomer Koren"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/attia22a/attia22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Single Trajectory Nonparametric Learning of Nonlinear Dynamics",
+        "authors": [
+            "Ingvar M Ziemann",
+            "Henrik Sandberg",
+            "Nikolai Matni"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/ziemann22a/ziemann22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "On characterizations of learnability with computable learners",
+        "authors": [
+            "Tom F. Sterkenburg"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/sterkenburg22a/sterkenburg22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Stability vs Implicit Bias of Gradient Methods on Separable Data and Beyond",
+        "authors": [
+            "Matan Schliserman",
+            "Tomer Koren"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/schliserman22a/schliserman22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Near optimal efficient decoding from pooled data",
+        "authors": [
+            "Max Hahn-Klimroth",
+            "Noela Müller"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/hahn-klimroth22a/hahn-klimroth22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Kernel interpolation in Sobolev spaces is not consistent in low dimensions",
+        "authors": [
+            "Simon Buchholz"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/buchholz22a/buchholz22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Random Graph Matching in Geometric Models: the Case of Complete Graphs",
+        "authors": [
+            "Haoyu Wang",
+            "Yihong Wu",
+            "Jiaming Xu",
+            "Israel Yolou"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/wang22a/wang22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Offline Reinforcement Learning: Fundamental Barriers for Value Function Approximation",
+        "authors": [
+            "Dylan J Foster",
+            "Akshay Krishnamurthy",
+            "David Simchi-Levi",
+            "Yunzong Xu"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/foster22a/foster22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Improved Parallel Algorithm for Minimum Cost Submodular Cover Problem",
+        "authors": [
+            "Yingli Ran",
+            "Zhao Zhang",
+            "Shaojie Tang"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/ran22a/ran22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "The Dynamics of Riemannian Robbins-Monro Algorithms",
+        "authors": [
+            "Mohammad Reza Karimi",
+            "Ya-Ping Hsieh",
+            "Panayotis Mertikopoulos",
+            "Andreas Krause"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/karimi22a/karimi22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Corruption-Robust Contextual Search through Density Updates",
+        "authors": [
+            "Renato Paes Leme",
+            "Chara Podimata",
+            "Jon Schneider"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/leme22a/leme22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "On The Memory Complexity of Uniformity Testing",
+        "authors": [
+            "Tomer Berg",
+            "Or Ordentlich",
+            "Ofer Shayevitz"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/berg22a/berg22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Generalization Bounds via Convex Analysis",
+        "authors": [
+            "Gabor Lugosi",
+            "Gergely Neu"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/lugosi22a/lugosi22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Private Matrix Approximation and Geometry of Unitary Orbits",
+        "authors": [
+            "Oren Mangoubi",
+            "Yikai Wu",
+            "Satyen Kale",
+            "Abhradeep Thakurta",
+            "Nisheeth K. Vishnoi"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/mangoubi22a/mangoubi22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Efficient Online Linear Control with Stochastic Convex Costs and Unknown Dynamics",
+        "authors": [
+            "Asaf B Cassel",
+            "Alon Cohen",
+            "Tomer Koren"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/cassel22a/cassel22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Two-Sided Weak Submodularity for Matroid Constrained Optimization and Regression",
+        "authors": [
+            "Theophile Thiery",
+            "Justin Ward"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/thiery22a/thiery22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Corralling a Larger Band of Bandits: A Case Study on Switching Regret for Linear Bandits",
+        "authors": [
+            "Haipeng Luo",
+            "Mengxiao Zhang",
+            "Peng Zhao",
+            "Zhi-Hua Zhou"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/luo22b/luo22b.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Assemblies of neurons learn to classify well-separated distributions",
+        "authors": [
+            "Max Dabagia",
+            "Santosh S Vempala",
+            "Christos Papadimitriou"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/dabagia22a/dabagia22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "The Structured Abstain Problem and the Lovász Hinge",
+        "authors": [
+            "Jessica J Finocchiaro",
+            "Rafael Frongillo",
+            "Enrique B Nueve"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/nueve22a/nueve22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Fast algorithm for overcomplete order-3 tensor decomposition",
+        "authors": [
+            "Jingqiu Ding",
+            "Tommaso d’Orsi",
+            "Chih-Hung Liu",
+            "David Steurer",
+            "Stefan Tiegel"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/ding22a/ding22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Hardness of Maximum Likelihood Learning of DPPs",
+        "authors": [
+            "Elena Grigorescu",
+            "Brendan Juba",
+            "Karl Wimmer",
+            "Ning Xie"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/grigorescu22a/grigorescu22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Learning to Control Linear Systems can be Hard",
+        "authors": [
+            "Anastasios Tsiamis",
+            "Ingvar M Ziemann",
+            "Manfred Morari",
+            "Nikolai Matni",
+            "George J. Pappas"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/tsiamis22a/tsiamis22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Horizon-Free Reinforcement Learning in Polynomial Time: the Power of Stationary Policies",
+        "authors": [
+            "Zihan Zhang",
+            "Xiangyang Ji",
+            "Simon Du"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/zhang22a/zhang22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "On the well-spread property and its relation to linear regression",
+        "authors": [
+            "Hongjie Chen",
+            "Tommaso d’Orsi"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/chen22d/chen22d.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Optimal SQ Lower Bounds for Robustly Learning Discrete Product Distributions and Ising Models",
+        "authors": [
+            "Ilias Diakonikolas",
+            "Daniel M. Kane",
+            "Yuxin Sun"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/diakonikolas22a/diakonikolas22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Private High-Dimensional Hypothesis Testing",
+        "authors": [
+            "Shyam Narayanan"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/narayanan22a/narayanan22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "How catastrophic can catastrophic forgetting be in linear regression?",
+        "authors": [
+            "Itay Evron",
+            "Edward Moroshko",
+            "Rachel Ward",
+            "Nathan Srebro",
+            "Daniel Soudry"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/evron22a/evron22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Efficient  decentralized multi-agent learning in asymmetric queuing systems",
+        "authors": [
+            "Daniel Freund",
+            "Thodoris Lykouris",
+            "Wentao Weng"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/freund22a/freund22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Online Learning to Transport via the Minimal Selection Principle",
+        "authors": [
+            "Wenxuan Guo",
+            "YoonHaeng Hur",
+            "Tengyuan Liang",
+            "Chris Ryan"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/guo22a/guo22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "On the Role of Channel Capacity in Learning Gaussian Mixture Models",
+        "authors": [
+            "Elad Romanov",
+            "Tamir Bendory",
+            "Or Ordentlich"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/romanov22a/romanov22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Parameter-free Mirror Descent",
+        "authors": [
+            "Andrew Jacobsen",
+            "Ashok Cutkosky"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/jacobsen22a/jacobsen22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Chained generalisation bounds",
+        "authors": [
+            "Eugenio Clerico",
+            "Amitis Shidani",
+            "George Deligiannidis",
+            "Arnaud Doucet"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/clerico22a/clerico22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Near-Optimal Statistical Query Hardness of Learning Halfspaces with Massart Noise",
+        "authors": [
+            "Ilias Diakonikolas",
+            "Daniel Kane"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/diakonikolas22b/diakonikolas22b.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Faster online calibration without randomization: interval forecasts and the power of two choices",
+        "authors": [
+            "Chirag Gupta",
+            "Aaditya Ramdas"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/gupta22b/gupta22b.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Universality of empirical risk minimization",
+        "authors": [
+            "Andrea Montanari",
+            "Basil N. Saeed"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/montanari22a/montanari22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Learning a Single Neuron with Adversarial Label Noise via Gradient Descent",
+        "authors": [
+            "Ilias Diakonikolas",
+            "Vasilis Kontonis",
+            "Christos Tzamos",
+            "Nikos Zarifis"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/diakonikolas22c/diakonikolas22c.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Sharper Rates for Separable Minimax and Finite Sum Optimization via Primal-Dual Extragradient Methods",
+        "authors": [
+            "Yujia Jin",
+            "Aaron Sidford",
+            "Kevin Tian"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/jin22b/jin22b.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Rate-Distortion Theoretic Generalization Bounds for Stochastic Learning Algorithms",
+        "authors": [
+            "Milad Sefidgaran",
+            "Amin Gohari",
+            "Gaël Richard",
+            "Umut Simsekli"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/sefidgaran22a/sefidgaran22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Scale-free Unconstrained Online Learning for Curved Losses",
+        "authors": [
+            "Jack J. Mayo",
+            "Hedi Hadiji",
+            "Tim van Erven"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/mayo22a/mayo22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Robustly-reliable learners under poisoning attacks",
+        "authors": [
+            "Maria-Florina Balcan",
+            "Avrim Blum",
+            "Steve Hanneke",
+            "Dravyansh Sharma"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/balcan22a/balcan22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Non-Gaussian Component Analysis via Lattice Basis Reduction",
+        "authors": [
+            "Ilias Diakonikolas",
+            "Daniel Kane"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/diakonikolas22d/diakonikolas22d.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Can Q-learning be Improved with Advice?",
+        "authors": [
+            "Noah Golowich",
+            "Ankur Moitra"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/golowich22a/golowich22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Non-Convex Optimization with Certificates and Fast Rates Through Kernel Sums of Squares",
+        "authors": [
+            "Blake Woodworth",
+            "Francis Bach",
+            "Alessandro Rudi"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/woodworth22a/woodworth22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Hierarchical Clustering in Graph Streams: Single-Pass Algorithms and Space Lower Bounds",
+        "authors": [
+            "Sepehr Assadi",
+            "Vaggos Chatziafratis",
+            "Jakub \\Lącki",
+            "Vahab Mirrokni",
+            "Chen Wang"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/assadi22a/assadi22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Robust Sparse Mean Estimation via Sum of Squares",
+        "authors": [
+            "Ilias Diakonikolas",
+            "Daniel M. Kane",
+            "Sushrut Karmalkar",
+            "Ankit Pensia",
+            "Thanasis Pittas"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/diakonikolas22e/diakonikolas22e.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Statistical and Computational Phase Transitions in Group Testing",
+        "authors": [
+            "Amin Coja-Oghlan",
+            "Oliver Gebhard",
+            "Max Hahn-Klimroth",
+            "Alexander S Wein",
+            "Ilias Zadik"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/coja-oghlan22a/coja-oghlan22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "The merged-staircase property: a necessary and nearly sufficient condition for SGD learning of sparse functions on two-layer neural networks",
+        "authors": [
+            "Emmanuel Abbe",
+            "Enric Boix Adsera",
+            "Theodor Misiakiewicz"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/abbe22a/abbe22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Eigenspace Restructuring: A Principle of Space and Frequency in Neural Networks",
+        "authors": [
+            "Lechao Xiao"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/xiao22a/xiao22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Sampling Approximately Low-Rank Ising Models: MCMC meets Variational Methods",
+        "authors": [
+            "Frederic Koehler",
+            "Holden Lee",
+            "Andrej Risteski"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/koehler22a/koehler22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Strong Memory Lower Bounds for Learning Natural Models",
+        "authors": [
+            "Gavin Brown",
+            "Mark Bun",
+            "Adam Smith"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/brown22a/brown22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "On the power of adaptivity in statistical adversaries",
+        "authors": [
+            "Guy Blanc",
+            "Jane Lange",
+            "Ali Malik",
+            "Li-Yang Tan"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/blanc22a/blanc22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Sample-Efficient Reinforcement Learning in the Presence of Exogenous Information",
+        "authors": [
+            "Yonathan Efroni",
+            "Dylan J Foster",
+            "Dipendra Misra",
+            "Akshay Krishnamurthy",
+            "John Langford"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/efroni22a/efroni22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "The Query Complexity of Local Search and Brouwer in Rounds",
+        "authors": [
+            "Simina Branzei",
+            "Jiawei Li"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/branzei22a/branzei22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Complete Policy Regret Bounds for Tallying Bandits",
+        "authors": [
+            "Dhruv Malik",
+            "Yuanzhi Li",
+            "Aarti Singh"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/malik22a/malik22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "When Is Partially Observable Reinforcement Learning Not Scary?",
+        "authors": [
+            "Qinghua Liu",
+            "Alan Chung",
+            "Csaba Szepesvari",
+            "Chi Jin"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/liu22f/liu22f.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Strategizing against Learners in Bayesian Games",
+        "authors": [
+            "Yishay Mansour",
+            "Mehryar Mohri",
+            "Jon Schneider",
+            "Balasubramanian Sivan"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/mansour22a/mansour22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Orthogonal Statistical Learning with Self-Concordant Loss",
+        "authors": [
+            "Lang Liu",
+            "Carlos Cinelli",
+            "Zaid Harchaoui"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/liu22g/liu22g.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Clustering with Queries under Semi-Random Noise",
+        "authors": [
+            "Alberto Del Pia",
+            "Mingchen Ma",
+            "Christos Tzamos"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/pia22a/pia22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Efficient Projection-Free Online Convex Optimization with Membership Oracle",
+        "authors": [
+            "Zakaria Mhammedi"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/mhammedi22a/mhammedi22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Better Private Algorithms for Correlation Clustering",
+        "authors": [
+            "Daogao Liu"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/liu22h/liu22h.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Neural Networks can Learn Representations with Gradient Descent",
+        "authors": [
+            "Alexandru Damian",
+            "Jason Lee",
+            "Mahdi Soltanolkotabi"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/damian22a/damian22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Stochastic linear optimization never overfits with quadratically-bounded losses on general data",
+        "authors": [
+            "Matus Telgarsky"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/telgarsky22a/telgarsky22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Multilevel Optimization for Inverse Problems",
+        "authors": [
+            "Simon Weissmann",
+            "Ashia Wilson",
+            "Jakob Zech"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/weissmann22a/weissmann22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "High-Dimensional Projection Pursuit: Outer Bounds and Applications to Interpolation in Neural Networks",
+        "authors": [
+            "Kangjie Zhou",
+            "Andrea Montanari"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/zhou22a/zhou22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Memorize to generalize: on the necessity of interpolation in high dimensional linear regression",
+        "authors": [
+            "Chen Cheng",
+            "John Duchi",
+            "Rohith Kuditipudi"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/cheng22a/cheng22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Damped Online Newton Step for Portfolio Selection",
+        "authors": [
+            "Zakaria Mhammedi",
+            "Alexander Rakhlin"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/mhammedi22b/mhammedi22b.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "From Sampling to Optimization on Discrete Domains with Applications to Determinant Maximization",
+        "authors": [
+            "Nima Anari",
+            "Thuy-Duong Vuong"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/anari22a/anari22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Open Problem: Properly learning decision trees in polynomial time?",
+        "authors": [
+            "Guy Blanc",
+            "Jane Lange",
+            "Mingda Qiao",
+            "Li-Yang Tan"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/open-problem-blanc22a/open-problem-blanc22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Open Problem: Regret Bounds for Noise-Free Kernel-Based Bandits",
+        "authors": [
+            "Sattar Vakili"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/open-problem-vakili22a/open-problem-vakili22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Open Problem: Running time complexity of accelerated $\\ell_1$-regularized PageRank",
+        "authors": [
+            "Kimon Fountoulakis",
+            "Shenghao Yang"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/open-problem-fountoulakis22a/open-problem-fountoulakis22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Open Problem: Do you pay for Privacy in Online learning?",
+        "authors": [
+            "Amartya Sanyal",
+            "Giorgia Ramponi"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/open-problem-sanyal22a/open-problem-sanyal22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Open Problem: Better Differentially Private Learning Algorithms with Margin Guarantees",
+        "authors": [
+            "Raef Bassily",
+            "Mehryar Mohri",
+            "Ananda Theertha Suresh"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/open-problem-bassily22a/open-problem-bassily22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Open Problem: Finite-Time Instance Dependent Optimality for Stochastic Online Learning with Feedback Graphs",
+        "authors": [
+            "Teodor Vanislavov Marinov",
+            "Mehryar Mohri",
+            "Julian Zimmert"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/open-problem-marinov22a/open-problem-marinov22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    },
+    {
+        "title": "Open Problem: Optimal Best Arm Identification with Fixed-Budget",
+        "authors": [
+            "Chao Qin"
+        ],
+        "pdf_link": "https://proceedings.mlr.press/v178/open-problem-qin22a/open-problem-qin22a.pdf",
+        "source": "COLT",
+        "year": 2022
+    }
+]

@@ -515,6 +515,14 @@
                         >
                         <label for="sourceIJCAI">IJCAI</label>
                     </div>
+                    <div class="checkbox-item">
+                        <input 
+                            type="checkbox" 
+                            id="sourceCOLT" 
+                            checked
+                        >
+                        <label for="sourceCOLT">COLT</label>
+                    </div>
                 </div>
             </div>
             <div class="stats">
@@ -596,7 +604,19 @@
                     'papers/IJCAI2022papers.json',
                     'papers/IJCAI2023papers.json',
                     'papers/IJCAI2024papers.json',
-                    'papers/IJCAI2025papers.json'
+                    'papers/IJCAI2025papers.json',
+                    'papers/COLT2014papers.json',
+                    'papers/COLT2015papers.json',
+                    'papers/COLT2016papers.json',
+                    'papers/COLT2017papers.json',
+                    'papers/COLT2018papers.json',
+                    'papers/COLT2019papers.json',
+                    'papers/COLT2020papers.json',
+                    'papers/COLT2021papers.json',
+                    'papers/COLT2022papers.json',
+                    'papers/COLT2023papers.json',
+                    'papers/COLT2024papers.json',
+                    'papers/COLT2025papers.json'
                 ];
                 
                 // 并行加载所有JSON文件
@@ -649,6 +669,7 @@
                 document.getElementById('sourceCOLM').addEventListener('change', handleSourceFilter);
                 document.getElementById('sourceAAAI').addEventListener('change', handleSourceFilter);
                 document.getElementById('sourceIJCAI').addEventListener('change', handleSourceFilter);
+                document.getElementById('sourceCOLT').addEventListener('change', handleSourceFilter);
             } catch (error) {
                 document.getElementById('loading').textContent = '加载失败: ' + error.message;
                 console.error('Error loading papers:', error);
@@ -671,6 +692,7 @@
             const sourceCOLM = document.getElementById('sourceCOLM').checked;
             const sourceAAAI = document.getElementById('sourceAAAI').checked;
             const sourceIJCAI = document.getElementById('sourceIJCAI').checked;
+            const sourceCOLT = document.getElementById('sourceCOLT').checked;
             
             // 获取选中的source列表
             const selectedSources = [];
@@ -683,6 +705,7 @@
             if (sourceCOLM) selectedSources.push('COLM');
             if (sourceAAAI) selectedSources.push('AAAI');
             if (sourceIJCAI) selectedSources.push('IJCAI');
+            if (sourceCOLT) selectedSources.push('COLT');
             
             filteredPapers = allPapers.filter(paper => {
                 // 文本搜索过滤

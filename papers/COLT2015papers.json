@@ -1,0 +1,825 @@
+[
+    {
+        "title": "Open Problem: Restricted Eigenvalue Condition for Heavy Tailed Designs",
+        "authors": [
+            "Arindam Banerjee",
+            "Sheng Chen",
+            "Vidyashankar Sivakumar"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Banerjee15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Open Problem: The landscape of the loss surfaces of multilayer networks",
+        "authors": [
+            "Anna Choromanska",
+            "Yann LeCun",
+            "Gérard Ben Arous"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Choromanska15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Open Problem: The Oracle Complexity of Smooth Convex Optimization in Nonstandard Settings",
+        "authors": [
+            "Cristóbal Guzmán"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Guzman15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Open Problem: Online Sabotaged Shortest Path",
+        "authors": [
+            "Wouter M. Koolen",
+            "Manfred K. Warmuth",
+            "Dmitri Adamskiy"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Koolen15b.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Open Problem: Learning Quantum Circuits with Queries",
+        "authors": [
+            "Jeremy Kun",
+            "Lev Reyzin"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Kun15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Open Problem: Recursive Teaching Dimension Versus VC Dimension",
+        "authors": [
+            "Hans U. Simon",
+            "Sandra Zilles"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Simon15b.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "On Consistent Surrogate Risk Minimization and Property Elicitation",
+        "authors": [
+            "Arpit Agarwal",
+            "Shivani Agarwal"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Agarwal15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Online Learning with Feedback Graphs: Beyond Bandits",
+        "authors": [
+            "Noga Alon",
+            "Nicolò Cesa-Bianchi",
+            "Ofer Dekel",
+            "Tomer Koren"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Alon15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Learning Overcomplete Latent Variable Models through Tensor Methods",
+        "authors": [
+            "Animashree Anandkumar",
+            "Rong Ge",
+            "Majid Janzamin"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Anandkumar15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Simple, Efficient, and Neural Algorithms for Sparse Coding",
+        "authors": [
+            "Sanjeev Arora",
+            "Rong Ge",
+            "Tengyu Ma",
+            "Ankur Moitra"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Arora15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Label optimal regret bounds for online local learning",
+        "authors": [
+            "Pranjal Awasthi",
+            "Moses Charikar",
+            "Kevin A Lai",
+            "Andrej Risteski"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Awasthi15a.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Efficient Learning of Linear Separators under Bounded Noise",
+        "authors": [
+            "Pranjal Awasthi",
+            "Maria-Florina Balcan",
+            "Nika Haghtalab",
+            "Ruth Urner"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Awasthi15b.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Efficient Representations for Lifelong Learning and Autoencoding",
+        "authors": [
+            "Maria-Florina Balcan",
+            "Avrim Blum",
+            "Santosh Vempala"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Balcan15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Optimally Combining Classifiers Using Unlabeled Data",
+        "authors": [
+            "Akshay Balsubramani",
+            "Yoav Freund"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Balsubramani15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Minimax Fixed-Design Linear Regression",
+        "authors": [
+            "Peter L. Bartlett",
+            "Wouter M. Koolen",
+            "Alan Malek",
+            "Eiji Takimoto",
+            "Manfred K. Warmuth"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Bartlett15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Escaping the Local Minima via Simulated Annealing: Optimization of Approximately Convex Functions",
+        "authors": [
+            "Alexandre Belloni",
+            "Tengyuan Liang",
+            "Hariharan Narayanan",
+            "Alexander Rakhlin"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Belloni15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Bandit Convex Optimization: \\sqrtT Regret in One Dimension",
+        "authors": [
+            "Sébastien Bubeck",
+            "Ofer Dekel",
+            "Tomer Koren",
+            "Yuval Peres"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Bubeck15a.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "The entropic barrier: a simple and optimal universal self-concordant barrier",
+        "authors": [
+            "Sébastien Bubeck",
+            "Ronen Eldan"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Bubeck15b.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Optimum Statistical Estimation with Strategic Data Sources",
+        "authors": [
+            "Yang Cai",
+            "Constantinos Daskalakis",
+            "Christos Papadimitriou"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Cai15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "On the Complexity of Learning with Kernels",
+        "authors": [
+            "Nicolò Cesa-Bianchi",
+            "Yishay Mansour",
+            "Ohad Shamir"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Cesa-Bianchi15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Learnability of Solutions to Conjunctive Queries: The Full Dichotomy",
+        "authors": [
+            "Hubie Chen",
+            "Matthew Valeriote"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Chen15a.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Sequential Information Maximization: When is Greedy Near-optimal?",
+        "authors": [
+            "Yuxin Chen",
+            "S. Hamed Hassani",
+            "Amin Karbasi",
+            "Andreas Krause"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Chen15b.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Efficient Sampling for Gaussian Graphical Models  via Spectral Sparsification",
+        "authors": [
+            "Dehua Cheng",
+            "Yu Cheng",
+            "Yan Liu",
+            "Richard Peng",
+            "Shang-Hua Teng"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Cheng15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Stochastic Block Model and Community Detection in Sparse Graphs: A spectral algorithm with optimal rate of recovery",
+        "authors": [
+            "Peter Chin",
+            "Anup Rao",
+            "Van Vu"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Chin15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "On-Line Learning Algorithms for Path Experts with Non-Additive Losses",
+        "authors": [
+            "Corinna Cortes",
+            "Vitaly Kuznetsov",
+            "Mehryar Mohri",
+            "Manfred Warmuth"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Cortes15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Truthful Linear Regression",
+        "authors": [
+            "Rachel Cummings",
+            "Stratis Ioannidis",
+            "Katrina Ligett"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Cummings15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "A PTAS for Agnostically Learning Halfspaces",
+        "authors": [
+            "Amit Daniely"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Daniely15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "S2: An Efficient Graph Based Active Learning Algorithm with Application to Nonparametric Classification",
+        "authors": [
+            "Gautam Dasarathy",
+            "Robert Nowak",
+            "Xiaojin Zhu"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Dasarathy15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Improved Sum-of-Squares Lower Bounds for Hidden Clique and Hidden Submatrix Problems",
+        "authors": [
+            "Yash Deshpande",
+            "Andrea Montanari"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Deshpande15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Contextual Dueling Bandits",
+        "authors": [
+            "Miroslav Dudík",
+            "Katja Hofmann",
+            "Robert E. Schapire",
+            "Aleksandrs Slivkins",
+            "Masrour Zoghi"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Dudik15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Beyond Hartigan Consistency: Merge Distortion Metric for Hierarchical Clustering",
+        "authors": [
+            "Justin Eldridge",
+            "Mikhail Belkin",
+            "Yusu Wang"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Eldridge15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Faster Algorithms for Testing under Conditional Sampling",
+        "authors": [
+            "Moein Falahatgar",
+            "Ashkan Jafarpour",
+            "Alon Orlitsky",
+            "Venkatadheeraj Pichapati",
+            "Ananda Theertha Suresh"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Falahatgar15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Learning and inference in the presence of corrupted inputs",
+        "authors": [
+            "Uriel Feige",
+            "Yishay Mansour",
+            "Robert Schapire"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Feige15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "From Averaging to Acceleration, There is Only a Step-size",
+        "authors": [
+            "Nicolas Flammarion",
+            "Francis Bach"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Flammarion15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Variable Selection is Hard",
+        "authors": [
+            "Dean Foster",
+            "Howard Karloff",
+            "Justin Thaler"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Foster15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Vector-Valued Property Elicitation",
+        "authors": [
+            "Rafael Frongillo",
+            "Ian A. Kash"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Frongillo15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Competing with the Empirical Risk Minimizer in a Single Pass",
+        "authors": [
+            "Roy Frostig",
+            "Rong Ge",
+            "Sham M. Kakade",
+            "Aaron Sidford"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Frostig15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "A Chaining Algorithm for Online Nonparametric Regression",
+        "authors": [
+            "Pierre Gaillard",
+            "Sébastien Gerchinovitz"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Gaillard15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Escaping From Saddle Points — Online Stochastic Gradient for Tensor Decomposition",
+        "authors": [
+            "Rong Ge",
+            "Furong Huang",
+            "Chi Jin",
+            "Yang Yuan"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Ge15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Learning the dependence structure of rare events: a non-asymptotic study",
+        "authors": [
+            "Nicolas Goix",
+            "Anne Sabourin",
+            "Stéphan Clémen\\ccon"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Goix15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Thompson Sampling for Learning Parameterized Markov Decision Processes",
+        "authors": [
+            "Aditya Gopalan",
+            "Shie Mannor"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Gopalan15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Computational Lower Bounds for Community Detection on Random Graphs",
+        "authors": [
+            "Bruce Hajek",
+            "Yihong Wu",
+            "Jiaming Xu"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Hajek15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Adaptive Recovery of Signals by Convex Optimization",
+        "authors": [
+            "Zaid Harchaoui",
+            "Anatoli Juditsky",
+            "Arkadi Nemirovski",
+            "Dmitry Ostrovsky"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Harchaoui15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Tensor principal component analysis via sum-of-square proofs",
+        "authors": [
+            "Samuel B. Hopkins",
+            "Jonathan Shi",
+            "David Steurer"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Hopkins15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Fast Exact Matrix Completion with Finite Samples",
+        "authors": [
+            "Prateek Jain",
+            "Praneeth Netrapalli"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Jain15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Exp-Concavity of Proper Composite Losses",
+        "authors": [
+            "Parameswaran Kamalaruban",
+            "Robert Williamson",
+            "Xinhua Zhang"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Kamalaruban15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "On Learning Distributions from their Samples",
+        "authors": [
+            "Sudeep Kamath",
+            "Alon Orlitsky",
+            "Dheeraj Pichapati",
+            "Ananda Theertha Suresh"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Kamath15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "MCMC Learning",
+        "authors": [
+            "Varun Kanade",
+            "Elchanan Mossel"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Kanade15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Online PCA with Spectral Bounds",
+        "authors": [
+            "Zohar Karnin",
+            "Edo Liberty"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Karnin15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Regret Lower Bound and Optimal Algorithm in Dueling Bandit Problem",
+        "authors": [
+            "Junpei Komiyama",
+            "Junya Honda",
+            "Hisashi Kashima",
+            "Hiroshi Nakagawa"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Komiyama15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Second-order Quantile Methods for Experts and Combinatorial Games",
+        "authors": [
+            "Wouter M. Koolen",
+            "Tim Van Erven"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Koolen15a.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Hierarchical Label Queries with Data-Dependent Partitions",
+        "authors": [
+            "Samory Kpotufe",
+            "Ruth Urner",
+            "Shai Ben-David"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Kpotufe15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Algorithms for Lipschitz Learning on Graphs",
+        "authors": [
+            "Rasmus Kyng",
+            "Anup Rao",
+            "Sushant Sachdeva",
+            "Daniel A. Spielman"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Kyng15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Low Rank Matrix Completion with Exponential Family Noise",
+        "authors": [
+            "Jean Lafond"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Lafond15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Bad Universal Priors and Notions of Optimality",
+        "authors": [
+            "Jan Leike",
+            "Marcus Hutter"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Leike15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Learning with Square Loss: Localization through Offset Rademacher Complexity",
+        "authors": [
+            "Tengyuan Liang",
+            "Alexander Rakhlin",
+            "Karthik Sridharan"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Liang15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Achieving All with No Parameters: AdaNormalHedge",
+        "authors": [
+            "Haipeng Luo",
+            "Robert E. Schapire"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Luo15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Lower and Upper Bounds on the Generalization of  Stochastic   Exponentially Concave Optimization",
+        "authors": [
+            "Mehrdad Mahdavi",
+            "Lijun Zhang",
+            "Rong Jin"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Mahdavi15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Correlation Clustering with Noisy Partial Information",
+        "authors": [
+            "Konstantin Makarychev",
+            "Yury Makarychev",
+            "Aravindan Vijayaraghavan"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Makarychev15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Online Density Estimation of Bradley-Terry Models",
+        "authors": [
+            "Issei Matsumoto",
+            "Kohei Hatano",
+            "Eiji Takimoto"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Matsumoto15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "First-order regret bounds for combinatorial semi-bandits",
+        "authors": [
+            "Gergely Neu"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Neu15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Norm-Based Capacity Control in Neural Networks",
+        "authors": [
+            "Behnam Neyshabur",
+            "Ryota Tomioka",
+            "Nathan Srebro"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Neyshabur15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Cortical Learning via Prediction",
+        "authors": [
+            "Christos H. Papadimitriou",
+            "Santosh S. Vempala"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Papadimitriou15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Partitioning Well-Clustered Graphs: Spectral Clustering Works!",
+        "authors": [
+            "Richard Peng",
+            "He Sun",
+            "Luca Zanetti"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Peng15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Batched Bandit Problems",
+        "authors": [
+            "Vianney Perchet",
+            "Philippe Rigollet",
+            "Sylvain Chassang",
+            "Erik Snowberg"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Perchet15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Hierarchies of Relaxations for Online Prediction Problems with Evolving Constraints",
+        "authors": [
+            "Alexander Rakhlin",
+            "Karthik Sridharan"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Rakhlin15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Fast Mixing for Discrete Point Processes",
+        "authors": [
+            "Patrick Rebeschini",
+            "Amin Karbasi"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Rebeschini15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Generalized Mixability via Entropic Duality",
+        "authors": [
+            "Mark D. Reid",
+            "Rafael M. Frongillo",
+            "Robert C. Williamson",
+            "Nishant Mehta"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Reid15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "On the Complexity of Bandit Linear Optimization",
+        "authors": [
+            "Ohad Shamir"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Shamir15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "An Almost Optimal PAC Algorithm",
+        "authors": [
+            "Hans U. Simon"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Simon15a.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Minimax rates for memory-bounded sparse linear regression",
+        "authors": [
+            "Jacob Steinhardt",
+            "John Duchi"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Steinhardt15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Interactive Fingerprinting Codes and the Hardness of Preventing False Discovery",
+        "authors": [
+            "Thomas Steinke",
+            "Jonathan Ullman"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Steinke15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Convex Risk Minimization and Conditional Probability Estimation",
+        "authors": [
+            "Matus Telgarsky",
+            "Miroslav Dudík",
+            "Robert Schapire"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Telgarsky15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Regularized Linear Regression: A Precise Analysis of the Estimation Error",
+        "authors": [
+            "Christos Thrampoulidis",
+            "Samet Oymak",
+            "Babak Hassibi"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Thrampoulidis15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "Max vs Min: Tensor Decomposition and ICA with nearly Linear Sample Complexity",
+        "authors": [
+            "Santosh S. Vempala",
+            "Ying. Xiao"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Vempala15.pdf",
+        "source": "COLT",
+        "year": 2015
+    },
+    {
+        "title": "On Convergence of Emphatic Temporal-Difference Learning",
+        "authors": [
+            "H. Yu"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v40/Yu15.pdf",
+        "source": "COLT",
+        "year": 2015
+    }
+]

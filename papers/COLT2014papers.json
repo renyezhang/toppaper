@@ -1,0 +1,641 @@
+[
+    {
+        "title": "Open Problem: Tightness of maximum likelihood semidefinite relaxations",
+        "authors": [
+            "Afonso S. Bandeira",
+            "Yuehaw Khoo",
+            "Amit Singer"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/bandeira14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Open Problem: A (Missing) Boosting-type Convergence Result for AdaBoost.MH with Factorized Multi-class Classifiers",
+        "authors": [
+            "Balázs Kégl"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/kegl14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Open Problem: Finding Good Cascade Sampling Processes for the Network Inference Problem",
+        "authors": [
+            "Manuel Gomez-Rodriguez",
+            "Le Song",
+            "Bernhard Schoelkopf"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/gomezrodriguez14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Open Problem: Tensor Decompositions: Algorithms up to the Uniqueness Threshold?",
+        "authors": [
+            "Aditya Bhaskara",
+            "Moses Charikar",
+            "Ankur Moitra",
+            "Aravindan Vijayaraghavan"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/bhaskara14b.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Open Problem: The Statistical Query Complexity of Learning Sparse Halfspaces",
+        "authors": [
+            "Vitaly Feldman"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/feldman14c.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Open Problem: Online Local Learning",
+        "authors": [
+            "Paul Christiano"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/christiano14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Open Problem: Shifting Experts on Easy Data",
+        "authors": [
+            "Manfred K. Warmuth",
+            "Wouter M. Koolen"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/warmuth14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Open Problem: Efficient Online Sparse Regression",
+        "authors": [
+            "Satyen Kale"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/kale14b.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Distribution-independent Reliable Learning",
+        "authors": [
+            "Varun Kanade",
+            "Justin Thaler"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/kanade14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Learning without concentration",
+        "authors": [
+            "Shahar Mendelson"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/mendelson14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Uniqueness of Ordinal Embedding",
+        "authors": [
+            "Matthäus Kleindessner",
+            "Ulrike Luxburg"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/kleindessner14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Bayes-Optimal Scorers for Bipartite Ranking",
+        "authors": [
+            "Aditya Krishna Menon",
+            "Robert C. Williamson"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/menon14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Multiarmed Bandits With Limited Expert Advice",
+        "authors": [
+            "Satyen Kale"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/kale14a.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Learning Sparsely Used Overcomplete Dictionaries",
+        "authors": [
+            "Alekh Agarwal",
+            "Animashree Anandkumar",
+            "Prateek Jain",
+            "Praneeth Netrapalli",
+            "Rashish Tandon"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/agarwal14a.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Community Detection via Random and Adaptive Sampling",
+        "authors": [
+            "Se-Young Yun",
+            "Alexandre Proutiere"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/yun14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "A second-order bound with excess losses",
+        "authors": [
+            "Pierre Gaillard",
+            "Gilles Stoltz",
+            "Tim van Erven"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/gaillard14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Logistic Regression: Tight Bounds for Stochastic and Online Optimization",
+        "authors": [
+            "Elad Hazan",
+            "Tomer Koren",
+            "Kfir Y. Levy"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/hazan14a.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Higher-Order Regret Bounds with Switching Costs",
+        "authors": [
+            "Eyal Gofer"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/gofer14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "The Complexity of Learning Halfspaces using Generalized Linear Methods",
+        "authors": [
+            "Amit Daniely",
+            "Nati Linial",
+            "Shai Shalev-Shwartz"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/daniely14a.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Optimal learners for multiclass problems",
+        "authors": [
+            "Amit Daniely",
+            "Shai Shalev-Shwartz"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/daniely14b.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Stochastic Regret Minimization via Thompson Sampling",
+        "authors": [
+            "Sudipto Guha",
+            "Kamesh Munagala"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/guha14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Approachability in unknown games: Online learning meets multi-objective optimization",
+        "authors": [
+            "Shie Mannor",
+            "Vianney Perchet",
+            "Gilles Stoltz"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/mannor14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Belief propagation, robust reconstruction and optimal recovery of block models",
+        "authors": [
+            "Elchanan Mossel",
+            "Joe Neeman",
+            "Allan Sly"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/mossel14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Sample Compression for Multi-label Concept Classes",
+        "authors": [
+            "Rahim Samei",
+            "Pavel Semukhin",
+            "Boting Yang",
+            "Sandra Zilles"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/samei14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Finding a most biased coin with fewest flips",
+        "authors": [
+            "Karthekeyan Chandrasekaran",
+            "Richard Karp"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/chandrasekaran14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Volumetric Spanners: an Efficient Exploration Basis for Learning",
+        "authors": [
+            "Elad Hazan",
+            "Zohar Karnin",
+            "Raghu Meka"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/hazan14b.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "lil’ UCB : An Optimal Exploration Algorithm for Multi-Armed Bandits",
+        "authors": [
+            "Kevin Jamieson",
+            "Matthew Malloy",
+            "Robert Nowak",
+            "Sébastien Bubeck"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/jamieson14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "An Inequality with Applications to Structured Sparsity and Multitask Dictionary Learning",
+        "authors": [
+            "Andreas Maurer",
+            "Massimiliano Pontil",
+            "Bernardino Romera-Paredes"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/maurer14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "On the Complexity of A/B Testing",
+        "authors": [
+            "Emilie Kaufmann",
+            "Olivier Cappé",
+            "Aurélien Garivier"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/kaufmann14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Elicitation and Identification of Properties",
+        "authors": [
+            "Ingo Steinwart",
+            "Chloé Pasin",
+            "Robert Williamson",
+            "Siyu Zhang"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/steinwart14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "The sample complexity of agnostic learning under deterministic labels",
+        "authors": [
+            "Shai Ben-David",
+            "Ruth Urner"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/ben-david14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Density-preserving quantization with application to graph downsampling",
+        "authors": [
+            "Morteza Alamgir",
+            "Gábor Lugosi",
+            "Ulrike Luxburg"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/alamgir14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "A Convex Formulation for Mixed Regression with Two Components: Minimax Optimal Rates",
+        "authors": [
+            "Yudong Chen",
+            "Xinyang Yi",
+            "Constantine Caramanis"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/chen14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Efficiency of conformalized ridge regression",
+        "authors": [
+            "Evgeny Burnaev",
+            "Vladimir Vovk"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/burnaev14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Most Correlated Arms Identification",
+        "authors": [
+            "Che-Yu Liu",
+            "Sébastien Bubeck"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/liu14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Fast matrix completion without the condition number",
+        "authors": [
+            "Moritz Hardt",
+            "Mary Wootters"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/hardt14a.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Learning Coverage Functions and Private Release of Marginals",
+        "authors": [
+            "Vitaly Feldman",
+            "Pravesh Kothari"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/feldman14a.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Computational Limits for Matrix Completion",
+        "authors": [
+            "Moritz Hardt",
+            "Raghu Meka",
+            "Prasad Raghavendra",
+            "Benjamin Weitz"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/hardt14b.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Robust Multi-objective Learning with Mentor Feedback",
+        "authors": [
+            "Alekh Agarwal",
+            "Ashwinkumar Badanidiyuru",
+            "Miroslav Dudík",
+            "Robert E. Schapire",
+            "Aleksandrs Slivkins"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/agarwal14b.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Uniqueness of Tensor Decompositions with Applications to Polynomial Identifiability",
+        "authors": [
+            "Aditya Bhaskara",
+            "Moses Charikar",
+            "Aravindan Vijayaraghavan"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/bhaskara14a.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "New Algorithms for Learning Incoherent and Overcomplete Dictionaries",
+        "authors": [
+            "Sanjeev Arora",
+            "Rong Ge",
+            "Ankur Moitra"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/arora14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Online Linear Optimization via Smoothing",
+        "authors": [
+            "Jacob Abernethy",
+            "Chansoo Lee",
+            "Abhinav Sinha",
+            "Ambuj Tewari"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/abernethy14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Learning Mixtures of Discrete Product Distributions using Spectral Decompositions",
+        "authors": [
+            "Prateek Jain",
+            "Sewoong Oh"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/jain14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Localized Complexities for Transductive Learning",
+        "authors": [
+            "Ilya Tolstikhin",
+            "Gilles Blanchard",
+            "Marius Kloft"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/tolstikhin14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "On the Consistency of Output Code Based Learning Algorithms for Multiclass Learning Problems",
+        "authors": [
+            "Harish G. Ramaswamy",
+            "Balaji Srinivasan Babu",
+            "Shivani Agarwal",
+            "Robert C. Williamson"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/ramaswamy14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Edge Label Inference in Generalized Stochastic Block Models: from Spectral Theory to Impossibility Results",
+        "authors": [
+            "Jiaming Xu",
+            "Laurent Massoulié",
+            "Marc Lelarge"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/xu14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Lower Bounds on the Performance of Polynomial-time Algorithms for Sparse Linear Regression",
+        "authors": [
+            "Yuchen Zhang",
+            "Martin J. Wainwright",
+            "Michael I. Jordan"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/zhang14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Follow the Leader with Dropout Perturbations",
+        "authors": [
+            "Tim Van Erven",
+            "Wojciech Kotłowski",
+            "Manfred K. Warmuth"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/vanerven14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Lipschitz Bandits: Regret Lower Bound and Optimal Algorithms",
+        "authors": [
+            "Stefan Magureanu",
+            "Richard Combes",
+            "Alexandre Proutiere"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/magureanu14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Sample Complexity Bounds on Differentially Private Learning via Communication Complexity",
+        "authors": [
+            "Vitaly Feldman",
+            "David Xiao"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/feldman14b.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Unconstrained Online Linear Learning in Hilbert Spaces: Minimax Algorithms and Normal Approximations",
+        "authors": [
+            "H. Brendan McMahan",
+            "Francesco Orabona"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/mcmahan14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Principal Component Analysis and Higher Correlations for Distributed Data",
+        "authors": [
+            "Ravi Kannan",
+            "Santosh Vempala",
+            "David Woodruff"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/kannan14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Compressed Counting Meets Compressed Sensing",
+        "authors": [
+            "Ping Li",
+            "Cun-Hui Zhang",
+            "Tong Zhang"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/li14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "The Geometry of Losses",
+        "authors": [
+            "Robert C. Williamson"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/williamson14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Resourceful Contextual Bandits",
+        "authors": [
+            "Ashwinkumar Badanidiyuru",
+            "John Langford",
+            "Aleksandrs Slivkins"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/badanidiyuru14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "The More, the Merrier: the Blessing of Dimensionality for Learning Large Gaussian Mixtures",
+        "authors": [
+            "Joseph Anderson",
+            "Mikhail Belkin",
+            "Navin Goyal",
+            "Luis Rademacher",
+            "James Voss"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/anderson14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Near-Optimal Herding",
+        "authors": [
+            "Nick Harvey",
+            "Samira Samadi"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/harvey14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Faster and Sample Near-Optimal Algorithms for Proper Learning Mixtures of Gaussians",
+        "authors": [
+            "Constantinos Daskalakis",
+            "Gautam Kamath"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/daskalakis14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Online Learning with Composite Loss Functions",
+        "authors": [
+            "Ofer Dekel",
+            "Jian Ding",
+            "Tomer Koren",
+            "Yuval Peres"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/dekel14.pdf",
+        "source": "COLT",
+        "year": 2014
+    },
+    {
+        "title": "Online Non-Parametric Regression",
+        "authors": [
+            "Alexander Rakhlin",
+            "Karthik Sridharan"
+        ],
+        "pdf_link": "http://proceedings.mlr.press/v35/rakhlin14.pdf",
+        "source": "COLT",
+        "year": 2014
+    }
+]

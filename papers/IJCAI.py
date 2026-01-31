@@ -101,7 +101,7 @@ def save_to_json(data, filename):
 
 if __name__ == "__main__":
     # 可以在这里修改年份
-    year = 2016
+    year = 2017
     papers = get_ijcai_papers(year)
     
     if papers:

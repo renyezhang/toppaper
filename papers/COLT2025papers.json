@@ -1,0 +1,2012 @@
+[
+    {
+        "title": "Optimistic Q-learning for average reward and episodic reinforcement learning extended abstract",
+        "authors": [
+            "Priyank Agrawal",
+            "Shipra Agrawal"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/agrawal25a/agrawal25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Computable learning of natural hypothesis classes",
+        "authors": [
+            "Syed Akbari",
+            "Matthew Harrison-Trainor"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/akbari25a/akbari25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Better Private Distribution Testing by Leveraging Unverified Auxiliary Data",
+        "authors": [
+            "Maryam Aliakbarpour",
+            "Arnav Burudgunte",
+            "Clément Canonne",
+            "Ronitt Rubinfeld"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/aliakbarpour25a/aliakbarpour25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Regret Bounds for Robust Online Decision Making",
+        "authors": [
+            "Alexander Appel",
+            "Vanessa Kosoy"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/appel25a/appel25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Simplifying Adversarially Robust PAC Learning With Tolerance",
+        "authors": [
+            "Hassan Ashtiani",
+            "Vinayak Pathak",
+            "Ruth Urner"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/ashtiani25a/ashtiani25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Computational Intractability of Strategizing against Online Learners",
+        "authors": [
+            "Angelos Assos",
+            "Yuval Dagan",
+            "Nived Rajaraman"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/assos25a/assos25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Testing Thresholds and Spectral Properties of High-Dimensional Random Toroidal Graphs via Edgeworth-Style Expansions",
+        "authors": [
+            "Samuel Baguley",
+            "Andreas Göbel",
+            "Marcus Pappik",
+            "Leon Schiller"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/baguley25a/baguley25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Faster Acceleration for Steepest Descent",
+        "authors": [
+            "Cedar Site Bai",
+            "Brian Bullins"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/bai25a/bai25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Thompson Sampling for Bandit Convex Optimisation",
+        "authors": [
+            "Alireza Bakhtiari",
+            "Tor Lattimore",
+            "Csaba Szepesvári"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/bakhtiari25a/bakhtiari25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Metric Embeddings Beyond Bi-Lipschitz Distortion via Sherali-Adams",
+        "authors": [
+            "Ainesh Bakshi",
+            "Vincent Cohen-Addad",
+            "Rajesh Jayaram",
+            "Samuel B. Hopkins",
+            "Silvio Lattanzi"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/bakshi25a/bakshi25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "How to safely discard features based on aggregate SHAP values",
+        "authors": [
+            "Robi Bhattacharjee",
+            "Karolin Frohnapfel",
+            "Ulrike von Luxburg"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/bhattacharjee25a/bhattacharjee25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Optimal Graph Reconstruction by Counting Connected Components in Induced Subgraphs",
+        "authors": [
+            "Hadley Black",
+            "Arya Mazumdar",
+            "Barna Saha",
+            "Yinzhan Xu"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/black25a/black25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Learning Partitions with Optimal Query and Round Complexities",
+        "authors": [
+            "Hadley Black",
+            "Arya Mazumdar",
+            "Barna Saha"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/black25b/black25b.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "A Distributional-Lifting Theorem for PAC Learning",
+        "authors": [
+            "Guy Blanc",
+            "Jane Lange",
+            "Carmen Strassle",
+            "Li-Yang Tan"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/blanc25a/blanc25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Stability and List-Replicability for Agnostic Learners",
+        "authors": [
+            "Ari Blondal",
+            "Gao Shan",
+            "Hamed Hatami",
+            "Pooya Hatami"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/blondal25a/blondal25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Proofs as Explanations: Short Certificates for Reliable Predictions",
+        "authors": [
+            "Avrim Blum",
+            "Steve Hanneke",
+            "Chirag Pabbaraju",
+            "Donya Saless"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/blum25a/blum25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Accelerating Proximal Gradient Descent via Silver Stepsizes",
+        "authors": [
+            "Jinho Bok",
+            "Jason M. Altschuler"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/bok25a/bok25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Logarithmic regret of exploration in average reward Markov decision processes",
+        "authors": [
+            "Victor Boone",
+            "Bruno Gaujal"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/boone25a/boone25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Partial and Exact Recovery of a Random Hypergraph from its Graph Projection",
+        "authors": [
+            "Guy Bresler",
+            "Chenghao Guo",
+            "Yury Polyanskiy",
+            "Andrew Yao"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/bresler25a/bresler25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Computational Equivalence of Spiked Covariance and Spiked Wigner Models via Gram-Schmidt Perturbation",
+        "authors": [
+            "Guy Bresler",
+            "Alina Harbuzova"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/bresler25b/bresler25b.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Of Dice and Games: A Theory of Generalized Boosting",
+        "authors": [
+            "Marco Bressan",
+            "Nataly Brukhim",
+            "Nicolò Cesa-Bianchi",
+            "Emmanuel Esposito",
+            "Yishay Mansour",
+            "Shay Moran",
+            "Maximilian Thiessen"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/bressan25a/bressan25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "A Fine-grained Characterization of PAC Learnability",
+        "authors": [
+            "Marco Bressan",
+            "Nataly Brukhim",
+            "Nicolò Cesa-Bianchi",
+            "Emmanuel Esposito",
+            "Yishay Mansour",
+            "Shay Moran",
+            "Maximilian Thiessen"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/bressan25b/bressan25b.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "On the Convergence of Min-Max Langevin Dynamics and Algorithm",
+        "authors": [
+            "Yang Cai",
+            "Siddharth Mitra",
+            "Xiuyuan Wang",
+            "Andre Wibisono"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/cai25a/cai25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "What Makes Treatment Effects Identifiable? Characterizations and Estimators Beyond Unconfoundedness (Extended Abstract)",
+        "authors": [
+            "Yang Cai",
+            "Alkis Kalavasis",
+            "Katerina Mamali",
+            "Anay Mehrotra",
+            "Manolis Zampetakis"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/cai25b/cai25b.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Information-theoretic reduction of deep neural networks to linear models in the overparametrized proportional regime",
+        "authors": [
+            "Francesco Camilli",
+            "Daria Tieplova",
+            "Eleonora Bergamin",
+            "Jean Barbier"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/camilli25a/camilli25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Market Making without Regret",
+        "authors": [
+            "Nicolò Cesa-Bianchi",
+            "Tommaso Cesari",
+            "Roberto Colomboni",
+            "Luigi Foscari",
+            "Vinayak Pathak"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/cesa-bianchi25a/cesa-bianchi25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Towards Fair Representation: Clustering and Consensus",
+        "authors": [
+            "Diptarka Chakraborty",
+            "Kushagra Chatterjee",
+            "Debarati Das",
+            "Tien Long Nguyen",
+            "Romina Nobahari"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/chakraborty25a/chakraborty25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Exploring Facets of Language Generation in the Limit",
+        "authors": [
+            "Moses Charikar",
+            "Chirag Pabbaraju"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/charikar25a/charikar25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Deterministic Apple Tasting",
+        "authors": [
+            "Zachary Chase",
+            "Idan Mehalel"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/chase25a/chase25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "DiscQuant: A Quantization Method for Neural Networks Inspired by Discrepancy Theory",
+        "authors": [
+            "Jerry Chee",
+            "Arturs Backurs",
+            "Rainie Heck",
+            "Li Zhang",
+            "Janardhan Kulkarni",
+            "Thomas Rothvoss",
+            "Sivakanth Gopi"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/chee25a/chee25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Solving Convex-Concave Problems with $\\mathcal{O}(\\epsilon^{-4/7})$ Second-Order Oracle Complexity",
+        "authors": [
+            "Lesi Chen",
+            "Chengchang Liu",
+            "Luo Luo",
+            "Jingzhao Zhang"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/chen25a/chen25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Decision Making in Changing Environments: Robustness, Query-Based Learning, and Differential Privacy",
+        "authors": [
+            "Fan Chen",
+            "Alexander Rakhlin"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/chen25b/chen25b.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Predicting quantum channels over general product distributions",
+        "authors": [
+            "Sitan Chen",
+            "Jaume de Dios Pont",
+            "Jun-Ting Hsieh",
+            "Hsin-Yuan Huang",
+            "Jane Lange",
+            "Jerry Li"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/chen25c/chen25c.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Improved sample upper and lower bounds for trace estimation of quantum state powers",
+        "authors": [
+            "Kean Chen",
+            "Qisheng Wang"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/chen25d/chen25d.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Learning general Gaussian mixtures with efficient score matching",
+        "authors": [
+            "Sitan Chen",
+            "Vasilis Kontonis",
+            "Kulin Shah"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/chen25e/chen25e.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Algorithms for Sparse LPN and LSPN Against Low-noise (extended abstract)",
+        "authors": [
+            "Xue Chen",
+            "Wenxuan Shu",
+            "Zhaienhe Zhou"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/chen25f/chen25f.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Optimization, Isoperimetric Inequalities, and Sampling via Lyapunov Potentials",
+        "authors": [
+            "August Y Chen",
+            "Karthik Sridharan"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/chen25g/chen25g.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Heavy-tailed Estimation is Easier than Adversarial Contamination",
+        "authors": [
+            "Yeshwanth Cherapanamjeri",
+            "Daniel Lee"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/cherapanamjeri25a/cherapanamjeri25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "The Space Complexity of Learning-Unlearning Algorithms (extended abstract)",
+        "authors": [
+            "Yeshwanth Cherapanamjeri",
+            "Sumegba Garg",
+            "Nived Rajaraman",
+            "Ayush Sekhari",
+            "Abhishek Shetty"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/cherapanamjeri25b/cherapanamjeri25b.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Quantum State and Unitary Learning Implies Circuit Lower Bounds",
+        "authors": [
+            "Nai-Hui Chia",
+            "Daniel Liang",
+            "Fang Song"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/chia25a/chia25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Stochastic block models with many communities and the Kesten–Stigum bound - extended abstract",
+        "authors": [
+            "Byron Chin",
+            "Elchanan Mossel",
+            "Youngtak Sohn",
+            "Alexander S. Wein"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/chin25a/chin25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Spherical Dimension",
+        "authors": [
+            "Bogdan Chornomaz",
+            "Shay Moran",
+            "Tom Waknine"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/chornomaz25a/chornomaz25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Lower Bounds for Greedy Teaching Set Constructions",
+        "authors": [
+            "Spencer Compton",
+            "Chirag Pabbaraju",
+            "Nikita Zhivotovskiy"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/compton25a/compton25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Non-Euclidean High-Order Smooth Convex Optimization Extended Abstract",
+        "authors": [
+            "Juan Pablo Contreras",
+            "Cristóbal Guzmán",
+            "David Martı́nez-Rubio"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/contreras25a/contreras25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Low-dimensional Functions are Efficiently Learnable under Randomly Biased Distributions",
+        "authors": [
+            "Elisabetta Cornacchia",
+            "Dan Mikulincer",
+            "Elchanan Mossel"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/cornacchia25a/cornacchia25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Non-Monetary Mechanism Design without Distributional Information: Using Scarce Audits Wisely (Extended Abstract)",
+        "authors": [
+            "Yan Dai",
+            "Moïse Blanchard",
+            "Patrick Jaillet"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/dai25a/dai25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Existence of Adversarial Examples for Random Convolutional Networks via  Isoperimetric Inequalities on $\\mathbb{SO}(d)$",
+        "authors": [
+            "Amit Daniely"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/daniely25a/daniely25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Rate-Preserving Reductions for Blackwell Approachability",
+        "authors": [
+            "Christoph Dann",
+            "Yishay Mansour",
+            "Mehryar Mohri",
+            "Jon Schneider",
+            "Balasubramanian Sivan"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/dann25a/dann25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Low-rank fine-tuning lies between lazy training and feature learning",
+        "authors": [
+            "Arif Kerem Dayi",
+            "Sitan Chen"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/dayi25a/dayi25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Learning Intersections of Two Margin Halfspaces under Factorizable Distributions",
+        "authors": [
+            "Ilias Diakonikolas",
+            "Ma Mingchen",
+            "Ren Lisheng",
+            "Tzamos Christos"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/diakonikolas25a/diakonikolas25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Faster Algorithms for Agnostically Learning Disjunctions and their Implications",
+        "authors": [
+            "Ilias Diakonikolas",
+            "Daniel M. Kane",
+            "Lisheng Ren"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/diakonikolas25b/diakonikolas25b.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "A Proof of The Changepoint Detection Threshold Conjecture in Preferential Attachment Models",
+        "authors": [
+            "Hang Du",
+            "Shuyang Gong",
+            "Jiaming Xu"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/du25a/du25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "From Fairness to Infinity: Outcome-Indistinguishable (Omni)Prediction in Evolving Graphs",
+        "authors": [
+            "Cynthia Dwork",
+            "Chris Hays",
+            "Nicole Immorlica",
+            "Juan C. Perdomo",
+            "Pranay Tankala"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/dwork25a/dwork25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Logarithmic Width Suffices for Robust Memorization",
+        "authors": [
+            "Amitsour Egosi",
+            "Gilad Yehudai",
+            "Ohad Shamir"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/egosi25a/egosi25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Detecting Arbitrary Planted Subgraphs in Random Graphs",
+        "authors": [
+            "Dor Elimelech",
+            "Wasim Huleihel"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/elimelech25a/elimelech25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Universality of High-Dimensional Logistic Regression and a Novel CGMT under Dependence with Applications to Data Augmentation",
+        "authors": [
+            "Matthew Esmaili Mallory",
+            "Kevin Han Huang",
+            "Morgane Austern"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/esmaili-mallory25a/esmaili-mallory25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Learning Augmented Graph $k$-Clustering",
+        "authors": [
+            "Chenglin Fan",
+            "Kijun Shin"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/fan25a/fan25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Trade-offs in Data Memorization via Strong Data Processing Inequalities",
+        "authors": [
+            "Vitaly Feldman",
+            "Guy Kornowski",
+            "Xin Lyu"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/feldman25a/feldman25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Approximating the total variation distance between spin systems",
+        "authors": [
+            "Weiming Feng",
+            "Hongyang Liu",
+            "Minji Yang"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/feng25a/feng25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Is a Good Foundation Necessary for Efficient Reinforcement Learning? The Computational Role of the Base Model in Exploration",
+        "authors": [
+            "Dylan J Foster",
+            "Zakaria Mhammedi",
+            "Dhruv Rohatgi"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/foster25a/foster25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "An uncertainty principle for Linear Recurrent Neural Networks",
+        "authors": [
+            "Alexandre François",
+            "Antonio Orvieto",
+            "Francis Bach"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/francois25a/francois25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Complexity of Injectivity and Verification of ReLU Neural Networks (Extended Abstract)",
+        "authors": [
+            "Vincent Froese",
+            "Moritz Grillo",
+            "Martin Skutella"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/froese25a/froese25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Bayes correlated equilibria, no-regret dynamics in Bayesian games, and the price of anarchy",
+        "authors": [
+            "Kaito Fujii"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/fujii25a/fujii25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Gradient Methods with Online Scaling",
+        "authors": [
+            "Wenzhi Gao",
+            "Ya-Chi Chu",
+            "Yinyu Ye",
+            "Madeleine Udell"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/gao25a/gao25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Computing High-dimensional Confidence Sets for Arbitrary Distributions",
+        "authors": [
+            "Chao Gao",
+            "Liren Shan",
+            "Vaidehi Srinivas",
+            "Aravindan Vijayaraghavan"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/gao25b/gao25b.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Blackwell’s Approachability with Approximation Algorithms",
+        "authors": [
+            "Dan Garber",
+            "Massalha Mhna"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/garber25a/garber25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Faster Low-Rank Approximation and Kernel Ridge Regression via the Block-Nyström Method",
+        "authors": [
+            "Sachin Garg",
+            "Michał Dereziński"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/garg25a/garg25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Model predictive control is almost optimal for restless bandits",
+        "authors": [
+            "Nicolas \"Gast",
+            "Dheeraj\" Narasimha"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/gast25a/gast25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Computing Optimal Regularizers for Online Linear Optimization",
+        "authors": [
+            "Khashayar Gatmiry",
+            "Jon Schneider",
+            "Stefanie Jegelka"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/gatmiry25a/gatmiry25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Learning Mixtures of Gaussians Using Diffusion Models",
+        "authors": [
+            "Khashayar Gatmiry",
+            "Jonathan Kelner",
+            "Holden Lee"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/gatmiry25b/gatmiry25b.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "“All-Something-Nothing” Phase Transitions in Planted $k$-Factor Recovery (Extended Abstract)",
+        "authors": [
+            "Julia Gaudio",
+            "Colin Sandon",
+            "Jiaming Xu",
+            "Dana Yang"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/gaudio25a/gaudio25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "PREM: Privately Answering Statistical Queries with Relative Error",
+        "authors": [
+            "Badih Ghazi",
+            "Cristóbal Guzmán",
+            "Pritish Kamath",
+            "Alexander Knop",
+            "Ravi Kumar",
+            "Pasin Manurangsi",
+            "Sushant Sachdeva"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/ghazi25a/ghazi25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Mean-field analysis of polynomial-width two-layer neural network beyond finite time horizon",
+        "authors": [
+            "Margalit Glasgow",
+            "Denny Wu",
+            "Joan Bruna"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/glasgow25a/glasgow25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Tight Bounds for Noisy Computation of High-Influence Functions, Connectivity, and Threshold",
+        "authors": [
+            "Yuzhou Gu",
+            "Xin Li",
+            "Yinzhan Xu"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/gu25a/gu25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals",
+        "authors": [
+            "Anxin Guo",
+            "Aravindan Vijayaraghavan"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/guo25a/guo25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Alternating Regret for Online Convex Optimization",
+        "authors": [
+            "Soumita Hait",
+            "Ping Li",
+            "Haipeng Luo",
+            "Mengxiao Zhang"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/hait25a/hait25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Data Selection for ERMs",
+        "authors": [
+            "Steve Hanneke",
+            "Shay Moran",
+            "Alexander Shlimovich",
+            "Amir Yehudayoff"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/hanneke25a/hanneke25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Universal Rates of ERM for Agnostic Learning",
+        "authors": [
+            "Steve Hanneke",
+            "Mingyue Xu"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/hanneke25b/hanneke25b.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Universal Rates for Multiclass Learning with Bandit Feedback",
+        "authors": [
+            "Steve Hanneke",
+            "Amirreza Shaeiri",
+            "Qian Zhang"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/hanneke25c/hanneke25c.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Compression Barriers in Autoregressive Transformers",
+        "authors": [
+            "Themistoklis Haris",
+            "Krzysztof Onak"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/haris25a/haris25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "On the query complexity of sampling from non-log-concave distributions (extended abstract)",
+        "authors": [
+            "Yuchen He",
+            "Chihao Zhang"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/he25a/he25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Learning DNF through Generalized Fourier Representations",
+        "authors": [
+            "Mohsen Heidari",
+            "Roni Khardon"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/heidari25a/heidari25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Noisy Group Testing in the Linear Regime: Exact Thresholds and Efficient",
+        "authors": [
+            "Lukas Hintze",
+            "Lena Krieg",
+            "Olga Scheftelowitsch",
+            "Haodong Zhu"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/hintze25a/hintze25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Improved Margin Generalization Bounds for Voting Classifiers",
+        "authors": [
+            "Mikael Høgsgaard Møller",
+            "Kasper Green Larsen"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/hogsgaard-moller25a/hogsgaard-moller25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Polynomial low degree hardness for Broadcasting on Trees (Extended Abstract)",
+        "authors": [
+            "Han Huang",
+            "Elchanan Mossel"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/huang25a/huang25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Instance-Dependent Regret Bounds for Learning Two-Player Zero-Sum Games with Bandit Feedback",
+        "authors": [
+            "Shinji Ito",
+            "Haipeng Luo",
+            "Taira Tsuchiya",
+            "Yue Wu"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/ito25a/ito25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Optimal Differentially Private Sampling of Unbounded Gaussians",
+        "authors": [
+            "Valentio Iverson",
+            "Gautam Kamath",
+            "Argyris Mouzakis"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/iverson25a/iverson25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Local Regularizers Are Not Transductive Learners",
+        "authors": [
+            "Sky Jafar",
+            "Julian Asilis",
+            "Shaddin Dughmi"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/jafar25a/jafar25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "On the Minimax Regret of Sequential Probability Assignment via Square-Root Entropy",
+        "authors": [
+            "Zeyu Jia",
+            "Alexander Rakhlin",
+            "Yury Polyanskiy"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/jia25a/jia25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Regularized Dikin Walks for Sampling Truncated Logconcave Measures, Mixed Isoperimetry and Beyond Worst-Case Analysis",
+        "authors": [
+            "Minhui Jiang",
+            "Yuansi Chen"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/jiang25a/jiang25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Online Covariance Estimation in Nonsmooth Stochastic Approximation",
+        "authors": [
+            "Liwei Jiang",
+            "Abhishek Roy",
+            "Krishnakumar Balasubramanian",
+            "Damek Davis",
+            "Dmitriy Drusvyatskiy",
+            "Sen Na"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/jiang25b/jiang25b.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Provable Complexity Improvement of AdaGrad over SGD: Upper and Lower Bounds in Stochastic Non-Convex Optimization",
+        "authors": [
+            "Ruichen Jiang",
+            "Devyani Maladkar",
+            "Aryan Mokhtari"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/jiang25c/jiang25c.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Structure-agnostic Optimality of Doubly Robust Learning for Treatment Effect Estimation (Extended Abstract)",
+        "authors": [
+            "Jikai Jin",
+            "Vasilis Syrgkanis"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/jin25a/jin25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "A Theory of Learning with Autoregressive Chain of Thought",
+        "authors": [
+            "Nirmit Joshi",
+            "Gal Vardi",
+            "Adam Block",
+            "Surbhi Goel",
+            "Zhiyuan Li",
+            "Theodor Misiakiewicz",
+            "Nathan Srebro"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/joshi25a/joshi25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "The Sample Complexity of Distributed Simple Binary Hypothesis Testing under Information Constraints",
+        "authors": [
+            "Hadi Kazemi",
+            "Ankit Pensia",
+            "Jog Varun"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/kazemi25a/kazemi25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Experimental Design for Semiparametric Bandits",
+        "authors": [
+            "Seok-Jin Kim",
+            "Gi-Soo Kim",
+            "Min-hwan Oh"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/kim25a/kim25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Learning Constant-Depth Circuits in Malicious Noise Models",
+        "authors": [
+            "Adam Klivans",
+            "Konstantinos Stavropoulos",
+            "Arsen Vasilyan"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/klivans25a/klivans25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Efficiently learning and sampling multimodal distributions with data-based initialization",
+        "authors": [
+            "Frederic Koehler",
+            "Holden Lee",
+            "Thuy-Duong Vuong"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/koehler25a/koehler25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "The Oracle Complexity of Simplex-based Matrix Games: Linear Separability and Nash Equilibria",
+        "authors": [
+            "Guy Kornowski",
+            "Ohad Shamir"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/kornowski25a/kornowski25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Spectral Estimators for Multi-Index Models: Precise Asymptotics and Optimal Weak Recovery",
+        "authors": [
+            "Filip Kovačević",
+            "Zhang Yihan",
+            "Marco Mondelli"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/kovacevic25a/kovacevic25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "The Role of Environment Access in Agnostic Reinforcement Learning (Extended Abstract)",
+        "authors": [
+            "Akshay Krishnamurthy",
+            "Gene Li",
+            "Ayush Sekhari"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/krishnamurthy25a/krishnamurthy25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Spike-and-Slab Posterior Sampling in High Dimensions",
+        "authors": [
+            "Symantak Kumar",
+            "Purnamrita Sarkar",
+            "Kevin Tian",
+            "Yusong Zhu"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/kumar25a/kumar25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "A Gap Between the Gaussian RKHS and Neural Networks: An Infinite-Center Asymptotic Analysis",
+        "authors": [
+            "Akash Kumar",
+            "Rahul Parhi",
+            "Mikhail Belkin"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/kumar25b/kumar25b.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Low coordinate degree algorithms II: Categorical signals and generalized stochastic block models",
+        "authors": [
+            "Dmitriy Kunisky"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/kunisky25a/kunisky25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Fast and Furious Symmetric Learning in Zero-Sum Games: Gradient Descent as Fictitious Play",
+        "authors": [
+            "John Lazarsfeld",
+            "Georgios Piliouras",
+            "Ryann Sim",
+            "Andre Wibisono"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/lazarsfeld25a/lazarsfeld25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "The Fundamental Limits of Recovering Planted Subgraphs (extended abstract)",
+        "authors": [
+            "Daniel Z. Lee",
+            "Francisco Pernice",
+            "Amit Rajaraman",
+            "Ilias Zadik"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/lee25a/lee25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Robust random graph matching in Gaussian models via vector approximate message passing",
+        "authors": [
+            "Zhangsong Li"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/li25a/li25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Some easy optimization problems have the overlap-gap property",
+        "authors": [
+            "Shuangping Li",
+            "Tselil Schramm"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/li25b/li25b.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "A Polynomial-time Algorithm for Online Sparse Linear Regression with Improved Regret Bound under Weaker Conditions",
+        "authors": [
+            "Junfan Li",
+            "Shizhong Liao",
+            "Zenglin Xu",
+            "Liqiang Nie"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/li25c/li25c.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Multi-Pass Memory Lower Bounds for Learning Problems",
+        "authors": [
+            "Qian Li",
+            "Shuo Wang",
+            "Jiapeng Zhang"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/li25d/li25d.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Private Realizable-to-Agnostic Transformation with Near-Optimal Sample Complexity",
+        "authors": [
+            "Bo Li",
+            "Wei Wang",
+            "Peng Ye"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/li25e/li25e.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Low-dimensional adaptation of diffusion models: Convergence in total variation (extended abstract)",
+        "authors": [
+            "Jiadong Liang",
+            "Zhihan Huang",
+            "Yuxin Chen"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/liang25a/liang25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Characterizing Dependence of Samples along the Langevin Dynamics and Algorithms via Contraction of $Φ$-Mutual Information (Extended Abstract)",
+        "authors": [
+            "Jiaming Liang",
+            "Siddharth Mitra",
+            "Andre Wibisono"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/liang25b/liang25b.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Decision Making in Hybrid Environments: A Model Aggregation Approach",
+        "authors": [
+            "Haolin Liu",
+            "Chen-Yu Wei",
+            "Zimmert Julian"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/liu25a/liu25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Robust Algorithms for Recovering Planted $r$-Colorable Graphs",
+        "authors": [
+            "Anand Louis",
+            "Rameesh Paul",
+            "Prasad Raghavendra"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/louis25a/louis25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Sparsity-Based Interpolation of External, Internal and Swap Regret",
+        "authors": [
+            "Zhou Lu",
+            "Y Jennifer Sun",
+            "Zhiyu Zhang"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/lu25a/lu25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Sample Efficient Omniprediction and Downstream Swap Regret for Non-Linear Losses",
+        "authors": [
+            "Jiuyao Lu",
+            "Aaron Roth",
+            "Mirah Shi"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/lu25b/lu25b.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Identifiability and Estimation in High-Dimensional Nonparametric Latent Structure Models",
+        "authors": [
+            "Yichen Lyu",
+            "Pengkun Yang"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/lyu25a/lyu25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Efficient Near-Optimal Algorithm for Online Shortest Paths in Directed Acyclic Graphs with Bandit Feedback Against Adaptive Adversaries",
+        "authors": [
+            "Arnab Maiti",
+            "Zhiyuan Fan",
+            "Kevin Jamieson",
+            "Lillian J. Ratliff",
+            "Gabriele Farina"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/maiti25a/maiti25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Learning sparse generalized linear models with binary outcomes via iterative hard thresholding",
+        "authors": [
+            "Namiko Matsumoto",
+            "Arya Mazumdar"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/matsumoto25a/matsumoto25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Online Convex Optimization with a Separation Oracle",
+        "authors": [
+            "Zakaria Mhammedi"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/mhammedi25a/mhammedi25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Sample and Oracle Efficient Reinforcement Learning for MDPs with Linearly-Realizable Value Functions",
+        "authors": [
+            "Zakaria Mhammedi"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/mhammedi25b/mhammedi25b.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "The Planted Spanning Tree Problems: Exact Overlap Characterization via Local Weak Convergence Extended Abstract",
+        "authors": [
+            "Mehrdad Moharrami",
+            "Cristopher Moore",
+            "Jiaming Xu"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/moharrami25a/moharrami25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Beyond Worst-Case Online Classification: VC-Based Regret Bounds for Relaxed Benchmarks",
+        "authors": [
+            "Omar Montasser",
+            "Abhishek Shetty",
+            "Nikita Zhivotovskiy"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/montasser25a/montasser25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Optimistically Optimistic Exploration for Provably Efficient Infinite-Horizon Reinforcement and Imitation Learning",
+        "authors": [
+            "Antoine Moulin",
+            "Gergely Neu",
+            "Luca Viano"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/moulin25a/moulin25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Are all models wrong? Fundamental limits in distribution-free empirical model falsification",
+        "authors": [
+            "Manuel M. Müller",
+            "Yuetian Luo",
+            "Rina Foygel Barber"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/muller25a/muller25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Sharper Bounds for Chebyshev Moment Matching, with Applications",
+        "authors": [
+            "Cameron Musco",
+            "Christopher Musco",
+            "Lucas Rosenblatt",
+            "Apoorv Vikram Singh"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/musco25a/musco25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Estimating stationary mass, frequency by frequency",
+        "authors": [
+            "Milind Nakul",
+            "Vidya Muthukumar",
+            "Ashwin Pananjady"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/nakul25a/nakul25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Improved algorithms for learning quantum Hamiltonians, via flat polynomials",
+        "authors": [
+            "Shyam Narayanan"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/narayanan25a/narayanan25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Data-dependent Bounds with $T$-Optimal Best-of-Both-Worlds Guarantees in Multi-Armed Bandits using Stability-Penalty Matching",
+        "authors": [
+            "Quan Nguyen",
+            "Shinji Ito",
+            "Junpei Komiyama",
+            "Mehta Nishant"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/nguyen25a/nguyen25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "On the Hardness of Bandit Learning",
+        "authors": [
+            "Nataly Brukhim",
+            "Aldo Pacchiano",
+            "Miroslav Dudik",
+            "Robert Schapire"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/brukhim25a/brukhim25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Learning Algorithms in the Limit",
+        "authors": [
+            "Hristo Papazov",
+            "Nicolas Flammarion"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/papazov25a/papazov25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Differentially Private Synthetic Graphs Preserving Triangle-Motif Cuts",
+        "authors": [
+            "Pan Peng",
+            "Hangyu Xu"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/peng25a/peng25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Recovering Labels from Crowdsourced Data: an Optimal and Polynomial-Time Method",
+        "authors": [
+            "Emmanuel Pilliat"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/pilliat25a/pilliat25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Optimal Robust Estimation under Local and Global Corruptions: Stronger Adversary and Smaller Error",
+        "authors": [
+            "Thanasis Pittas",
+            "Ankit Pensia"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/pittas25a/pittas25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Lower Bounds for Private Estimation of Gaussian Covariance Matrices under All Reasonable Parameter Regimes",
+        "authors": [
+            "Victor S. Portella",
+            "Nicholas J. A. Harvey"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/portella25a/portella25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Linear Convergence of Diffusion Models Under the Manifold Hypothesis",
+        "authors": [
+            "Peter Potaptchik",
+            "Iskander Azangulov",
+            "George Deligiannidis"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/potaptchik25a/potaptchik25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Truthfulness of Decision-Theoretic Calibration Measures",
+        "authors": [
+            "Mingda Qiao",
+            "Eric Zhao"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/qiao25a/qiao25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Generation through the lens of learning theory",
+        "authors": [
+            "Vinod Raman",
+            "Jiaxun Li",
+            "Ambuj Tewari"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/raman25a/raman25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Metric Clustering and Graph Optimization Problems using Weak Comparison Oracles",
+        "authors": [
+            "Rahul Raychaudhury",
+            "Wen-Zhi Li",
+            "Syamantak Das",
+            "Sainyam Galhotra",
+            "Stavros Sintos"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/raychaudhury25a/raychaudhury25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Computational-Statistical Tradeoffs at the Next-Token Prediction Barrier: Autoregressive and Imitation Learning under Misspecification (extended abstract)",
+        "authors": [
+            "Dhruv Rohatgi",
+            "Adam Block",
+            "Audrey Huang",
+            "Akshay Krishnamurthy",
+            "Dylan J. Foster"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/rohatgi25a/rohatgi25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Necessary and Sufficient Oracles: Toward a Computational Taxonomy for Reinforcement Learning",
+        "authors": [
+            "Dhruv Rohatgi",
+            "Dylan J. Foster"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/rohatgi25b/rohatgi25b.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Can a calibration metric be both testable and actionable?",
+        "authors": [
+            "Raphael Rossellini",
+            "Jake A. Soloff",
+            "Rina Foygel Barber",
+            "Zhimei Ren",
+            "Rebecca Willett"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/rossellini25a/rossellini25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Capacity-Constrained Online Learning with Delays: Scheduling Frameworks and Regret Trade-offs",
+        "authors": [
+            "Alexander Ryabchenko",
+            "Idan Attias",
+            "Daniel M. Roy"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/ryabchenko25a/ryabchenko25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Improved Offline Contextual Bandits with Second-Order Bounds: Betting and Freezing",
+        "authors": [
+            "J. Jon Ryu",
+            "Jeongyeol Kwon",
+            "Benjamin Koppe",
+            "Kwang-Sung Jun"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/ryu25a/ryu25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "New Lower Bounds for Non-Convex Stochastic Optimization through Divergence Decomposition",
+        "authors": [
+            "El Mehdi Saad",
+            "Wei-Cheng Lee",
+            "Francesco Orabona"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/saad25a/saad25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Depth Separations in Neural Networks: Separating the Dimension from the Accuracy",
+        "authors": [
+            "Itay Safran",
+            "Daniel Reichman",
+            "Paul Valiant"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/safran25a/safran25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "The late-stage training dynamics of (stochastic) subgradient descent on homogeneous neural networks",
+        "authors": [
+            "Sholom Schechtman",
+            "Nicolas Schreuder"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/schechtman25a/schechtman25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Private List Learnability vs. Online List Learnability",
+        "authors": [
+            "Steve Hanneke",
+            "Shay Moran",
+            "Hilla Schefler",
+            "Iska Tsubari"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/hanneke25d/hanneke25d.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Testing Juntas and Junta Subclasses with Relative Error",
+        "authors": [
+            "Xi Chen",
+            "William Pires",
+            "Toniann Pitassi",
+            "R. A. Servedio"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/chen25h/chen25h.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Testing (Conditional) Mutual Information - Extended Abstract",
+        "authors": [
+            "Jan Seyfried",
+            "Sayantan Sen",
+            "Marco Tomamichel"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/seyfried25a/seyfried25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "The Pitfalls of Imitation Learning when Actions are Continuous",
+        "authors": [
+            "Max Simchowitz",
+            "Daniel Pfrommer",
+            "Ali Jadbabaie"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/simchowitz25a/simchowitz25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Community detection with the Bethe-Hessian",
+        "authors": [
+            "Ludovic Stephan",
+            "Yizhe Zhu"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/stephan25a/stephan25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Non-convex matrix sensing: Breaking the quadratic rank barrier in the sample complexity Extended Abstract",
+        "authors": [
+            "Dominik Stöger",
+            "Yizhe Zhu"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/stoger25a/stoger25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Optimal Online Bookmaking for Any Number of Outcomes",
+        "authors": [
+            "Hadar Tal",
+            "Oron Sabag"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/tal25a/tal25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Beyond propagation of chaos: A stochastic algorithm for mean field optimization",
+        "authors": [
+            "Chandan Tankala",
+            "Dheeraj Nagaraj",
+            "Anant Raj"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/tankala25a/tankala25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Optimal Scheduling of Dynamic Transport",
+        "authors": [
+            "Panos Tsimpos",
+            "Ren Zhi",
+            "Jakob Zech",
+            "Youssef Marzouk"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/tsimpos25a/tsimpos25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Corrupted Learning Dynamics in Games",
+        "authors": [
+            "Taira Tsuchiya",
+            "Shinji Ito",
+            "Haipeng Luo"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/tsuchiya25a/tsuchiya25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Learning shallow quantum circuits with many-qubit gates",
+        "authors": [
+            "Francisca Vasconcelos",
+            "Hsin-Yuan Huang"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/vasconcelos25a/vasconcelos25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Black-Box Reductions for Decentralized Online Convex Optimization in Changing Environments",
+        "authors": [
+            "Yuanyu Wan"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/wan25a/wan25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Learning Compositional Functions with Transformers from Easy-to-Hard Data",
+        "authors": [
+            "Zixuan Wang",
+            "Eshaan Nichani",
+            "Alberto Bietti",
+            "Alex Damian",
+            "Daniel Hsu",
+            "Jason D Lee",
+            "Denny Wu"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/wang25a/wang25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Orthogonal Causal Calibration (Extended Abstract)",
+        "authors": [
+            "Justin Whitehouse",
+            "Christopher Jung",
+            "Vasilis Syrgkanis",
+            "Bryan Wilder",
+            "Zhiwei Steven Wu"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/whitehouse25a/whitehouse25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Time-Uniform Self-Normalized Concentration for Vector-Valued Processes (Extended Abstract)",
+        "authors": [
+            "Justin Whitehouse",
+            "Zhiwei Steven Wu",
+            "Aaditya Ramdas"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/whitehouse25b/whitehouse25b.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Mixing Time of the Proximal Sampler in Relative Fisher Information via Strong Data Processing Inequality (Extended Abstract)",
+        "authors": [
+            "Andre Wibisono"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/wibisono25a/wibisono25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Taking a Big Step: Large Learning Rates in Denoising Score Matching Prevent Memorization",
+        "authors": [
+            "Yu-Han Wu",
+            "Pierre Marion",
+            "Gérard Biau",
+            "Claire Boyer"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/wu25a/wu25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Fundamental Limits of Matrix Sensing: Exact Asymptotics, Universality, and Applications",
+        "authors": [
+            "Yizhou Xu",
+            "Antoine Maillard",
+            "Lenka Zdeborová",
+            "Florent Krzakala"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/xu25a/xu25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Generalization error bound for denoising score matching under relaxed manifold assumption",
+        "authors": [
+            "Konstantin Yakovlev",
+            "Nikita Puchkin"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/yakovlev25a/yakovlev25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Improved Algorithms for Effective Resistance Computation on Graphs",
+        "authors": [
+            "Yang Yichun",
+            "Li Rong-Hua",
+            "Liao Meihao",
+            "Wang Guoren"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/yichun25a/yichun25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Robustly Learning Monotone Generalized Linear Models via Data Augmentation",
+        "authors": [
+            "Nikos Zarifis",
+            "Puqian Wang",
+            "Ilias Diakonikolas",
+            "Jelena Diakonikolas"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/zarifis25a/zarifis25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Anytime Acceleration of Gradient Descent",
+        "authors": [
+            "Zihan Zhang",
+            "Jason Lee",
+            "Simon Du",
+            "Yuxin Chen"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/zhang25a/zhang25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Fast and Multiphase Rates for Nearest Neighbor Classifiers",
+        "authors": [
+            "Pengkun Yang",
+            "Jingzhao Zhang"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/yang25a/yang25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Linear Bandits on Ellipsoids: Minimax Optimal Algorithms",
+        "authors": [
+            "Raymond Zhang",
+            "Hadiji Hédi",
+            "Combes Richard"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/zhang25b/zhang25b.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Towards Fundamental Limits for Active Multi-distribution Learning",
+        "authors": [
+            "Chicheng Zhang",
+            "Yihan Zhou"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/zhang25c/zhang25c.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "The Adaptive Complexity of Finding a Stationary Point",
+        "authors": [
+            "Zhou Huanjian",
+            "Han Andi",
+            "Takeda Akiko",
+            "Sugiyama Masashi"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/huanjian25a/huanjian25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Quantifying Overfitting along the Regularization Path for Two-Part-Code MDL in Supervised Classification",
+        "authors": [
+            "Xiaohan Zhu",
+            "Nathan Srebro"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/zhu25a/zhu25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Span-Agnostic Optimal Sample Complexity and Oracle Inequalities for Average-Reward RL",
+        "authors": [
+            "Matthew Zurek",
+            "Yudong Chen"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/zurek25a/zurek25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Open Problem: Fixed-Parameter Tractability of Zonotope Problems",
+        "authors": [
+            "Vincent Froese",
+            "Moritz Grillo",
+            "Christoph Hertrich",
+            "Martin Skutella"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/froese25b/froese25b.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Open Problem: Structure-Agnostic Minimax Risk for Partial Linear Model",
+        "authors": [
+            "Yihong Gu"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/gu25b/gu25b.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Open Problem: Data Selection for Regression Tasks",
+        "authors": [
+            "Steve Hanneke",
+            "Shay Moran",
+            "Alexander Shlimovich",
+            "Amir Yehudayoff"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/hanneke25e/hanneke25e.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Open Problem: Optimal Instance-Dependent Sample Complexity for finding Nash Equilibrium in Two Player Zero-Sum Matrix games",
+        "authors": [
+            "Arnab Maiti"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/maiti25b/maiti25b.pdf",
+        "source": "COLT",
+        "year": 2025
+    },
+    {
+        "title": "Open Problem: Regret Minimization in Heavy-Tailed Bandits with Unknown Distributional Parameters",
+        "authors": [
+            "Gianmarco Genalti",
+            "Alberto Maria Metelli"
+        ],
+        "pdf_link": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/genalti25a/genalti25a.pdf",
+        "source": "COLT",
+        "year": 2025
+    }
+]
